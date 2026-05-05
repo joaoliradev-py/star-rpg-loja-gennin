@@ -1,0 +1,260 @@
+<!-- ===== ESTILOS DO MENU MOBILE (CSS puro, independente do Tailwind) ===== -->
+<style>
+    /* Menu mobile: escondido por padrão, desliza da esquerda */
+    #mobile-menu {
+        position: fixed;
+        top: 64px; /* altura da navbar */
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 40;
+        overflow-y: auto;
+        transform: translateX(-100%);
+        transition: transform 0.3s ease-in-out;
+    }
+    #mobile-menu.menu-aberto {
+        transform: translateX(0);
+    }
+
+    /* Overlay escuro */
+    #mobile-overlay {
+        display: none;
+        position: fixed;
+        inset: 0;
+        z-index: 30;
+        background: rgba(0, 0, 0, 0.5);
+    }
+    #mobile-overlay.menu-aberto {
+        display: block;
+    }
+
+    /* Ícones do hamburguer */
+    #icon-close { display: none; }
+    .menu-aberto-icon #icon-open  { display: none; }
+    .menu-aberto-icon #icon-close { display: block; }
+
+    /* Desktop: esconde o botão hamburguer */
+    @media (min-width: 1024px) {
+        #hamburger-wrapper { display: none; }
+        #mobile-menu, #mobile-overlay { display: none !important; }
+        #desktop-menu { display: flex; }
+    }
+    /* Mobile: esconde o menu horizontal */
+    @media (max-width: 1023px) {
+        #desktop-menu { display: none; }
+        #hamburger-wrapper { display: block; }
+    }
+</style>
+
+<!-- ===== NAVBAR ===== -->
+<nav class="navbar bg-base-300 shadow-sm fixed top-0 left-0 right-0 z-50">
+
+    <!-- Logo -->
+    <div class="flex-1">
+        <a href="/index.html" class="px-3 text-lg font-bold flex items-center gap-2">
+            🍥 Naruto RPG - STAR 🍜
+        </a>
+    </div>
+
+    <!-- Menu Desktop -->
+    <div id="desktop-menu" class="flex-none">
+        <ul class="menu menu-horizontal px-1">
+            <li><a href="/index.html">Início</a></li>
+            <li>
+                <details>
+                    <summary>Utilitários</summary>
+                    <ul class="bg-base-100 rounded-t-none p-2 w-64">
+                        <li><a>Zetsus e Clones</a></li>
+                        <li><a>Teletransporte e Marcas pelos caminhos</a></li>
+                        <li><a>Ocultação de Técnicas</a></li>
+                    </ul>
+                </details>
+            </li>
+            <li><a>Introdução ao RPG</a></li>
+            <li>
+                <details>
+                    <summary>Habilidades Gerais</summary>
+                    <ul class="bg-base-100 rounded-t-none p-2 w-48">
+                        <li><a href="/pages/teste.html">Taijutsu</a></li>
+                        <li><a>Elementais/Gerais</a></li>
+                        <li><a>Dojutsu Gennin</a></li>
+                        <li><a>Dojutsu Chunnin</a></li>
+                        <li><a>Monte Myoboku</a></li>
+                        <li><a>Clones</a></li>
+                        <li><a>Invocações</a></li>
+                    </ul>
+                </details>
+            </li>
+            <li>
+                <details>
+                    <summary>Chakra</summary>
+                    <ul class="bg-base-100 rounded-t-none p-2 w-48">
+                        <li><a>Manipulação de Chakra</a></li>
+                        <li><a>Aprendizado de Jutsu</a></li>
+                    </ul>
+                </details>
+            </li>
+            <li>
+                <details>
+                    <summary>Economia</summary>
+                    <ul class="bg-base-100 rounded-t-none p-2 w-40">
+                        <li><a>Ryos</a></li>
+                        <li><a>Estabelecimentos</a></li>
+                    </ul>
+                </details>
+            </li>
+            <li>
+                <details>
+                    <summary>Sistemas</summary>
+                    <ul class="bg-base-100 rounded-t-none p-2 w-56">
+                        <li><a>Seis Caminhos de Pain</a></li>
+                        <li><a>On/Off</a></li>
+                        <li><a>Execução</a></li>
+                        <li><a>Criação de Personagem</a></li>
+                        <li><a>Roubo de Sangue</a></li>
+                        <li><a>Roubo de Dojutsu</a></li>
+                        <li><a>UPs (Cards e Ranks)</a></li>
+                        <li><a>Missões</a></li>
+                        <li><a>Espadas da Névoa</a></li>
+                    </ul>
+                </details>
+            </li>
+            <li>
+                <details>
+                    <summary>Títulos</summary>
+                    <ul class="bg-base-100 rounded-t-none p-2 w-48">
+                        <li><a>Sannin Lendários</a></li>
+                        <li><a>Escorpião Vermelho</a></li>
+                        <li><a>Espadachins da Névoa</a></li>
+                        <li><a class="text-red-400">Nukkenins</a></li>
+                    </ul>
+                </details>
+            </li>
+            <li><a>Personagens</a></li>
+        </ul>
+    </div>
+
+    <!-- Botão Hamburguer (mobile) -->
+    <div id="hamburger-wrapper">
+        <button id="hamburger-btn" class="btn btn-ghost btn-square" aria-label="Abrir menu">
+            <svg id="icon-open" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+            <svg id="icon-close" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+            </svg>
+        </button>
+    </div>
+</nav>
+
+<!-- ===== DRAWER MOBILE ===== -->
+<div id="mobile-menu" class="bg-base-300">
+    <ul class="menu w-full p-4 text-base">
+        <li><a href="/index.html">Início</a></li>
+        <li>
+            <details>
+                <summary>Utilitários</summary>
+                <ul>
+                    <li><a>Zetsus e Clones</a></li>
+                    <li><a>Teletransporte e Marcas pelos caminhos</a></li>
+                    <li><a>Ocultação de Técnicas</a></li>
+                </ul>
+            </details>
+        </li>
+        <li><a>Introdução ao RPG</a></li>
+        <li>
+            <details>
+                <summary>Habilidades Gerais</summary>
+                <ul>
+                    <li><a href="/pages/teste.html">Taijutsu</a></li>
+                    <li><a>Elementais/Gerais</a></li>
+                    <li><a>Dojutsu Gennin</a></li>
+                    <li><a>Dojutsu Chunnin</a></li>
+                    <li><a>Monte Myoboku</a></li>
+                    <li><a>Clones</a></li>
+                    <li><a>Invocações</a></li>
+                </ul>
+            </details>
+        </li>
+        <li>
+            <details>
+                <summary>Estudo do Chakra</summary>
+                <ul>
+                    <li><a>Manipulação de Chakra</a></li>
+                    <li><a>Aprendizado de Jutsu</a></li>
+                </ul>
+            </details>
+        </li>
+        <li>
+            <details>
+                <summary>Economia</summary>
+                <ul>
+                    <li><a>Ryos</a></li>
+                    <li><a>Estabelecimentos</a></li>
+                </ul>
+            </details>
+        </li>
+        <li>
+            <details>
+                <summary>Sistemas</summary>
+                <ul>
+                    <li><a>Seis Caminhos de Pain</a></li>
+                    <li><a>On/Off</a></li>
+                    <li><a>Execução</a></li>
+                    <li><a>Criação de Personagem</a></li>
+                    <li><a>Roubo de Sangue</a></li>
+                    <li><a>Roubo de Dojutsu</a></li>
+                    <li><a>UPs (Cards e Ranks)</a></li>
+                    <li><a>Missões</a></li>
+                    <li><a>Espadas da Névoa (Enciclopédia)</a></li>
+                </ul>
+            </details>
+        </li>
+        <li>
+            <details>
+                <summary>Títulos</summary>
+                <ul>
+                    <li><a>Sannin Lendários</a></li>
+                    <li><a>Escorpião Vermelho</a></li>
+                    <li><a>Espadachins da Névoa</a></li>
+                    <li><a class="text-red-400">Nukkenins</a></li>
+                </ul>
+            </details>
+        </li>
+        <li><a>Personagens</a></li>
+    </ul>
+</div>
+
+<!-- Overlay -->
+<div id="mobile-overlay"></div>
+
+<script>
+    (function () {
+        var btn     = document.getElementById('hamburger-btn');
+        var menu    = document.getElementById('mobile-menu');
+        var overlay = document.getElementById('mobile-overlay');
+        var btnWrap = document.getElementById('hamburger-wrapper');
+
+        function abrir() {
+            menu.classList.add('menu-aberto');
+            overlay.classList.add('menu-aberto');
+            btnWrap.classList.add('menu-aberto-icon');
+        }
+
+        function fechar() {
+            menu.classList.remove('menu-aberto');
+            overlay.classList.remove('menu-aberto');
+            btnWrap.classList.remove('menu-aberto-icon');
+        }
+
+        btn.addEventListener('click', function () {
+            menu.classList.contains('menu-aberto') ? fechar() : abrir();
+        });
+
+        overlay.addEventListener('click', fechar);
+
+        window.addEventListener('resize', function () {
+            if (window.innerWidth >= 1024) fechar();
+        });
+    })();
+</script>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ocultação de Técnicas - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="/assets/navbar.js"></script>
+    <!-- fim NavBar -->
+
+    <main class="p-8 bg-[url(/assets/images/dojo.webp)] bg-cover bg-fixed min-h-screen bg-center">
+        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg">
+
+            <!-- Título principal -->
+            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Ocultação de Técnicas</h1>
+
+            <!-- Subtítulo -->
+            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">📜 Hidden Action System</h2>
+
+            <div class="divider"></div>
+
+            <!-- Conceito -->
+            <h2 class="text-lg font-bold text-blue-400 mb-3">🧠 Conceito</h2>
+            <p class="text-base-content/80 mb-6 leading-relaxed">
+                Permite que o jogador execute uma ação secreta durante o turno, ocultando completamente
+                sua intenção dos outros jogadores, revelando-a apenas no momento oportuno para criar
+                <strong>ataques surpresa</strong>, <strong>armadilhas</strong> ou <strong>estratégias avançadas</strong>.
+            </p>
+
+            <div class="divider"></div>
+
+            <!-- Como Funciona -->
+            <h2 class="text-lg font-bold text-blue-400 mb-4">⚙️ Como Funciona</h2>
+
+            <h3 class="font-semibold text-base-content mb-2">1. Declaração Oculta</h3>
+            <p class="text-base-content/80 mb-2 leading-relaxed">
+                O jogador escreve normalmente sua ação escondida (movimento, preparação, ataque, armadilha, etc).
+                Essa ação deve ser <strong>completa e detalhada</strong>, incluindo:
+            </p>
+            <ul class="list-disc list-inside text-base-content/80 mb-6 space-y-1 pl-2">
+                <li>Tempo de execução</li>
+                <li>Alvo (se houver)</li>
+                <li>Condição de ativação (se não for imediata)</li>
+            </ul>
+
+            <h3 class="font-semibold text-base-content mb-2">2. Envio ao Juiz</h3>
+            <p class="text-base-content/80 mb-6 leading-relaxed">
+                A ação é enviada via <strong>visualização única</strong> durante o combo + a cena no PV do Juiz.
+                Após envio, <strong>não pode ser alterada</strong>.
+            </p>
+
+            <h3 class="font-semibold text-base-content mb-2">3. Registro de Tempo</h3>
+            <p class="text-base-content/80 mb-6 leading-relaxed">
+                O horário de envio define o turno da ação (se ela ocorre antes ou depois de outra ação).
+                Qualquer ação enviada depois do turno <strong>não é válida</strong>.
+            </p>
+
+            <div class="divider"></div>
+
+            <!-- Tipos de Ocultação -->
+            <h2 class="text-lg font-bold text-blue-400 mb-4">🎭 Tipos de Ocultação</h2>
+
+            <h3 class="font-semibold text-base-content mb-1">Ocultação Imediata</h3>
+            <p class="text-base-content/80 mb-1 leading-relaxed">A ação acontece no mesmo turno, mas sem que os outros saibam.</p>
+            <p class="text-base-content/50 italic mb-5 text-sm">Ex: desaparecer na fumaça e atacar pelas costas.</p>
+
+            <h3 class="font-semibold text-base-content mb-1">Ocultação Preparatória</h3>
+            <p class="text-base-content/80 mb-1 leading-relaxed">A ação fica "guardada" até ser ativada.</p>
+            <p class="text-base-content/50 italic mb-5 text-sm">Ex: preparar uma armadilha invisível no campo.</p>
+
+            <h3 class="font-semibold text-base-content mb-1">Ocultação Condicional</h3>
+            <p class="text-base-content/80 mb-1 leading-relaxed">Só ativa quando algo acontece.</p>
+            <p class="text-base-content/50 italic mb-6 text-sm">Ex: "Se ele avançar 5 metros, eu ataco".</p>
+
+            <div class="divider"></div>
+
+            <!-- Revelação -->
+            <h2 class="text-lg font-bold text-blue-400 mb-3">👁️ Revelação</h2>
+            <p class="text-base-content/80 mb-2">A ação oculta será revelada quando:</p>
+            <ul class="list-disc list-inside text-base-content/80 mb-3 space-y-1 pl-2">
+                <li>O jogador decidir ativar</li>
+                <li>A condição for cumprida</li>
+                <li>O juiz determinar que houve interação direta</li>
+            </ul>
+            <p class="text-base-content/80 mb-6 leading-relaxed">
+                O juiz então descreve a ação como se estivesse acontecendo naquele momento.
+            </p>
+
+            <div class="divider"></div>
+
+            <!-- Regras de Equilíbrio -->
+            <h2 class="text-lg font-bold text-blue-400 mb-4">⚖️ Regras de Equilíbrio</h2>
+
+            <ul class="space-y-2 mb-6">
+                <li class="flex gap-2 text-base-content/80"><span class="text-error">❌</span> Não pode alterar ação depois de enviada</li>
+                <li class="flex gap-2 text-base-content/80"><span class="text-error">❌</span> Não pode reagir a algo que aconteceu depois do envio</li>
+                <li class="flex gap-2 text-base-content/80"><span class="text-error">❌</span> Não pode usar conhecimento fora do personagem</li>
+                <li class="flex gap-2 text-base-content/80"><span class="text-error">❌</span> Não pode ocultar jutsus globais, exceto pela sua preparação</li>
+                <li class="flex gap-2 text-base-content/80"><span class="text-success">✔️</span> Habilidades e Jutsus de larga escala não podem ser ocultados, a não ser que estejam em névoa ou semelhantes</li>
+                <li class="flex gap-2 text-base-content/80"><span class="text-success">✔️</span> A ação deve ser possível dentro do tempo declarado</li>
+                <li class="flex gap-2 text-base-content/80"><span class="text-success">✔️</span> O juiz pode invalidar ações incoerentes</li>
+                <li class="flex gap-2 text-base-content/80"><span class="text-success">✔️</span> Doujutsu que tem "Impede ocultação" anulam a chance de ocultação (Só não dá pra usar esse sistema contra eles)</li>
+            </ul>
+
+            <div class="divider"></div>
+
+            <!-- Contra-Jogo -->
+            <h2 class="text-lg font-bold text-blue-400 mb-3">🛡️ Contra-Jogo <span class="text-sm font-normal text-base-content/50">(Muito importante)</span></h2>
+
+            <p class="font-semibold text-base-content mb-2">Pra não ficar roubado:</p>
+            <p class="text-base-content/80 mb-4 leading-relaxed">
+                Sensores, percepção ou habilidades especiais podem detectar algo estranho. No entanto,
+                habilidades que requerem um tipo de detecção para serem evitadas só podem ser detectadas
+                se o jogador tiver essa habilidade, assim como no padrão.
+            </p>
+
+            <p class="font-semibold text-base-content mb-2">Jogadores podem declarar:</p>
+            <ul class="list-disc list-inside text-base-content/80 mb-4 space-y-1 pl-2">
+                <li>"Estou atento ao ambiente"</li>
+                <li>"Procuro intenções hostis"</li>
+            </ul>
+
+            <p class="font-semibold text-base-content mb-2">Isso pode gerar:</p>
+            <p class="text-base-content/80 leading-relaxed">
+                Detecção parcial, redução da eficácia, reação defensiva — assim o alvo pode realizar
+                uma ação como <strong>contra medida</strong> da ação ocultada.
+            </p>
+
+        </div>
+    </main>
+</body>
+</html>
