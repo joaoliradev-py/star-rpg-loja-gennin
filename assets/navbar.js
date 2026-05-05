@@ -38,7 +38,7 @@
     root.innerHTML = `
         <nav class="navbar bg-base-300 shadow-sm fixed top-0 left-0 right-0 z-50">
             <div class="flex-1">
-                <a href="/index.html" class="px-3 text-lg font-bold flex items-center gap-2">
+                <a href="index.html" class="px-3 text-lg font-bold flex items-center gap-2">
                     🍥 Naruto RPG - STAR 🍜
                 </a>
             </div>
@@ -46,33 +46,33 @@
             <!-- Menu Desktop -->
             <div id="desktop-menu" class="flex-none">
                 <ul class="menu menu-horizontal px-1">
-                    <li><a href="/index.html">Início</a></li>
+                    <li><a href="index.html">Início</a></li>
                     <li>
                         <details>
                             <summary>Utilitários</summary>
                             <ul class="bg-base-100 rounded-t-none p-2 w-64 shadow-lg">
-                                <li><a href="/pages/utilitarios/zetsu_clones.html">Zetsus e Clones</a></li>
-                                <li><a href="/pages/utilitarios/teletransporte_marcas.html">Teletransporte e Marcas</a></li>
-                                <li><a href="/pages/utilitarios/ocultacoes.html">Ocultação de Técnicas</a></li>
+                                <li><a href="pages/utilitarios/zetsu_clones.html">Zetsus e Clones</a></li>
+                                <li><a href="pages/utilitarios/teletransporte_marcas.html">Teletransporte e Marcas</a></li>
+                                <li><a href="pages/utilitarios/ocultacoes.html">Ocultação de Técnicas</a></li>
                             </ul>
                         </details>
                     </li>
-                    <li><a href="/pages/introducao.html">Introdução ao RPG</a></li>
+                    <li><a href="pages/introducao.html">Introdução ao RPG</a></li>
                     <li>
                         <details>
                             <summary>Habilidades Gerais</summary>
                             <ul class="bg-base-100 rounded-t-none p-2 w-48 shadow-lg">
-                                <li><a href="/pages/habilidades_gerais/taijutsus.html">Taijutsu</a></li>
-                                <li><a href="/pages/habilidades_gerais/elementais_gerais.html">Elementais/Gerais</a></li>
-                                <li><a href="/pages/habilidades_gerais/dojutsus_gennin.html">Dojutsu Gennin</a></li>
-                                <li><a href="/pages/habilidades_gerais/dojutsus_chunnin.html">Dojutsu Chunnin</a></li>
-                                <li><a href="/pages/habilidades_gerais/monte_myobuko.html">Monte Myoboku</a></li>
-                                <li><a href="/pages/habilidades_gerais/clones.html">Clones</a></li>
-                                <li><a href="/pages/habilidades_gerais/invocações.html">Invocações</a></li>
+                                <li><a href="pages/habilidades_gerais/taijutsus.html">Taijutsu</a></li>
+                                <li><a href="pages/habilidades_gerais/elementais_gerais.html">Elementais/Gerais</a></li>
+                                <li><a href="pages/habilidades_gerais/dojutsus_gennin.html">Dojutsu Gennin</a></li>
+                                <li><a href="pages/habilidades_gerais/dojutsus_chunnin.html">Dojutsu Chunnin</a></li>
+                                <li><a href="pages/habilidades_gerais/monte_myobuko.html">Monte Myoboku</a></li>
+                                <li><a href="pages/habilidades_gerais/clones.html">Clones</a></li>
+                                <li><a href="pages/habilidades_gerais/invocações.html">Invocações</a></li>
                             </ul>
                         </details>
                     </li>
-                    <li><a href="/pages/lista_personagens.html">Personagens</a></li>
+                    <li><a href="pages/lista_personagens.html">Personagens</a></li>
                 </ul>
             </div>
 
@@ -88,9 +88,9 @@
         <!-- DRAWER MOBILE -->
         <div id="mobile-menu" class="bg-base-300">
             <ul class="menu w-full p-4 text-base">
-                <li><a href="/index.html">Início</a></li>
-                <li><a href="/pages/introducao.html">Introdução ao RPG</a></li>
-                <li><a href="/pages/lista_personagens.html">Personagens</a></li>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="pages/introducao.html">Introdução ao RPG</a></li>
+                <li><a href="pages/lista_personagens.html">Personagens</a></li>
             </ul>
         </div>
         <div id="mobile-overlay"></div>
