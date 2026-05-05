@@ -5,7 +5,7 @@
 (function() {
     // Detecta se estamos no GitHub Pages e define o prefixo do repositório
     const isGH = window.location.hostname.includes('github.io');
-    const repoPrefix = isGH ? '/start-rpg-loja-gennin' : '';
+    const repoPrefix = isGH ? '/star-rpg-loja-gennin' : '';
 
     // Função auxiliar para ajustar os links dinamicamente
     const fixLink = (path) => repoPrefix + path;
