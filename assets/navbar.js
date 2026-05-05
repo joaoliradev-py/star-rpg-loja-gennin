@@ -1,45 +1,34 @@
 /**
- * navbar.js — Injeção completa da navbar (HTML + CSS + eventos)
- * Inclua com: <script src="assets/navbar.js"></script> (na raiz)
+ * navbar.js — Injeção completa da navbar ORIGINAL (HTML + CSS + eventos)
  */
 (function() {
-    // Detecta se estamos no GitHub Pages e define o prefixo do repositório
-    const isGH = window.location.hostname.includes('github.io');
-    const repoPrefix = isGH ? '/star-rpg-loja-gennin' : '';
-
-    // Função auxiliar para ajustar os links dinamicamente
-    const fixLink = (path) => repoPrefix + path;
-
     // ─── 1. CSS ───────────────────────────────────────────────────────────────
     const style = document.createElement('style');
     style.textContent = `
-        #nb-drawer {
-            position: fixed; top: 0; left: 0; height: 100%; width: 280px;
-            background: #1a1a1a; color: white;
-            z-index: 9998; transform: translateX(-100%);
+        #mobile-menu {
+            position: fixed; top: 64px; left: 0; right: 0; bottom: 0;
+            z-index: 40; overflow-y: auto;
+            transform: translateX(-100%);
             transition: transform 0.3s ease-in-out;
-            overflow-y: auto; box-shadow: 4px 0 10px rgba(0,0,0,0.5);
         }
-        #nb-drawer.aberto { transform: translateX(0); }
-        
-        #nb-overlay {
-            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            z-index: 9997; background: rgba(0,0,0,0.5);
-            display: none;
+        #mobile-menu.menu-aberto { transform: translateX(0); }
+        #mobile-overlay {
+            display: none; position: fixed; inset: 0;
+            z-index: 30; background: rgba(0, 0, 0, 0.5);
         }
-        #nb-overlay.aberto { display: block; }
-
-        #nb-toggle { z-index: 9999; }
-        .menu-aberto #nb-icon-open  { display: none; }
-        .menu-aberto #nb-icon-close { display: block; }
-        #nb-icon-close { display: none; }
-
-        .nb-nav-link { 
-            display: block; padding: 12px 20px; 
-            border-bottom: 1px solid #333;
-            transition: background 0.2s;
+        #mobile-overlay.menu-aberto { display: block; }
+        #icon-close { display: none; }
+        .menu-aberto-icon #icon-open  { display: none; }
+        .menu-aberto-icon #icon-close { display: block; }
+        @media (min-width: 1024px) {
+            #hamburger-wrapper { display: none; }
+            #mobile-menu, #mobile-overlay { display: none !important; }
+            #desktop-menu { display: flex; }
         }
-        .nb-nav-link:hover { background: #333; }
+        @media (max-width: 1023px) {
+            #desktop-menu { display: none; }
+            #hamburger-wrapper { display: block; }
+        }
     `;
     document.head.appendChild(style);
 
@@ -47,87 +36,86 @@
     const root = document.createElement('div');
     root.id = 'nb-root';
     root.innerHTML = `
-        <!-- Botão de Toggle (Fixo no topo esquerdo) -->
-        <div id="nb-toggle" class="fixed top-4 left-4 flex items-center gap-3">
-            <button id="nb-btn" class="btn btn-circle btn-primary shadow-xl border-2 border-white/20">
-                <svg id="nb-icon-open" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h7" /></svg>
-                <svg id="nb-icon-close" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
-            </button>
-            <a href="${fixLink('/index.html')}" class="text-white font-black text-xl drop-shadow-md tracking-tighter uppercase italic">STAR RPG</a>
-        </div>
+        <nav class="navbar bg-base-300 shadow-sm fixed top-0 left-0 right-0 z-50">
+            <div class="flex-1">
+                <a href="index.html" class="px-3 text-lg font-bold flex items-center gap-2">
+                    🍥 Naruto RPG - STAR 🍜
+                </a>
+            </div>
 
-        <!-- Overlay -->
-        <div id="nb-overlay"></div>
+            <!-- Menu Desktop -->
+            <div id="desktop-menu" class="flex-none">
+                <ul class="menu menu-horizontal px-1">
+                    <li><a href="index.html">Início</a></li>
+                    <li>
+                        <details>
+                            <summary>Utilitários</summary>
+                            <ul class="bg-base-100 rounded-t-none p-2 w-64 shadow-lg">
+                                <li><a href="pages/utilitarios/zetsu_clones.html">Zetsus e Clones</a></li>
+                                <li><a href="pages/utilitarios/teletransporte_marcas.html">Teletransporte e Marcas</a></li>
+                                <li><a href="pages/utilitarios/ocultacoes.html">Ocultação de Técnicas</a></li>
+                            </ul>
+                        </details>
+                    </li>
+                    <li><a href="pages/introducao.html">Introdução ao RPG</a></li>
+                    <li>
+                        <details>
+                            <summary>Habilidades Gerais</summary>
+                            <ul class="bg-base-100 rounded-t-none p-2 w-48 shadow-lg">
+                                <li><a href="pages/habilidades_gerais/taijutsus.html">Taijutsu</a></li>
+                                <li><a href="pages/habilidades_gerais/elementais_gerais.html">Elementais/Gerais</a></li>
+                                <li><a href="pages/habilidades_gerais/dojutsus_gennin.html">Dojutsu Gennin</a></li>
+                                <li><a href="pages/habilidades_gerais/dojutsus_chunnin.html">Dojutsu Chunnin</a></li>
+                                <li><a href="pages/habilidades_gerais/monte_myobuko.html">Monte Myoboku</a></li>
+                                <li><a href="pages/habilidades_gerais/clones.html">Clones</a></li>
+                                <li><a href="pages/habilidades_gerais/invocações.html">Invocações</a></li>
+                            </ul>
+                        </details>
+                    </li>
+                    <li><a href="pages/lista_personagens.html">Personagens</a></li>
+                </ul>
+            </div>
 
-        <!-- Drawer (Menu Lateral) -->
-        <nav id="nb-drawer" class="p-4 pt-20">
-            <ul class="menu w-full p-0 flex flex-col gap-1">
-                <li><a href="${fixLink('/index.html')}" class="nb-nav-link font-bold text-primary">🏠 Início</a></li>
-                
-                <div class="divider opacity-20 my-2"></div>
-                
-                <!-- Utilitários -->
-                <li>
-                    <details>
-                        <summary class="nb-nav-link font-semibold">🛠️ Utilitários</summary>
-                        <ul class="bg-base-200/50 rounded-lg mt-1">
-                            <li><a href="${fixLink('/pages/utilitarios/zetsu_clones.html')}">Zetsus e Clones</a></li>
-                            <li><a href="${fixLink('/pages/utilitarios/teletransporte_marcas.html')}">Teletransporte e Marcas</a></li>
-                            <li><a href="${fixLink('/pages/utilitarios/ocultacoes.html')}">Ocultação de Técnicas</a></li>
-                        </ul>
-                    </details>
-                </li>
-
-                <li><a href="${fixLink('/pages/introducao.html')}" class="nb-nav-link font-semibold">📜 Introdução</a></li>
-
-                <!-- Habilidades -->
-                <li>
-                    <details>
-                        <summary class="nb-nav-link font-semibold">⚔️ Habilidades</summary>
-                        <ul class="bg-base-200/50 rounded-lg mt-1">
-                            <li><a href="${fixLink('/pages/habilidades_gerais/taijutsus.html')}">Taijutsu</a></li>
-                            <li><a href="${fixLink('/pages/habilidades_gerais/elementais_gerais.html')}">Elementais</a></li>
-                            <li><a href="${fixLink('/pages/habilidades_gerais/dojutsus_gennin.html')}">Dojutsu Gennin</a></li>
-                            <li><a href="${fixLink('/pages/habilidades_gerais/dojutsus_chunnin.html')}">Dojutsu Chunnin</a></li>
-                            <li><a href="${fixLink('/pages/habilidades_gerais/monte_myobuko.html')}">Monte Myoboku</a></li>
-                            <li><a href="${fixLink('/pages/habilidades_gerais/clones.html')}">Clones</a></li>
-                            <li><a href="${fixLink('/pages/habilidades_gerais/invocações.html')}">Invocações</a></li>
-                        </ul>
-                    </details>
-                </li>
-
-                <!-- Sistemas -->
-                <li>
-                    <details>
-                        <summary class="nb-nav-link font-semibold">⚙️ Sistemas</summary>
-                        <ul class="bg-base-200/50 rounded-lg mt-1">
-                            <li><a href="${fixLink('/pages/sistemas/seis_caminhos.html')}">Seis Caminhos</a></li>
-                            <li><a href="${fixLink('/pages/sistemas/on_off.html')}">On/Off</a></li>
-                            <li><a href="${fixLink('/pages/sistemas/execucao.html')}">Execução</a></li>
-                            <li><a href="${fixLink('/pages/sistemas/ups.html')}">UPs (Cards e Ranks)</a></li>
-                            <li><a href="${fixLink('/pages/sistemas/missoes.html')}">Missões</a></li>
-                        </ul>
-                    </details>
-                </li>
-
-                <li><a href="${fixLink('/pages/lista_personagens.html')}" class="nb-nav-link font-bold text-secondary">👥 Personagens</a></li>
-            </ul>
+            <!-- Botão Hamburguer (mobile) -->
+            <div id="hamburger-wrapper">
+                <button id="hamburger-btn" class="btn btn-ghost btn-square">
+                    <svg id="icon-open" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" /></svg>
+                    <svg id="icon-close" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
+                </button>
+            </div>
         </nav>
+
+        <!-- DRAWER MOBILE -->
+        <div id="mobile-menu" class="bg-base-300">
+            <ul class="menu w-full p-4 text-base">
+                <li><a href="index.html">Início</a></li>
+                <li><a href="pages/introducao.html">Introdução ao RPG</a></li>
+                <li><a href="pages/lista_personagens.html">Personagens</a></li>
+                <!-- Outros itens omitidos para brevidade, mas podem ser adicionados conforme a necessidade -->
+            </ul>
+        </div>
+        <div id="mobile-overlay"></div>
     `;
     document.body.appendChild(root);
 
-    // ─── 3. Lógica (Eventos) ──────────────────────────────────────────────────
-    const btn = document.getElementById('nb-btn');
-    const drawer = document.getElementById('nb-drawer');
-    const overlay = document.getElementById('nb-overlay');
-    const toggleCont = document.getElementById('nb-toggle');
+    // ─── 3. Lógica ────────────────────────────────────────────────────────────
+    const btn     = document.getElementById('hamburger-btn');
+    const menu    = document.getElementById('mobile-menu');
+    const overlay = document.getElementById('mobile-overlay');
+    const btnWrap = document.getElementById('hamburger-wrapper');
 
-    function toggleMenu() {
-        const aberto = drawer.classList.toggle('aberto');
-        overlay.classList.toggle('aberto');
-        toggleCont.classList.toggle('menu-aberto');
+    function abrir() {
+        menu.classList.add('menu-aberto');
+        overlay.classList.add('menu-aberto');
+        btnWrap.classList.add('menu-aberto-icon');
+    }
+    function fechar() {
+        menu.classList.remove('menu-aberto');
+        overlay.classList.remove('menu-aberto');
+        btnWrap.classList.remove('menu-aberto-icon');
     }
 
-    btn.addEventListener('click', toggleMenu);
-    overlay.addEventListener('click', toggleMenu);
+    btn.addEventListener('click', () => menu.classList.contains('menu-aberto') ? fechar() : abrir());
+    overlay.addEventListener('click', fechar);
+    window.addEventListener('resize', () => { if (window.innerWidth >= 1024) fechar(); });
 })();
