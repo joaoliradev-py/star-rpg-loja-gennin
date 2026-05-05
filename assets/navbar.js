@@ -89,7 +89,31 @@
         <div id="mobile-menu" class="bg-base-300">
             <ul class="menu w-full p-4 text-base">
                 <li><a href="index.html">Início</a></li>
+                <li>
+                    <details>
+                        <summary>Utilitários</summary>
+                        <ul>
+                            <li><a href="pages/utilitarios/zetsu_clones.html">Zetsus e Clones</a></li>
+                            <li><a href="pages/utilitarios/teletransporte_marcas.html">Teletransporte e Marcas</a></li>
+                            <li><a href="pages/utilitarios/ocultacoes.html">Ocultação de Técnicas</a></li>
+                        </ul>
+                    </details>
+                </li>
                 <li><a href="pages/introducao.html">Introdução ao RPG</a></li>
+                <li>
+                    <details>
+                        <summary>Habilidades Gerais</summary>
+                        <ul>
+                            <li><a href="pages/habilidades_gerais/taijutsus.html">Taijutsu</a></li>
+                            <li><a href="pages/habilidades_gerais/elementais_gerais.html">Elementais/Gerais</a></li>
+                            <li><a href="pages/habilidades_gerais/dojutsus_gennin.html">Dojutsu Gennin</a></li>
+                            <li><a href="pages/habilidades_gerais/dojutsus_chunnin.html">Dojutsu Chunnin</a></li>
+                            <li><a href="pages/habilidades_gerais/monte_myobuko.html">Monte Myoboku</a></li>
+                            <li><a href="pages/habilidades_gerais/clones.html">Clones</a></li>
+                            <li><a href="pages/habilidades_gerais/invocações.html">Invocações</a></li>
+                        </ul>
+                    </details>
+                </li>
                 <li><a href="pages/lista_personagens.html">Personagens</a></li>
             </ul>
         </div>
