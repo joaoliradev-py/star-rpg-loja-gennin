@@ -72,6 +72,30 @@
                             </ul>
                         </details>
                     </li>
+                    <li>
+                        <details>
+                            <summary>Economia</summary>
+                            <ul class="bg-base-100 rounded-t-none p-2 w-48 shadow-lg">
+                                <li><a href="pages/economia/ryos.html">Ryos</a></li>
+                                <li><a href="pages/economia/estabelecimentos.html">Estabelecimentos</a></li>
+                            </ul>
+                        </details>
+                    </li>
+                    <li>
+                        <details>
+                            <summary>Sistemas</summary>
+                            <ul class="bg-base-100 rounded-t-none p-2 w-64 shadow-lg">
+                                <li><a href="pages/sistemas/ups.html">Sistema de Ups</a></li>
+                                <li><a href="pages/sistemas/missoes.html">Missões</a></li>
+                                <li><a href="pages/sistemas/susanoo.html">Susano'o</a></li>
+                                <li><a href="pages/sistemas/seis_caminhos.html">Seis Caminhos</a></li>
+                                <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>
+                                <li><a href="pages/sistemas/roubo_sangue.html">Roubo de Sangue</a></li>
+                                <li><a href="pages/sistemas/execucao.html">Execução</a></li>
+                                <li><a href="pages/sistemas/on_off.html">On/Off</a></li>
+                            </ul>
+                        </details>
+                    </li>
                     <li><a href="pages/lista_personagens.html">Personagens</a></li>
                 </ul>
             </div>
@@ -111,6 +135,30 @@
                             <li><a href="pages/habilidades_gerais/monte_myobuko.html">Monte Myoboku</a></li>
                             <li><a href="pages/habilidades_gerais/clones.html">Clones</a></li>
                             <li><a href="pages/habilidades_gerais/invocações.html">Invocações</a></li>
+                        </ul>
+                    </details>
+                </li>
+                <li>
+                    <details>
+                        <summary>Economia</summary>
+                        <ul>
+                            <li><a href="pages/economia/ryos.html">Ryos</a></li>
+                            <li><a href="pages/economia/estabelecimentos.html">Estabelecimentos</a></li>
+                        </ul>
+                    </details>
+                </li>
+                <li>
+                    <details>
+                        <summary>Sistemas</summary>
+                        <ul>
+                            <li><a href="pages/sistemas/ups.html">Sistema de Ups</a></li>
+                            <li><a href="pages/sistemas/missoes.html">Missões</a></li>
+                            <li><a href="pages/sistemas/susanoo.html">Susano'o</a></li>
+                            <li><a href="pages/sistemas/seis_caminhos.html">Seis Caminhos</a></li>
+                            <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>
+                            <li><a href="pages/sistemas/roubo_sangue.html">Roubo de Sangue</a></li>
+                            <li><a href="pages/sistemas/execucao.html">Execução</a></li>
+                            <li><a href="pages/sistemas/on_off.html">On/Off</a></li>
                         </ul>
                     </details>
                 </li>
