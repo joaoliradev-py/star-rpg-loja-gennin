@@ -16,46 +16,94 @@
     <!-- NavBar -->
     <script src="assets/navbar.js"></script>
     <!-- fim NavBar -->
-    <main class="p-8 bg-[url(assets/images/rocha_hokage.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
-        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
-            <!-- Título principal -->
-            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">On/Off</h1>
-            <!-- Subtítulo -->
-            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Sistemas</h2>
+    <main class="p-4 md:p-8 bg-[url(assets/images/rocha_hokage.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg">
+            
+            <h1 class="text-2xl font-bold text-center mb-2">🎭 Sistema ON & OFF</h1>
+            <p class="text-center text-base-content/60 mb-6">Sistemas de Imersão</p>
+            
             <div class="divider"></div>
-            <!-- Conteúdo aqui -->
-            <p>On e Off</p>
-            <p>💬 Sistema On e Off ❌</p>
-            <p>Para garantir uma experiência imersiva e organizada, dividimos nossas interações em dois modos: *on* e off. No off, os membros podem conversar livremente sobre assuntos pessoais e gerais. No on, os membros devem seguir regras específicas para manter a coerência do jogo.</p>
-            <hr>
-            <p>Regras no On 📄</p>
-            <p>🏷️ Assuntos Restritos ao RPG</p>
-            <p>• Falar somente sobre assuntos do RPG ou do cenário atual.</p>
-            <p>- Exemplo: Se o ninja estava na floresta na última vez que esteve no on, ele continuará na floresta quando voltar.</p>
-            <p>🏷️ Trabalhos e Atividades</p>
-            <p>• Todos os trabalhos e atividades devem ser realizados no on.</p>
-            <p>- Exemplo: Missões, treinamentos, e atividades relacionadas ao desenvolvimento do personagem.</p>
-            <p>🏷️ Cuidado com Necessidades Básicas</p>
-            <p>• Seu personagem pode morrer de fome ou sede.</p>
-            <p>- Lembre-se de cuidar das necessidades básicas do seu personagem regularmente, como casa e comida.</p>
-            <hr>
-            <p>🏷️ Expressão através de Cenas</p>
-            <p>• Falas: Utilize traços para indicar falas (- , –, —).</p>
-            <p>- Exemplo: — Vamos atacar ao amanhecer.</p>
-            <p>• Ações: Use *negrito* para descrever ações.</p>
-            <p>- Exemplo: *Ele puxou sua espada e avançou contra o inimigo.*</p>
-            <p>• Pensamentos: Use emojis como 💬, 💭 e 🗯️.</p>
-            <p>- Exemplo: 💬 Isso não parece certo...</p>
-            <hr>
-            <p>🏷️ Regras de Combate e Defesas</p>
-            <p>• Execuções:</p>
-            <p>- Só é permitido atacar se a vítima estiver no on. Caso contrário, o ataque será anulado.</p>
-            <p>Caso o executado tenha +5 minutos off, o execute será anulado</p>
-            <p>• Defesas:</p>
-            <p>- Não é permitido usar informações obtidas no off; tudo deve ser realizado no on.</p>
-            <p>• Defesas de Personagens Casados:</p>
-            <p>- Personagens casados podem defender sem restrições.</p>
+
+            <div class="space-y-6 text-base leading-relaxed">
+                <p>Para manter a imersão e a coerência do RPG, utilizamos a separação entre <strong>ON (in-game)</strong> e <strong>OFF (fora do personagem)</strong>.</p>
+
+                <section>
+                    <h3 class="text-lg font-bold text-success mb-2">🟢 ON (In-Game)</h3>
+                    <p>Tudo que acontece dentro da história. Inclui tudo que seu personagem viu, ouviu, aprendeu ou vivenciou.</p>
+                    <p class="mt-2 italic">Apenas informações adquiridas em ON podem ser utilizadas em combate, decisões ou interações. Qualquer ação deve respeitar a lógica e o conhecimento do personagem.</p>
+                </section>
+
+                <section>
+                    <h3 class="text-lg font-bold text-error mb-2">🔴 OFF (Fora do Jogo)</h3>
+                    <p>São todas as informações que você, player, sabe, mas seu personagem não. Informações OFF não podem ser usadas dentro do ON.</p>
+                    <p class="mt-2">O uso de conhecimento OFF em ações ON será considerado <strong>metagame</strong> e pode ser anulado.</p>
+                </section>
+
+                <div class="divider"></div>
+
+                <section>
+                    <h3 class="text-lg font-bold mb-3">💬 Como se comunicar no ON</h3>
+                    <p>Para padronizar as interações:</p>
+                    <ul class="list-none space-y-2 mt-2">
+                        <li><code class="text-primary font-bold">— [Fala]</code> → Diálogos do personagem</li>
+                        <li><code class="text-primary font-bold">** [Ação]</code> → Movimentos e ações realizadas</li>
+                        <li><code class="text-primary font-bold">💭 [Pensamento]</code> → Pensamentos internos</li>
+                    </ul>
+                    <p class="mt-4 text-sm opacity-70 italic">📌 Dessa forma, todas as interações ficam claras e organizadas dentro do RP.</p>
+                </section>
+
+                <div class="divider"></div>
+
+                <section>
+                    <h3 class="text-lg font-bold mb-2">⚖️ Regras de Interação</h3>
+                    <p>Toda interação entre personagens deve ter sentido dentro do ON. Você não pode criar vínculos importantes (ex: mestre, discípulo, alianças fortes) sem interação prévia em jogo.</p>
+                    
+                    <div class="mt-4 p-4 bg-warning/10 border-l-4 border-warning rounded-r-lg">
+                        <p class="font-bold">❌ Caso isso aconteça:</p>
+                        <ul class="list-disc list-inside text-sm">
+                            <li>A ação será anulada</li>
+                            <li>Ambos os envolvidos podem ser zerados (punição do sistema)</li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section>
+                    <h3 class="text-lg font-bold mb-2">🌍 Ambientes considerados ON</h3>
+                    <p>Os seguintes locais são: <strong>Vilas, Treinos e Caminhos</strong>.</p>
+                </section>
+
+                <div class="divider"></div>
+
+                <section>
+                    <h3 class="text-lg font-bold mb-2">💥 Sistema de Danos Colaterais (Realismo ON)</h3>
+                    <p>Para aumentar a imersão, o sistema considera impacto total das ações no ambiente. Qualquer ataque em larga escala afeta tudo ao redor, não apenas o alvo. Players próximos, mesmo fora da luta, podem ser atingidos.</p>
+                    
+                    <div class="mt-4 bg-base-200 p-4 rounded-lg">
+                        <p class="font-bold text-sm mb-2">📌 Exemplo:</p>
+                        <p class="text-sm italic">Se um personagem como Nagato usa o Shinra Tensei durante uma luta no meio da vila: a vila será destruída de forma semelhante ao anime, todos os players presentes podem sofrer danos, e estruturas/NPCs também serão afetados.</p>
+                    </div>
+
+                    <p class="mt-4 text-sm font-bold text-error">⚠️ Aplicação em Caminhos:</p>
+                    <p class="text-sm italic">Se dois players estão lutando e um terceiro está assistindo, ele também pode sofrer danos colaterais. Estar próximo de uma luta é um risco real.</p>
+                </section>
+
+                <div class="divider"></div>
+
+                <section>
+                    <h3 class="text-lg font-bold mb-2">🏃 Sistema de Evacuação</h3>
+                    <p>Para equilibrar o nível de perigo: Vilas devem possuir planos de evacuação ativos. Em situações de risco, é responsabilidade da vila proteger seus membros.</p>
+                    <p class="mt-4 text-sm font-bold text-error">❌ Importante:</p>
+                    <p class="text-sm italic">Não é permitido salvar players/NPCs usando outras dimensões ou métodos irreais para evitar dano.</p>
+                </section>
+
+                <section class="p-4 bg-error/20 rounded-lg">
+                    <h3 class="text-lg font-bold text-error mb-1">💀 Caso não haja evacuação:</h3>
+                    <p class="text-sm">Civis e players presentes podem morrer durante os conflitos, o que resulta em punições para os líderes da vila.</p>
+                </section>
+            </div>
             <!-- Fim conteúdo -->
+        
+        
         </div>
     </main>
 </body>
