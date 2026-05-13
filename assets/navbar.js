@@ -74,6 +74,15 @@
                     </li>
                     <li>
                         <details>
+                            <summary>Chakra</summary>
+                            <ul class="bg-base-100 rounded-t-none p-2 w-48 shadow-lg">
+                                <li><a href="pages/chakra/manipulacao_chakra.html">Manipulação de Chakra</a></li>
+                                <li><a href="pages/chakra/aprendizado_jutsu.html">Aprendizado de Jutsu</a></li>
+                            </ul>
+                        </details>
+                    </li>
+                    <li>
+                        <details>
                             <summary>Economia</summary>
                             <ul class="bg-base-100 rounded-t-none p-2 w-48 shadow-lg">
                                 <li><a href="pages/economia/ryos.html">Ryos</a></li>
@@ -135,6 +144,15 @@
                             <li><a href="pages/habilidades_gerais/monte_myobuko.html">Monte Myoboku</a></li>
                             <li><a href="pages/habilidades_gerais/clones.html">Clones</a></li>
                             <li><a href="pages/habilidades_gerais/invocações.html">Invocações</a></li>
+                        </ul>
+                    </details>
+                </li>
+                <li>
+                    <details>
+                        <summary>Chakra</summary>
+                        <ul>
+                            <li><a href="pages/chakra/manipulacao_chakra.html">Manipulação de Chakra</a></li>
+                            <li><a href="pages/chakra/aprendizado_jutsu.html">Aprendizado de Jutsu</a></li>
                         </ul>
                     </details>
                 </li>
