@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-        <script>
+    <script>
         const isGH = window.location.hostname.includes('github.io');
         document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
     </script>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>On/Off - Naruto RPG STAR</title>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
@@ -15,95 +15,94 @@
 <body>
     <!-- NavBar -->
     <script src="assets/navbar.js"></script>
-    <!-- fim NavBar -->
+    
     <main class="p-4 md:p-8 bg-[url(assets/images/rocha_hokage.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
-        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg">
-            
-            <h1 class="text-2xl font-bold text-center mb-2">🎭 Sistema ON & OFF</h1>
-            <p class="text-center text-base-content/60 mb-6">Sistemas de Imersão</p>
-            
-            <div class="divider"></div>
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">SISTEMA ON & OFF</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Sistema de Imersão```</p>
 
-            <div class="space-y-6 text-base leading-relaxed">
+            <div class="space-y-4">
                 <p>Para manter a imersão e a coerência do RPG, utilizamos a separação entre <strong>ON (in-game)</strong> e <strong>OFF (fora do personagem)</strong>.</p>
-
-                <section>
-                    <h3 class="text-lg font-bold text-success mb-2">🟢 ON (In-Game)</h3>
-                    <p>Tudo que acontece dentro da história. Inclui tudo que seu personagem viu, ouviu, aprendeu ou vivenciou.</p>
-                    <p class="mt-2 italic">Apenas informações adquiridas em ON podem ser utilizadas em combate, decisões ou interações. Qualquer ação deve respeitar a lógica e o conhecimento do personagem.</p>
-                </section>
-
-                <section>
-                    <h3 class="text-lg font-bold text-error mb-2">🔴 OFF (Fora do Jogo)</h3>
-                    <p>São todas as informações que você, player, sabe, mas seu personagem não. Informações OFF não podem ser usadas dentro do ON.</p>
-                    <p class="mt-2">O uso de conhecimento OFF em ações ON será considerado <strong>metagame</strong> e pode ser anulado.</p>
-                </section>
-
-                <div class="divider"></div>
-
-                <section>
-                    <h3 class="text-lg font-bold mb-3">💬 Como se comunicar no ON</h3>
-                    <p>Para padronizar as interações:</p>
-                    <ul class="list-none space-y-2 mt-2">
-                        <li><code class="text-primary font-bold">— [Fala]</code> → Diálogos do personagem</li>
-                        <li><code class="text-primary font-bold">** [Ação]</code> → Movimentos e ações realizadas</li>
-                        <li><code class="text-primary font-bold">💭 [Pensamento]</code> → Pensamentos internos</li>
-                    </ul>
-                    <p class="mt-4 text-sm opacity-70 italic">📌 Dessa forma, todas as interações ficam claras e organizadas dentro do RP.</p>
-                </section>
-
-                <div class="divider"></div>
-
-                <section>
-                    <h3 class="text-lg font-bold mb-2">⚖️ Regras de Interação</h3>
-                    <p>Toda interação entre personagens deve ter sentido dentro do ON. Você não pode criar vínculos importantes (ex: mestre, discípulo, alianças fortes) sem interação prévia em jogo.</p>
-                    
-                    <div class="mt-4 p-4 bg-warning/10 border-l-4 border-warning rounded-r-lg">
-                        <p class="font-bold">❌ Caso isso aconteça:</p>
-                        <ul class="list-disc list-inside text-sm">
-                            <li>A ação será anulada</li>
-                            <li>Ambos os envolvidos podem ser zerados (punição do sistema)</li>
-                        </ul>
-                    </div>
-                </section>
-
-                <section>
-                    <h3 class="text-lg font-bold mb-2">🌍 Ambientes considerados ON</h3>
-                    <p>Os seguintes locais são: <strong>Vilas, Treinos e Caminhos</strong>.</p>
-                </section>
-
-                <div class="divider"></div>
-
-                <section>
-                    <h3 class="text-lg font-bold mb-2">💥 Sistema de Danos Colaterais (Realismo ON)</h3>
-                    <p>Para aumentar a imersão, o sistema considera impacto total das ações no ambiente. Qualquer ataque em larga escala afeta tudo ao redor, não apenas o alvo. Players próximos, mesmo fora da luta, podem ser atingidos.</p>
-                    
-                    <div class="mt-4 bg-base-200 p-4 rounded-lg">
-                        <p class="font-bold text-sm mb-2">📌 Exemplo:</p>
-                        <p class="text-sm italic">Se um personagem como Nagato usa o Shinra Tensei durante uma luta no meio da vila: a vila será destruída de forma semelhante ao anime, todos os players presentes podem sofrer danos, e estruturas/NPCs também serão afetados.</p>
-                    </div>
-
-                    <p class="mt-4 text-sm font-bold text-error">⚠️ Aplicação em Caminhos:</p>
-                    <p class="text-sm italic">Se dois players estão lutando e um terceiro está assistindo, ele também pode sofrer danos colaterais. Estar próximo de uma luta é um risco real.</p>
-                </section>
-
-                <div class="divider"></div>
-
-                <section>
-                    <h3 class="text-lg font-bold mb-2">🏃 Sistema de Evacuação</h3>
-                    <p>Para equilibrar o nível de perigo: Vilas devem possuir planos de evacuação ativos. Em situações de risco, é responsabilidade da vila proteger seus membros.</p>
-                    <p class="mt-4 text-sm font-bold text-error">❌ Importante:</p>
-                    <p class="text-sm italic">Não é permitido salvar players/NPCs usando outras dimensões ou métodos irreais para evitar dano.</p>
-                </section>
-
-                <section class="p-4 bg-error/20 rounded-lg">
-                    <h3 class="text-lg font-bold text-error mb-1">💀 Caso não haja evacuação:</h3>
-                    <p class="text-sm">Civis e players presentes podem morrer durante os conflitos, o que resulta em punições para os líderes da vila.</p>
-                </section>
             </div>
-            <!-- Fim conteúdo -->
-        
-        
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div class="space-y-4">
+                    <p class="text-xl font-bold text-success">🟢 ON (In-Game)</p>
+                    <p>Tudo que acontece dentro da história. Inclui tudo que seu personagem viu, ouviu, aprendeu ou vivenciou.</p>
+                    <p>Apenas informações adquiridas em ON podem ser utilizadas em combate, decisões ou interações.</p>
+                    <p><em>Qualquer ação deve respeitar a lógica e o conhecimento do personagem.</em></p>
+                </div>
+                <div class="space-y-4">
+                    <p class="text-xl font-bold text-error">🔴 OFF (Fora do Jogo)</p>
+                    <p>São todas as informações que você, player, sabe, mas seu personagem não. Informações OFF não podem ser usadas dentro do ON.</p>
+                    <p><strong>Uso de conhecimento OFF em ações ON será considerado metagame e pode ser anulado.</strong></p>
+                </div>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">💬 Como se comunicar no ON</p>
+                <p>Para padronizar as interações:</p>
+                <p><strong>— [Fala]</strong> → Diálogos do personagem<br>
+                <strong>** [Ação]</strong> → Movimentos e ações realizadas<br>
+                <strong>💭 [Pensamento]</strong> → Pensamentos internos</p>
+                <p class="text-sm opacity-70 italic">📌 Dessa forma, todas as interações ficam claras e organizadas dentro do RP.</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">⚖️ Regras de Interação</p>
+                <p>Toda interação entre personagens deve ter sentido dentro do ON. Você não pode criar vínculos importantes (ex: mestre, discípulo, alianças fortes) sem interação prévia em jogo.</p>
+                
+                <p class="font-bold text-error">❌ Caso isso aconteça:</p>
+                <p>• A ação será anulada<br>
+                • Ambos os envolvidos podem ser zerados (punição do sistema)</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">🌍 Ambientes considerados ON</p>
+                <p>Os seguintes locais são:</p>
+                <p>Vilas | Treinos | Caminhos</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">💥 Sistema de Danos Colaterais (Realismo ON)</p>
+                <p>Para aumentar a imersão, o sistema considera impacto total das ações no ambiente. Qualquer ataque em larga escala afeta tudo ao redor, não apenas o alvo. Players próximos, mesmo fora da luta, podem ser atingidos.</p>
+                
+                <p><strong>📌 Exemplo:</strong></p>
+                <p>Se um personagem como Nagato usa o Shinra Tensei durante uma luta no meio da vila:</p>
+                <p>• A vila será destruída de forma semelhante ao anime<br>
+                • Todos os players presentes podem sofrer danos<br>
+                • Estruturas e NPCs também serão afetados</p>
+                
+                <p class="font-bold text-error">⚠️ Aplicação em Caminhos</p>
+                <p>Se dois players estão lutando e um terceiro está assistindo, ele também pode sofrer danos colaterais. Estar próximo de uma luta é um risco real.</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">🏃 Sistema de Evacuação</p>
+                <p>Para equilibrar o nível de perigo: Vilas devem possuir planos de evacuação ativos. Em situações de risco, é responsabilidade da vila proteger seus membros.</p>
+                
+                <p class="font-bold text-error">❌ Importante:</p>
+                <p>Não é permitido salvar players/NPCs usando outras dimensões ou métodos irreais para evitar dano.</p>
+            </div>
+
+            <div class="divider my-8"></div>
+
+            <div class="space-y-4 p-4 bg-error/10 rounded-lg">
+                <p class="text-xl font-bold text-error italic">💀 Caso não haja evacuação:</p>
+                <p>Civis e players presentes podem morrer durante os conflitos, o que resulta em punições para os líderes da vila.</p>
+            </div>
         </div>
     </main>
 </body>

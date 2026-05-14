@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-        <script>
+    <script>
         const isGH = window.location.hostname.includes('github.io');
         document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
     </script>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Evolução de Susano'o - Naruto RPG STAR</title>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
@@ -15,43 +15,76 @@
 <body>
     <!-- NavBar -->
     <script src="assets/navbar.js"></script>
-    <!-- fim NavBar -->
-    <main class="p-8 bg-[url(assets/images/susanoo.png)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
-        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
-            <!-- Título principal -->
-            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Evolução de Susano'o</h1>
-            <!-- Subtítulo -->
-            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Sistemas</h2>
-            <div class="divider"></div>
-            <!-- Conteúdo aqui -->
-            <p class="text-lg font-bold">Sistema: Evolução do Susano’o</p>
-            <p><span class="font-bold text-error">Requisito:</span> Possuir o Mangekyō Sharingan.</p>
-            <p class="italic opacity-80">O Susano’o evolui por etapas. Para avançar, é obrigatório cumprir todos os requisitos abaixo.</p>
-            <hr>
-            <p class="font-bold text-blue-400">1. Caixa Torácica</p>
-            <p>• Requer Mangekyō minimamente <span class="font-bold">Rank SS</span>.</p>
-            <p>• 1 luta com sensação que "iria perder", despertando a caixa torácica para uma defesa com êxito.</p>
-            <hr>
-            <p class="font-bold text-blue-400">2. Susano’o Inicial (Forma Esquelética)</p>
-            <p>• 1 luta com necessidade de defesa e incapacidade de usar as mãos, despertando a forma esquelética (costela/braço).</p>
-            <hr>
-            <p class="font-bold text-blue-400">3. Segunda Forma (Tronco + Braços)</p>
-            <p class="italic text-sm">Libera arma do Susano’o.</p>
-            <p><span class="font-bold underline italic">Requisitos:</span></p>
-            <p>• Cena: 30 linhas (controle do Susano’o) | • Emojis: 300 → 👁️🌀 | • Lutas: 5 combates na forma inicial.</p>
-            <hr>
-            <p class="font-bold text-blue-400">4. Terceira Forma</p>
-            <p><span class="font-bold underline italic">Requisitos:</span></p>
-            <p>• Cena: 40 linhas (manter ativo em combate) | • Emojis: 500 → 👁️🌀 | • Lutas: 5 combates na segunda forma.</p>
-            <hr>
-            <p class="font-bold text-blue-400">5. Forma Humanoide (Corpo Completo)</p>
-            <p><span class="font-bold underline italic">Requisitos:</span></p>
-            <p>• Cena: 80 linhas (sincronização total) | • Emojis: 800 → 👁️🌀 | • Lutas: 8 combates na terceira forma.</p>
-            <hr>
-            <p class="font-bold text-purple-400">6. Susano’o Perfeito (Gigante)</p>
-            <p><span class="font-bold underline italic text-purple-300">Requisitos:</span></p>
-            <p>• Cena: 100 linhas (controle absoluto) | • Emojis: 1.200 → 👁️🌀 | • Lutas: 10 combates na forma humanoide.</p>
-            <!-- Fim conteúdo -->
+    
+    <main class="p-4 md:p-8 bg-[url(assets/images/susanoo.png)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">EVOLUÇÃO DO SUSANO’O</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Sistema de Susano’o```</p>
+
+            <div class="space-y-4">
+                <p>*Sistema: Evolução do Susano’o*</p>
+                <p>- Requisito: possuir o Mangekyō Sharingan</p>
+                <p><em>O Susano’o evolui por etapas. Para avançar, é obrigatório cumprir todos os requisitos.</em></p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">Caixa Torácica</p>
+                <p>- Requer Mangekyōu minimamente Rank SS</p>
+                <p>- 1 luta com sensação que "iria perder", mas, desperta a caixa torácica e faz uma defesa com êxito.</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">Susano’o Inicial - Forma esquelética (costela/braço)</p>
+                <p>- 1 Luta com necessidade de Defesa e incapacidade de usar as mãos, despertando a segunda defesa, o Susano'o - Inicial .</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">Segunda Forma - Estrutura parcial (tronco + braços) - Libera arma do Susano’o</p>
+                
+                <p><strong>Requisitos:</strong></p>
+                <p>- Cena: 30 linhas (controle do Susano’o)</p>
+                <p>- Emojis: 300 → 👁️🌀</p>
+                <p>- Lutas: 5 combates usando a forma inicial</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">Terceira Forma</p>
+                
+                <p><strong>Requisitos:</strong></p>
+                <p>- Cena: 40 linhas (manter ativo em combate)</p>
+                <p>- Emojis: 500 → 👁️🌀</p>
+                <p>- Lutas: 5 combates usando a segunda forma</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">Forma Humanoide - Corpo completo</p>
+                
+                <p><strong>Requisitos:</strong></p>
+                <p>- Cena: 80 linhas (sincronização total)</p>
+                <p>- Emojis: 800 → 👁️🌀</p>
+                <p>- Lutas: 8 combates usando a terceira forma</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">Susano’o Perfeito - Forma completa gigante</p>
+                
+                <p><strong>Requisitos:</strong></p>
+                <p>- Cena: 100 linhas (controle absoluto)</p>
+                <p>- Emojis: 1.200 → 👁️🌀</p>
+                <p>- Lutas: 10 combates usando a forma humanoide</p>
+            </div>
         </div>
     </main>
 </body>

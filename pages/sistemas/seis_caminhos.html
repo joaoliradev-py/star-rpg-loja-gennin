@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-        <script>
+    <script>
         const isGH = window.location.hostname.includes('github.io');
         document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
     </script>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Seis Caminhos de Pain - Naruto RPG STAR</title>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
@@ -15,43 +15,55 @@
 <body>
     <!-- NavBar -->
     <script src="assets/navbar.js"></script>
-    <!-- fim NavBar -->
-    <main class="p-8 bg-[url(assets/images/seis_caminhos_de_pain.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
-        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
-            <!-- Título principal -->
-            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Seis Caminhos de Pain</h1>
-            <!-- Subtítulo -->
-            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Sistemas</h2>
-            <div class="divider"></div>
-            <!-- Conteúdo aqui -->
-            <p class="text-lg font-bold">Seis Caminhos de Pain <span class="text-sm opacity-60 uppercase tracking-widest">{Versão Própria}</span></p>
-            <p class="italic text-base-content/70">Este sistema permite que você crie sua variação dos 6 caminhos. Para iniciar, é necessário o pagamento de <span class="font-bold text-success">100Bi</span>.</p>
-            <hr>
-            <p><span class="font-bold text-blue-400">1° Requisito:</span> Ter um Rinnegan há mais de 1 semana. (Obrigatório ser de Madara, Nagato ou Obito).</p>
-            <p><span class="font-bold text-blue-400">2° Requisito:</span> Lutar contra um Nagato ou Obito e presenciar o uso dos corpos.</p>
-            <p><span class="font-bold text-blue-400">3° Requisito:</span> Texto de 40 linhas explicando o estilo de luta e 2 fundamentos sobre o controle de corpos.</p>
-            <p><span class="font-bold text-blue-400">4° Requisito:</span> Estabelecer 6 alvos e listar seus Jutsus e Habilidades (Modos/Karmas não contam).</p>
-            <p><span class="font-bold text-blue-400">5° Requisito:</span> Caçar e matar os alvos em luta Rank ou Duelo. Em caso de derrota, você é zerado em Atributos e Ryos.</p>
-            <p><span class="font-bold text-blue-400">6° Requisito:</span> Apresentar os 6 cadáveres, realizar a cena dos receptores negros e atribuição dos caminhos.</p>
-            <hr>
-            <p class="font-bold italic">Os Seis Caminhos são:</p>
-            <p><span class="font-bold text-orange-400">Caminho Deva:</span> Forças atrativas e repulsivas.</p>
-            <p><span class="font-bold text-orange-400">Caminho Preta:</span> Absorção de ninjutsus e chakra.</p>
-            <p><span class="font-bold text-orange-400">Caminho Animal:</span> Invocações com visão compartilhada.</p>
-            <p><span class="font-bold text-orange-400">Caminho Asura:</span> Membros mecânicos e armamentos.</p>
-            <p><span class="font-bold text-orange-400">Caminho Naraka:</span> Rei do Inferno (interrogatório e restauração).</p>
-            <p><span class="font-bold text-orange-400">Caminho Humano:</span> Extração de almas e informações.</p>
-            <hr>
-            <p class="italic text-blue-300">O usuário pode escolher 1 Habilidade de cada corpo da loja do Nagato para utilizar.</p>
-            <p class="font-semibold underline">Custo de ativação: 10bi por corpo após cumprir os requisitos.</p>
-            <hr>
-            <p class="text-error font-bold italic">• Se sair do RPG, perde o acesso ao sistema.</p>
-            <p class="text-error font-bold italic">• Aqueles que virarem seus corpos serão zerados em Atributos.</p>
-            <p>• Dōjutsus no cadáver são permitidos se houver ligação com o Rinnegan.</p>
-            <p>• O corpo retém atributos de vida e títulos específicos (Ex: Sannin, Espadachim).</p>
-            <p class="badge badge-outline badge-info">Apenas 1 usuário por vila</p>
-            <p class="badge badge-outline badge-error italic">Impossível usar com Edo Tensei</p>
-            <!-- Fim do conteúdo -->
+    
+    <main class="p-4 md:p-8 bg-[url(assets/images/seis_caminhos_de_pain.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">SEIS CAMINHOS DE PAIN</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Sistema de Caminhos (Versão Própria)```</p>
+
+            <div class="space-y-4">
+                <p><em>Esse Sistema permite a vc criar sua variação dos 6 caminhos, mas para isso terá que pagar 100Bi para poder iniciar nele.</em></p>
+                
+                <p><strong>1° Requisito:</strong> Ter um Rinnegan a mais de 1 semana. ( O Rinnegan deve OBRIGATORIAMENTE ser de Madara, Nagato Chu+ ou Obito; Rinnegan de Otsutsuki, Sasuke e despertados não contam. )</p>
+                <p><strong>2° Requisito:</strong> Lutar contra um Nagato ou Obito e presenciar o uso dos corpos;</p>
+                <p><strong>3° Requisito:</strong> Fazer um texto de 40 linhas explicando como o mesmo lutava e dizer 2 coisas fundamentais para ganhar conhecimento sobre o controle de corpos, no final deve entregar ao seu regional.</p>
+                <p><strong>4° Requisito:</strong> Estabelecer seus alvos, conhecê-los e fazer uma lista com os Jutsus e Habilidades que os mesmos possuem ( Modos provenientes de Bijus, Karmas não podem ser listados. ), isso servirá para que vc possa usar as Habilidades deles, não será constado qualquer Habilidade fora da lista; São 6 Alvos.</p>
+                <p><strong>5° Requisito:</strong> Caçar e matar os seus alvos, a luta deve ser sempre em rank ou um duelo. Vc deve deixar explícito que se vc morrer, ele pode ficar com seu rinnegan e se ele morrer vc leva o corpo dele. Na sua derrota vc será zerado em Atbs e Ryos, e perderá todo o progresso sendo necessário repetir todos os processos e pagamento.</p>
+                <p><strong>6° Requisito:</strong> Vc deve apresentar os 6 cadáveres ao seu regional, em seguida deve fazer a cena pondo receptores negros neles e então atribui em cada corpo um dos seis caminhos e por fim fazer outra cena movimentando eles.</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">Os Seis Caminhos são:</p>
+                <ul class="space-y-3">
+                    <li><strong class="text-primary">Caminho Deva:</strong> Da a capacidade de usufruir das forças atrativas e repulsivas</li>
+                    <li><strong class="text-primary">Caminho Preta:</strong> Permite absorver ninjutsus e o própio chakra</li>
+                    <li><strong class="text-primary">Caminho Animal:</strong> Permite invocar várias invocações que possuem visão compartilhada com o usuário e todos os outros pain's</li>
+                    <li><strong class="text-primary">Caminho Asura:</strong> Permite criar membros mecânicos como canhões, serras e outros braços</li>
+                    <li><strong class="text-primary">Caminho Naraka:</strong> Permite invocar o Rei do Inferno, que interroga os adversários e restaura os corpos de quem ele ingere</li>
+                    <li><strong class="text-primary">Caminho Humano:</strong> Permite retirar a alma de um corpo e então, através dessa alma obter todas as informações contidas dela</li>
+                </ul>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="font-bold text-lg">💡 Detalhes Adicionais</p>
+                <p>➤ O usuário pode escolher 1 Habilidade de cada corpo da loja do Nagato e utilizar.</p>
+                <p>➤ Ao cumprir os requisitos, vc será capaz de utilizar sua variação dos corpos dos 6 caminhos pagando 10bi por corpo.</p>
+            </div>
+
+            <div class="divider my-8"></div>
+
+            <div class="space-y-3 text-sm">
+                <p>• Se vc por algum motivo sair do RPG, irá perder acesso ao sistema.</p>
+                <p>• Aqueles que virarem corpos seus serão zerado em Atbs.</p>
+                <p>• Dōjutsus no cadáver são permitidos desde que haja uma ligacão com o Rinnegan ou seja o próprio Rinnegan.</p>
+                <p>• O Corpo retem todos os atributos que tinha em vida; Corpos mantém o título de vila e as Habilidades se o título em questão for: Sennin/Sennin Lendários, Escorpião Vermelho, Espadachim da Névoa e Corpo de Explosão.</p>
+                <p class="font-bold text-error">❌ Só pode 1 usuário por vila.</p>
+                <p class="font-bold text-error">❌ É impossível usar esse sistema usando o Edo Tensei.</p>
+            </div>
         </div>
     </main>
 </body>

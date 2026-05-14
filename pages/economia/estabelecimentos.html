@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-        <script>
+    <script>
         const isGH = window.location.hostname.includes('github.io');
         document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
     </script>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Estabelecimentos - Naruto RPG STAR</title>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
@@ -15,67 +15,48 @@
 <body>
     <!-- NavBar -->
     <script src="assets/navbar.js"></script>
-    <!-- fim NavBar -->
-    <main class="p-8 bg-[url(assets/images/ichiraku_lamen.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
-        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
-            <!-- Título principal -->
-            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Estabelecimentos</h1>
-            <!-- Subtítulo -->
-            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Sistemas</h2>
-            <div class="divider"></div>
-            <!-- Conteúdo aqui -->
-            <p>🪙 Estabelecimento 🪙</p>
-            <p>Os estabelecimentos são uma fonte de renda e entretenimento para os membros do RPG. Cada vila já possui um estabelecimento próprio, gerenciado pela vila, e seus ganhos vão para o saldo da mesma.</p>
-            <p>Para abrir um estabelecimento:</p>
-            <p>1. Montar um planejamento organizado e enviar ao kage para aprovação</p>
-            <p>Informações incluídas:</p>
-            <p>- Nome do estabelecimento.</p>
-            <p>- PP do dono e sócios (até 3 sócios, o dono precisa ter no mínimo 25%).</p>
-            <p>- Tipo de estabelecimento (ex: mercado, restaurante, dungeons, etc).</p>
-            <p>- Descrição de funcionamento.</p>
-            <p>- Horário de funcionamento.</p>
-            <p>- Número de funcionários.</p>
-            <p>2. Após a aprovação do estabelecimento, deve-se pagar 1b para abrir.</p>
-            <hr>
-            <p>Regras:</p>
-            <p>– Estabelecimentos seguem o sistema On, então limpeza e manutenção devem ser realizadas frequentemente.</p>
-            <p>– Cada estabelecimento registrado deve fazer pagamentos semanais. Os banqueiros da vila são responsáveis por monitorar essas transações.</p>
-            <p>– A falha no pagamento pode resultar no fechamento do estabelecimento.</p>
-            <p>– Ganhos devem ser feitos no banco da vila, onde o saldo também ficará. Cada vila terá uma aba para estabelecimentos registrados.</p>
-            <p>– Para abrir um estabelecimento global, será necessário pagar +1b para abrir nas proximidades de outra vila. Caso seja o território de outra vila, o pagamento será feito para a vila em questão, e as vilas devem ter aliança para que isso ocorra.</p>
-            <hr>
-            <p>Estrelas ⭐</p>
-            <p>Todo estabelecimento inicia com uma estrela, que define a qualidade do mesmo. Caso percam estrelas, o estabelecimento terá que fechar as portas. No entanto, ao perder todas as estrelas, ainda terá uma semana de garantia para recuperar estrelas.</p>
-            <p>Funcionamento das Estrelas:</p>
-            <p>- 1 ⭐:</p>
-            <p>Pagamento semanal de 300kk, lucro máximo diário de 3b, e saldo máximo de 50b.</p>
-            <p>- 2 ⭐⭐:</p>
-            <p>Pagamento semanal de 350kk, lucro máximo diário de 5b, e saldo máximo de 120b.</p>
-            <p>- 3 ⭐⭐⭐:</p>
-            <p>Pagamento semanal de 400kk, lucro máximo diário de 10b, e saldo máximo de 200b.</p>
-            <p>- 4 ⭐⭐⭐⭐:</p>
-            <p>Pagamento semanal de 450kk, lucro máximo diário de 20b, e saldo máximo de 300b.</p>
-            <p>- 5 ⭐⭐⭐⭐⭐:</p>
-            <p>Pagamento semanal de 500kk, lucro máximo diário de 30b, e saldo máximo de 500b.</p>
-            <hr>
-            <p>Como conseguir estrelas?</p>
-            <p>Todos os estabelecimentos ao final de cada atendimento devem pedir uma avaliação do cliente. Exemplo:</p>
-            <p>Avaliação</p>
-            <p>⭐⭐</p>
-            <p>PP:</p>
-            <p>Vila:</p>
-            <p>Comentário: (Opcional)</p>
-            <p>As estrelas são contadas semanalmente pela lei da maioria. Muitas avaliações negativas podem resultar no fechamento do estabelecimento, com uma semana para recuperação. Avaliações positivas podem elevar a quantidade de estrelas, seguindo a ordem (1 para 2, 2 para 3, etc).</p>
-            <hr>
-            <p>Avaliação ⭐</p>
-            <p>1 ⭐: Ruim</p>
-            <p>2 ⭐: Mediano</p>
-            <p>3 ⭐: Neutro</p>
-            <p>4 ⭐: Bom</p>
-            <p>5 ⭐: Ótimo</p>
-            <p>Os estabelecimentos devem ser monitorados por um superior.</p>
-            <p>Obs: Estabelecimentos podem ser alvos de bandidos, então é importante cuidar da segurança</p>
-            <!-- Fim conteúdo -->
+    
+    <main class="p-4 md:p-8 bg-[url(assets/images/ichiraku_lamen.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">ESTABELECIMENTOS</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Gestão de Negócios e Renda```</p>
+
+            <div class="space-y-4">
+                <p>Os <strong>Estabelecimentos</strong> são fontes de renda e entretenimento. Cada vila gerencia seus próprios locais, cujos ganhos alimentam o saldo da vila.</p>
+                <p><strong>Para abrir:</strong> Planejamento aprovado pelo Kage contendo Nome, Dono/Sócios (máx 3), Tipo, Funcionamento e Horários. Custo de abertura: 1b.</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold uppercase tracking-widest">REGRAS DE OPERAÇÃO</p>
+                <p>• Manutenção e limpeza devem ser realizadas frequentemente (Sistema ON).</p>
+                <p>• Pagamentos semanais são obrigatórios; falhas resultam em fechamento.</p>
+                <p>• Ganhos e saldos ficam registrados no banco da vila.</p>
+                <p>• <strong>Global:</strong> +1b para abrir próximo a outra vila (requer aliança).</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold uppercase tracking-widest">SISTEMA DE ESTRELAS</p>
+                <p>Define a qualidade e limites do local. Inicia com 1 estrela.</p>
+                <div class="space-y-3 text-sm">
+                    <p><strong>1 Estrela:</strong> Semanal 300kk | Lucro máx 3b | Saldo máx 50b.</p>
+                    <p><strong>2 Estrelas:</strong> Semanal 350kk | Lucro máx 5b | Saldo máx 120b.</p>
+                    <p><strong>3 Estrelas:</strong> Semanal 400kk | Lucro máx 10b | Saldo máx 200b.</p>
+                    <p><strong>4 Estrelas:</strong> Semanal 450kk | Lucro máx 20b | Saldo máx 300b.</p>
+                    <p><strong>5 Estrelas:</strong> Semanal 500kk | Lucro máx 30b | Saldo máx 500b.</p>
+                </div>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold uppercase tracking-widest">AVALIAÇÕES</p>
+                <p>Ao final de cada atendimento, o cliente deve avaliar (1 a 5 estrelas). Resultados negativos constantes levam ao fechamento para recuperação.</p>
+                <p class="text-sm italic">Obs: Locais podem ser alvos de bandidos; cuide da segurança.</p>
+            </div>
         </div>
     </main>
 </body>

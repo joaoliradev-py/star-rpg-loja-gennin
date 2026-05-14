@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-        <script>
+    <script>
         const isGH = window.location.hostname.includes('github.io');
         document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
     </script>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Teletransportes e Marcas - Naruto RPG STAR</title>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
@@ -15,49 +15,41 @@
 <body>
     <!-- NavBar -->
     <script src="assets/navbar.js"></script>
-    <!-- fim NavBar -->
+    
+    <main class="p-4 md:p-8 bg-[url(assets/images/hiraishim.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">⚡ TELETRANSPORTES E MARCAS ⚡</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Teletransportes via Caminhos```</p>
 
-    <main class="p-8 bg-[url(assets/images/hiraishim.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
-        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg">
-
-            <!-- Título principal -->
-            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Teletransportes e Marcas</h1>
-
-            <!-- Subtítulo -->
-            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Pelos Caminhos do RPG</h2>
-
-            <div class="divider"></div>
-
-            <!-- Seção: Marcas -->
-            <h2 class="text-lg font-bold text-blue-400 mb-3">Marcas</h2>
-            <p class="text-base-content/80 mb-8 leading-relaxed">
-                Hiraishin e Marcas de Garra — <strong>3 usuários por vila</strong> com limite de
-                <strong>3 usos diários</strong>. O teletransporte via Marca é <strong>instantâneo</strong>.
-            </p>
-
-            <!-- Seção: Portal -->
-            <h2 class="text-lg font-bold text-blue-400 mb-3">Portal</h2>
-            <p class="text-base-content/80 mb-4 leading-relaxed">
-                Portal Espaço-Tempo, Kamui e etc. — <strong>3 usuários por vila</strong> com limite de
-                <strong>3 usos diários</strong>. Usuários que possuem duplo Rinnegan e Mangekyō —
-                Kakashi e Obito (caso seja a fonte) ou usuários provenientes do Karma —
-                terão <strong>+2 usos diários</strong>.
-            </p>
-
-            <!-- Comando -->
-            <p class="text-sm font-semibold text-base-content/50 uppercase tracking-wider mb-2">Comando</p>
-            <pre class="bg-base-200 rounded-lg p-4 font-mono text-sm whitespace-pre-wrap mb-3">/Marca ou Portal</pre>
-            <pre class="bg-base-200 rounded-lg p-4 font-mono text-sm whitespace-pre-wrap mb-4">Abro um Portal p/ (caminho que já tenha ido) / Me teletransporto para a marca/kunai em [local com marca/kunai]</pre>
-            <pre class="bg-base-200 rounded-lg p-4 font-mono text-sm whitespace-pre-wrap mb-8">Usos: 1/3</pre>
-
-            <!-- Nota de aviso -->
-            <div class="alert alert-info">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
-                </svg>
-                <span>Os 3 usuários devem ser distribuídos entre <strong>Portal</strong> e <strong>Marca</strong>.</span>
+            <div class="space-y-4">
+                <p>Teletransportes/Marcas via Caminhos.</p>
             </div>
 
+            <div class="divider my-8"></div>
+
+            <div class="space-y-4">
+                <p><strong>Marcas:</strong> Hiraishin e Marcas de Garra > 3 Usuários por vila tendo um limite de 3 usos diários. ( O Tp via Marca é Insta. )</p>
+                
+                <p><strong>Portal:</strong> Portal Espaço-Tempo, Kamui e etc. > 3 Usuários por vila tendo um limite de 3 usos diários ( Usuários que possuem duplo rinnegan e mangekyo. – Kakashi e Obito ( caso seja a fonte ) ou usuários provenientes do Karma, terão +2 usos diários.)</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">Comando:</p>
+                
+                <p><em>*/Marca ou Portal.*</em></p>
+                
+                <p><em>*Abro um Portal p/ ( Tal caminho que já tenha ido )/Me teletransporto para a marca/kunai presente em barra da tijuca. ( lugar com uma marca/kunai )*</em></p>
+                
+                <p>Usos: 1/3</p>
+            </div>
+
+            <div class="divider my-8"></div>
+
+            <div class="space-y-4">
+                <p><em><strong>*_Os 3 Usuários devem ser distribuídos entre Portal e Marca._*</strong></em></p>
+            </div>
         </div>
     </main>
 </body>

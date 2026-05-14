@@ -16,79 +16,255 @@
     <!-- NavBar -->
     <script src="assets/navbar.js"></script>
     <!-- fim NavBar -->
-    <main class="p-8 bg-[url(assets/images/roubo_dojutsu.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
-        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
+    <main class="p-4 md:p-8 bg-[url(assets/images/roubo_dojutsu.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg flex flex-col gap-8">
             <!-- Título principal -->
-            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Roubo de Dojutsu</h1>
-            <!-- Subtítulo -->
-            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Sistemas</h2>
-            <div class="divider"></div>
-            <!-- Conteúdo aqui -->
-            <p class="text-lg font-bold text-center">💉🧬 SISTEMA DE ROUBO DE DŌJUTSU 🧬🩸</p>
+            <div class="text-center">
+                <h1 class="text-3xl font-black text-primary uppercase tracking-tighter">Roubo de Dojutsu</h1>
+                <p class="text-base-content/60 font-medium">Sistemas de Conquista e Implante</p>
+            </div>
             
+            <div class="divider"></div>
+
             <section>
-                <p class="font-bold text-blue-500 italic underline decoration-2 underline-offset-4 mb-2">📌 SOBRE O SISTEMA</p>
-                <p class="text-sm">Este sistema permite ampliar a progressão de poder através do roubo de dōjutsus, como visto no anime. Um jogador pode desafiar outro para conquistar seus olhos e implantá-los em si mesmo.</p>
+                <h3 class="text-lg font-bold text-blue-500 mb-2">📌 SOBRE O SISTEMA</h3>
+                <p class="text-sm leading-relaxed opacity-80">
+                    Este sistema tem como objetivo ampliar as formas de progressão de poder, adaptando um método visto no anime: o roubo de dōjutsus. Um jogador pode desafiar outro para conquistar o dōjutsu que ele possui, possibilitando o implante nos próprios olhos (ex: Kakashi e o Sharingan de Obito).
+                </p>
             </section>
 
-            <hr>
+            <div class="divider"></div>
 
             <section>
-                <p class="font-bold text-error mb-3">⚖️ REGRAS DE COMBATE</p>
-                <ul class="flex flex-col gap-2 text-sm">
-                    <li>• <span class="font-bold uppercase">Recusa de Luta:</span> O desafiado deve pagar <span class="text-success font-bold">400.000.000 Ryos</span> ao desafiante.</li>
-                    <li>• <span class="font-bold uppercase">Penalidade de Derrota:</span> O desafiante que perder será <span class="text-error font-bold">zerado em Ryos e Atributos</span>.</li>
-                    <li>• <span class="font-bold italic">Desistência:</span> Desistir durante a luta aplica a mesma penalidade de derrota.</li>
-                    <li>• <span class="font-bold">Erros do Juiz:</span> A luta é anulada. Se finalizada há muito tempo, o juiz paga multa de <span class="font-bold">14 Bi</span>.</li>
-                </ul>
+                <h3 class="text-lg font-bold text-error mb-4">⚠️ REGRAS</h3>
+                <div class="space-y-4 text-sm">
+                    <div class="p-4 bg-error/5 border-l-4 border-error rounded-r-lg">
+                        <p><strong>Recusa de Luta:</strong> Caso o desafiado recuse, deverá pagar <span class="text-success font-bold">400kk</span> ao desafiante.</p>
+                        <ul class="list-disc list-inside text-xs mt-2 opacity-70">
+                            <li>Não é permitido farm: desafios repetidos à mesma pessoa resultarão em punições.</li>
+                            <li>Motivos plausíveis apresentados ao juiz anulam a cobrança.</li>
+                        </ul>
+                    </div>
+                    
+                    <ul class="space-y-2 opacity-90">
+                        <li>• <strong>Penalidade de Derrota:</strong> Se o desafiante perder, será <span class="text-error font-bold">zerado em Ryos e Atributos</span>.</li>
+                        <li>• <strong>Desistência:</strong> Caso o desafiante desista durante a luta, recebe a mesma penalidade de derrota.</li>
+                        <li>• <strong>Regra do Desafiado:</strong> Após aceitar, não pode desistir. Quebrar esta regra resulta em multa de <span class="font-bold">2 Bilhões</span>.</li>
+                        <li>• <strong>Erros do Juiz:</strong> A luta será anulada. Caso já tenha sido finalizada há muito tempo, o juiz receberá multa de <span class="font-bold text-error">14 Bilhões</span>.</li>
+                        <li>• <strong>Recompra:</strong> Caso o desafiado perca o dōjutsu, só poderá recomprá-lo após <strong>3 dias</strong>.</li>
+                    </ul>
+                </div>
             </section>
 
-            <hr>
+            <div class="divider"></div>
 
             <section>
-                <p class="font-bold text-blue-500 mb-2">🏥 PROCEDIMENTO DE IMPLANTE</p>
-                <p class="text-sm mb-4">Para realizar o implante, é necessário o pagamento de <span class="text-success font-bold">2 Bilhões</span> e supervisão do Feudal Regional no hospital.</p>
+                <h3 class="text-lg font-bold text-blue-500 mb-4">🏥 IMPLANTE DE DŌJUTSU</h3>
+                <p class="text-sm mb-6">Para realizar o implante, é necessário pagar <span class="text-success font-bold">2 Bilhões</span>. O procedimento deve ser supervisionado pelo Feudal Regional no hospital.</p>
                 
-                <p class="font-bold text-xs uppercase opacity-60 mb-2 text-center">Chances de Sucesso:</p>
-                <div class="grid grid-cols-2 text-sm gap-y-1">
-                    <p>• Sharingan / MS / MSE: <span class="font-bold">40%</span></p>
-                    <p>• Jōgan: <span class="font-bold text-info">40%</span></p>
-                    <p>• Rinnegan: <span class="font-bold text-secondary">25%</span></p>
-                    <p>• Tenseigan: <span class="font-bold text-warning">25%</span></p>
-                    <p class="col-span-2 text-center mt-2">• RinneSharingan: <span class="font-bold text-error">10%</span></p>
+                <div class="bg-base-200 p-6 rounded-xl">
+                    <h4 class="font-bold text-xs uppercase opacity-60 mb-4 text-center tracking-widest">Chances de Sucesso</h4>
+                    <div class="grid grid-cols-2 md:grid-cols-3 gap-4 text-sm text-center">
+                        <div class="bg-base-100 p-2 rounded-lg border border-base-300">
+                            <p class="opacity-60 text-[10px] uppercase">Sharingan / MS / MSE / Ketsuryūgan</p>
+                            <p class="font-bold">40%</p>
+                        </div>
+                        <div class="bg-base-100 p-2 rounded-lg border border-base-300">
+                            <p class="opacity-60 text-[10px] uppercase">Jōgan</p>
+                            <p class="font-bold text-info">40%</p>
+                        </div>
+                        <div class="bg-base-100 p-2 rounded-lg border border-base-300">
+                            <p class="opacity-60 text-[10px] uppercase">Rinnegan / R. Supremo</p>
+                            <p class="font-bold text-secondary">25%</p>
+                        </div>
+                        <div class="bg-base-100 p-2 rounded-lg border border-base-300">
+                            <p class="opacity-60 text-[10px] uppercase">Tenseigan</p>
+                            <p class="font-bold text-warning">25%</p>
+                        </div>
+                        <div class="bg-base-100 p-2 rounded-lg border border-error/30 col-span-2 md:col-span-1">
+                            <p class="opacity-60 text-[10px] uppercase">RinneSharingan</p>
+                            <p class="font-bold text-error">10%</p>
+                        </div>
+                    </div>
                 </div>
             </section>
 
-            <hr>
-
-            <section class="p-3 border-l-4 border-error bg-error/5 rounded">
-                <p class="font-bold text-error mb-1 uppercase tracking-tighter">🚫 FALHA NO IMPLANTE</p>
-                <p class="text-xs">Caso o implante falhe, o personagem ficará <span class="font-bold underline">cego</span> de um olho. Falha dupla resulta em cegueira total. Só poderá lutar com sensorial ativo.</p>
-            </section>
-
-            <hr>
-
-            <section>
-                <p class="font-bold text-blue-500 mb-3">⏳ MANUTENÇÃO E CUSTOS</p>
-                <p class="text-[10px] italic opacity-70 mb-2 uppercase tracking-widest text-center">Gasto de Chakra/HP por Turno</p>
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-1 text-sm font-mono">
-                    <p>• Byakugan: 250k / 200k</p>
-                    <p>• Sharingan: 200k / 250k</p>
-                    <p class="text-error">• M. Sharingan: 300k / 400k</p>
-                    <p>• Rinnegan: 400k / 400k</p>
-                    <p class="text-purple-400">• R. Supremo: 200k / 400k</p>
-                    <p class="text-red-500 font-bold">• R. Sharingan: 400k / 900k</p>
+            <section class="bg-primary/5 border-l-4 border-primary p-5 rounded-r-xl space-y-3">
+                <h3 class="text-lg font-bold text-primary flex items-center gap-2">🧬 IMPLANTES NO CORPO</h3>
+                <p class="text-sm">Ao obter alguma forma de <strong>regeneração passiva</strong>, o player pode implantar dōjutsus no corpo.</p>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
+                    <div class="text-xs space-y-2">
+                        <p><strong>📍 Limites:</strong> 10 dōjutsus por braço e 5 no corpo.</p>
+                        <p><strong>⚔️ Combate:</strong> Fornecem apenas <strong>1 uso</strong> de uma habilidade por luta (se fecham após o uso).</p>
+                        <p><strong>✨ Assimilação:</strong> Assimilações completas do dono original fornecem <strong>+3 usos</strong>.</p>
+                    </div>
+                    <div class="text-xs space-y-2">
+                        <p><strong>🎯 Sucesso:</strong> <span class="text-error font-bold text-sm">20% de chance</span> ao implantar no corpo.</p>
+                        <p><strong>📉 Custos:</strong> Gastam o <strong>TRIPLO</strong> de chakra para ativar e manter habilidades (per turno).</p>
+                    </div>
                 </div>
             </section>
 
-            <hr>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div class="alert alert-error bg-error/10 border-error/20 text-error shadow-sm rounded-xl">
+                    <div>
+                        <h3 class="font-bold text-sm">🚫 FALHA NO IMPLANTE</h3>
+                        <div class="text-[10px] leading-tight space-y-1 mt-1">
+                            <p>• O PP ficará cego de um olho (ou total se falhar 2x).</p>
+                            <p>• <strong>Imune a Genjutsu Visual e Jutsu Sexy.</strong></p>
+                            <p>• Só poderá atacar e defender com sensorial ativo.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="alert bg-base-200 border-base-300 shadow-sm rounded-xl">
+                    <div>
+                        <h3 class="font-bold text-sm">🔄 TROCA DE PP</h3>
+                        <div class="text-[10px] leading-tight mt-1">
+                            Trocar de PP reseta o status dos olhos. Se Tobirama estava cego e troca para Hashirama, os olhos ficam normais. Ao voltar para Tobirama, a cegueira retorna.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="divider"></div>
 
             <section>
-                <p class="font-bold text-blue-500 mb-3 uppercase">⚙️ SERVIÇOS ADICIONAIS</p>
-                <div class="flex flex-col gap-2 text-sm italic">
-                    <p>• <span class="font-bold">Olhos Artificiais:</span> <span class="text-success font-bold">4 Bilhões</span> (Recuperar Visão)</p>
-                    <p>• <span class="font-bold">Adaptação:</span> <span class="text-success font-bold">6 Bilhões</span> (Repouso 24h)</p>
-                    <p>• <span class="font-bold text-blue-400">Fusão de Dōjutsus:</span> <span class="text-success font-bold">10 Bilhões</span> (2 em 1 olho)</p>
+                <h3 class="text-lg font-bold text-blue-500 mb-6 uppercase flex items-center gap-2">⏳ USO DE CHAKRA DŌJUTSU</h3>
+                <p class="text-[10px] mb-4 opacity-60 italic text-center">O dōjutsu só poderá ser usado 3 dias após o implante bem-sucedido.</p>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+                    <!-- Byakugan -->
+                    <div class="bg-base-200 p-3 rounded-lg border border-base-300">
+                        <h4 class="font-bold text-xs uppercase mb-2">Byakugan</h4>
+                        <div class="text-[10px] space-y-1">
+                            <div class="flex justify-between"><span>Ativar:</span> <span class="font-bold">250k</span></div>
+                            <div class="flex justify-between"><span>Turno:</span> <span class="font-bold">200k</span></div>
+                        </div>
+                    </div>
+
+                    <!-- Sharingan -->
+                    <div class="bg-base-200 p-3 rounded-lg border border-base-300">
+                        <h4 class="font-bold text-xs uppercase mb-2 text-red-400">Sharingan</h4>
+                        <div class="text-[10px] space-y-1">
+                            <div class="flex justify-between"><span>Ativar:</span> <span class="font-bold">200k</span></div>
+                            <div class="flex justify-between"><span>Turno:</span> <span class="font-bold">250k</span></div>
+                        </div>
+                    </div>
+
+                    <!-- M. Sharingan -->
+                    <div class="bg-base-200 p-3 rounded-lg border border-error/30">
+                        <h4 class="font-bold text-xs uppercase mb-2 text-error">M. Sharingan</h4>
+                        <div class="text-[10px] space-y-1">
+                            <div class="flex justify-between"><span>Ativar:</span> <span class="font-bold">300k</span></div>
+                            <div class="flex justify-between"><span>Turno:</span> <span class="font-bold">400k</span></div>
+                            <div class="flex justify-between"><span>HP Turno:</span> <span class="font-bold text-error">400k</span></div>
+                        </div>
+                    </div>
+
+                    <!-- MSE -->
+                    <div class="bg-base-200 p-3 rounded-lg border border-error/50">
+                        <h4 class="font-bold text-xs uppercase mb-2 text-error font-black">M. S. Eterno</h4>
+                        <div class="text-[10px] space-y-1">
+                            <div class="flex justify-between"><span>Ativar:</span> <span class="font-bold">300k</span></div>
+                            <div class="flex justify-between"><span>Turno:</span> <span class="font-bold">400k</span></div>
+                        </div>
+                    </div>
+
+                    <!-- Jogan -->
+                    <div class="bg-base-200 p-3 rounded-lg border border-info/30">
+                        <h4 class="font-bold text-xs uppercase mb-2 text-info">Jōgan</h4>
+                        <div class="text-[10px] space-y-1">
+                            <div class="flex justify-between"><span>Ativar:</span> <span class="font-bold">400k</span></div>
+                        </div>
+                    </div>
+
+                    <!-- Rinnegan -->
+                    <div class="bg-base-200 p-3 rounded-lg border border-secondary/30">
+                        <h4 class="font-bold text-xs uppercase mb-2 text-secondary">Rinnegan</h4>
+                        <div class="text-[10px] space-y-1">
+                            <div class="flex justify-between"><span>Ativar:</span> <span class="font-bold">400k</span></div>
+                        </div>
+                    </div>
+
+                    <!-- Tenseigan -->
+                    <div class="bg-base-200 p-3 rounded-lg border border-warning/30">
+                        <h4 class="font-bold text-xs uppercase mb-2 text-warning">Tenseigan</h4>
+                        <div class="text-[10px] space-y-1">
+                            <div class="flex justify-between"><span>Ativar:</span> <span class="font-bold">450k</span></div>
+                        </div>
+                    </div>
+
+                    <!-- Ketsuryugan -->
+                    <div class="bg-base-200 p-3 rounded-lg border border-red-900/30">
+                        <h4 class="font-bold text-xs uppercase mb-2 text-red-900">Ketsuryūgan</h4>
+                        <div class="text-[10px] space-y-1">
+                            <div class="flex justify-between"><span>Ativar:</span> <span class="font-bold">250k</span></div>
+                            <div class="flex justify-between"><span>Turno:</span> <span class="font-bold">500k</span></div>
+                        </div>
+                    </div>
+
+                    <!-- Rinnegan Supremo -->
+                    <div class="bg-base-200 p-3 rounded-lg border border-purple-500/30">
+                        <h4 class="font-bold text-xs uppercase mb-2 text-purple-400">R. Supremo</h4>
+                        <div class="text-[10px] space-y-1">
+                            <div class="flex justify-between"><span>Ativar:</span> <span class="font-bold">200k</span></div>
+                            <div class="flex justify-between"><span>Turno:</span> <span class="font-bold">400k</span></div>
+                        </div>
+                    </div>
+
+                    <!-- RinneSharingan -->
+                    <div class="bg-base-200 p-3 rounded-lg border border-red-600/50">
+                        <h4 class="font-bold text-xs uppercase mb-2 text-red-600 font-black">RinneSharingan</h4>
+                        <div class="text-[10px] space-y-1">
+                            <div class="flex justify-between"><span>Ativar:</span> <span class="font-bold">400k</span></div>
+                            <div class="flex justify-between"><span>Turno:</span> <span class="font-bold text-red-600">900k</span></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="divider"></div>
+
+            <section>
+                <h3 class="text-lg font-bold text-success mb-4 uppercase flex items-center gap-2">💰 TABELA DE PREÇOS</h3>
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                    <div class="bg-base-200 p-4 rounded-xl text-center border border-base-300">
+                        <p class="text-[10px] opacity-60 font-bold uppercase">Implantes</p>
+                        <p class="text-lg font-black text-success">3B</p>
+                    </div>
+                    <div class="bg-base-200 p-4 rounded-xl text-center border border-base-300">
+                        <p class="text-[10px] opacity-60 font-bold uppercase">Fusões</p>
+                        <p class="text-lg font-black text-success">7B</p>
+                    </div>
+                    <div class="bg-base-200 p-4 rounded-xl text-center border border-base-300">
+                        <p class="text-[10px] opacity-60 font-bold uppercase">Dōjutsus no Corpo</p>
+                        <p class="text-lg font-black text-success">3B</p>
+                    </div>
+                </div>
+            </section>
+
+            <div class="divider"></div>
+
+            <section class="bg-base-200 p-6 rounded-xl">
+                <h3 class="text-lg font-bold text-primary mb-4 uppercase">⚙️ SERVIÇOS ADICIONAIS</h3>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                    <div class="flex flex-col">
+                        <span class="text-xs opacity-60 uppercase font-bold">Olhos Artificiais</span>
+                        <span class="text-success font-bold text-lg">4 Bilhões</span>
+                        <span class="text-[10px] opacity-50 italic">Recuperar Visão</span>
+                    </div>
+                    <div class="flex flex-col">
+                        <span class="text-xs opacity-60 uppercase font-bold">Adaptação</span>
+                        <span class="text-success font-bold text-lg">6 Bilhões</span>
+                        <span class="text-[10px] opacity-50 italic">Reduz repouso p/ 24h</span>
+                    </div>
+                    <div class="flex flex-col">
+                        <span class="text-xs opacity-60 uppercase font-bold">Fusão de Dōjutsus</span>
+                        <span class="text-success font-bold text-lg">10 Bilhões</span>
+                        <span class="text-[10px] opacity-50 italic">2 dōjutsus em 1 olho</span>
+                    </div>
                 </div>
             </section>
             <!-- Fim conteúdo -->

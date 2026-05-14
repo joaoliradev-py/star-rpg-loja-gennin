@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-        <script>
+    <script>
         const isGH = window.location.hostname.includes('github.io');
         document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
     </script>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Criação de Personagem - Naruto RPG STAR</title>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
@@ -15,104 +15,91 @@
 <body>
     <!-- NavBar -->
     <script src="assets/navbar.js"></script>
-    <!-- fim NavBar -->
-    <main class="p-8 bg-[url(assets/images/vale_do_fim.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
-        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
-            <!-- Título principal -->
-            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Criação de Personagem</h1>
-            <!-- Subtítulo -->
-            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Sistemas</h2>
-            <div class="divider"></div>
-            <!-- Conteúdo aqui -->
-            <p class="text-lg font-bold text-center italic">🌀 Torne-se uma Lenda Original</p>
-            
-            <section>
-                <h3 class="font-bold text-blue-400 mb-2 underline italic">REQUISITOS PARA CRIAÇÃO</h3>
-                <div class="flex flex-wrap gap-4 justify-center">
-                    <span class="badge badge-info p-3">Patente Mínima: Jounnin</span>
-                    <span class="badge badge-info p-3">10 Missões Ninjas Concluídas</span>
-                </div>
-            </section>
+    
+    <main class="p-4 md:p-8 bg-[url(assets/images/vale_do_fim.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">CRIAÇÃO DE PERSONAGEM</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Sistema de Criação```</p>
 
-            <hr>
+            <div class="space-y-4">
+                <p>🌀 <strong>Sistema de Criação de Personagem</strong></p>
+                <p>Para criar um personagem original, o jogador deve:</p>
+                <p>• Ser Jounnin<br>
+                • Completar 10 missões ninjas</p>
+                
+                <p><strong>Após criar o personagem:</strong></p>
+                <p>• O jogador resetará para Genin<br>
+                • Perde técnicas e progressão<br>
+                • Mantém apenas o inventário</p>
+            </div>
 
-            <section class="p-4 bg-warning/10 border-l-4 border-warning rounded">
-                <h3 class="font-bold text-warning mb-2 uppercase">⚠️ O PREÇO DO RECOMEÇO</h3>
-                <p class="text-sm italic">Ao criar um personagem original, você aceita as seguintes condições:</p>
-                <ul class="text-xs mt-2 flex flex-col gap-1 list-disc list-inside">
-                    <li>Reset imediato para a patente <span class="font-bold">Gennin</span>.</li>
-                    <li>Perda total de técnicas, progressões e modos anteriores.</li>
-                    <li>O <span class="font-bold">Inventário</span> é o único item preservado.</li>
-                </ul>
-            </section>
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
 
-            <hr>
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">🎭 Escolha Inicial</p>
+                <p>Após o reset, escolha uma das opções:</p>
+                
+                <p>🎲 <strong>Sortear Clã</strong></p>
+                <p>Recebe um clã oficial do universo Naruto/Boruto.<br>
+                <span class="text-sm opacity-70">[ Porcentagem varia de acordo com a raridade do clã ]</span></p>
+            </div>
 
-            <section>
-                <h3 class="font-bold text-blue-400 mb-4 uppercase text-center">🧬 CAMINHOS DE PODER</h3>
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                    <div class="p-4 bg-base-300 rounded-lg shadow-inner">
-                        <p class="font-bold mb-2">🎲 Sortear Clã</p>
-                        <p class="text-xs opacity-70">Receba um clã oficial aleatório (Uchiha, Senju, Hyuga, etc). A raridade define a chance.</p>
-                    </div>
-                    <div class="p-4 bg-base-300 rounded-lg shadow-inner">
-                        <p class="font-bold mb-2 text-info">✨ Criar Kekkei Genkai</p>
-                        <p class="text-xs opacity-70">Crie uma linhagem única! Requer aprovação total da ADM e coerência com o universo.</p>
-                    </div>
-                </div>
-            </section>
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
 
-            <hr>
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">🧬 Criar Kekkei Genkai</p>
+                <p>Pode criar uma Kekkei Genkai própria.</p>
+                <p>• Deve ser coerente com chakra e o universo Naruto/Boruto.<br>
+                • Precisa de aprovação de todos os ADM.</p>
 
-            <section>
-                <h3 class="font-bold text-center mb-4 italic text-sm">Exemplos de Kekkei Genkai</h3>
-                <div class="grid grid-cols-2 gap-4 text-xs">
-                    <div class="text-success">
-                        <p class="font-bold mb-1 underline">PERMITIDAS:</p>
-                        <ul class="opacity-80">
-                            <li>• Vidro / Cinzas</li>
-                            <li>• Plasma / Som</li>
-                            <li>• Ferrugem / Vapor</li>
-                        </ul>
-                    </div>
-                    <div class="text-error">
-                        <p class="font-bold mb-1 underline">PROIBIDAS:</p>
-                        <ul class="opacity-80">
-                            <li>• Manipular Tempo/Realidade</li>
-                            <li>• Poderes Divinos Absolutos</li>
-                            <li>• Cópia Universal de Jutsus</li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
+                <p><strong>Exemplos válidos:</strong></p>
+                <p>Manipulação de vidro | Liberação de cinzas | Liberação de plasma | Manipulação sonora | Liberação de ferrugem</p>
 
-            <hr>
+                <p><strong>Exemplos proibidos:</strong></p>
+                <p>❌ Manipular tempo | ❌ Manipular realidade | ❌ Poderes divinos sem justificativa | ❌ Copiar qualquer jutsu</p>
+            </div>
 
-            <section>
-                <h3 class="font-bold text-blue-400 mb-4">🌪 AFINIDADES E COMBATE</h3>
-                <div class="p-4 bg-base-200 rounded-lg">
-                    <p class="text-sm mb-2 italic">Afinidades decididas por roleta:</p>
-                    <div class="flex flex-wrap gap-2 text-[10px] uppercase font-bold">
-                        <span class="p-1 bg-base-300 rounded">Ninjutsu</span>
-                        <span class="p-1 bg-base-300 rounded">Taijutsu</span>
-                        <span class="p-1 bg-base-300 rounded">Genjutsu</span>
-                        <span class="p-1 bg-base-300 rounded">Kenjutsu</span>
-                        <span class="p-1 bg-base-300 rounded">Fuinjutsu</span>
-                        <span class="p-1 bg-base-300 rounded">Kinjutsu</span>
-                    </div>
-                </div>
-                <div class="mt-4 p-3 border border-success/30 rounded text-center">
-                    <p class="text-xs text-success font-bold">✔ BÔNUS DE AFINIDADE: -50% Consumo de Chakra | Treinos 50% mais rápidos.</p>
-                </div>
-            </section>
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
 
-            <hr>
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">⚡ Custo Inicial da Kekkei Genkai</p>
+                <p>Toda Kekkei Genkai criada começa instável, com:</p>
+                <p>• Alto consumo de chakra<br>
+                • Técnicas pouco eficientes</p>
+                
+                <p>O custo diminui conforme o jogador treina e evolui a habilidade.<br>
+                <strong>[ Gasto mínimo de 500k p/Uso ]</strong></p>
+            </div>
 
-            <section>
-                <h3 class="font-bold text-error mb-2 italic">⚖️ LIMITES FINAIS</h3>
-                <p class="text-xs opacity-70 leading-relaxed">• Personagens originais evoluem habilidades básicas 2x mais rápido (ex: tempo de criação de jutsus reduzido). • Limite natural de 1 Kekkei Genkai por corpo.</p>
-            </section>
-            <!-- Fim conteúdo -->
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">🌪 Sistema de Elementos</p>
+                <p>Cada personagem pode ter até 3 afinidades naturais.</p>
+                <p>Os outros 4 elementos só podem ser aprendidos através de treinamento (sistema futuro).</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">🎓 Sistema de Afinidades de Combate</p>
+                <p>As afinidades são decididas por roleta, todas com a mesma porcentagem de chance.</p>
+                <p><strong>Possíveis afinidades:</strong></p>
+                <p>Genjutsu | Ninjutsu | Taijutsu | Kenjutsu | Fuinjutsu (Selamento) | Kinjutsu</p>
+
+                <p><strong>✔ Técnicas do estilo que o personagem possui afinidade:</strong></p>
+                <p>• Custam 50% menos chakra<br>
+                • Treinamentos são 50% mais rápidos</p>
+            </div>
+
+            <div class="divider my-8"></div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">⚖️ Limites e extras</p>
+                <p>• Personagens criados upam coisas básicas mais rápida que o normal; exemplo: tempo de espera para criar um jutsu é de 2 em 2 dias; Sharingan upa cada rank de acordo com a vitória;</p>
+                <p>• Cada personagem pode possuir apenas 1 Kekkei Genkai naturalmente.</p>
+                <p>• Outras podem ser obtidas apenas através de assimilação ou implantes.</p>
+            </div>
         </div>
     </main>
 </body>

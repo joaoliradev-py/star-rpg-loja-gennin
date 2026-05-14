@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-        <script>
+    <script>
         const isGH = window.location.hostname.includes('github.io');
         document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
     </script>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ninja Renegado (Nukenin) - Naruto RPG STAR</title>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
@@ -15,52 +15,76 @@
 <body>
     <!-- NavBar -->
     <script src="assets/navbar.js"></script>
-    <!-- fim NavBar -->
-    <main class="p-8 bg-[url(assets/images/vale_do_fim.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
-        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
-            <!-- Título principal -->
-            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Ninja Renegado (Nukenin)</h1>
-            <!-- Subtítulo -->
-            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Sistemas</h2>
-            <div class="divider"></div>
-            <!-- Conteúdo aqui -->
-            <p class="text-lg font-bold">NINJA RENEGADO <span class="text-error text-sm">(NUKENIN)</span></p>
-            <p>Shinobi que deixaram suas aldeias sem a intenção de voltar, cortando laços após cometerem atos criminosos ou para conseguir ganhos pessoais.</p>
-            <hr>
-            <p class="font-bold text-blue-400">Vantagens:</p>
-            <p>1. Não devem satisfação a ninguém, podendo entrar em quaisquer vilas ou locais.</p>
-            <p>2. O execute de nukinins retira <span class="font-bold text-error">todas as 3 vidas</span> e títulos, mandando diretamente para a academia.</p>
-            <hr>
-            <p class="font-bold text-blue-400">Como se tornar:</p>
-            <p>1. Executar um membro da vila da mesma patente (ativo). Ordem: <span class="font-bold">Título Especial > ANBU > Conselho > Kage</span>.</p>
-            
-            <div class="p-4 bg-base-300 rounded-lg text-center border-l-4 border-error shadow-sm">
-                <p class="font-bold">⚔️ Comando de Execução:</p>
-                <p class="font-bold">*/Executar @Fulano*</p>
-                <p class="font-bold">* 5 minutos p/Defesa *</p>
-                <p class="font-bold">@Adms</p>
+    
+    <main class="p-4 md:p-8 bg-[url(assets/images/akatsuki.jpg)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter text-error">NINJA RENEGADO</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```O Caminho do Fora-da-Lei (Nukenin)```</p>
+
+            <div class="space-y-4">
+                <p>Nukenin são shinobi que deixaram suas aldeias sem a intenção de voltar, cortando laços permanentemente. Muitas vezes, essa decisão ocorre após crimes graves ou pela busca de poder pessoal fora das leis da vila.</p>
+                
+                <p class="text-xl font-bold italic">💀 Vantagens:</p>
+                <p>1. <strong>Liberdade Total:</strong> Não devem satisfação a ninguém e podem entrar em quaisquer vilas ou locais (por conta própria e risco).<br>
+                2. <strong>Risco Máximo:</strong> O execute de nukenins retira <span class="text-error font-bold italic">todas as 3 vidas</span> e títulos instantaneamente.<br>
+                3. <strong>Acordos:</strong> Podem cobrar por proteção de vilas ou fazer acordos mercenários.</p>
             </div>
 
-            <hr>
-            <p class="font-bold text-blue-400">Card de Apresentação:</p>
-            <p><strong>Nome do Personagem</strong> | <span class="line-through opacity-60 text-error">Vila</span> | <span class="text-red-400 font-bold">Atributos: 28kk</span> | <strong>RANK SSS</strong></p>
-            <hr>
-            <p>Podem formar <span class="font-bold text-blue-400">Organizações</span> (mínimo 3 membros) com nome, símbolo e objetivo definido.</p>
-            <hr>
-            <p class="font-bold text-blue-400">Comandos Exclusivos:</p>
-            
-            <div class="p-4 bg-base-300 rounded-lg text-center border-l-4 border-purple-500 shadow-sm mb-4">
-                <p class="font-bold text-sm"><strong>*/Sequestrar @Fulano*</strong></p>
-                <p class="font-bold text-sm"><strong>* 5 minutos p/Defesa *</strong></p>
-                <p class="font-bold text-sm"><strong>@Adms</strong></p>
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-6">
+                <p class="text-xl font-bold italic">⚖️ Como se tornar:</p>
+                <p><strong>Requisito:</strong> Executar um membro da vila que seja da mesma patente e ativo. Caso não haja membros da mesma patente online, siga a ordem de prioridade:</p>
+                <p class="text-center font-bold opacity-70">Título Especial > ANBU > Conselho > Kage</p>
+                
+                <div class="p-6 bg-neutral/5 rounded-xl border border-error/20">
+                    <p class="text-center font-bold mb-4">⚔️ Comando para Desertar:</p>
+                    <p class="font-mono bg-neutral text-neutral-content p-4 rounded-lg block text-center mb-2">/Executar @Fulano</p>
+                    <p class="text-center text-xs opacity-60 italic mb-4">* 5 minutos para se defender *</p>
+                    <p class="text-center badge badge-error font-bold block mx-auto w-fit">@Adms</p>
+                </div>
+                
+                <p class="text-sm italic">Após a vitória, é obrigatório cenar riscando a bandana. Se não o fizer, será preso por 5 dias com punição adicional do conselho.</p>
             </div>
 
-            <div class="p-4 bg-base-300 rounded-lg text-center border-l-4 border-yellow-600 shadow-sm">
-                <p class="font-bold text-sm"><strong>*/Saquear: 10bi de [Vila]*</strong></p>
-                <p class="font-bold text-sm"><strong>* 5 minutos p/Defesa *</strong></p>
-                <p class="font-bold text-sm"><strong>@Adms</strong></p>
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">🏢 Organizações e Afiliações:</p>
+                <p>Nukenins podem formar organizações (como a Akatsuki). Requisitos:</p>
+                <ul class="list-disc list-inside space-y-1 pl-4 text-sm">
+                    <li>Mínimo de 3 membros.</li>
+                    <li>Líder definido.</li>
+                    <li>Símbolo/Imagem da organização.</li>
+                    <li>Objetivo definido (do simples ao complexo).</li>
+                </ul>
+                <p><em>Organizações podem começar com 1 membro, mas devem atingir 3 membros em até 15 dias para serem oficializadas e ganharem direito a um Esconderijo.</em></p>
             </div>
-            <!-- Fim conteúdo -->
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-6">
+                <p class="text-xl font-bold italic">🏴‍☠️ Comandos Exclusivos:</p>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div class="p-4 bg-base-200 rounded-lg border-l-4 border-purple-500">
+                        <p class="font-bold mb-2">/Sequestrar @Fulano</p>
+                        <p class="text-xs opacity-60">5m para defesa. Uso exclusivo para captura de alvos.</p>
+                    </div>
+                    <div class="p-4 bg-base-200 rounded-lg border-l-4 border-yellow-600">
+                        <p class="font-bold mb-2">/Saquear [Vila]</p>
+                        <p class="text-xs opacity-60">5m para defesa. Tenta roubar 10bi dos cofres da vila.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="divider my-8"></div>
+
+            <div class="p-4 bg-primary/5 rounded-lg border border-primary/20 text-center">
+                <p class="font-bold text-primary mb-1">Card de Apresentação Nukenin:</p>
+                <p class="text-sm font-mono">[Nome] | <span class="line-through opacity-40 text-error">[Vila]</span> | Atributos: 28kk | RANK SSS</p>
+                <p class="text-[10px] opacity-60 mt-2 uppercase">Gennins nukenins não acessam loja Chunnin. Chunnins nukenins acessam Jounnin via treino.</p>
+            </div>
         </div>
     </main>
 </body>

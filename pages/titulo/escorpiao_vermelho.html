@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-        <script>
+    <script>
         const isGH = window.location.hostname.includes('github.io');
         document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
     </script>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Escorpião Vermelho - Naruto RPG STAR</title>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
@@ -15,57 +15,76 @@
 <body>
     <!-- NavBar -->
     <script src="assets/navbar.js"></script>
-    <!-- fim NavBar -->
-    <main class="p-8 bg-[url(assets/images/vale_do_fim.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
-        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
-            <!-- Título principal -->
-            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Escorpião Vermelho</h1>
-            <!-- Subtítulo -->
-            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Sistemas</h2>
-            <div class="divider"></div>
-            <!-- Conteúdo aqui -->
-            <p class="text-lg font-bold text-red-500">Escorpião Vermelho</p>
-            <p class="font-semibold italic">Sistema de Areia vermelha — Caminho do Marionetista</p>
-            <p>Inspirado nas técnicas da Vila Oculta da Areia, esse sistema é baseado na técnica de marionetes. Não é algo que o player escolhe — ele precisa conquistar cada etapa.</p>
-            <hr>
-            <p><span class="font-bold text-blue-400">Requisitos:</span> Ser o escolhido pelo Feudal > Kage > Escorpião anterior. Ser no mínimo Chunnin.</p>
-            <p><span class="font-bold text-blue-400">Recompensa:</span> Grupo exclusivo para esconderijo e laboratório. <span class="font-bold italic text-red-400">Atributos: 35kk</span>.</p>
-            <p><span class="font-bold text-blue-400">Custos:</span> Equipamentos: 15bi | Marionete: 10bi | Marionete Humana: 20bi | Venenos: 5bi.</p>
-            <hr>
-            <p><span class="font-bold">Discípulos:</span> 1 por vila (obrigatório em Sunagakure). Atributos: 18kk.</p>
-            <hr>
-            <p class="font-bold text-blue-400 uppercase tracking-widest">FASE 1 — Domínio dos Fios de Chakra</p>
-            <p>Fios de chakra são a base dos marionetistas. Consistem na materialização do chakra em filamentos finos e resistentes.</p>
-            <p><span class="font-bold italic">Objetivo:</span> Aprender a criar e manter fios estáveis.</p>
-            <p><span class="font-bold">Treino:</span> Enviar ➰🌀 > ➿🌀 > 〰️🌀 (1x por min por 24h - 1.440 vezes).</p>
-            <p><span class="font-bold">Evolução:</span> Nv 1 (5 fios) | Nv 2 (10 fios) | Nv 3 (Fios Invisíveis) | Nv 4 (Mestria).</p>
-            <hr>
-            <p class="font-bold text-blue-400 uppercase tracking-widest">FASE 2 — Primeira Marionete</p>
-            <p>Criação mecânica com armamentos embutidos (lâminas, serras, venenos).</p>
-            <p><span class="font-bold italic">Objetivo:</span> Criar e utilizar uma marionete funcional.</p>
-            <p><span class="font-bold">Prova:</span> Texto 100 linhas criando, integrar arma e vencer 5 lutas.</p>
-            <hr>
-            <p class="font-bold text-blue-400 uppercase tracking-widest">FASE 3 — Manipulação em Combate</p>
-            <p>Prioriza controle, distância e planejamento. Capacidade de manipular múltiplas marionetes simultaneamente.</p>
-            <p><span class="font-bold italic">Objetivo:</span> Usar marionetes de forma estratégica.</p>
-            <p><span class="font-bold">Prova:</span> Lutar controlando à distância 2x e vencer sob pressão.</p>
-            <hr>
-            <p class="font-bold text-blue-400 uppercase tracking-widest">FASE 4 — Criação de Venenos</p>
-            <p>Disciplina essencial para letalidade. Toxinas que causam paralisia, necrose ou morte rápida.</p>
-            <p><span class="font-bold italic">Objetivo:</span> Dominar toxinas e aplicação em combate.</p>
-            <p><span class="font-bold">Prova:</span> Texto 50 linhas desenvolvendo veneno e antídoto.</p>
-            <hr>
-            <p class="font-bold text-error uppercase tracking-widest underline">FASE 5 — Marionetes Humanas (PROIBIDO)</p>
-            <p>Técnica sombria de transformar corpos reais em marionetes, preservando habilidades e Kekkei Genkai originais.</p>
-            <p><span class="font-bold text-blue-400">Requisitos:</span> Mestre em todas as fases + Matar um Kage e roubar seu corpo.</p>
-            <p><span class="font-bold">Prova:</span> Texto 200 linhas.</p>
-            <p class="text-error italic font-bold">Consequência: Risco de virar Nukenin e caça ao personagem.</p>
-            <hr>
-            <p class="p-4 bg-error/10 border-l-4 border-error rounded shadow-sm text-sm">
-                <span class="font-bold block mb-1">⚖️ Sistema de Limitações (IMPORTANTE):</span>
-                Marionetes Humanas não possuem autonomia, não usam habilidades de corpo (ex: Kaguya), não usam Modos ou Bijus.
-            </p>
-            <!-- Fim conteúdo -->
+    
+    <main class="p-4 md:p-8 bg-[url(assets/images/sunagakure.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">ESCORPIÃO VERMELHO</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Sistema de Areia Vermelha — Caminho do Marionetista```</p>
+
+            <div class="space-y-4">
+                <p>Inspirado nas técnicas da Vila Oculta da Areia, esse sistema é baseado na técnica de marionetes. Não é algo que o player escolhe — ele precisa conquistar cada etapa.</p>
+                
+                <p><strong>Requisitos:</strong> Ser o escolhido pelo Feudal > Kage > Escorpião anterior. Ser no mínimo Chunnin.</p>
+                <p><strong>Recompensa:</strong> Grupo exclusivo para esconderijo e laboratório. Atributos: 35kk.</p>
+                <p><strong>Custos:</strong> Equipamentos: 15bi | Marionete: 10bi | Marionete Humana: 20bi | Venenos: 5bi.</p>
+                <p><strong>Discípulos:</strong> 1 por vila (obrigatório em Sunagakure). Atributos: 18kk.</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-6">
+                <section>
+                    <p class="text-xl font-bold uppercase tracking-widest">FASE 1 — Domínio dos Fios de Chakra</p>
+                    <p>Fios de chakra são a base dos marionetistas. Consistem na materialização do chakra em filamentos finos e resistentes.</p>
+                    <p><strong>Objetivo:</strong> Aprender a criar e manter fios estáveis.</p>
+                    <p><strong>Treino:</strong> Enviar ➰🌀 > ➿🌀 > 〰️🌀 (1x por min por 24h - 1.440 vezes).</p>
+                    <p><strong>Evolução:</strong> Nv 1 (5 fios) | Nv 2 (10 fios) | Nv 3 (Fios Invisíveis) | Nv 4 (Mestria).</p>
+                </section>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <section>
+                    <p class="text-xl font-bold uppercase tracking-widest">FASE 2 — Primeira Marionete</p>
+                    <p>Criação mecânica com armamentos embutidos (lâminas, serras, venenos).</p>
+                    <p><strong>Objetivo:</strong> Criar e utilizar uma marionete funcional.</p>
+                    <p><strong>Prova:</strong> Texto 100 linhas criando, integrar arma e vencer 5 lutas.</p>
+                </section>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <section>
+                    <p class="text-xl font-bold uppercase tracking-widest">FASE 3 — Manipulação em Combate</p>
+                    <p>Prioriza controle, distância e planejamento. Capacidade de manipular múltiplas marionetes simultaneamente.</p>
+                    <p><strong>Objetivo:</strong> Usar marionetes de forma estratégica.</p>
+                    <p><strong>Prova:</strong> Lutar controlando à distância 2x e vencer sob pressão.</p>
+                </section>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <section>
+                    <p class="text-xl font-bold uppercase tracking-widest">FASE 4 — Criação de Venenos</p>
+                    <p>Disciplina essencial para letalidade. Toxinas que causam paralisia, necrose ou morte rápida.</p>
+                    <p><strong>Objetivo:</strong> Dominar toxinas e aplicação em combate.</p>
+                    <p><strong>Prova:</strong> Texto 50 linhas desenvolvendo veneno e antídoto.</p>
+                </section>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <section>
+                    <p class="text-xl font-bold uppercase tracking-widest underline">FASE 5 — Marionetes Humanas (PROIBIDO)</p>
+                    <p>Técnica sombria de transformar corpos reais em marionetes, preservando habilidades e Kekkei Genkai originais.</p>
+                    <p><strong>Requisitos:</strong> Mestre em todas as fases + Matar um Kage e roubar seu corpo.</p>
+                    <p><strong>Prova:</strong> Texto 200 linhas.</p>
+                    <p class="text-red-500 italic font-bold">Consequência: Risco de virar Nukenin e caça ao personagem.</p>
+                </section>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p><strong>⚖️ Sistema de Limitações (IMPORTANTE):</strong></p>
+                <p class="text-sm">Marionetes Humanas não possuem autonomia, não usam habilidades de corpo (ex: Kaguya), não usam Modos ou Bijus.</p>
+            </div>
         </div>
     </main>
 </body>

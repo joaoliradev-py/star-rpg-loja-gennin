@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guerra Ninja - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+    
+    <main class="p-4 md:p-8 bg-[url(assets/images/guerra_ninja.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">GUERRA NINJA</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Sistema de Guerras```</p>
+
+            <div class="space-y-4">
+                <p>Quando duas ou mais vilas declaram guerra, as lutas no RPG começam a seguir um sistema diferente, o plano é aplicar algo mais realista e adequado para um clima de guerra</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">Fome</p>
+                <p>Os jogadores agora tem um medidor de fome que se esgota a cada luta sendo necessário comer algum alimento para restaurar sua energia e continuar lutando</p>
+                
+                <p class="text-xl font-bold italic">Recursos</p>
+                <p>Estabelecimentos durante guerras se tornam os maiores aliados dos jogadores pois os recursos são limitados, cada vila tem um estoque de alimentos que são dividos em 3 refeições pra cada player, quando as refeições se esgotam os jogadores devem sair pelos caminhos/estabelecimentos em busca de recursos.</p>
+                <p>Lutar com fome resulta na perda de 1 Rank de velocidade de movimento e gasto duplicado em qualquer técnica ou modo</p>
+
+                <p class="text-xl font-bold italic">Cansaço</p>
+                <p>Cada player pode lutar em guerra diariamente até 2 vezes, após isso ele fica fora de combate por cansaço, isso faz com que os kages tenham que ser estratégicos durante uma guerra poupando seus guerreiros mais fortes.</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p>Para declarar uma guerra o kage de uma vila deve ir no chat global e mandar o seguinte comando</p>
+                
+                <p><strong>Comando:</strong></p>
+                <p><em>*/Guerra*</em></p>
+                
+                <p><em>> Eu Shodai Hokage de konohagakure declaro guerra contra bla bla bla</em></p>
+                
+                <p>A vila que sofreu a ameaça tem 30 minutos para entrar em acordo com a vila que declarou guerra, do contrário a guerra será iniciada</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p>É importante ressaltar que os jogadores não podem avançar direto para a vila inimiga, devem conquistar os caminhos relacionados a vila</p>
+                
+                <p><strong>Exemplo:</strong> Os domínios de konoha começam a partir da floresta sombria, logo a vila inimiga deve começar dominando aquele local e ir avançando aos poucos</p>
+                
+                <p>Para dominar um caminho a vila deve eliminar todos os membros da vila inimiga presentes no caminho e após isso enviar um comando de dominação</p>
+                
+                <p><strong>Comando:</strong></p>
+                <p><em>*/Dominar*</em></p>
+                
+                <p>Os oponentes tem 15 minutos para chegar ao local e impedir a dominação</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p>Para finalizar a guerra pode-se fazer um tratado de paz ou executar o feudal da vila em questão zerando a vila completamente.</p>
+                
+                <p><strong>Observação:</strong> Vilas que estão em guerra não podem participar de exames</p>
+                
+                <p>Execute em guerra é on das 08:00 as 00:00hrs</p>
+            </div>
+
+            <div class="divider my-8"></div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">Os lutadores destaques da guerra recebem:</p>
+                
+                <p>• UP de patente<br>
+                • Um dojutsu ou sangue de escolha<br>
+                • 10B<br>
+                • Um "título" tipo "Deus da guerra", "pai da humanidade"</p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

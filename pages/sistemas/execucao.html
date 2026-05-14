@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-        <script>
+    <script>
         const isGH = window.location.hostname.includes('github.io');
         document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
     </script>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Execução - Naruto RPG STAR</title>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
@@ -15,42 +15,65 @@
 <body>
     <!-- NavBar -->
     <script src="assets/navbar.js"></script>
-    <!-- fim NavBar -->
-    <main class="p-8 bg-[url(assets/images/execucao.jpg)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
-        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
-            <!-- Título principal -->
-            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Execução</h1>
-            <!-- Subtítulo -->
-            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Sistemas</h2>
-            <div class="divider"></div>
-            <!-- Conteúdo aqui -->
-            <p class="text-lg font-bold">Sistema de Execução</p>
-            <p>📜 Execuções e Desafios Oficiais – Duelo</p>
-            <p>Execução é um comando onde você tem como objetivo eliminar outro player. Esse comando inicia uma luta oficial, onde não há erros tolerados, apenas karmas e punições mais severas.</p>
-            <hr>
-            <p>Cada jogador possui <span class="font-bold text-red-500">3 vidas</span> no RPG. É impossível recuperar essas vidas caso perdidas; ao chegar à sua última vida, o jogador volta para a academia perdendo tudo.</p>
-            <hr>
-            <p class="font-bold text-blue-400">📌 Regras de Execuções e Duelos:</p>
-            <p>• A luta pode se encerrar com um acordo/paz, porém o desafiado recebe derrota.</p>
-            <p>• Ao acumular 3 karmas, o jogador é derrotado automaticamente.</p>
-            <p>• Ir no PV do juiz gera karma. Fogo amigo sempre estará ligado.</p>
-            <p>• Horário: 07:00 às 23:00 (Finais de semana e feriados até as 20h).</p>
-            <hr>
-            <div class="p-4 bg-base-300 rounded-lg text-center border-l-4 border-error shadow-sm">
-                <p class="font-bold">⚔️ Comando de Execução:</p>
-                <p class="font-bold">*/Executar @Fulano*</p>
-                <p class="font-bold">* 5 minutos p/Defesa *</p>
-                <p class="font-bold">@Adms</p>
+    
+    <main class="p-4 md:p-8 bg-[url(assets/images/execucao.jpg)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">SISTEMA DE EXECUÇÃO</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Execuções e Duelos Oficiais```</p>
+
+            <div class="space-y-4">
+                <p>Execução é um comando onde você tem como objetivo eliminar outro player. Esse comando inicia uma luta oficial, onde não há erros tolerados, apenas karmas e punições mais severas.</p>
+                <p>Desafios Oficiais, ou simplesmente Duelo, são uma modalidade de luta usada na arena, onde o desafiante pode definir regras específicas ou lutar valendo algo em específico.</p>
             </div>
-            <hr>
-            <p class="font-bold text-blue-400 underline text-center">🛡️ Defesas e Ataques:</p>
-            <div class="flex flex-wrap justify-center gap-6">
-                <p><strong>*/Me defendo*</strong></p>
-                <p><strong>*/Defendo @fulano*</strong></p>
-                <p><strong>*/Ataco*</strong></p>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p>Cada jogador possui 3 vidas no RPG. É impossível recuperar essas vidas caso perdidas; ao chegar a sua última vida o jogador volta para academia perdendo tudo.</p>
+                <p><strong>Nukkenins e portadores de título perdem as 3 vidas instantaneamente ao serem executados.</strong></p>
             </div>
-            <p class="text-center text-xs opacity-60 italic">(Sempre marcando o comando de execução)</p>
-            <!-- Fim conteúdo -->
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold uppercase tracking-widest">REGRAS GERAIS</p>
+                <p>• A luta pode se encerrar com um acordo/paz, porém o desafiado recebe derrota.</p>
+                <p>• Ao acumular 3 karmas, o jogador é derrotado automaticamente.</p>
+                <p>• Ir no privado do juiz gera karma.</p>
+                <p>• Fogo amigo sempre estará ligado nas execuções.</p>
+                <p>• Ambas as partes podem pausar a execução 1 vez por até 3 horas.</p>
+                <p>• Estar offline nos primeiros 5 minutos de combo resulta em perda da vez.</p>
+                <p>• <strong>Horários:</strong> 07:00 às 23:00 (dias de semana). Finais de semana e feriados: liberado até as 20h.</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold uppercase tracking-widest text-red-500">IMUNIDADES E LOCALIZAÇÃO</p>
+                <p>• É necessário localizar ou ver o alvo; o jogador deve estar online nos últimos 10 minutos.</p>
+                <p>• Jogadores offline há mais de 10 minutos em todos os domínios do RPG não podem ser alvos.</p>
+                <p>• Ficam imunes jogadores que comprovem estar ocupados (trabalho, hospital, etc).</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-6">
+                <p class="text-xl font-bold uppercase tracking-widest">COMANDOS</p>
+                <p><strong>Início:</strong> */Executar @Fulano*</p>
+                <div class="pl-4 space-y-1 text-sm italic">
+                    <p>- 5 minutos para defesa em campo aberto.</p>
+                    <p>- 10 minutos em vilas ou esconderijos.</p>
+                    <p>- 20 minutos em caso de guerra.</p>
+                </div>
+                
+                <p><strong>Defesa:</strong> /Me defendo</p>
+                <p><strong>Apoio:</strong> /Defendo @Fulano</p>
+                <p><strong>Ataque:</strong> /Ataco</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <p class="text-sm italic">O comando de execução deve ser sempre marcado para ciência da administração.</p>
         </div>
     </main>
 </body>
