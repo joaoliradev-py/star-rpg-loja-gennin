@@ -107,6 +107,7 @@
                                 <li><a href="pages/sistemas/susanoo.html">Evolução Susanoo</a></li>
                                 <li><a href="pages/sistemas/bijuus.html">Bijuus</a></li>
                                 <li><a href="pages/sistemas/guardioes_ninja.html">Guardiões Ninja</a></li>
+                                <li><a href="pages/sistemas/sistema_medico.html">Sistema Médico</a></li>
                             </ul>
                         </details>
                     </li>
@@ -207,6 +208,7 @@
                             <li><a href="pages/sistemas/susanoo.html">Evolução Susanoo</a></li>
                             <li><a href="pages/sistemas/bijuus.html">Bijuus</a></li>
                             <li><a href="pages/sistemas/guardioes_ninja.html">Guardiões Ninja</a></li>
+                            <li><a href="pages/sistemas/sistema_medico.html">Sistema Médico</a></li>
                         </ul>
                     </details>
                 </li>
