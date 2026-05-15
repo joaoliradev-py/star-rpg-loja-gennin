@@ -100,6 +100,7 @@
                                 <li><a href="pages/sistemas/execucao.html">Execução</a></li>
                                 <li><a href="pages/sistemas/criacao_personagem.html">Criação de Personagem</a></li>
                                 <li><a href="pages/sistemas/on_off.html">On/Off</a></li>
+                                <li><a href="pages/sistemas/locomocao_caminhos.html">Locomoção & Caminhos</a></li>
                                 <li><a href="pages/sistemas/troca_de_vilas.html">Troca de Vilas</a></li>
                                 <li><a href="pages/sistemas/seis_caminhos.html">Seis Caminhos de Pain</a></li>
                                 <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>
@@ -199,6 +200,7 @@
                             <li><a href="pages/sistemas/execucao.html">Execução</a></li>
                             <li><a href="pages/sistemas/criacao_personagem.html">Criação de Personagem</a></li>
                             <li><a href="pages/sistemas/on_off.html">On/Off</a></li>
+                            <li><a href="pages/sistemas/locomocao_caminhos.html">Locomoção & Caminhos</a></li>
                             <li><a href="pages/sistemas/troca_de_vilas.html">Troca de Vilas</a></li>
                             <li><a href="pages/sistemas/seis_caminhos.html">Seis Caminhos de Pain</a></li>
                             <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>

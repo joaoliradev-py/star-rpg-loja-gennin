@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Locomoção & Caminhos - Naruto RPG STAR</title>
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+    <!-- fim NavBar -->
+    
+    <main class="p-4 md:p-8 bg-[url(assets/images/naruto_road_map.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">LOCOMOÇÃO NOS CAMINHOS</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Sistema de Dinâmica```</p>
+
+            <div class="space-y-4">
+                <p>Para tornar a vida de todos mais dinâmica e a experiência mais imersiva, as seguintes regras foram adicionadas nos caminhos:</p>
+                
+                <p>• Obrigatório enviar 1 ponto quando entra e 1 quando sai, tendo que esperar <strong>20 minutos</strong> a cada caminho, caso você vá andando.</p>
+                
+                <p>• É possível utilizar técnicas de teleporte, invocações ou até mesmo o simples ato de voar para se locomover mais rápido enquanto viaja.</p>
+                
+                <p>• Invocações grandes como sapos, serpentes, pássaros e afins, reduzem o tempo necessário para <strong>10 min</strong>.</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">Técnicas e Especialidades</p>
+                
+                <p>• <strong>Técnicas de movimento rápido:</strong> (Cintilação Corporal, flash amarelo, etc.) reduzem o tempo de viagem conforme seu rank de velocidade.</p>
+                
+                <p>• <strong>Técnicas que fazem o usuário voar:</strong> (Susano'o Perfeito, Técnica de Vôo, Marca da maldição último estágio, etc) também reduzem o tempo de viagem conforme seu rank de velocidade, além de lhe dar uma prevenção contra armadilhas.</p>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold italic">Rank de Velocidade dos Caminhos</p>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-2 font-mono text-sm bg-base-200 p-4 rounded-lg">
+                    <p>Rank 0 = 1 minuto</p>
+                    <p>Rank 1 = 2 minutos</p>
+                    <p>Rank 2 = 4 minutos</p>
+                    <p>Rank 3 = 8 minutos</p>
+                    <p>Rank 4 = 12 minutos</p>
+                    <p>Rank 5 = 16 minutos</p>
+                    <p>Rank 6 = 20 minutos</p>
+                </div>
+                
+                <p class="text-xs italic opacity-70 mt-2">Rank 7 (ou "estar parado") = ∞. Se você está parado, não se locomove.</p>
+            </div>
+
+            <div class="divider my-8"></div>
+
+            <p class="text-center text-xs opacity-50 italic">"A velocidade de um shinobi define sua sobrevivência."</p>
+        </div>
+    </main>
+</body>
+</html>
