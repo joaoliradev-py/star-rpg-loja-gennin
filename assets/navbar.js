@@ -105,9 +105,18 @@
                                 <li><a href="pages/sistemas/seis_caminhos.html">Seis Caminhos de Pain</a></li>
                                 <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>
                                 <li><a href="pages/sistemas/susanoo.html">Evolução Susanoo</a></li>
-                                <li><a href="pages/sistemas/bijuus.html">Bijuus</a></li>
                                 <li><a href="pages/sistemas/guardioes_ninja.html">Guardiões Ninja</a></li>
                                 <li><a href="pages/sistemas/sistema_medico.html">Sistema Médico</a></li>
+                                <li>
+                                    <details>
+                                        <summary class="font-bold text-orange-500">Caça às Bijūs</summary>
+                                        <ul class="p-2 rounded-lg mt-1">
+                                            <li><a href="pages/sistemas/bijuus.html">Sistema de Bijūs</a></li>
+                                            <li><a href="pages/sistemas/comabte_logica.html">Combate de Lógica</a></li>
+                                            <li><a href="pages/sistemas/jutsus_supremos.html">Jutsus Supremos</a></li>
+                                        </ul>
+                                    </details>
+                                </li>
                             </ul>
                         </details>
                     </li>
@@ -121,7 +130,7 @@
                                 <li class="border-t border-base-content/10 mt-2 pt-2">
                                     <details>
                                         <summary class="font-bold text-primary">Sete Espadachins</summary>
-                                        <ul class="p-2 bg-base-200 rounded-lg mt-1 shadow-inner">
+                                        <ul class="p-2 rounded-lg mt-1">
                                             <li><a href="pages/titulo/espadachin_da_nevao.html">Sistema (Título)</a></li>
                                             <li><a href="pages/titulo/espadas_da_nevoa.html">Enciclopédia (Espadas)</a></li>
                                             <li><a href="pages/titulo/missoes.html">Missões de Assassinato</a></li>
@@ -206,9 +215,18 @@
                             <li><a href="pages/sistemas/seis_caminhos.html">Seis Caminhos de Pain</a></li>
                             <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>
                             <li><a href="pages/sistemas/susanoo.html">Evolução Susanoo</a></li>
-                            <li><a href="pages/sistemas/bijuus.html">Bijuus</a></li>
                             <li><a href="pages/sistemas/guardioes_ninja.html">Guardiões Ninja</a></li>
                             <li><a href="pages/sistemas/sistema_medico.html">Sistema Médico</a></li>
+                            <li>
+                                <details>
+                                    <summary class="font-bold text-orange-500">Caça às Bijūs</summary>
+                                    <ul class="p-2 rounded-lg mt-1">
+                                        <li><a href="pages/sistemas/bijuus.html">Sistema de Bijūs</a></li>
+                                        <li><a href="pages/sistemas/comabte_logica.html">Combate de Lógica</a></li>
+                                        <li><a href="pages/sistemas/jutsus_supremos.html">Jutsus Supremos</a></li>
+                                    </ul>
+                                </details>
+                            </li>
                         </ul>
                     </details>
                 </li>
