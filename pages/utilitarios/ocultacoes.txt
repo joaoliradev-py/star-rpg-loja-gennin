@@ -1,0 +1,87 @@
+🍥 Naruto RPG - STAR 🍜
+📜 HIDDEN ACTION SYSTEM 📜
+```Sistema de Ocultação```
+
+🧠 Conceito
+
+Permite que o jogador execute uma ação secreta durante o turno, ocultando completamente sua intenção dos outros jogadores, revelando-a apenas no momento oportuno para criar ataques surpresa, armadilhas ou estratégias avançadas.
+
+✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+⚙️ Como Funciona
+
+1. Declaração Oculta
+
+• O jogador escreve normalmente sua ação escondida (movimento, preparação, ataque, armadilha, etc).
+
+Essa ação deve ser completa e detalhada, incluindo:
+
+• Tempo de execução
+• Alvo (se houver)
+• Condição de ativação (se não for imediata)
+
+2. Envio ao Juiz
+
+A ação é enviada via visualização única durante o combo + a cena no PV do Juiz.
+Após envio, não pode ser alterada.
+
+3. Registro de Tempo
+
+O horário de envio define o turno da ação. (Se ela ocorre antes ou depois de outra ação)
+Qualquer ação enviada depois do turno não é válida.
+
+✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+🎭 Tipos de Ocultação
+
+• Ocultação Imediata
+
+A ação acontece no mesmo turno, mas sem que os outros saibam.
+Ex: desaparecer na fumaça e atacar pelas costas.
+
+• Ocultação Preparatória
+
+A ação fica “guardada” até ser ativada.
+Ex: preparar uma armadilha invisível no campo.
+
+• Ocultação Condicional
+
+Só ativa quando algo acontece.
+Ex: “Se ele avançar 5 metros, eu ataco”.
+
+✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+👁️ Revelação
+
+A ação oculta será revelada quando:
+
+O jogador decidir ativar
+A condição for cumprida
+O juiz determinar que houve interação direta
+
+O juiz então descreve a ação como se estivesse acontecendo naquele momento.
+
+✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+⚖️ Regras de Equilíbrio ⚖️
+
+❌ Não pode alterar ação depois de enviada
+❌ Não pode reagir a algo que aconteceu depois do envio
+❌ Não pode usar conhecimento fora do personagem
+❌ Não pode ocultar jutsus globais, exceto pela sua preparação
+✔️ Habilidades e Jutsus de larga escala não podem ser ocultados, a não ser que estejam em névoa ou semelhantes
+✔️ A ação deve ser possível dentro do tempo declarado
+✔️ O juiz pode invalidar ações incoerentes
+✔️ doujutsu que tem "Impede ocultação" anulam a chance de ocultação (Só não dá pra usar esse sistema contra eles)
+
+✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+Contra-Jogo (Muito importante)
+
+Pra não ficar roubado:
+
+Sensores, percepção ou habilidades especiais podem detectar algo estranho, no entanto, habilidade que requer um tipo de detecção para serem evitadas só pode ser detectadas se tiver, assim como no padrão.
+
+Jogadores podem declarar:
+
+“Estou atento ao ambiente”
+“Procuro intenções hostis”
+
+Isso pode gerar:
+
+Detecção parcial, redução da eficácia, reação defensiva; assim o alvo pode realizar uma ação como contra medida da ação ocultada.
