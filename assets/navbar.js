@@ -127,6 +127,7 @@
                                 <li><a href="pages/titulo/sannin_lendario.html">Sannin Lendário</a></li>
                                 <li><a href="pages/titulo/escorpiao_vermelho.html">Escorpião Vermelho</a></li>
                                 <li><a href="pages/titulo/nukkennin.html">Nukkenin</a></li>
+                                <li><a href="pages/titulo/corpo_de_explosao.html">Corpo de Explosão</a></li>
                                 <li class="border-t border-base-content/10 mt-2 pt-2">
                                     <details>
                                         <summary class="font-bold text-primary">Sete Espadachins</summary>
@@ -237,6 +238,7 @@
                             <li><a href="pages/titulo/sannin_lendario.html">Sannin Lendário</a></li>
                             <li><a href="pages/titulo/escorpiao_vermelho.html">Escorpião Vermelho</a></li>
                             <li><a href="pages/titulo/nukkennin.html">Nukkenin</a></li>
+                            <li><a href="pages/titulo/corpo_de_explosao.html">Corpo de Explosão</a></li>
                             <li>
                                 <details>
                                     <summary class="font-bold text-primary">Sete Espadachins</summary>
