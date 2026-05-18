@@ -1,30 +1,10 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-        <script>
-        const isGH = window.location.hostname.includes('github.io');
-        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
-    </script>
-<meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Taijutsu - Naruto RPG STAR</title>
-    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
-    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="assets/style.css">
-</head>
-<body>
-    <!-- NavBar -->
-    <script src="assets/navbar.js"></script>
-    <!-- fim NavBar -->
-    <main class="p-8 bg-[url(assets/images/arena_exame_chunnin.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
-        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
-            <!-- Título principal -->
-            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">🥋 TAIJUTSU (体術) 🥋</h1>
-            <!-- Subtítulo -->
-            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Habilidades Gerais</h2>
-            <div class="divider"></div>
-                        <!-- Conteúdo aqui -->
+const fs = require('fs');
+const path = require('path');
+
+const htmlPath = path.join(process.cwd(), 'pages/habilidades_gerais/taijutsus.html');
+let html = fs.readFileSync(htmlPath, 'utf8');
+
+const replacement = `            <!-- Conteúdo aqui -->
             <p>Taijutsu (体術; Literalmente significa "Técnicas Corporais") é uma forma básica de técnicas e refere-se à qualquer técnica que envolva artes marciais ou a otimização das habilidades humanas naturais. O Taijutsu é executado ao acessar diretamente as energias físicas e mentais do usuário, contando com a resistência e força ganhas através do treinamento. O Taijutsu tipicamente não requer chakra, apesar do chakra poder ser usado para fortificar suas técnicas, e dispensa selos de mão na maioria das vezes, ocasionalmente fazendo certos gestos ou poses, além de ser muito mais rápido de usar do que ninjutsu ou genjutsu. Taijutsu é colocado simplesmente como combate corpo-a-corpo.</p>
             
             <p>"Apenas um trago nesse meu cigarro<br>Olhando pro mar onde me recomponho"</p>
@@ -211,8 +191,8 @@
                 <li>Qualquer Um Pode Fazer; Apenas 10 Movimentos São Permitidos</li>
                 <li>Caso Troque de PP, Necessita Pagar 1b Pra Recuperar o Estilo Próprio</li>
             </ul>
-            <!-- fim conteúdo -->
-        </div>
-    </main>
-</body>
-</html>
+            <!-- fim conteúdo -->`
+
+html = html.replace(/<!-- Conteúdo aqui -->[\s\S]*<!-- fim conteúdo -->/, replacement);
+fs.writeFileSync(htmlPath, html);
+console.log("Updated html!");

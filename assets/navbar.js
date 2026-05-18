@@ -95,19 +95,21 @@
                         <details>
                             <summary>Sistemas</summary>
                             <ul class="bg-base-100 rounded-t-none p-2 w-64 shadow-lg">
-                                <li><a href="pages/sistemas/ups.html">Sistema de Ups</a></li>
-                                <li><a href="pages/sistemas/roubo_sangue.html">Roubo de Sangue</a></li>
-                                <li><a href="pages/sistemas/execucao.html">Execução</a></li>
                                 <li><a href="pages/sistemas/criacao_personagem.html">Criação de Personagem</a></li>
-                                <li><a href="pages/sistemas/on_off.html">On/Off</a></li>
-                                <li><a href="pages/sistemas/locomocao_caminhos.html">Locomoção & Caminhos</a></li>
-                                <li><a href="pages/sistemas/troca_de_vilas.html">Troca de Vilas</a></li>
-                                <li><a href="pages/sistemas/seis_caminhos.html">Seis Caminhos de Pain</a></li>
-                                <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>
                                 <li><a href="pages/sistemas/susanoo.html">Evolução Susanoo</a></li>
+                                <li><a href="pages/sistemas/execucao.html">Execução</a></li>
                                 <li><a href="pages/sistemas/guardioes_ninja.html">Guardiões Ninja</a></li>
-                                <li><a href="pages/sistemas/sistema_medico.html">Sistema Médico</a></li>
+                                <li><a href="pages/sistemas/guerras_ninja.html">Guerra Ninja</a></li>
+                                <li><a href="pages/sistemas/locomocao_caminhos.html">Locomoção & Caminhos</a></li>
+                                <li><a href="pages/sistemas/on_off.html">On/Off</a></li>
+                                <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>
+                                <li><a href="pages/sistemas/roubo_sangue.html">Roubo de Sangue</a></li>
+                                <li><a href="pages/sistemas/seis_caminhos.html">Seis Caminhos de Pain</a></li>
+                                <li><a href="pages/sistemas/sistema_cientifico.html">Sistema Científico</a></li>
                                 <li><a href="pages/sistemas/armadilhas.html">Sistema de Armadilhas</a></li>
+                                <li><a href="pages/sistemas/ups.html">Sistema de UPs (Cards e Ranks)</a></li>
+                                <li><a href="pages/sistemas/sistema_medico.html">Sistema Médico</a></li>
+                                <li><a href="pages/sistemas/troca_de_vilas.html">Troca de Vilas</a></li>
                                 <li>
                                     <details>
                                         <summary class="font-bold text-orange-500">Caça às Bijūs</summary>
@@ -206,19 +208,21 @@
                     <details>
                         <summary>Sistemas</summary>
                         <ul>
-                            <li><a href="pages/sistemas/ups.html">Sistema de Ups</a></li>
-                            <li><a href="pages/sistemas/roubo_sangue.html">Roubo de Sangue</a></li>
-                            <li><a href="pages/sistemas/execucao.html">Execução</a></li>
                             <li><a href="pages/sistemas/criacao_personagem.html">Criação de Personagem</a></li>
-                            <li><a href="pages/sistemas/on_off.html">On/Off</a></li>
-                            <li><a href="pages/sistemas/locomocao_caminhos.html">Locomoção & Caminhos</a></li>
-                            <li><a href="pages/sistemas/troca_de_vilas.html">Troca de Vilas</a></li>
-                            <li><a href="pages/sistemas/seis_caminhos.html">Seis Caminhos de Pain</a></li>
-                            <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>
                             <li><a href="pages/sistemas/susanoo.html">Evolução Susanoo</a></li>
+                            <li><a href="pages/sistemas/execucao.html">Execução</a></li>
                             <li><a href="pages/sistemas/guardioes_ninja.html">Guardiões Ninja</a></li>
-                            <li><a href="pages/sistemas/sistema_medico.html">Sistema Médico</a></li>
+                            <li><a href="pages/sistemas/guerras_ninja.html">Guerra Ninja</a></li>
+                            <li><a href="pages/sistemas/locomocao_caminhos.html">Locomoção & Caminhos</a></li>
+                            <li><a href="pages/sistemas/on_off.html">On/Off</a></li>
+                            <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>
+                            <li><a href="pages/sistemas/roubo_sangue.html">Roubo de Sangue</a></li>
+                            <li><a href="pages/sistemas/seis_caminhos.html">Seis Caminhos de Pain</a></li>
+                            <li><a href="pages/sistemas/sistema_cientifico.html">Sistema Científico</a></li>
                             <li><a href="pages/sistemas/armadilhas.html">Sistema de Armadilhas</a></li>
+                            <li><a href="pages/sistemas/ups.html">Sistema de UPs (Cards e Ranks)</a></li>
+                            <li><a href="pages/sistemas/sistema_medico.html">Sistema Médico</a></li>
+                            <li><a href="pages/sistemas/troca_de_vilas.html">Troca de Vilas</a></li>
                             <li>
                                 <details>
                                     <summary class="font-bold text-orange-500">Caça às Bijūs</summary>

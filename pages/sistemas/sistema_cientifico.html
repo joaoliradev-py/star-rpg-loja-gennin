@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema Científico - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+    <!-- fim NavBar -->
+
+    <main class="p-8 bg-[url(assets/images/kara.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-4xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-4 uppercase tracking-tighter text-blue-500">🧪 Sistema Científico — Naruto & Boruto 🧪</h1>
+            <p class="mb-2 text-justify">O Sistema Científico é uma especialização focada em biotecnologia ninja, engenharia genética, transplantes, clonagem, próteses, manipulação celular, desenvolvimento farmacológico e ferramentas científicas. Cientistas são responsáveis pela evolução tecnológica do mundo shinobi, podendo alterar organismos vivos, criar armas científicas e desenvolver corpos artificiais através da ciência e do chakra.</p>
+            <p class="mb-2 text-justify">Esse caminho é considerado um dos mais difíceis dentro do RPG, exigindo inteligência, recursos, estrutura e grande tempo de pesquisa. Diferente dos ninjas comuns, cientistas dependem de laboratórios, bancos genéticos e experimentos para evoluírem.</p>
+            <p class="mb-2 text-justify">Além da ciência convencional, existe também a ciência proibida, uma vertente secreta ligada à evolução corporal extrema, imortalidade e experimentos humanos.</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Apenas 3 Cientistas por Vila</li>
+                <li>Pode iniciar o treinamento como Jounnin</li>
+                <li>Necessita autorização do Kage</li>
+                <li>Cada cientista pode possuir apenas 2 especializações científicas</li>
+            </ul>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">📚 Aprendizado</h2>
+            <p class="mb-2 text-justify">O aprendizado científico começa através do estudo do corpo humano, controle de chakra aplicado à biologia e utilização básica de equipamentos laboratoriais. Inicialmente, o cientista aprende anatomia, análise genética, extração sanguínea, estabilização celular e manipulação química simples.</p>
+            <p class="mb-2 text-justify">Com o avanço, o usuário passa a desenvolver próteses, transplantes, drogas militares, organismos artificiais e modificações corporais. Em níveis superiores, a ciência alcança áreas extremamente perigosas, como clonagem, engenharia genética, transplantes múltiplos e criação de núcleos artificiais de chakra.</p>
+            <p class="mb-2 text-justify">O progresso depende de:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Inteligência;</li>
+                <li>Tempo de pesquisa;</li>
+                <li>Qualidade do laboratório;</li>
+                <li>Qualidade das cobaias;</li>
+                <li>Raridade do DNA utilizado;</li>
+                <li>Experimentos concluídos;</li>
+                <li>Missões científicas;</li>
+            </ul>
+            <p class="mb-2 text-justify">Aprovação administrativa.</p>
+            <p class="mb-2 text-justify">Cada cientista possui:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Laboratório;</li>
+                <li>Banco genético;</li>
+                <li>Arquivos científicos;</li>
+                <li>Cobaias;</li>
+                <li>Projetos ativos;</li>
+                <li>Recursos financeiros;</li>
+            </ul>
+            <p class="mb-2 text-justify">Patentes biológicas.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Rank D — Assistente Anatômico</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Requisitos:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Treinamento básico de chakra;</li>
+                <li>Conhecimento anatômico básico (texto de 25 linhas);</li>
+            </ul>
+            <p class="mb-2 text-justify">1 treino científico concluído.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Permite:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Coleta sanguínea;</li>
+                <li>Dissecação básica;</li>
+                <li>Preservação de órgãos;</li>
+                <li>Produção de venenos simples;</li>
+                <li>Medicamentos básicos;</li>
+                <li>Sedativos;</li>
+                <li>Análise microscópica;</li>
+            </ul>
+            <p class="mb-2 text-justify">Coleta genética.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Desbloqueia:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Mini laboratório;</li>
+                <li>1 cobaia;</li>
+            </ul>
+            <p class="mb-2 text-justify">Armazenamento genético simples.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Rank C — Bioquímico Experimental</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Requisitos:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>3 pesquisas concluídas;</li>
+                <li>2 experimentos aprovados;</li>
+            </ul>
+            <p class="mb-2 text-justify">3 treinos científicos (20 linhas).</p>
+            <p class="font-bold text-accent mt-3 mb-1">Permite:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Manipulação celular;</li>
+                <li>Síntese farmacológica;</li>
+                <li>Cultivo orgânico;</li>
+                <li>Próteses simples;</li>
+                <li>Mutações leves;</li>
+                <li>Criação de drogas militares;</li>
+                <li>Implantes básicos;</li>
+            </ul>
+            <p class="mb-2 text-justify">Engenharia de chakra simples.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Desbloqueia:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Laboratório médio;</li>
+                <li>Incubadoras;</li>
+                <li>3 cobaias;</li>
+                <li>Tanques medicinais;</li>
+            </ul>
+            <p class="mb-2 text-justify">Arquivos genéticos básicos.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Rank B — Geneticista Ninja</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Requisitos:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>6 pesquisas concluídas;</li>
+                <li>4 experimentos aprovados;</li>
+            </ul>
+            <p class="mb-2 text-justify">5 utilizações científicas em RP.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Permite:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Transplantes avançados;</li>
+                <li>Fusão celular;</li>
+                <li>Regeneração artificial;</li>
+                <li>Cultivo de órgãos;</li>
+                <li>Clones imperfeitos;</li>
+                <li>Modificação corporal;</li>
+                <li>Híbridos simples;</li>
+            </ul>
+            <p class="mb-2 text-justify">Núcleos artificiais básicos.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Desbloqueia:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Laboratório subterrâneo;</li>
+                <li>Banco genético;</li>
+                <li>6 cobaias;</li>
+                <li>Tanques biológicos;</li>
+            </ul>
+            <p class="mb-2 text-justify">Área cirúrgica avançada.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Rank A — Pesquisador Proibido</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Requisitos:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>8 pesquisas concluídas;</li>
+                <li>7 experimentos aprovados;</li>
+            </ul>
+            <p class="mb-2 text-justify">Participação em 5 operações científicas.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Permite:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Manipulação genética avançada;</li>
+                <li>Replicação parcial de dōjutsu;</li>
+                <li>Produção de armas biológicas;</li>
+                <li>Criação de híbridos;</li>
+                <li>Manipulação de linhagens;</li>
+                <li>Corpos sintéticos parciais;</li>
+                <li>Sistemas anti-chakra;</li>
+            </ul>
+            <p class="mb-2 text-justify">Modificações permanentes.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Desbloqueia:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Complexo científico;</li>
+                <li>Laboratório móvel;</li>
+                <li>Sistema de segurança biológico;</li>
+                <li>Incubadoras avançadas;</li>
+            </ul>
+            <p class="mb-2 text-justify">Laboratório autônomo.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Rank S — Cientista Supremo</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Requisitos:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>10 pesquisas concluídas;</li>
+                <li>5 experimentos Rank S;</li>
+                <li>1 criação histórica aprovada;</li>
+            </ul>
+            <p class="mb-2 text-justify">Salvar ou estabilizar 5 projetos críticos.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Permite:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Clonagem avançada;</li>
+                <li>Corpos artificiais completos;</li>
+                <li>Dōjutsus artificiais;</li>
+                <li>Transferência de consciência;</li>
+                <li>Pseudo-bijūs;</li>
+                <li>Humanos sintéticos;</li>
+                <li>Núcleos conscientes;</li>
+            </ul>
+            <p class="mb-2 text-justify">Engenharia genética absoluta.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Desbloqueia:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Laboratório supremo;</li>
+                <li>Equipe científica;</li>
+                <li>Bioexército;</li>
+                <li>Banco de DNA lendário;</li>
+            </ul>
+            <p class="mb-2 text-justify">Produção automatizada de células.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🧬 Especializações Científicas</h2>
+            <p class="mb-2 text-justify">Cada cientista pode escolher apenas 2 especializações durante toda sua progressão. Após escolhidas, não podem ser alteradas sem RP administrativo.</p>
+            <p class="mb-2 text-justify">Especializações disponíveis:</p>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Biologia Ninja</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Foco em:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Anatomia;</li>
+                <li>Regeneração;</li>
+                <li>Células;</li>
+                <li>DNA;</li>
+            </ul>
+            <p class="mb-2 text-justify">Tecidos orgânicos.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Tempo de especialização:</p>
+            <p class="mb-2 text-justify">3 dias de treinamento científico.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Engenharia de Chakra</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Foco em:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Fluxo de chakra;</li>
+                <li>Amplificação;</li>
+                <li>Núcleos artificiais;</li>
+            </ul>
+            <p class="mb-2 text-justify">Controle energético.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Tempo de especialização:</p>
+            <p class="mb-2 text-justify">4 dias de treinamento científico.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Dōjutsu Artificial</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Foco em:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Olhos artificiais;</li>
+                <li>Implantes oculares;</li>
+                <li>Engenharia genética ocular;</li>
+            </ul>
+            <p class="mb-2 text-justify">Replicação parcial.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Tempo de especialização:</p>
+            <p class="mb-2 text-justify">5 dias de treinamento científico.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Tecnologia Ninja</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Foco em:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Ferramentas científicas;</li>
+                <li>Próteses;</li>
+                <li>Androides;</li>
+            </ul>
+            <p class="mb-2 text-justify">Automação.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Tempo de especialização:</p>
+            <p class="mb-2 text-justify">4 dias de treinamento científico.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Bioengenharia Militar</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Foco em:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Armas biológicas;</li>
+                <li>Drogas de combate;</li>
+                <li>Soldados artificiais;</li>
+            </ul>
+            <p class="mb-2 text-justify">Criaturas modificadas.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Tempo de especialização:</p>
+            <p class="mb-2 text-justify">5 dias de treinamento científico.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">☣️ Ciência Proibida</h2>
+            <p class="mb-2 text-justify">A ciência proibida é uma área secreta e ilegal da ciência ninja. Ela não pode ser aprendida normalmente, sendo acessível apenas através de pistas narrativas, documentos secretos, laboratórios clandestinos, organizações criminosas ou eventos administrativos.</p>
+            <p class="mb-2 text-justify">Jounnin de vila - requer treinamento médico avançado e passar por todo o processo cientista após alcançar o nível médico nos dois sistemas é possível ingressar nesse completando as missões.</p>
+            <p class="mb-2 text-justify">Nukkenins  - Acessando somente através de pistas, sem necessidade do sistema médico.</p>
+            <p class="mb-2 text-justify">Essa vertente possui foco em:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Imortalidade;</li>
+                <li>Experimentos humanos;</li>
+                <li>Evolução corporal;</li>
+                <li>Clonagem humana;</li>
+                <li>Organismos híbridos;</li>
+            </ul>
+            <p class="mb-2 text-justify">Transplantes extremos.</p>
+            <p class="mb-2 text-justify">A progressão proibida ocorre separadamente do sistema comum.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🐍 Ciência Clandestina</h2>
+            <p class="mb-2 text-justify">A ciência clandestina abandona completamente os limites éticos, focando em evolução absoluta, corpos perfeitos e adaptação extrema.</p>
+            <p class="mb-2 text-justify">Ela se divide em duas correntes:</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Corrente da Imortalidade</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Foco em:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Transferência corporal;</li>
+                <li>Criação de corpos substitutos;</li>
+                <li>Clonagem contínua;</li>
+                <li>Regeneração extrema;</li>
+                <li>Experimentos invasivos;</li>
+            </ul>
+            <p class="mb-2 text-justify">Engenharia biológica agressiva.</p>
+            <p class="mb-2 text-justify">Benefícios:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Pesquisas aceleradas;</li>
+                <li>Maior compatibilidade genética;</li>
+                <li>Regeneração elevada;</li>
+            </ul>
+            <p class="mb-2 text-justify">Transplantes múltiplos.</p>
+            <p class="mb-2 text-justify">Desvantagens:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Instabilidade mental;</li>
+                <li>Degeneração celular;</li>
+                <li>Mutações involuntárias;</li>
+            </ul>
+            <p class="mb-2 text-justify">Rejeição progressiva.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Corrente da Evolução</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Foco em:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Assimilação genética;</li>
+                <li>Biofusão;</li>
+                <li>Necrobiologia;</li>
+                <li>Evolução corporal;</li>
+                <li>Adaptação extrema;</li>
+            </ul>
+            <p class="mb-2 text-justify">Aprimoramento físico.</p>
+            <p class="mb-2 text-justify">Benefícios:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Regeneração mitótica;</li>
+                <li>Adaptação biológica;</li>
+                <li>Aprimoramento progressivo;</li>
+            </ul>
+            <p class="mb-2 text-justify">Absorção genética.</p>
+            <p class="mb-2 text-justify">Desvantagens:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Sobrecarga celular;</li>
+                <li>Perda de identidade genética;</li>
+                <li>Instabilidade evolutiva;</li>
+            </ul>
+            <p class="mb-2 text-justify">Mutações descontroladas.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🏚️ Laboratórios</h2>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Laboratório Básico</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Permite:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Medicamentos;</li>
+                <li>Venenos;</li>
+                <li>Coleta genética;</li>
+            </ul>
+            <p class="mb-2 text-justify">Preservação biológica.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Custo: 5 bilhões de ryōs.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Tempo de construção: 2 dias.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Laboratório Médio</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Permite:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Transplantes;</li>
+                <li>Próteses;</li>
+                <li>Cultivo celular;</li>
+            </ul>
+            <p class="mb-2 text-justify">Engenharia básica.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Custo: 8 bilhões de ryōs.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Tempo de construção: 4 dias.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Laboratório Avançado</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Permite:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Clonagem;</li>
+                <li>Híbridos;</li>
+                <li>Produção artificial de chakra;</li>
+            </ul>
+            <p class="mb-2 text-justify">Engenharia genética.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Custo: 12 bilhões de ryōs.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Tempo de construção: 6 dias.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Laboratório Supremo</h2>
+            <p class="font-bold text-accent mt-3 mb-1">Permite:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Organismos conscientes;</li>
+                <li>Corpos perfeitos;</li>
+                <li>Dōjutsus artificiais;</li>
+            </ul>
+            <p class="mb-2 text-justify">Engenharia absoluta.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Custo: 15 bilhões de ryōs.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Tempo de construção: 10 dias.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🧫 Sistema de Cobaias</h2>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Classe D</h2>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Civis;</li>
+                <li>Baixa resistência;</li>
+            </ul>
+            <p class="mb-2 text-justify">Testes químicos simples.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Classe C</h2>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Usuários de chakra;</li>
+                <li>Ninjas comuns;</li>
+            </ul>
+            <p class="mb-2 text-justify">Testes de transplante.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Classe B</h2>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Habilidades raras;</li>
+                <li>Experimentos evolutivos;</li>
+            </ul>
+            <p class="mb-2 text-justify">Mutações corporais.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Classe A</h2>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Kekkei Genkai;</li>
+                <li>Sensores;</li>
+            </ul>
+            <p class="mb-2 text-justify">Linhagens especiais.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Classe S</h2>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>DNA lendário;</li>
+                <li>Jinchūriki;</li>
+                <li>Senjutsu;</li>
+            </ul>
+            <p class="mb-2 text-justify">Material divino.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">📚 Sistema de Pesquisa</h2>
+            <p class="mb-2 text-justify">Toda pesquisa exige:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Base teórica;</li>
+                <li>Materiais;</li>
+                <li>Testes;</li>
+                <li>Tempo;</li>
+                <li>Estabilidade;</li>
+            </ul>
+            <p class="mb-2 text-justify">Aprovação.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🧬 Qualidade Genética</h2>
+            <p class="mb-2 text-justify">Recente — 100%</p>
+            <p class="mb-2 text-justify">Preservado — 70%</p>
+            <p class="mb-2 text-justify">Antigo — 40%</p>
+            <p class="mb-2 text-justify">Degradado — 10%</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">⏳ Tempo Médio de Pesquisa</h2>
+            <p class="mb-2 text-justify">Veneno simples — 1 dia</p>
+            <p class="mb-2 text-justify">Prótese simples — 2 dias</p>
+            <p class="mb-2 text-justify">Transplante avançado — 3 dias</p>
+            <p class="mb-2 text-justify">Clone parcial — 3 dias</p>
+            <p class="mb-2 text-justify">Órgão artificial — 3 dias</p>
+            <p class="mb-2 text-justify">Dōjutsu artificial — 5 dias</p>
+            <p class="mb-2 text-justify">Corpo sintético — 7 dias</p>
+            <p class="mb-2 text-justify">O tempo pode ser reduzido através de:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Especializações científicas;</li>
+                <li>Laboratórios avançados;</li>
+                <li>Equipes científicas;</li>
+                <li>Investimento adicional de ryōs;</li>
+            </ul>
+            <p class="mb-2 text-justify">Materiais genéticos de alta qualidade.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">⚠️ Riscos Científicos</h2>
+            <p class="mb-2 text-justify">Toda pesquisa possui risco de:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Rejeição celular;</li>
+                <li>Colapso de chakra;</li>
+                <li>Mutação involuntária;</li>
+                <li>Degeneração genética;</li>
+                <li>Perda mental;</li>
+            </ul>
+            <p class="mb-2 text-justify">Morte experimental.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">⚙️ Ferramentas Ninja Científicas</h2>
+            <p class="mb-2 text-justify">As ferramentas científicas são equipamentos movidos por chakra, engenharia avançada ou sistemas artificiais.</p>
+            <p class="mb-2 text-justify">Tipos:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Condensador — Armazena jutsus e chakra;</li>
+                <li>Biônico — Próteses e órgãos artificiais;</li>
+                <li>Amplificador — Amplifica capacidades físicas;</li>
+            </ul>
+            <p class="mb-2 text-justify">Tecnológico — Equipamentos modernos shinobi.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Equipamentos Básicos</h2>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Spray regenerativo;</li>
+                <li>Bomba de luz e fumaça;</li>
+                <li>Cartucho de pergaminho;</li>
+                <li>Luvas de escalada;</li>
+            </ul>
+            <p class="mb-2 text-justify">Óculos inteligentes.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Custo: 5 bilhões de ryōs cada.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Tempo de fabricação: 1 dia.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Equipamentos Intermediários</h2>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Lâmina de chakra;</li>
+                <li>Drone sensorial;</li>
+                <li>Marionete autônoma;</li>
+                <li>Prótese avançada;</li>
+            </ul>
+            <p class="mb-2 text-justify">Traje de combate.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Custo: 8~10 bilhões de ryōs.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Tempo de fabricação: 3 dias.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔹 Equipamentos Avançados</h2>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Núcleo artificial;</li>
+                <li>Algemas anti-chakra;</li>
+                <li>Sistema anti-sensor;</li>
+                <li>Corpo sintético parcial;</li>
+            </ul>
+            <p class="mb-2 text-justify">Androides científicos.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Custo: 11~15 bilhões de ryōs.</p>
+            <p class="font-bold text-accent mt-3 mb-1">Tempo de fabricação: 5 dias.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔐 Acesso à Ciência Proibida</h2>
+            <p class="mb-2 text-justify">A ciência proibida não possui inscrição direta.</p>
+            <p class="mb-2 text-justify">Para entrar nesse sistema, o jogador deverá encontrar pistas narrativas espalhadas pelo RPG, como:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Laboratórios abandonados;</li>
+                <li>Documentos secretos;</li>
+                <li>Pesquisas proibidas;</li>
+                <li>Cobaias modificadas;</li>
+                <li>Mercado negro científico;</li>
+                <li>Organizações clandestinas;</li>
+                <li>Diários genéticos;</li>
+            </ul>
+            <p class="mb-2 text-justify">Cientistas renegados.</p>
+            <p class="mb-2 text-justify">Após encontrar pistas suficientes, uma missão especial será liberada pela administração para decidir se o personagem poderá ou não ingressar na ciência proibida.</p>
+            <div class="divider my-6"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">⚖️ Regras do Sistema</h2>
+            <p class="mb-2 text-justify">Nao podem ser usados resultados de experimentos para a proliferação de sangue p/Kekkei Genkai</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Pesquisas exigem narração detalhada;</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Criações não podem ser feitas instantaneamente;</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Toda tecnologia necessita aprovação;</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Transplantes possuem risco de rejeição;</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Experimentos proibidos podem gerar consequências;</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Criações Rank alto exigem progressão científica;</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>A ciência proibida possui progressão separada do sistema comum (faz tudo que um cientista comum faz e além) pode ser acessada por 1 nukkenin sem treinos ou jounnin médico nivel maximo da vila;</li>
+            </ul>
+            <p class="mb-2 text-justify">Projetos extremamente perigosos podem ser interrompidos pela administração</p>
+            <p class="mb-2 text-justify">Sistema feito por — Roger</p>
+            <p class="mb-2 text-justify">ps: sujeito a alteração .</p>
+        </div>
+    </main>
+</body>
+</html>
