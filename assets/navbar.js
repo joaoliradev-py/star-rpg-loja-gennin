@@ -95,7 +95,7 @@
                         <details>
                             <summary>Sistemas</summary>
                             <ul class="bg-base-100 rounded-t-none p-2 w-64 shadow-lg">
-                                <li><a href="pages/sistemas/criacao_personagem.html">Criação de Personagem</a></li>
+
                                 <li><a href="pages/sistemas/susanoo.html">Evolução Susanoo</a></li>
                                 <li><a href="pages/sistemas/execucao.html">Execução</a></li>
                                 <li><a href="pages/sistemas/guardioes_ninja.html">Guardiões Ninja</a></li>
@@ -208,7 +208,7 @@
                     <details>
                         <summary>Sistemas</summary>
                         <ul>
-                            <li><a href="pages/sistemas/criacao_personagem.html">Criação de Personagem</a></li>
+
                             <li><a href="pages/sistemas/susanoo.html">Evolução Susanoo</a></li>
                             <li><a href="pages/sistemas/execucao.html">Execução</a></li>
                             <li><a href="pages/sistemas/guardioes_ninja.html">Guardiões Ninja</a></li>

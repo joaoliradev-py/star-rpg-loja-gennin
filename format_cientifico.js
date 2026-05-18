@@ -1,12 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 
+const txtPath = path.join(process.cwd(), 'pages/sistemas/sistema_cientifico.txt');
 const htmlPath = path.join(process.cwd(), 'pages/sistemas/sistema_cientifico.html');
-let text = fs.readFileSync(htmlPath, 'utf8');
 
-// If the file already looks like HTML (has <html), don't break it, just exit.
-// But we know it's raw text from the view_file.
-
+let text = fs.readFileSync(txtPath, 'utf8');
 let lines = text.split('\n');
 
 let htmlOut = `<!DOCTYPE html>
@@ -29,7 +27,7 @@ let htmlOut = `<!DOCTYPE html>
     <script src="assets/navbar.js"></script>
     <!-- fim NavBar -->
 
-    <main class="p-8 bg-[url(assets/images/sistema_cientifico.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+    <main class="p-8 bg-[url(assets/images/kara.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
         <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-4xl mx-auto shadow-lg text-base-content/90">
 `;
 
@@ -60,12 +58,21 @@ for (let i = 0; i < lines.length; i++) {
     }
 
     // Check for H2 (emoji + text without 🔹)
-    if (/^[📚🧬☣️🐍🏚️🧫⏳⚠️⚙️🔐⚖️]/.test(line)) {
+    if (/^[📚🧬☣️🐍🏚️🧫⏳⚠️⚙️🔐⚖️🧪]/.test(line)) {
         if (inList) {
             htmlOut += `            </ul>\n`;
             inList = false;
         }
         htmlOut += `            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">${line}</h2>\n`;
+        continue;
+    }
+
+    if (line.startsWith('Tipos de Treino Científico')) {
+        if (inList) {
+            htmlOut += `            </ul>\n`;
+            inList = false;
+        }
+        htmlOut += `            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">🔬 ${line}</h2>\n`;
         continue;
     }
 
@@ -89,7 +96,16 @@ for (let i = 0; i < lines.length; i++) {
         continue;
     }
 
-    if (line.endsWith(';')) {
+    // End with semicolon, or specific list items without semicolon
+    let isListItem = line.endsWith(';') || 
+        (inList && /^[a-zçãõáéíóú]/i.test(line) && !line.includes('—') && !line.includes(':'));
+
+    // specific hack for the new items that don't have semicolon
+    if (!line.includes(' ') && !line.includes(':') && line.length > 2 && line.length < 40 && !line.endsWith('.') && !line.includes('—')) {
+        isListItem = true;
+    }
+
+    if (isListItem) {
         if (!inList) {
             htmlOut += `            <ul class="list-disc ml-6 space-y-1 mb-4">\n`;
             inList = true;
@@ -99,7 +115,7 @@ for (let i = 0; i < lines.length; i++) {
     }
 
     // Bold some keywords
-    if (line.startsWith('Requisitos:') || line.startsWith('Permite:') || line.startsWith('Desbloqueia:') || line.startsWith('Custo:') || line.startsWith('Tempo de') || line.startsWith('Foco em:')) {
+    if (line.startsWith('Requisitos:') || line.startsWith('Permite:') || line.startsWith('Desbloqueia:') || line.startsWith('Custo:') || line.startsWith('Tempo de') || line.startsWith('Foco em:') || line.startsWith('Exemplo:') || line.startsWith('Necessita:')) {
         if (inList) {
             htmlOut += `            </ul>\n`;
             inList = false;

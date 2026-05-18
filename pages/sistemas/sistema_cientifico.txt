@@ -1,0 +1,669 @@
+Sistema Científico — Naruto & Boruto
+
+O Sistema Científico é uma especialização focada em biotecnologia ninja, engenharia genética, transplantes, clonagem, próteses, manipulação celular, desenvolvimento farmacológico e ferramentas científicas. Cientistas são responsáveis pela evolução tecnológica do mundo shinobi, podendo alterar organismos vivos, criar armas científicas e desenvolver corpos artificiais através da ciência e do chakra.
+
+Esse caminho é considerado um dos mais difíceis dentro do RPG, exigindo inteligência, recursos, estrutura e grande tempo de pesquisa. Diferente dos ninjas comuns, cientistas dependem de laboratórios, bancos genéticos e experimentos para evoluírem.
+
+Além da ciência convencional, existe também a ciência proibida, uma vertente secreta ligada à evolução corporal extrema, imortalidade e experimentos humanos.
+
+• Apenas 3 Cientistas por Vila
+• Pode iniciar o treinamento como Jounnin
+• Necessita autorização do Kage
+• Cada cientista pode possuir apenas 2 especializações científicas
+──────────────────────────
+
+📚 Aprendizado
+
+O aprendizado científico começa através do estudo do corpo humano, controle de chakra aplicado à biologia e utilização básica de equipamentos laboratoriais. Inicialmente, o cientista aprende anatomia, análise genética, extração sanguínea, estabilização celular e manipulação química simples.
+
+Com o avanço, o usuário passa a desenvolver próteses, transplantes, drogas militares, organismos artificiais e modificações corporais. Em níveis superiores, a ciência alcança áreas extremamente perigosas, como clonagem, engenharia genética, transplantes múltiplos e criação de núcleos artificiais de chakra.
+
+O progresso depende de:
+
+Inteligência;
+Tempo de pesquisa;
+Qualidade do laboratório;
+Qualidade das cobaias;
+Raridade do DNA utilizado;
+Experimentos concluídos;
+Missões científicas;
+Aprovação administrativa.
+
+Cada cientista possui:
+
+Laboratório;
+Banco genético;
+Arquivos científicos;
+Cobaias;
+Projetos ativos;
+Recursos financeiros;
+Patentes biológicas.
+──────────────────────────
+
+🔹 Rank D — Assistente Anatômico
+
+Requisitos:
+
+Treinamento básico de chakra;
+Conhecimento anatômico básico (texto de 25 linhas);
+1 treino científico concluído.
+
+Permite:
+
+Coleta sanguínea;
+Dissecação básica;
+Preservação de órgãos;
+Produção de venenos simples;
+Medicamentos básicos;
+Sedativos;
+Análise microscópica;
+Coleta genética.
+
+Desbloqueia:
+
+Mini laboratório;
+1 cobaia;
+Armazenamento genético simples.
+──────────────────────────
+
+🔹 Rank C — Bioquímico Experimental
+
+Requisitos:
+
+3 pesquisas concluídas;
+2 experimentos aprovados;
+3 treinos científicos (20 linhas).
+
+Permite:
+
+Manipulação celular;
+Síntese farmacológica;
+Cultivo orgânico;
+Próteses simples;
+Mutações leves;
+Criação de drogas militares;
+Implantes básicos;
+Engenharia de chakra simples.
+
+Desbloqueia:
+
+Laboratório médio;
+Incubadoras;
+3 cobaias;
+Tanques medicinais;
+Arquivos genéticos básicos.
+──────────────────────────
+
+🔹 Rank B — Geneticista Ninja
+
+Requisitos:
+
+6 pesquisas concluídas;
+4 experimentos aprovados;
+5 utilizações científicas em RP.
+
+Permite:
+
+Transplantes avançados;
+Fusão celular;
+Regeneração artificial;
+Cultivo de órgãos;
+Clones imperfeitos;
+Modificação corporal;
+Híbridos simples;
+Núcleos artificiais básicos.
+
+Desbloqueia:
+
+Laboratório subterrâneo;
+Banco genético;
+6 cobaias;
+Tanques biológicos;
+Área cirúrgica avançada.
+──────────────────────────
+
+🔹 Rank A — Pesquisador Proibido
+
+Requisitos:
+
+8 pesquisas concluídas;
+7 experimentos aprovados;
+Participação em 5 operações científicas.
+
+Permite:
+
+Manipulação genética avançada;
+Replicação parcial de dōjutsu;
+Produção de armas biológicas;
+Criação de híbridos;
+Manipulação de linhagens;
+Corpos sintéticos parciais;
+Sistemas anti-chakra;
+Modificações permanentes.
+
+Desbloqueia:
+
+Complexo científico;
+Laboratório móvel;
+Sistema de segurança biológico;
+Incubadoras avançadas;
+Laboratório autônomo.
+──────────────────────────
+
+🔹 Rank S — Cientista Supremo
+
+Requisitos:
+
+10 pesquisas concluídas;
+5 experimentos Rank S;
+1 criação histórica aprovada;
+Salvar ou estabilizar 5 projetos críticos.
+
+Permite:
+
+Clonagem avançada;
+Corpos artificiais completos;
+Dōjutsus artificiais;
+Transferência de consciência;
+Pseudo-bijūs;
+Humanos sintéticos;
+Núcleos conscientes;
+Engenharia genética absoluta.
+
+Desbloqueia:
+
+Laboratório supremo;
+Equipe científica;
+Bioexército;
+Banco de DNA lendário;
+Produção automatizada de células.
+──────────────────────────
+
+🧬 Especializações Científicas
+
+Cada cientista pode escolher apenas 2 especializações durante toda sua progressão. Após escolhidas, não podem ser alteradas sem RP administrativo.
+
+Especializações disponíveis:
+
+🔹 Biologia Ninja
+
+Foco em:
+
+Anatomia;
+Regeneração;
+Células;
+DNA;
+Tecidos orgânicos.
+
+Tempo de especialização:
+
+3 dias de treinamento científico.
+──────────────────────────
+
+🔹 Engenharia de Chakra
+
+Foco em:
+
+Fluxo de chakra;
+Amplificação;
+Núcleos artificiais;
+Controle energético.
+
+Tempo de especialização:
+
+4 dias de treinamento científico.
+──────────────────────────
+
+🔹 Dōjutsu Artificial
+
+Foco em:
+
+Olhos artificiais;
+Implantes oculares;
+Engenharia genética ocular;
+Replicação parcial.
+
+Tempo de especialização:
+
+5 dias de treinamento científico.
+──────────────────────────
+
+🔹 Tecnologia Ninja
+
+Foco em:
+
+Ferramentas científicas;
+Próteses;
+Androides;
+Automação.
+
+Tempo de especialização:
+
+4 dias de treinamento científico.
+──────────────────────────
+
+🔹 Bioengenharia Militar
+
+Foco em:
+
+Armas biológicas;
+Drogas de combate;
+Soldados artificiais;
+Criaturas modificadas.
+
+Tempo de especialização:
+
+5 dias de treinamento científico.
+
+──────────────────────────
+
+🧪 Treino Científico
+
+O treino científico representa pesquisas, estudos, experimentos e práticas laboratoriais realizadas pelo cientista para evoluir dentro do sistema.
+
+Esses treinos são obrigatórios para:
+evolução de rank;
+aprendizado de especializações;
+criação de projetos;
+desbloqueio de tecnologias;
+utilização de procedimentos avançados.
+
+Cada treino deve conter:
+explicação científica;
+
+utilização de equipamentos;
+
+manipulação biológica/química;
+
+aplicação de chakra;
+
+objetivo experimental;
+
+resultado final.
+──────────────────────────
+
+Tipos de Treino Científico
+
+🔹 Treino Anatômico
+Foco em:
+
+corpo humano;
+órgãos;
+circulação de chakra;
+sistema nervoso;
+células.
+Exemplo: dissecação, análise ocular, estudo cerebral, fluxo de chakra.
+
+🔹 Treino Genético
+Foco em:
+DNA;
+células;
+linhagens;
+compatibilidade biológica;
+mutações.
+Exemplo: extração genética, estabilização celular, cultivo sanguíneo.
+
+🔹 Treino Farmacológico
+Foco em:
+
+drogas;
+venenos;
+estimulantes;
+compostos químicos.
+Exemplo: produção de sedativos, antídotos, drogas militares.
+
+🔹 Treino Tecnológico
+Foco em:
+
+próteses;
+ferramentas científicas;
+engenharia ninja;
+automação.
+Exemplo: criação de braço mecânico, drone sensorial, núcleo artificial.
+
+🔹 Treino Proibido
+Foco em:
+
+experimentos humanos;
+regeneração extrema;
+clonagem;
+biofusão;
+imortalidade.
+Necessita: acesso à Ciência Proibida.
+
+──────────────────────────
+
+⏳ Tempo de Treino científico 
+
+Treino simples — 20 linhas
+Treino intermediário — 35 linhas
+Treino avançado — 50 linhas
+Treino proibido — 70 linhas
+
+──────────────────────────
+
+⚠️ Regras dos Treinos
+
+Não podem ser copiados;
+Precisam possuir lógica científica;
+Devem utilizar narração detalhada;
+Precisam citar equipamentos e métodos;
+Experimentos podem falhar;
+Administração pode reprovar treinos incoerentes.
+
+──────────────────────────
+
+☣️ Ciência Proibida
+
+A ciência proibida é uma área secreta e ilegal da ciência ninja. Ela não pode ser aprendida normalmente, sendo acessível apenas através de pistas narrativas, documentos secretos, laboratórios clandestinos, organizações criminosas ou eventos administrativos.
+
+Jounnin de vila - requer treinamento médico avançado e passar por todo o processo cientista após alcançar o nível médico nos dois sistemas é possível ingressar nesse completando as missões.
+
+Nukkenins  - Acessando somente através de pistas, sem necessidade do sistema médico.
+
+Essa vertente possui foco em:
+
+Imortalidade;
+Experimentos humanos;
+Evolução corporal;
+Clonagem humana;
+Organismos híbridos;
+Transplantes extremos.
+
+A progressão proibida ocorre separadamente do sistema comum.
+──────────────────────────
+
+🐍 Ciência Clandestina
+
+A ciência clandestina abandona completamente os limites éticos, focando em evolução absoluta, corpos perfeitos e adaptação extrema.
+
+Ela se divide em duas correntes:
+──────────────────────────
+
+🔹 Corrente da Imortalidade
+
+Foco em:
+
+Transferência corporal;
+Criação de corpos substitutos;
+Clonagem contínua;
+Regeneração extrema;
+Experimentos invasivos;
+Engenharia biológica agressiva.
+
+Benefícios:
+
+Pesquisas aceleradas;
+Maior compatibilidade genética;
+Regeneração elevada;
+Transplantes múltiplos.
+
+Desvantagens:
+
+Instabilidade mental;
+Degeneração celular;
+Mutações involuntárias;
+Rejeição progressiva.
+──────────────────────────
+
+🔹 Corrente da Evolução
+
+Foco em:
+
+Assimilação genética;
+Biofusão;
+Necrobiologia;
+Evolução corporal;
+Adaptação extrema;
+Aprimoramento físico.
+
+Benefícios:
+
+Regeneração mitótica;
+Adaptação biológica;
+Aprimoramento progressivo;
+Absorção genética.
+
+Desvantagens:
+
+Sobrecarga celular;
+Perda de identidade genética;
+Instabilidade evolutiva;
+Mutações descontroladas.
+──────────────────────────
+
+🏚️ Laboratórios
+
+🔹 Laboratório Básico
+
+Permite:
+
+Medicamentos;
+Venenos;
+Coleta genética;
+Preservação biológica.
+
+Custo: 5 bilhões de ryōs.
+Tempo de construção: 2 dias.
+──────────────────────────
+
+🔹 Laboratório Médio
+
+Permite:
+
+Transplantes;
+Próteses;
+Cultivo celular;
+Engenharia básica.
+
+Custo: 8 bilhões de ryōs.
+Tempo de construção: 4 dias.
+──────────────────────────
+
+🔹 Laboratório Avançado
+
+Permite:
+
+Clonagem;
+Híbridos;
+Produção artificial de chakra;
+Engenharia genética.
+
+Custo: 12 bilhões de ryōs.
+Tempo de construção: 6 dias.
+──────────────────────────
+
+🔹 Laboratório Supremo
+
+Permite:
+
+Organismos conscientes;
+Corpos perfeitos;
+Dōjutsus artificiais;
+Engenharia absoluta.
+
+Custo: 15 bilhões de ryōs.
+Tempo de construção: 10 dias.
+──────────────────────────
+
+🧫 Sistema de Cobaias
+
+🔹 Classe D
+
+Civis;
+Baixa resistência;
+Testes químicos simples.
+──────────────────────────
+
+🔹 Classe C
+
+Usuários de chakra;
+Ninjas comuns;
+Testes de transplante.
+──────────────────────────
+
+🔹 Classe B
+
+Habilidades raras;
+Experimentos evolutivos;
+Mutações corporais.
+──────────────────────────
+
+🔹 Classe A
+
+Kekkei Genkai;
+Sensores;
+Linhagens especiais.
+──────────────────────────
+
+🔹 Classe S
+
+DNA lendário;
+Jinchūriki;
+Senjutsu;
+Material divino.
+──────────────────────────
+
+📚 Sistema de Pesquisa
+
+Toda pesquisa exige:
+
+Base teórica;
+Materiais;
+Testes;
+Tempo;
+Estabilidade;
+Aprovação.
+──────────────────────────
+
+🧬 Qualidade Genética
+
+Recente — 100%
+Preservado — 70%
+Antigo — 40%
+Degradado — 10%
+──────────────────────────
+
+⏳ Tempo Médio de Pesquisa
+
+Veneno simples — 1 dia
+Prótese simples — 2 dias
+Transplante avançado — 3 dias
+Clone parcial — 3 dias
+Órgão artificial — 3 dias
+Dōjutsu artificial — 5 dias
+Corpo sintético — 7 dias
+
+O tempo pode ser reduzido através de:
+
+Especializações científicas;
+Laboratórios avançados;
+Equipes científicas;
+Investimento adicional de ryōs;
+Materiais genéticos de alta qualidade.
+──────────────────────────
+
+⚠️ Riscos Científicos
+
+Toda pesquisa possui risco de:
+
+Rejeição celular;
+Colapso de chakra;
+Mutação involuntária;
+Degeneração genética;
+Perda mental;
+Morte experimental.
+──────────────────────────
+
+⚙️ Ferramentas Ninja Científicas
+
+As ferramentas científicas são equipamentos movidos por chakra, engenharia avançada ou sistemas artificiais.
+
+Tipos:
+
+Condensador — Armazena jutsus e chakra;
+Biônico — Próteses e órgãos artificiais;
+Amplificador — Amplifica capacidades físicas;
+Tecnológico — Equipamentos modernos shinobi.
+──────────────────────────
+
+🔹 Equipamentos Básicos
+
+Spray regenerativo;
+Bomba de luz e fumaça;
+Cartucho de pergaminho;
+Luvas de escalada;
+Óculos inteligentes.
+
+Custo: 5 bilhões de ryōs cada.
+Tempo de fabricação: 1 dia.
+──────────────────────────
+
+🔹 Equipamentos Intermediários
+
+Lâmina de chakra;
+Drone sensorial;
+Marionete autônoma;
+Prótese avançada;
+Traje de combate.
+
+Custo: 8~10 bilhões de ryōs.
+Tempo de fabricação: 3 dias.
+──────────────────────────
+
+🔹 Equipamentos Avançados
+
+Núcleo artificial;
+Algemas anti-chakra;
+Sistema anti-sensor;
+Corpo sintético parcial;
+Androides científicos.
+
+Custo: 11~15 bilhões de ryōs.
+Tempo de fabricação: 5 dias.
+──────────────────────────
+
+🔐 Acesso à Ciência Proibida
+
+A ciência proibida não possui inscrição direta.
+
+Para entrar nesse sistema, o jogador deverá encontrar pistas narrativas espalhadas pelo RPG, como:
+
+Laboratórios abandonados;
+Documentos secretos;
+Pesquisas proibidas;
+Cobaias modificadas;
+Mercado negro científico;
+Organizações clandestinas;
+Diários genéticos;
+Cientistas renegados.
+
+Após encontrar pistas suficientes, uma missão especial será liberada pela administração para decidir se o personagem poderá ou não ingressar na ciência proibida.
+──────────────────────────
+
+⚖️ Regras do Sistema
+
+Especializações a partir do rank A+
+
+Nao podem ser usados resultados de experimentos para a proliferação de sangue p/Kekkei Genkai 
+
+Pesquisas exigem narração detalhada;
+
+Criações não podem ser feitas instantaneamente;
+
+Toda tecnologia necessita aprovação;
+
+Transplantes possuem risco de rejeição;
+
+Experimentos proibidos podem gerar consequências;
+
+Criações Rank alto exigem progressão científica;
+
+A ciência proibida possui progressão separada do sistema comum (faz tudo que um cientista comum faz e além) pode ser acessada por 1 nukkenin sem treinos ou jounnin médico nivel maximo da vila;
+
+
+Projetos extremamente perigosos podem ser interrompidos pela administração
+
+Sistema feito por — Roger
+
+ps: sujeito a alteração .
