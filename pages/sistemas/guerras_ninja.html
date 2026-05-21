@@ -7,86 +7,267 @@
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guerra Ninja - Naruto RPG STAR</title>
+    <title>Grande Guerra Ninja - Naruto RPG STAR</title>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
     <!-- NavBar -->
     <script src="assets/navbar.js"></script>
-    
-    <main class="p-4 md:p-8 bg-[url(assets/images/guerra_ninja.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
-        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
-            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">GUERRA NINJA</h1>
-            <p class="text-center font-mono opacity-60 mb-8">```Sistema de Guerras```</p>
+    <!-- fim NavBar -->
 
-            <div class="space-y-4">
-                <p>Quando duas ou mais vilas declaram guerra, as lutas no RPG começam a seguir um sistema diferente, o plano é aplicar algo mais realista e adequado para um clima de guerra</p>
+    <main class="p-8 bg-[url(assets/images/guerra_ninja.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-4xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-4xl font-black text-center mb-6 uppercase tracking-tighter text-error">⚔️ GRANDE GUERRA NINJA ⚔️</h1>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">📜 Sistema de Guerra</h2>
+            <div class="bg-base-200 p-4 rounded-lg border-l-4 border-error mb-6">
+                <p class="text-justify font-bold italic opacity-90">|| Quando duas ou mais vilas entram em guerra, o mundo Shinobi muda completamente. Recursos se tornam escassos, mortes aumentam, rotas comerciais são destruídas e até mesmo os maiores ninjas começam a sofrer com o desgaste da batalha. ||</p>
             </div>
-
-            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
-
-            <div class="space-y-4">
-                <p class="text-xl font-bold italic">Fome</p>
-                <p>Os jogadores agora tem um medidor de fome que se esgota a cada luta sendo necessário comer algum alimento para restaurar sua energia e continuar lutando</p>
-                
-                <p class="text-xl font-bold italic">Recursos</p>
-                <p>Estabelecimentos durante guerras se tornam os maiores aliados dos jogadores pois os recursos são limitados, cada vila tem um estoque de alimentos que são dividos em 3 refeições pra cada player, quando as refeições se esgotam os jogadores devem sair pelos caminhos/estabelecimentos em busca de recursos.</p>
-                <p>Lutar com fome resulta na perda de 1 Rank de velocidade de movimento e gasto duplicado em qualquer técnica ou modo</p>
-
-                <p class="text-xl font-bold italic">Cansaço</p>
-                <p>Cada player pode lutar em guerra diariamente até 2 vezes, após isso ele fica fora de combate por cansaço, isso faz com que os kages tenham que ser estratégicos durante uma guerra poupando seus guerreiros mais fortes.</p>
-            </div>
-
-            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
-
-            <div class="space-y-4">
-                <p>Para declarar uma guerra o kage de uma vila deve ir no chat global e mandar o seguinte comando</p>
-                
-                <p><strong>Comando:</strong></p>
-                <p><em>*/Guerra*</em></p>
-                
-                <p><em>> Eu Shodai Hokage de konohagakure declaro guerra contra bla bla bla</em></p>
-                
-                <p>A vila que sofreu a ameaça tem 30 minutos para entrar em acordo com a vila que declarou guerra, do contrário a guerra será iniciada</p>
-            </div>
-
-            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
-
-            <div class="space-y-4">
-                <p>É importante ressaltar que os jogadores não podem avançar direto para a vila inimiga, devem conquistar os caminhos relacionados a vila</p>
-                
-                <p><strong>Exemplo:</strong> Os domínios de konoha começam a partir da floresta sombria, logo a vila inimiga deve começar dominando aquele local e ir avançando aos poucos</p>
-                
-                <p>Para dominar um caminho a vila deve eliminar todos os membros da vila inimiga presentes no caminho e após isso enviar um comando de dominação</p>
-                
-                <p><strong>Comando:</strong></p>
-                <p><em>*/Dominar*</em></p>
-                
-                <p>Os oponentes tem 15 minutos para chegar ao local e impedir a dominação</p>
-            </div>
-
-            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
-
-            <div class="space-y-4">
-                <p>Para finalizar a guerra pode-se fazer um tratado de paz ou executar o feudal da vila em questão zerando a vila completamente.</p>
-                
-                <p><strong>Observação:</strong> Vilas que estão em guerra não podem participar de exames</p>
-                
-                <p>Execute em guerra é on das 08:00 as 00:00hrs</p>
-            </div>
-
-            <div class="divider my-8"></div>
-
-            <div class="space-y-4">
-                <p class="text-xl font-bold italic">Os lutadores destaques da guerra recebem:</p>
-                
-                <p>• UP de patente<br>
-                • Um dojutsu ou sangue de escolha<br>
-                • 10B<br>
-                • Um "título" tipo "Deus da guerra", "pai da humanidade"</p>
-            </div>
+            <p class="mb-3 text-justify font-semibold">Durante guerras, o RPG passa a seguir um sistema especial focado em sobrevivência, estratégia militar e imersão RP.</p>
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">👑 Quem Pode Declarar Guerra</h2>
+            <p class="mb-3 text-justify font-semibold">Apenas figuras de grande influência podem iniciar guerras.</p>
+            <p class="font-bold text-accent mt-4 mb-2">Podem declarar guerra:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Kages</li>
+                <li>Feudais</li>
+                <li>Líderes Anbu</li>
+                <li>Portadores de títulos especiais</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">📢 Declaração de Guerra</h2>
+            <p class="font-bold text-accent mt-4 mb-2">Para iniciar oficialmente uma guerra, o responsável deverá enviar no quadro global:</p>
+            <p class="font-bold text-accent mt-3 mb-2">Comando:</p>
+            <div class="bg-neutral text-neutral-content font-mono p-2 rounded w-fit mb-4">/Guerra</div>
+            <p class="italic font-serif text-lg opacity-80 text-center my-4 text-warning">“Eu, Shodai Hokage de Konohagakure, declaro guerra contra Kirigakure.”</p>
+            <p class="font-bold text-accent mt-4 mb-2">Após a declaração:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>A vila ameaçada terá 30 minutos para tentar um acordo diplomático</li>
+                <li>Caso não exista acordo, a guerra será oficialmente iniciada</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🌍 Estado de Guerra</h2>
+            <p class="font-bold text-accent mt-4 mb-2">Enquanto a guerra estiver ativa:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>O mundo entra em estado militar</li>
+                <li>Vilas poderão fechar portões</li>
+                <li>Rotas comerciais podem ser bloqueadas</li>
+                <li>Mercadores podem desaparecer</li>
+                <li>Missões comuns são suspensas</li>
+                <li>Exames Chunin/Jounin ficam proibidos</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🍖 Sistema de Fome</h2>
+            <p class="mb-3 text-justify font-semibold">Durante guerras, cada Shinobi possui um medidor de fome.</p>
+            <p class="font-bold text-accent mt-4 mb-2">A fome aumenta conforme:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Participa de batalhas</li>
+                <li>Usa muito chakra</li>
+                <li>Passa muito tempo em combate</li>
+                <li>Fica dias em patrulha</li>
+            </ul>
+            <p class="mb-3 text-justify font-semibold">Cada luta reduz parte da energia física do ninja.</p>
+            <p class="font-bold text-accent mt-4 mb-2">Para recuperar energia será necessário:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Comer alimentos</li>
+                <li>Descansar em acampamentos</li>
+                <li>Ir até estabelecimentos</li>
+                <li>Receber suprimentos da vila</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">📦 Recursos e Suprimentos</h2>
+            <p class="mb-3 text-justify font-semibold">Recursos se tornam limitados durante guerras.</p>
+            <p class="font-bold text-accent mt-4 mb-2">Cada vila terá:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Estoque militar de alimentos</li>
+                <li>Estoque medicinal</li>
+                <li>Armas militares</li>
+                <li>Recursos de emergência</li>
+            </ul>
+            <p class="font-bold text-accent mt-4 mb-2">As refeições militares serão divididas em:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Café da manhã</li>
+                <li>Almoço</li>
+                <li>Janta</li>
+            </ul>
+            <p class="mb-3 text-justify font-semibold">Cada Shinobi poderá retirar apenas sua quantidade permitida.</p>
+            <p class="font-bold text-accent mt-4 mb-2">Quando os recursos acabarem:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Os ninjas precisarão procurar suprimentos nos caminhos</li>
+                <li>Atacar comboios inimigos</li>
+                <li>Invadir depósitos militares</li>
+                <li>Negociar com comerciantes</li>
+                <li>Sobreviver através do RP</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <p class="mb-3 text-justify font-semibold">☠️ Penalidade da Fome</p>
+            <p class="font-bold text-accent mt-4 mb-2">Lutar faminto causa:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>-1 Rank em velocidade</li>
+                <li>Gasto duplicado de chakra</li>
+                <li>Redução de resistência</li>
+                <li>Maior desgaste físico</li>
+                <li>Dificuldade em manter modos ativos</li>
+            </ul>
+            <p class="mb-3 text-justify font-semibold">Shinobis extremamente famintos poderão até desmaiar durante missões longas.</p>
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">😮‍💨 Sistema de Cansaço</h2>
+            <p class="font-bold text-accent mt-4 mb-2">Cada player poderá participar de apenas:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>2 batalhas por dia durante guerras.</li>
+            </ul>
+            <p class="font-bold text-accent mt-4 mb-2">Após isso:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>O personagem ficará exausto</li>
+                <li>Será retirado do combate</li>
+                <li>Precisará descansar em RP</li>
+            </ul>
+            <p class="font-bold text-accent mt-4 mb-2">Isso força:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Estratégia militar</li>
+                <li>Rotação de tropas</li>
+                <li>Administração dos ninjas mais fortes</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🏕️ Acampamentos Militares</h2>
+            <p class="font-bold text-accent mt-4 mb-2">Durante guerras, vilas poderão criar:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Bases avançadas</li>
+                <li>Hospitais militares</li>
+                <li>Postos de vigia</li>
+                <li>Centros médicos</li>
+                <li>Acampamentos temporários</li>
+            </ul>
+            <p class="font-bold text-accent mt-4 mb-2">Esses locais servem para:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Recuperar feridos</li>
+                <li>Armazenar recursos</li>
+                <li>Descansar tropas</li>
+                <li>Planejar invasões</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🛡️ Domínio de Territórios</h2>
+            <p class="mb-3 text-justify font-semibold">Nenhuma vila poderá avançar diretamente até a vila inimiga.</p>
+            <p class="mb-3 text-justify font-semibold">Será necessário conquistar os caminhos primeiro.</p>
+            <p class="font-bold text-accent mt-4 mb-2">Exemplo:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Para invadir Konohagakure:</li>
+                <li class="text-secondary list-[circle] ml-6">O inimigo primeiro deve dominar a Floresta Sombria e demais rotas ligadas à vila.</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <p class="mb-3 text-justify font-semibold">⚔️ Sistema de Dominação</p>
+            <p class="font-bold text-accent mt-4 mb-2">Para dominar um território:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Todos os membros inimigos presentes no caminho devem ser derrotados ou expulsos.</li>
+            </ul>
+            <p class="font-bold text-accent mt-4 mb-2">Após isso:</p>
+            <p class="font-bold text-accent mt-3 mb-2">Comando:</p>
+            <div class="bg-neutral text-neutral-content font-mono p-2 rounded w-fit mb-4">/Dominar</div>
+            <p class="font-bold text-accent mt-4 mb-2">A vila inimiga terá:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>15 minutos para enviar reforços e impedir a dominação.</li>
+            </ul>
+            <p class="font-bold text-accent mt-4 mb-2">Caso falhem:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>O território será oficialmente conquistado.</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🔥 Consequências da Guerra</h2>
+            <p class="font-bold text-accent mt-4 mb-2">Guerras podem causar:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Destruição de vilas</li>
+                <li>Mortes permanentes</li>
+                <li>Escassez de recursos</li>
+                <li>Crises políticas</li>
+                <li>Rebeliões internas</li>
+                <li>Traições</li>
+                <li>Golpes militares</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🕊️ Como Encerrar uma Guerra</h2>
+            <p class="font-bold text-accent mt-4 mb-2">Uma guerra poderá terminar através de:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Tratado de paz</li>
+                <li>Rendição oficial</li>
+                <li>Acordo diplomático</li>
+                <li>Execução do Feudal inimigo</li>
+                <li>Destruição total da vila adversária</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <p class="mb-3 text-justify font-semibold">⏰ Horário Oficial de Guerra</p>
+            <p class="font-bold text-accent mt-4 mb-2">Guerras ON acontecem apenas entre:</p>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🕗 08:00 até 00:00hrs</h2>
+            <p class="font-bold text-accent mt-4 mb-2">Fora desse horário:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Invasões e batalhas ficam proibidas.</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🏆 Heróis da Guerra</h2>
+            <p class="font-bold text-accent mt-4 mb-2">Os maiores destaques da guerra poderão receber:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Promoção de patente</li>
+                <li>Dojutsu ou sangue especial de escolha</li>
+                <li>10 Bilhões de Ryos</li>
+                <li>Títulos lendários</li>
+            </ul>
+            <p class="font-bold text-accent mt-4 mb-2">Exemplos de títulos:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Deus da Guerra</li>
+                <li>Pai da Humanidade</li>
+                <li>Carniceiro Shinobi</li>
+                <li>Fantasma do Campo de Batalha</li>
+                <li>Herói da Folha</li>
+                <li>Rei do Massacre</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">📌 Regras Extras</h2>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Guerras sem motivo RP poderão ser anuladas</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Toda guerra deve possuir desenvolvimento narrativo</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Organizações criminosas podem interferir no conflito</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Espionagem e sabotagem são permitidas em RP</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Desertores podem trocar de lado durante a guerra</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">👑 Complemento — Sistema Feudal de Guerra</h2>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Durante guerras o Feudal não poderá sair da vila.</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>O Feudal só poderá ser executado caso todos os territórios e caminhos da vila sejam conquistados, restando apenas a vila principal.</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Caso a vila seja derrotada:</li>
+                <li class="text-secondary list-[circle] ml-6">O Feudal poderá ser executado, preso, exilado ou forçado a assinar rendição.</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>A vila derrotada se tornará uma província da vila vencedora durante 3 meses.</li>
+            </ul>
+            <p class="font-bold text-accent mt-4 mb-2">Durante esse período a vila dominada:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Ficará sujeita às ordens da vencedora</li>
+                <li>Poderá pagar impostos</li>
+                <li>Poderá ter recursos confiscados</li>
+                <li>Poderá sofrer ocupação militar</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Rebeliões só poderão acontecer após os 3 meses de dominação.</li>
+            </ul>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Caso a rebelião falhe:</li>
+                <li class="text-secondary list-[circle] ml-6">Líderes rebeldes poderão ser executados e a punição da vila aumentará.</li>
+            </ul>
+            <div class="divider my-6 opacity-30"></div>
         </div>
     </main>
 </body>

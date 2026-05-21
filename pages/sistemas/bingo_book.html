@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bingo Book - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+    <!-- fim NavBar -->
+
+    <main class="p-8 bg-[url(assets/images/akatsuki.jpg)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-4xl font-black text-center mb-6 uppercase tracking-tighter text-error">📕 BINGO BOOK 📕</h1>
+
+            <div class="bg-base-200 p-4 rounded-lg border-l-4 border-error mb-6">
+                <p class="text-justify font-bold italic opacity-90">O Bingo Book é um registro mundial utilizado pelas vilas para catalogar ninjas perigosos, extremamente poderosos ou procurados pelo mundo Shinobi.</p>
+            </div>
+
+            <p class="mb-3 text-justify font-bold">Um jogador poderá entrar no Bingo Book por:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6 text-secondary font-semibold">
+                <li>Crimes graves</li>
+                <li>Desertar da vila</li>
+                <li>Participar de organizações criminosas</li>
+                <li>Nível de poder anormal</li>
+                <li>Habilidades extremamente perigosas</li>
+                <li>Kekkei Genkais raras</li>
+                <li>Grande influência em guerras</li>
+                <li>Capacidade de destruir vilas</li>
+                <li>Fama adquirida em batalhas</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🏴 Classificação</h2>
+            <ul class="list-disc ml-6 space-y-2 mb-6">
+                <li><span class="font-bold text-accent">D</span> → Pequeno criminoso</li>
+                <li><span class="font-bold text-accent">C</span> → Perigoso</li>
+                <li><span class="font-bold text-warning">B</span> → Elite perigosa</li>
+                <li><span class="font-bold text-orange-500">A</span> → Ameaça militar</li>
+                <li><span class="font-bold text-error">S</span> → Ameaça global</li>
+                <li><span class="font-bold text-purple-600">SS/SSS</span> → ?</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">📖 O Bingo Book poderá conter:</h2>
+            <ul class="list-disc ml-6 space-y-1 mb-6">
+                <li>Nome</li>
+                <li>Vila de origem</li>
+                <li>Recompensa</li>
+                <li>Habilidades conhecidas</li>
+                <li>Kekkei Genkai/Dojutsu</li>
+                <li>Nível de ameaça</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">💰 Recompensas</h2>
+            <p class="mb-3 text-justify font-bold">Jogadores do Bingo Book possuirão recompensas em Ryos que aumentam conforme:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6 text-success">
+                <li>Poder</li>
+                <li>Crimes</li>
+                <li>Influência</li>
+                <li>Mortes</li>
+                <li>Guerras</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">⚔️ Consequências</h2>
+            <p class="mb-3 text-justify font-bold">Membros do Bingo Book:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6 text-error font-semibold">
+                <li>Poderão ser caçados</li>
+                <li>Serão perseguidos por ANBUs</li>
+                <li>Poderão sofrer emboscadas</li>
+                <li>Terão entrada restrita em vilas</li>
+            </ul>
+
+        </div>
+    </main>
+</body>
+</html>

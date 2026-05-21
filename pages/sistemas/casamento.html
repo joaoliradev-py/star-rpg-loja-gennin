@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Casamento - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+    <!-- fim NavBar -->
+
+    <main class="p-8 bg-[url(assets/images/konohagakure.png)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-4xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-4xl font-black text-center mb-6 uppercase tracking-tighter text-pink-500">💍 SISTEMA DE CASAMENTO 💍</h1>
+            
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">📜 Funcionamento Geral</h2>
+            <div class="bg-base-200 p-4 rounded-lg border-l-4 border-primary mb-6">
+                <p class="text-justify font-bold italic opacity-90">No universo Shinobi, casamentos não servem apenas como união amorosa, mas também como forma de criar alianças políticas, fortalecer vilas e unir clãs poderosos.</p>
+            </div>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🏯 Alianças Entre Vilas</h2>
+            <ul class="list-disc ml-6 space-y-2 mb-6">
+                <li>Alianças oficiais entre vilas podem exigir um casamento entre membros de ambas as nações como símbolo de pacto e confiança.</li>
+                <li>Casamentos globais apenas serão permitidos caso exista uma aliança oficial entre as vilas envolvidas.</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🩸 União Entre Clãs</h2>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Casamentos entre membros de clãs diferentes permitem a possibilidade de gerar filhos com habilidades herdadas de ambos os clãs.</li>
+                <li>O filho poderá nascer com:
+                    <ul class="list-disc ml-6 mt-2 space-y-1 text-secondary">
+                        <li>Kekkei Genkai</li>
+                        <li>Técnicas especiais herdadas</li>
+                        <li>Características físicas de ambos os pais</li>
+                        <li>Afinidades únicas</li>
+                    </ul>
+                </li>
+                <li>Porém, a obtenção de habilidades dos dois clãs dependerá da sorte na roleta genética do sistema.</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">👶 Sistema de Filhos</h2>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Após o casamento, o casal poderá enviar uma carta oficial ao Feudal solicitando a criação de um filho.</li>
+                <li>O player escolhido para ser o filho deverá:
+                    <ul class="list-disc ml-6 mt-2 space-y-1 text-secondary">
+                        <li>Resetar completamente o personagem</li>
+                        <li>Entrar no sistema de criação de personagem</li>
+                        <li>Criar um personagem totalmente novo</li>
+                        <li>Utilizar características dos pais</li>
+                    </ul>
+                </li>
+                <li>Caso os pais sejam de clãs distintos:
+                    <ul class="list-disc ml-6 mt-2 space-y-1 text-secondary">
+                        <li>O filho poderá obter habilidades dos dois clãs através da roleta genética.</li>
+                    </ul>
+                </li>
+                <li>Ao se tornar filho de um casal:
+                    <ul class="list-disc ml-6 mt-2 space-y-1 text-secondary">
+                        <li>O player retorna automaticamente a gennin</li>
+                    </ul>
+                </li>
+                <li>Cada casal poderá ter apenas 1 filho por mês.</li>
+                <li>Não é necessário realizar cenas +18 para gerar filhos.</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">💰 Custos do Casamento</h2>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Para realizar um casamento será necessário pagar uma taxa em Ryos para a vila.</li>
+                <li>O noivo deverá comprar as alianças no Bank da vila.</li>
+            </ul>
+            <p class="font-bold text-accent mt-3 mb-2">Valor:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4 text-secondary">
+                <li>500KK p/cada aliança.</li>
+                <li>100kk p/realizar o casamento na vila</li>
+                <li>400kk p/pessoa que vai realizar a cerimônia</li>
+            </ul>
+            <p class="font-bold text-accent mt-3 mb-2">Após comprar:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4 text-secondary">
+                <li>O noivo deverá realizar uma cena oficial de pedido de casamento no ON.</li>
+                <li>Será necessário aguardar a resposta da pessoa pedida em casamento.</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">💒 Cerimônia</h2>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Casamentos devem acontecer oficialmente dentro da vila em uma cerimônia realizada em cenas RP.</li>
+                <li>O casal deverá escolher:
+                    <ul class="list-disc ml-6 mt-2 space-y-1 text-secondary">
+                        <li>2 padrinhos do noivo</li>
+                        <li>2 madrinhas da noiva</li>
+                    </ul>
+                </li>
+                <li>Cada padrinho/madrinha deverá obrigatoriamente presentear o casal com no mínimo:
+                    <ul class="list-disc ml-6 mt-2 space-y-1 text-secondary">
+                        <li>1 BI de Ryos.</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🏦 Conta Bancária</h2>
+            <p class="mb-2 text-justify">Após o casamento, o casal deverá decidir:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Compartilhar a mesma conta bancária</li>
+            </ul>
+            <p class="mb-2 font-bold text-center opacity-70">OU</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Permanecer com contas separadas.</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">⚖️ Divórcio</h2>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Para efetuar um divórcio:
+                    <ul class="list-disc ml-6 mt-2 space-y-1 text-secondary">
+                        <li>O casal deverá comparecer ao Tribunal da vila.</li>
+                        <li>Será necessário solicitar um Juiz para resolver o caso oficialmente.</li>
+                    </ul>
+                </li>
+                <li>Em caso de divórcio:
+                    <ul class="list-disc ml-6 mt-2 space-y-1 text-secondary">
+                        <li>A vila confiscará 90% de todos os bens do casal.</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">📌 Regras Extras</h2>
+            <ul class="list-disc ml-6 space-y-2 mb-6 text-warning font-semibold">
+                <li>Casamentos falsos apenas por benefício serão considerados anti-RP.</li>
+                <li>O Feudal e os líderes das vilas possuem autoridade para cancelar casamentos suspeitos.</li>
+                <li>Filhos criados fora das regras serão anulados do sistema.</li>
+                <li>Casamentos podem gerar eventos políticos, guerras, alianças e conflitos entre clãs.</li>
+            </ul>
+
+            <div class="mt-12 text-center italic font-serif text-xl opacity-80 border-t border-b border-base-content/20 py-6 max-w-md mx-auto">
+                “Um laço entre Shinobis<br>
+                pode mudar o destino<br>
+                de uma nação.”
+            </div>
+
+        </div>
+    </main>
+</body>
+</html>

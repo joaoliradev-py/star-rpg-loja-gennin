@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Alianças - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+    <!-- fim NavBar -->
+
+    <main class="p-8 bg-[url(assets/images/knohagakure.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-4xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-4xl font-black text-center mb-6 uppercase tracking-tighter text-blue-600">🏯 SISTEMA DE ALIANÇAS 🏯</h1>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">📜 Funcionamento Geral</h2>
+            <div class="bg-base-200 p-4 rounded-lg border-l-4 border-primary mb-6">
+                <p class="text-justify font-bold italic opacity-90">No mundo Shinobi, alianças entre vilas são pactos políticos, militares e econômicos criados para fortalecer nações, impedir guerras e enfrentar ameaças maiores.</p>
+            </div>
+            
+            <p class="mb-3 text-justify font-bold">As alianças permitem:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-6">
+                <li>Cooperação militar</li>
+                <li>Comércio entre vilas</li>
+                <li>Compartilhamento de informações</li>
+                <li>Participação conjunta em guerras</li>
+                <li>Casamentos políticos</li>
+                <li>Missões compartilhadas</li>
+                <li>Defesa entre aliados</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🤝 Como Criar uma Aliança</h2>
+            <p class="mb-3 text-justify font-bold">Para uma aliança ser oficial será necessário:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-6 text-secondary">
+                <li>Aprovação dos 2 Kages envolvidos</li>
+                <li>Tratado oficial realizado em RP</li>
+                <li>Cerimônia diplomática em cenas</li>
+                <li>Registro oficial da aliança</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">📖 Tratado Shinobi</h2>
+            <p class="mb-3 text-justify font-bold">O tratado deverá conter:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-6 text-secondary">
+                <li>Nome das vilas envolvidas</li>
+                <li>Objetivo da aliança</li>
+                <li>Tempo de duração</li>
+                <li>Regras militares</li>
+                <li>Regras econômicas</li>
+                <li>Penalidades por traição</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">👑 Sistema de Influência Política</h2>
+            <p class="mb-2 text-justify">Pessoas importantes da vila poderão interferir diretamente em alianças, guerras e tratados políticos.</p>
+            <p class="mb-3 text-justify font-bold">Poderão apoiar ou ser contra alianças:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Kages</li>
+                <li>Feudais</li>
+                <li>Líderes de Clã</li>
+                <li>Conselheiros</li>
+                <li>Portadores de títulos</li>
+                <li>Chefes da ANBU</li>
+                <li>Jinchūrikis importantes</li>
+            </ul>
+
+            <p class="mb-3 text-justify font-bold">Essas figuras poderão:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4 text-secondary">
+                <li>Aprovar alianças</li>
+                <li>Vetar tratados</li>
+                <li>Influenciar guerras</li>
+                <li>Financiar conflitos</li>
+                <li>Organizar golpes políticos</li>
+                <li>Criar alianças secretas</li>
+                <li>Trair vilas diplomaticamente</li>
+                <li>Manipular decisões do Kage</li>
+            </ul>
+            <p class="italic opacity-70 text-sm font-bold text-center">(Obrigatório estarem presentes na reunião)</p>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">⚖️ Sistema de Votação Política</h2>
+            <p class="mb-2 text-justify">Algumas alianças importantes poderão exigir votação política.</p>
+            <p class="mb-3 text-justify font-bold">Exemplo de influência:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4 text-secondary">
+                <li>Kage → 30%</li>
+                <li>Feudal → 30%</li>
+                <li>Título → 30%</li>
+                <li>Outros → 10%</li>
+            </ul>
+            <p class="mb-3 text-justify font-bold">Caso a maioria seja contra:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6 text-error">
+                <li>A aliança poderá ser cancelada mesmo com aprovação do Kage.</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">☠️ Conflitos Políticos</h2>
+            <p class="mb-2 text-justify">Algumas figuras importantes poderão ser proibidas de apoiar certas alianças.</p>
+            <p class="mb-3 text-justify font-bold">Exemplos:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-4 text-secondary">
+                <li>Jinchūrikis podem ser tratados como armas militares</li>
+                <li>Clãs podem possuir rivalidades históricas</li>
+                <li>Conselheiros podem manipular decisões políticas</li>
+                <li>Feudais podem impedir guerras ou forçar conflitos</li>
+            </ul>
+            <p class="mb-3 text-justify font-bold">Isso poderá gerar:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6 text-error">
+                <li>Intrigas políticas</li>
+                <li>Espionagem</li>
+                <li>Traições</li>
+                <li>Guerras civis</li>
+                <li>Rebeliões</li>
+                <li>Conflitos internos</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">💍 Alianças Matrimoniais</h2>
+            <p class="mb-2 text-justify">Algumas alianças poderão exigir casamentos entre membros importantes das vilas.</p>
+            <p class="mb-3 text-justify font-bold">Esse tipo de união é usado para:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6">
+                <li>Evitar guerras</li>
+                <li>Fortalecer laços políticos</li>
+                <li>Unir clãs poderosos</li>
+                <li>Criar herdeiros híbridos</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">⚔️ Benefícios Militares</h2>
+            <p class="mb-3 text-justify font-bold">Vilas aliadas poderão:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6 text-secondary">
+                <li>Participar de guerras juntas</li>
+                <li>Compartilhar tropas</li>
+                <li>Defender aliados automaticamente</li>
+                <li>Criar operações combinadas</li>
+                <li>Formar esquadrões mistos</li>
+                <li>Compartilhar estratégias militares</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🧠 Compartilhamento de Informações</h2>
+            <p class="mb-3 text-justify font-bold">Vilas aliadas poderão trocar:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6 text-secondary">
+                <li>Relatórios secretos</li>
+                <li>Informações sobre criminosos</li>
+                <li>Dados de espionagem</li>
+                <li>Informações sobre organizações</li>
+                <li>Localizações perigosas</li>
+                <li>Informações sobre Bijūs</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">💰 Benefícios Econômicos</h2>
+            <p class="mb-3 text-justify font-bold">Vilas aliadas recebem:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6 text-secondary">
+                <li>Redução de impostos comerciais</li>
+                <li>Rotas comerciais protegidas</li>
+                <li>Comércio de armas e recursos</li>
+                <li>Ajuda financeira em guerras</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🌍 Grande Aliança Shinobi</h2>
+            <p class="mb-3 text-justify font-bold">Em casos de ameaças globais:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4">
+                <li>Os Kages poderão formar uma Grande Aliança Shinobi.</li>
+            </ul>
+            <p class="mb-3 text-justify font-bold">Essa aliança permite:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6 text-secondary">
+                <li>União de todas as vilas</li>
+                <li>Exército global</li>
+                <li>Compartilhamento total de recursos</li>
+                <li>Autoridade militar conjunta</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">☠️ Traição de Aliança</h2>
+            <p class="mb-3 text-justify font-bold text-error">Será considerado traição:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6 text-error">
+                <li>Atacar uma vila aliada</li>
+                <li>Espionar aliados</li>
+                <li>Roubar informações secretas</li>
+                <li>Quebrar tratados</li>
+                <li>Ajudar inimigos durante guerras</li>
+                <li>Matar membros da vila</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">⚖️ Penalidades</h2>
+            <p class="mb-3 text-justify font-bold">Em caso de traição:</p>
+            <ul class="list-disc ml-6 space-y-2 mb-6">
+                <li class="text-error font-bold">A aliança será encerrada imediatamente</li>
+                <li>O responsável poderá:
+                    <ul class="list-disc ml-6 mt-2 space-y-1 text-secondary">
+                        <li>Ser caçado globalmente</li>
+                        <li>Receber recompensa</li>
+                        <li>Ser banido diplomaticamente</li>
+                        <li>Provocar uma guerra entre vilas</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🕊️ Rompimento de Aliança</h2>
+            <p class="mb-3 text-justify font-bold">Uma vila poderá romper uma aliança apenas através de:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-4 text-secondary">
+                <li>Reunião diplomática</li>
+                <li>Documento oficial</li>
+                <li>Aprovação dos líderes envolvidos</li>
+            </ul>
+            <p class="mb-3 text-justify font-bold">Após o rompimento:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6">
+                <li>Ataques não serão considerados traição</li>
+                <li class="text-error">Passarão a ser considerados atos de guerra</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">👑 Reunião dos Kages</h2>
+            <p class="mb-3 text-justify font-bold">Kages aliados poderão convocar reuniões para:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6 text-secondary">
+                <li>Resolver conflitos</li>
+                <li>Organizar guerras</li>
+                <li>Criar novos tratados</li>
+                <li>Julgar criminosos globais</li>
+                <li>Discutir ameaças mundiais</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">📌 Regras Extras</h2>
+            <ul class="list-disc ml-6 space-y-2 mb-6 text-warning font-semibold">
+                <li>Alianças falsas serão consideradas anti-RP</li>
+                <li>Toda aliança deve possuir desenvolvimento em RP</li>
+                <li>Traições importantes podem gerar eventos globais</li>
+                <li>Organizações criminosas podem tentar destruir alianças entre vilas</li>
+            </ul>
+
+        </div>
+    </main>
+</body>
+</html>

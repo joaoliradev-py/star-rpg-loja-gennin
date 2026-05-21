@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jornal Shinobi Global - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+    <!-- fim NavBar -->
+
+    <main class="p-8 bg-[url(assets/images/pergaminho_ninja.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-6 uppercase tracking-tighter text-primary">📰 Jornal Shinobi Global 📰</h1>
+            
+            <div class="bg-base-200 p-4 rounded-lg border-l-4 border-primary mb-6">
+                <p class="text-justify font-bold italic opacity-90">O Jornal Shinobi Global mantém o mundo ninja atualizado sobre os principais acontecimentos do RPG, aumentando a imersão política e militar.</p>
+            </div>
+
+            <ul class="list-disc ml-6 space-y-1 mb-6 text-warning font-semibold">
+                <li>Uma vez por semana jornais serão entregues em todas as vilas.</li>
+            </ul>
+
+            <h3 class="text-xl font-bold mt-6 mb-3 text-secondary">O jornal poderá relatar:</h3>
+            <ul class="list-disc ml-6 space-y-1 mb-6">
+                <li>Guerras</li>
+                <li>Alianças</li>
+                <li>Mortes importantes</li>
+                <li>Criminosos procurados</li>
+                <li>Atualizações do Bingo Book</li>
+                <li>Eventos globais</li>
+                <li>Exames Shinobi</li>
+                <li>Queda de líderes</li>
+                <li>Casamentos políticos</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">🌍 Impacto no RP</h2>
+            <p class="mb-2 text-justify">As notícias passam a existir oficialmente no universo RP.</p>
+            <p class="mb-3 text-justify font-bold">Isso permite:</p>
+            <ul class="list-disc ml-6 space-y-1 mb-6">
+                <li>Reações das vilas</li>
+                <li>Fama para jogadores</li>
+                <li>Decisões políticas</li>
+                <li>Influência em guerras e alianças</li>
+            </ul>
+
+            <div class="divider my-6 opacity-30"></div>
+
+            <h2 class="text-2xl font-bold mt-8 mb-4 text-primary flex items-center gap-2">👁️ Informações Secretas</h2>
+            <ul class="list-disc ml-6 space-y-2 mb-4">
+                <li>Algumas notícias poderão ser censuradas;</li>
+                <li>Informações militares podem ser ocultadas;</li>
+                <li>Rumores falsos poderão circular pelo mundo ninja.</li>
+            </ul>
+
+        </div>
+    </main>
+</body>
+</html>
