@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criação de Personagem - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+
+    <main class="p-4 md:p-8 bg-[url(assets/images/knohagakure.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">CRIAÇÃO DE PERSONAGEM</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Sistema de Herdeiros — V1```</p>
+
+            <div class="space-y-4 text-left">
+                <p>- <em>Existe uma forma de criar personagem no RPG: o Sistema de Herdeiros.</em></p>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <p><code class="bg-base-200 px-1 rounded text-lg font-bold">👶 Sistema de Herdeiros</code></p>
+
+                <p>- <em>Jogadores poderão criar personagens através do sistema de filhos.</em></p>
+                <p>- <em>O casal deve estar oficialmente casado.</em></p>
+                <p>- <em>Uma carta deverá ser enviada ao Feudal solicitando o herdeiro.</em></p>
+                <p>- <em>O player escolhido para ser o filho deverá resetar completamente o personagem.</em></p>
+
+                <blockquote class="border-l-4 border-base-content/20 pl-4 my-2">Ao se tornar filho, o jogador volta para Gennin.</blockquote>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <p><code class="bg-base-200 px-1 rounded text-lg font-bold">🧬 Sistema de Herança</code></p>
+
+                <p>- <em>Quando os pais forem de clãs diferentes, o filho passará por uma roleta genética.</em></p>
+
+                <blockquote class="border-l-4 border-base-content/20 pl-4 my-2">40% → Herdar apenas o clã da mãe</blockquote>
+                <blockquote class="border-l-4 border-base-content/20 pl-4 my-2">40% → Herdar apenas o clã do pai</blockquote>
+                <blockquote class="border-l-4 border-base-content/20 pl-4 my-2">15% → Herdar características dos dois clãs</blockquote>
+                <blockquote class="border-l-4 border-base-content/20 pl-4 my-2">5% → Despertar uma habilidade híbrida única</blockquote>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <p><code class="bg-base-200 px-1 rounded text-lg font-bold">👁️ O Que Pode Ser Herdado</code></p>
+
+                <p>- <em>Kekkei Genkai, Dojutsus, Afinidades elementais, Características físicas e Habilidades especiais.</em></p>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <p><code class="bg-base-200 px-1 rounded text-lg font-bold">🏯 Lista de Clãs Disponíveis</code></p>
+
+                <div class="overflow-x-auto bg-base-200/50 rounded-xl shadow-inner p-4 my-4">
+                    <table class="table table-sm table-zebra w-full text-center">
+                        <thead>
+                            <tr><th>Clã</th><th>Chance</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr><td><strong>Ōtsutsuki</strong></td><td>1%</td></tr>
+                            <tr><td><strong>Uchiha</strong></td><td>3%</td></tr>
+                            <tr><td><strong>Senju</strong></td><td>4%</td></tr>
+                            <tr><td><strong>Uzumaki</strong></td><td>5%</td></tr>
+                            <tr><td><strong>Hyūga</strong></td><td>6%</td></tr>
+                            <tr><td><strong>Kaguya</strong></td><td>7%</td></tr>
+                            <tr><td><strong>Yuki</strong></td><td>7%</td></tr>
+                            <tr><td><strong>Hōzuki</strong></td><td>8%</td></tr>
+                            <tr><td><strong>Chinoike</strong></td><td>8%</td></tr>
+                            <tr><td><strong>Jūgo</strong></td><td>8%</td></tr>
+                            <tr><td><strong>Nara</strong></td><td>10%</td></tr>
+                            <tr><td><strong>Akimichi</strong></td><td>10%</td></tr>
+                            <tr><td><strong>Yamanaka</strong></td><td>10%</td></tr>
+                            <tr><td><strong>Aburame</strong></td><td>10%</td></tr>
+                            <tr><td><strong>Inuzuka</strong></td><td>10%</td></tr>
+                            <tr><td><strong>Hatake</strong></td><td>12%</td></tr>
+                            <tr><td><strong>Sarutobi</strong></td><td>12%</td></tr>
+                            <tr><td><strong>Kazekage</strong></td><td>12%</td></tr>
+                            <tr><td><strong>Kamizuru</strong></td><td>15%</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <p><code class="bg-base-200 px-1 rounded text-lg font-bold">🌪 Sistema de Elementos</code></p>
+
+                <p>- <em>A quantidade e os tipos de elementos serão decididos em roleta.</em></p>
+                <p>- <em>Possíveis elementos: Katon, Suiton, Raiton, Doton e Fūton.</em></p>
+                <p>- <em>Elementos especiais só poderão ser obtidos através de Kekkei Genkai, Evoluções, Eventos ou Herança genética.</em></p>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <p><code class="bg-base-200 px-1 rounded text-lg font-bold">🎓 Afinidades de Combate</code></p>
+
+                <p>- <em>As afinidades são decididas por roleta. Possíveis: Genjutsu, Ninjutsu, Taijutsu, Kenjutsu, Fuinjutsu e Kinjutsu (técnicas proibidas e perigosas).</em></p>
+
+                <blockquote class="border-l-4 border-base-content/20 pl-4 my-2">Técnicas do estilo custam 50% menos chakra.</blockquote>
+                <blockquote class="border-l-4 border-base-content/20 pl-4 my-2">Treinamentos ficam 50% mais rápidos.</blockquote>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <p><code class="bg-base-200 px-1 rounded text-lg font-bold">⚖️ Criação de Técnicas</code></p>
+
+                <p>- <em>Personagens herdeiros deverão seguir o sistema oficial de criação de habilidades.</em></p>
+                <p>- <em>O intervalo de criação para herdeiros será de apenas 24h.</em></p>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <p><code class="bg-base-200 px-1 rounded text-lg font-bold">⚖️ Limites</code></p>
+
+                <p>- <em>Cada personagem pode possuir apenas 1 Kekkei Genkai naturalmente.</em></p>
+                <p>- <em>Outras apenas através de: Implantes, Assimilação ou Experimentos.</em></p>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <p><code class="bg-base-200 px-1 rounded text-lg font-bold">📌 Regras Extras</code></p>
+
+                <p>- <em>Cada casal poderá gerar apenas 1 filho por mês.</em></p>
+                <p>- <em>O sistema de herdeiros não necessita cenas +18.</em></p>
+                <p>- <em>Filhos fora das regras serão anulados.</em></p>
+
+                <p><strong>⚠️ Essa é a primeira versão do sistema. Brechas poderão ser encontradas futuramente, fazendo com que o sistema seja modificado conforme a necessidade do RPG.</strong></p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
