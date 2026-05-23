@@ -1,0 +1,147 @@
+═══════════════════════════════════════════════════════════════
+                    COMANDOS DE FORMATAÇÃO
+═══════════════════════════════════════════════════════════════
+
+🎯 COMANDO 1: /loja
+
+O que faz:
+├─ Lê o conteúdo de um arquivo .txt (fonte de verdade)
+├─ Formata em .html com o MESMO ESTILO de pages/habilidades_gerais/taijutsus.html
+├─ Mantém fidelidade absoluta ao conteúdo (nunca modifica)
+├─ Estrutura simples: parágrafos (<p>), separadores (<hr>), sem cards extras
+└─ USE QUANDO: Precisar adicionar nova loja de personagem
+
+Sintaxe:
+  /loja nome_do_arquivo.txt
+
+Exemplo:
+  /loja teste_lojas.txt
+  → Gera: teste_lojas.html
+
+Características:
+  ✓ Navbar dinâmica
+  ✓ Background temático (vale_do_fim.webp)
+  ✓ Card centralizado com Tailwind + DaisyUI
+  ✓ Conteúdo preservado exatamente como está no .txt
+  ✓ Responsivo mobile/desktop
+
+Estrutura do HTML gerado:
+  - Título (nome do personagem)
+  - Subtítulo (Loja de [Nome])
+  - Descrição inicial (primeiros parágrafos do .txt)
+  - Técnicas/Habilidades separadas por <hr>
+  - Cada técnica com: Nome, Rank, Atributo, Custo, Descrição, Preço
+
+═══════════════════════════════════════════════════════════════
+
+🎯 COMANDO 2: /sistema
+
+O que faz:
+├─ Lê o conteúdo de um arquivo .txt (fonte de verdade)
+├─ Formata em .html com o MESMO ESTILO de pages/sistemas/bijuus.html
+├─ Mantém fidelidade absoluta ao conteúdo (nunca modifica)
+├─ Usa imagem de background (você passa junto ou eu procuro em assets/images)
+├─ ATUALIZA as duas navbars (navbar.html e navbar.js) se for sistema NOVO
+├─ Sem alterações significativas a menos que você peça explicitamente
+└─ USE QUANDO: Criar novo sistema (economia, bijuus, guerras, esconderijo, etc)
+
+Sintaxe:
+  /sistema nome_do_arquivo.txt
+
+Exemplo:
+  /sistema teste_sistema.txt
+  → Gera: teste_sistema.html
+
+Características:
+  ✓ Título grande em UPPERCASE com emoji
+  ✓ Subtítulo descritivo
+  ✓ Conteúdo em blocos estruturados com <code> de seção
+  ✓ Separadores visuais (✄╌╌╌╌╌╌╌╌)
+  ✓ Citações/blockquotes para informações importantes
+  ✓ Background customizável (procura em assets/images)
+  ✓ Responsivo mobile/desktop
+
+Estrutura do HTML gerado:
+  - Título (SISTEMA: [NOME])
+  - Subtítulo temático
+  - Seções marcadas com <code> bold e emoji
+  - Conteúdo textual com blockquotes para destaque
+  - Separadores visuais entre seções
+
+IMPORTANTE - Atualizações na Navbar:
+  Se for um NOVO SISTEMA em produção:
+  1. Editar navbar.html (adicionar link)
+  2. Editar navbar.js (adicionar item no menu)
+  
+  Obs: Em TESTES, pular essa etapa (como indicado no comando)
+
+═══════════════════════════════════════════════════════════════
+
+📁 ESTRUTURA DO PROJETO
+
+pages/
+  ├─ lojas/ ..................... Lojas de personagens (A-Z)
+  ├─ habilidades_gerais/ ........ Styles ref: taijutsus.html
+  ├─ sistemas/ .................. Styles ref: bijuus.html
+  └─ (outras seções)
+
+assets/
+  ├─ navbar.js .................. Menu dinâmico
+  ├─ navbar.html ................ Navbar estática
+  ├─ style.css .................. Estilos gerais
+  └─ images/ .................... Backgrounds e imagens
+
+═══════════════════════════════════════════════════════════════
+
+🖼️ BACKGROUNDS DISPONÍVEIS (assets/images/)
+
+  Para /loja:
+    - vale_do_fim.webp (padrão)
+    - outros backgrounds conforme necessário
+
+  Para /sistema:
+    - bijuus_bebes.webp
+    - dojo.webp
+    - guerra_ninja.webp
+    - guardioes_ninja.webp
+    - (e muitos outros...)
+
+  Dica: Se não passar imagem, procuro uma apropriada em assets/images
+
+═══════════════════════════════════════════════════════════════
+
+⏱️ WORKFLOW RÁPIDO
+
+Adicionar NOVA LOJA DE PERSONAGEM:
+  1. Criar arquivo: personagem_nome.txt (com dados)
+  2. Rodar comando: /loja personagem_nome.txt
+  3. Arquivo gerado: personagem_nome.html
+  4. Salvar na pasta: pages/lojas/[letra]/
+  5. Pronto! 🎉
+
+Adicionar NOVO SISTEMA:
+  1. Criar arquivo: sistema_nome.txt (com dados)
+  2. Rodar comando: /sistema sistema_nome.txt
+  3. Arquivo gerado: sistema_nome.html
+  4. Atualizar navbars (navbar.html e navbar.js)
+  5. Salvar na pasta: pages/sistemas/
+  6. Pronto! 🎉
+
+═══════════════════════════════════════════════════════════════
+
+✅ QUALIDADE GARANTIDA
+
+✓ Fidelidade 100%: Conteúdo do .txt nunca é modificado
+✓ Estilo Consistente: Segue padrões testados do projeto
+✓ Responsivo: Funciona em mobile, tablet e desktop
+✓ SEO-friendly: Titles, meta tags configurados
+✓ DaisyUI + Tailwind: Componentes modernos e escaláveis
+✓ Compatível GitHub Pages: Base href automático
+
+═══════════════════════════════════════════════════════════════
+
+Autor: GitHub Copilot
+Data: 23 de maio de 2026
+Versão: 1.0
+
+═══════════════════════════════════════════════════════════════

@@ -121,6 +121,18 @@
                                 <li><a href="pages/sistemas/troca_de_vilas.html">Troca de Vilas</a></li>
                                 <li>
                                     <details>
+                                        <summary class="font-bold text-emerald-600">Subsistemas</summary>
+                                        <ul class="p-2 rounded-lg mt-1">
+                                            <li><a href="pages/sistemas/subsistemas/lista_subsistemas.html">Lista de Subsistemas</a></li>
+                                            <li><a href="pages/sistemas/subsistemas/konohagakure.html">Subsistema Konohagakure</a></li>
+                                            <li><a href="pages/sistemas/subsistemas/kirigakure.html">Subsistema Kirigakure</a></li>
+                                            <li><a href="pages/sistemas/subsistemas/sunagakure.html">Subsistema Sunagakure</a></li>
+                                            <li><a href="pages/sistemas/subsistemas/iwagakure.html">Subsistema Iwagakure</a></li>
+                                        </ul>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
                                         <summary class="font-bold text-orange-500">Caça às Bijūs</summary>
                                         <ul class="p-2 rounded-lg mt-1">
                                             <li><a href="pages/sistemas/bijuus.html">Sistema de Bijūs</a></li>
@@ -241,7 +253,19 @@
                             <li><a href="pages/sistemas/tribunal_shinobi.html">Tribunal Shinobi</a></li>
                             <li><a href="pages/sistemas/times_ninja.html">Times Ninja</a></li>
                             <li><a href="pages/sistemas/troca_de_vilas.html">Troca de Vilas</a></li>
-                            <li>
+                                <li>
+                                    <details>
+                                        <summary class="font-bold text-emerald-600">Subsistemas</summary>
+                                        <ul class="p-2 rounded-lg mt-1">
+                                            <li><a href="pages/sistemas/subsistemas/lista_subsistemas.html">Lista de Subsistemas</a></li>
+                                            <li><a href="pages/sistemas/subsistemas/konohagakure.html">Subsistema Konohagakure</a></li>
+                                            <li><a href="pages/sistemas/subsistemas/kirigakure.html">Subsistema Kirigakure</a></li>
+                                            <li><a href="pages/sistemas/subsistemas/sunagakure.html">Subsistema Sunagakure</a></li>
+                                            <li><a href="pages/sistemas/subsistemas/iwagakure.html">Subsistema Iwagakure</a></li>
+                                        </ul>
+                                    </details>
+                                </li>
+                                <li>
                                 <details>
                                     <summary class="font-bold text-orange-500">Caça às Bijūs</summary>
                                     <ul class="p-2 rounded-lg mt-1">
