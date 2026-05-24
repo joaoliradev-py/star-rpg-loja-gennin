@@ -17,7 +17,7 @@
     <script src="assets/navbar.js"></script>
     
     <main class="p-4 md:p-8 bg-[url(assets/images/execucao.jpg)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
-        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+        <div class="flex flex-col gap-7 bg-base-100 rounded-xl p-8 mt-10   max-w-3xl mx-auto shadow-lg text-base-content/90">
             <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">SISTEMA DE EXECUÇÃO</h1>
             <p class="text-center font-mono opacity-60 mb-8">```Execuções e Duelos Oficiais```</p>
 
@@ -25,42 +25,51 @@
             <p>Desafios Oficiais, ou simplesmente Duelo, são uma modalidade de luta usada na arena, onde o desafiante pode definir regras específicas ou lutar valendo algo em específico. Nesse tipo de luta, o karma é aplicado.</p>
             <p>Pessoas derrotadas em execuções, caso não exista corpo para ser salvo através do sistema médico, são enviadas diretamente para a Academia. Caso ainda haja um corpo recuperável, os ninjas aliados terão 24 horas para recuperar o corpo e levá-lo até um ninja médico, onde será iniciado o tratamento para a recuperação do ferido.</p>
             <p>Nukkenins e Pessoas que possuem titulo zeram instantaneamente ao executar alguem.</p>
-            <p>📌 Regras de Execuções e Duelos:</p>
-            <p>* A luta pode se encerrar com um acordo/paz, porém o desafiado recebe derrota. (Caso não seja valendo algo, não perde nada, mas no ON isso mancha sua reputação caso seja visto.)</p>
-            <p>* Ao acumular 3 karmas, o jogador é derrotado automaticamente.</p>
+            <h2 class="font-bold text-xl">📌 Regras de Execuções e Duelos:</h2>
+            <p>A luta pode se encerrar com um acordo/paz, porém o desafiado recebe derrota. (Caso não seja valendo algo, não perde nada, mas no ON isso mancha sua reputação caso seja visto.)</p>
+            <strong>Ao acumular 3 karmas, o jogador é derrotado automaticamente.</strong>
             <p>•  ir no pv do juiz gera karma(o juiz pode deixar claro se ele permite que vao no pv ou nao)</p>
             <p>•  fogo amigo sempre estara ligado nos executes</p>
-            <p>* ambos os lados da execução podem pausar execuções no máximo 3 vezez cada pausa tem no máximo 15 minutos após isso a luta segue</p>
+            <strong>sambos os lados da execução podem pausar execuções no máximo 3 vezez cada pausa tem no máximo 15 minutos após isso a luta segue</strong>
             <p>•  se ficar off nos primeiros 5 minutos de combo perde a vez</p>
-            <p>* Os karmas variam de acordo com a situação, sempre seguindo a lógica do erro cometido (karma fora da realidade resultam em zeramento de ryos e atributos por parte do juiz em casos extremos academia)</p>
+            <strong>Os karmas variam de acordo com a situação, sempre seguindo a lógica do erro cometido (karma fora da realidade resultam em zeramento de ryos e atributos por parte do juiz em casos extremos academia)</strong>
             <p>Ex de karma fora da realidade: "Os Deus se irritaram a cada um turno um Kirin cai em pitoco"</p>
-            <p>* Só é possível executar de 08:00 às 22:00 em dias de semana.</p>
+            <strong>Só é possível executar de 08:00 às 22:00 em dias de semana.</strong>
             <p>De sexta para sábado e sábado para domingo, além de feriados, o execute é liberado ate as 20h.</p>
             <p>Ex: Sexta até domingo é ate as 20h, porém domingo vai até 23:00.</p>
             <p>Feriados: válido do dia anterior ao feriado até 20:00 do próprio dia.</p>
-            <p>* Você precisa localizar ou ver o alvo, e o jogador deve ter estado online nos últimos 10 minutos.</p>
-            <p>* ⚠️ IMPORTANTE: Jogadores que estiverem offline há mais de 10 minutos em todos os domínios do RPG (grupos) não podem ser alvo de execução.</p>
+            <p><strong>Você precisa localizar ou ver o alvo, e o jogador deve ter estado online nos últimos 10 minutos.</strong></p>
+            <strong> ⚠️ IMPORTANTE: Jogadores que estiverem offline há mais de 10 minutos em todos os domínios do RPG (grupos) não podem ser alvo de execução.</strong>
             <p>"Ah, mas a pessoa está online no WhatsApp" vida não se resume ao RPG.</p>
             <p>Caso esteja offline especificamente no RPG, o jogador fica imune.</p>
-            <p>* Também ficam imunes jogadores que possam comprovar que estão ocupados, como por exemplo: trabalho, hospital, dirigindo, entre outros.</p>
+            <p><strong>Também ficam imunes jogadores que possam comprovar que estão ocupados, como por exemplo: trabalho, hospital, dirigindo, entre outros.</strong></p>
+            <h2 class="font-bold text-xl">Comandoos</h2>
             <p>⚔️ Comando de Execução:</p>
-            <p>/Executar @Fulano</p>
-            <p>* 5 minutos p/Defesa</p>
-            <p>* 15 minutos se estiver na em vilas ou esconderijos</p>
-            <p>* 20 minutos em caso de guerra</p>
-            <p>@Adms</p>
+            <div class="bg-gray-300 p-2 rounded-xl gap-2 flex flex-col">
+                <p><strong>/Executar @Fulano</strong></p>
+                <p><strong>5 minutos p/Defesa</strong></p>
+                <p><strong>15 minutos se estiver na em vilas ou esconderijos</strong></p>
+                <p><strong>20 minutos em caso de guerra</strong></p>
+                <p class="text-blue-00">@Adms</p>
+            </div>
             <p>🛡️ Defesa:</p>
-            <p>Atk: 20.000.000</p>
-            <p>/Me defendo</p>
+            <div class="bg-gray-300 p-2 rounded-xl gap-3 flex flex-col">
+                <p><strong>Atk: 20.000.000</strong></p>
+                <p><strong>/Me defendo</strong></p>
+            </div>
             <p>🛡️ Defender outro jogador:</p>
-            <p>Atk: 20.000.000</p>
-            <p>/Defendo @fulano</p>
+            <div class="bg-gray-300 p-2 rounded-xl gap-3 flex flex-col">
+                <p><strong>Atk: 20.000.000</strong></p>
+                <p><strong>/Defendo @fulano</strong></p>
+            </div>
             <p>🗡️ Ataque:</p>
-            <p>Atk: 20.000.000</p>
-            <p>/Ataco</p>
-            <p>(Sempre marcando o comando de execução)</p>
-            <p>Erros de apresentação geram morte instantânea </p>
-            <p>Apresentações apagadas geram karma</p>
+            <div class="bg-gray-300 p-2 rounded-xl gap-3 flex flex-col">
+                <p><strong>Atk: 20.000.000</strong></p>
+                <p><strong>/Ataco</strong></p>
+            </div>
+            <strong>(Sempre marcando o comando de execução)</strong>
+            <strong>Erros de apresentação geram morte instantânea </strong>
+            <strong>Apresentações apagadas geram karma</strong>
         </div>
     </main>
 </body>
