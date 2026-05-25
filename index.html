@@ -20,8 +20,108 @@
     <!-- fim NavBar -->
 
     <!-- Main -->
-    <main class="bg-[url('assets/images/konohagakure.png')] bg-cover bg-no-repeat bg-center bg-fixed flex h-screen">
+    <main class="bg-[url('assets/images/konohagakure.png')] bg-cover bg-no-repeat bg-center bg-fixed flex h-screen items-center justify-center pt-20">
+        <div class="w-full max-w-2xl px-4">
+            <div class="relative">
+                <div class="relative">
+                    <input 
+                        type="text" 
+                        id="searchInput" 
+                        class="input input-bordered input-lg w-full pl-12 pr-4 text-center text-lg"
+                        placeholder="o que deseja hoje? 🍜"
+                        autocomplete="off"
+                    >
+                    <svg class="absolute left-4 top-4 w-6 h-6 opacity-50" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
+                </div>
+                <div id="searchResults" class="absolute top-full left-0 right-0 mt-2 bg-base-100 border border-base-300 rounded-lg shadow-lg max-h-96 overflow-y-auto hidden z-50"></div>
+            </div>
+        </div>
     </main>
     <!-- Fim Main -->
+
+    <script>
+        const systemPages = [
+            { name: 'Aliança Entre Vilas', url: 'pages/sistemas/aliancas_entre_vilas.html' },
+            { name: 'Armadilhas', url: 'pages/sistemas/armadilhas.html' },
+            { name: 'Bijūs', url: 'pages/sistemas/bijuus.html' },
+            { name: 'Bingo Book', url: 'pages/sistemas/bingo_book.html' },
+            { name: 'Casamento', url: 'pages/sistemas/casamento.html' },
+            { name: 'Combate Lógica', url: 'pages/sistemas/comabte_logica.html' },
+            { name: 'Corpo de Explosão', url: 'pages/sistemas/corpo_de_explosao.html' },
+            { name: 'Criação Personagem', url: 'pages/sistemas/criacao_personagem.html' },
+            { name: 'Esconderijos', url: 'pages/sistemas/esconderijos.html' },
+            { name: 'Execução', url: 'pages/sistemas/execucao.html' },
+            { name: 'Fauna e Recursos', url: 'pages/sistemas/fauna_recursos.html' },
+            { name: 'Guardiões Ninja', url: 'pages/sistemas/guardioes_ninja.html' },
+            { name: 'Guerras Ninja', url: 'pages/sistemas/guerras_ninja.html' },
+            { name: 'Jornal Shinobi', url: 'pages/sistemas/jornal_shinobi.html' },
+            { name: 'Jutsus Supremos', url: 'pages/sistemas/jutsus_supremos.html' },
+            { name: 'Locomoção Caminhos', url: 'pages/sistemas/locomocao_caminhos.html' },
+            { name: 'On/Off', url: 'pages/sistemas/on_off.html' },
+            { name: 'Roubo Dojutsu', url: 'pages/sistemas/roubo_dojutsu.html' },
+            { name: 'Roubo Sangue', url: 'pages/sistemas/roubo_sangue.html' },
+            { name: 'Seis Caminhos', url: 'pages/sistemas/seis_caminhos.html' },
+            { name: 'Sistema Científico', url: 'pages/sistemas/sistema_cientifico.html' },
+            { name: 'Sistema Médico', url: 'pages/sistemas/sistema_medico.html' },
+            { name: 'Susanoo', url: 'pages/sistemas/susanoo.html' },
+            { name: 'Times Ninja', url: 'pages/sistemas/times_ninja.html' },
+            { name: 'Tribunal Shinobi', url: 'pages/sistemas/tribunal_shinobi.html' },
+            { name: 'Troca de Vilas', url: 'pages/sistemas/troca_de_vilas.html' },
+            { name: 'UPs e Atributos', url: 'pages/sistemas/ups.html' },
+            { name: 'Aprendizado Jutsu', url: 'pages/chakra/aprendizado_jutsu.html' },
+            { name: 'Criação Jutsu', url: 'pages/chakra/criacao_jutsu.html' },
+            { name: 'Manipulação Chakra', url: 'pages/chakra/manipulacao_chakra.html' },
+            { name: 'Estabelecimentos', url: 'pages/economia/estabelecimentos.html' },
+            { name: 'Ryos', url: 'pages/economia/ryos.html' },
+            { name: 'Ocultações', url: 'pages/utilitarios/ocultacoes.html' },
+            { name: 'Teletransporte Marcas', url: 'pages/utilitarios/teletransporte_marcas.html' },
+            { name: 'Zetsu Clones', url: 'pages/utilitarios/zetsu_clones.html' },
+            { name: 'Introdução', url: 'pages/introducao.html' },
+            { name: 'Lista Personagens', url: 'pages/lista_personagens.html' },
+        ];
+
+        const searchInput = document.getElementById('searchInput');
+        const searchResults = document.getElementById('searchResults');
+
+        searchInput.addEventListener('input', function() {
+            const query = this.value.toLowerCase().trim();
+            
+            if (query.length === 0) {
+                searchResults.classList.add('hidden');
+                return;
+            }
+
+            const filtered = systemPages.filter(page => 
+                page.name.toLowerCase().includes(query)
+            );
+
+            if (filtered.length === 0) {
+                searchResults.classList.add('hidden');
+                return;
+            }
+
+            searchResults.innerHTML = filtered.map(page => `
+                <a href="${page.url}" class="block px-4 py-3 hover:bg-base-200 border-b border-base-300 last:border-b-0 transition">
+                    <p class="font-semibold text-sm">${page.name}</p>
+                </a>
+            `).join('');
+
+            searchResults.classList.remove('hidden');
+        });
+
+        searchInput.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                searchResults.classList.add('hidden');
+            }
+        });
+
+        document.addEventListener('click', function(e) {
+            if (!e.target.closest('#searchInput') && !e.target.closest('#searchResults')) {
+                searchResults.classList.add('hidden');
+            }
+        });
+    </script>
 </body>
 </html>
