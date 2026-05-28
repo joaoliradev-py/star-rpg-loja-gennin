@@ -136,6 +136,7 @@
                                         <summary class="font-bold text-orange-500">Caça às Bijūs</summary>
                                         <ul class="p-2 rounded-lg mt-1">
                                             <li><a href="pages/sistemas/bijuus.html">Sistema de Bijūs</a></li>
+                                            <li><a href="pages/sistemas/gedo_mazo.html">Gedō Mazō</a></li>
                                             <li><a href="pages/sistemas/comabte_logica.html">Combate de Lógica</a></li>
                                             <li><a href="pages/sistemas/jutsus_supremos.html">Jutsus Supremos</a></li>
                                         </ul>
@@ -270,6 +271,7 @@
                                     <summary class="font-bold text-orange-500">Caça às Bijūs</summary>
                                     <ul class="p-2 rounded-lg mt-1">
                                         <li><a href="pages/sistemas/bijuus.html">Sistema de Bijūs</a></li>
+                                        <li><a href="pages/sistemas/gedo_mazo.html">Gedō Mazō</a></li>
                                         <li><a href="pages/sistemas/comabte_logica.html">Combate de Lógica</a></li>
                                         <li><a href="pages/sistemas/jutsus_supremos.html">Jutsus Supremos</a></li>
                                     </ul>
