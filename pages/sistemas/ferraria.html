@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gedō Mazō - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+
+    <main class="p-4 md:p-8 bg-[url(assets/images/ferraria.jpg)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="flex flex-col bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90 gap-6">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">⚔️ A Ferraria</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```A ferraria```</p>
+
+            <div class=" flex flex-col gap-7 text-left">
+            <!-- Conteúdo da página -->
+            <p>A Ferraria é o santuário onde armas lendárias e ferramentas utilitárias ganham vida. Operando incansavelmente atrás de sua forja, o Ferreiro assina cada uma de suas criações com um selo exclusivo, autenticando-as como obras de arte únicas e intransferíveis no mundo.</p>
+            <h1 class="text-xl font-bold">🛠️ Processo de Criação</h1>
+            <hr>
+            <p>Para forjar um equipamento, o jogador deve seguir dois passos simples:</p>
+            <p><span class="text-orange-500 font-bold">1 - A Ficha de Criação:</span>  Desenvolva a ficha técnica da arma, detalhando sua aparência, habilidades e como suas mecânicas funcionarão dentro do RPG.</p>
+            <p><span class="text-orange-500 font-bold">2 - A Lista de Materiais:</span> Com base na ficha, o Ferreiro estipulará os materiais necessários para a fabricação, conectando os componentes aos efeitos desejados.</p>
+            <p><span class="text-orange-500 font-bold">3 - A Forja:</span> Com os materiais em mãos, o Ferreiro realizará a forja, aplicando magia e técnica para criar a arma.</p>
+            <h1 class="text-xl font-bold">🎖️ Classificação e Limites das Armas</h1>
+            <hr>
+            <p>O Ferreiro avaliará e categorizará a complexidade da sua arma de acordo com o sistema de Ranks abaixo:</p>
+            <p class="text-orange-500 font-bold">Rank: A (Armas Comuns)</p>
+            <p>Descrição: Equipamentos básicos com propriedades simples.</p>
+            <p>Materiais: Componentes comuns (couro, metais padrão, venenos simples, etc).</p>
+            <p>Capacidade: Máximo de 1 Habilidade Principal e 1 Básica.</p>
+            <p class="text-orange-500 font-bold">Rank: S (Nivel intermediário)</p>
+            <p>Descrição: Equipamentos com habilidades de complexidade moderada.</p>
+            <p>Materiais: Componentes de difícil acesso (como sangue de linhagens com Kekkei Genkai básicas).</p>
+            <p>Capacidade: Máximo de 1 Habilidade Principal, 1 Derivada e 1 Básica.</p>
+            <p class="text-orange-500 font-bold">Rank: SS (Nível Chunnin) </p>
+            <p>Descrição: Armas avançadas com mecânicas e habilidades complexas.</p>
+            <p>Materiais: Componentes de nível avançado (sangue de Kekkei Genkai raras ou Dojutsus de nível Chunin, como Mangekyo Sharingan, Tenseigan ou Rinnegan básico).
+            <p>Capacidade: Máximo de 1 Habilidade Principal, 1 Derivada e 2 Básicas.</p>
+            <p class="text-orange-500 font-bold">Rank: SSS (Nível Jounnin+)</p>
+            <p>Descrição: Armas de elite com poderes extremamente complexos.</p>
+            <p>Materiais: Matérias-primas de extrema raridade (Rinnegan Supremo, Ossos de Cinza Mortais, Receptores de Chakra, etc).</p>
+            <p>Capacidade: Máximo de 2 Habilidades Principais, 2 Derivadas e 2 Básicas.</p>
+            <p class="text-orange-500 font-bold">Rank: SSS+ (Relíquias Secretas)</p>
+            <p>Descrição: O ápice desconhecido da forja. Atributos ocultos.</p>
+            <p>Capacidade: Máximo de 3 Habilidades Principais, 3 Derivadas e 4 Básicas.</p>
+            <h1 class="text-xl font-bold">📜Regras Gerais e Limitações📜</h1>
+            <hr>
+            <p><span class="text-orange-500 font-bold">Roubo de Equipamento:</span> Armas podem ser roubadas por outros jogadores durante o RPG.</p>
+            <p><span class="text-orange-500 font-bold">Limite de Arsenal:</span> Cada jogador pode carregar no máximo 3 armas próprias, sendo obrigatório que todas sejam de Ranks diferentes (não é permitido ter duas armas de Rank S prontas de sua autoria, por exemplo).</p>
+            <p><span class="text-orange-500 font-bold">Exceção:</span> Armas roubadas não entram nessa contagem e ignoram a restrição de Rank.</p>
+            <p><span class="text-orange-500 font-bold">Descarte e Venda:</span> Caso já possua 3 armas e queira uma nova, o jogador pode vender uma de suas armas atuais de volta ao Ferreiro para abrir espaço no inventário.</p>
+            <p><span class="text-orange-500 font-bold">Restrição por Patente:</span> A patente atual do seu personagem limita o Rank da arma que você pode criar. Caso seu personagem suba de patente no RPG, suas armas antigas podem passar por um processo de Rework (atualização de atributos e efeitos) para acompanharem seu nível.</p>
+            <hr>
+            <h1 class="text-xl font-bold">🎯 Missões de Forja e Custos</h1>
+            <p>Para que o Ferreiro aceite trabalhar em sua arma, você deve cumprir requisitos de combate (fazer os sacrifícios necessários) e pagar a taxa de mão de obra:</p>
+            <p class="text-orange-500 font-bold">Rank A:</p>
+            <p>Requisito: Eliminar 5 Gennins, 1 Chunin e 1 Jounnin.</p>
+            <p>Mão de Obra: 5.000.000.000 Ryos.</p>
+            <p class="text-orange-500 font-bold">Rank S:</p>
+            <p>Requisito: Eliminar 10 Gennins, 3 Chunins e 2 Jounnins.</p>
+            <p>Mão de Obra: 10.000.000.000 Ryos.</p>
+            <p class="text-orange-500 font-bold">Rank SS:</p>
+            <p>Requisito: Eliminar 5 Chunins, 3 Jounnins e 1 Kage de uma vila rival.</p>
+            <p>Mão de Obra: 20.000.000.000 Ryos.</p>
+            <p class="text-orange-500 font-bold">Rank SSS:</p>
+            <p>Requisito: Eliminar 10 Jounnins e 3 Kages.</p>
+            <p>Mão de Obra: 40.000.000.000 Ryos.</p>
+            <p class="text-orange-500 font-bold">Rank SSS+:</p>
+            <p>Requisito: Trazer a alma de 5 pessoas (zerando completamente todos os seus atributos e status, exceto a patente) + Executar 1 Kage em atividade.</p>
+            <p>Mão de Obra: 100.000.000.000 Ryos.</p>
+            <hr>
+            <p class="text-black/30">💬 "Armas comuns cortam a carne. As minhas cortam o destino. O metal autenticado pelo meu selo carrega a bênção do fogo sagrado. Digam-me, viajantes... que tipo de fardo vocês vieram me pedir para forjar?"
+            <!-- Fim do conteúdo -->
+            </div>
+        </div>
+    </main>
+</body>
+</html>

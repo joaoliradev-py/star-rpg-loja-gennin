@@ -100,6 +100,7 @@
                                 <li><a href="pages/sistemas/criacao_personagem.html">Criação de Personagem</a></li>
                                 <li><a href="pages/sistemas/esconderijos.html">Esconderijo</a></li>
                                 <li><a href="pages/sistemas/fauna_recursos.html">Fauna &amp; Recursos</a></li>
+                                <li><a href="pages/sistemas/ferraria.html">Ferraria</a></li>
                                 <li><a href="pages/sistemas/susanoo.html">Evolução Susanoo</a></li>
                                 <li><a href="pages/sistemas/execucao.html">Execução</a></li>
                                 <li><a href="pages/sistemas/guardioes_ninja.html">Guardiões Ninja</a></li>
@@ -235,6 +236,7 @@
                             <li><a href="pages/sistemas/criacao_personagem.html">Criação de Personagem</a></li>
                             <li><a href="pages/sistemas/esconderijos.html">Esconderijo</a></li>
                             <li><a href="pages/sistemas/fauna_recursos.html">Fauna &amp; Recursos</a></li>
+                            <li><a href="pages/sistemas/ferraria.html">Ferraria</a></li>
                             <li><a href="pages/sistemas/susanoo.html">Evolução Susanoo</a></li>
                             <li><a href="pages/sistemas/execucao.html">Execução</a></li>
                             <li><a href="pages/sistemas/guardioes_ninja.html">Guardiões Ninja</a></li>
