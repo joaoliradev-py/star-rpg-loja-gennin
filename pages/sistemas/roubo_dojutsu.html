@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-        <script>
+    <script>
         const isGH = window.location.hostname.includes('github.io');
         document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
     </script>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Roubo de Dojutsu - Naruto RPG STAR</title>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
@@ -17,10 +17,10 @@
     <script src="assets/navbar.js"></script>
     <!-- fim NavBar -->
     <main class="p-4 md:p-8 bg-[url(assets/images/roubo_dojutsu.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
-        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg flex flex-col gap-8">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg flex flex-col gap-8 text-base-content/90">
             <!-- Título principal -->
             <div class="text-center">
-                <h1 class="text-3xl font-black text-primary uppercase tracking-tighter">Roubo de Dojutsu</h1>
+                <h1 class="text-3xl font-black text-primary uppercase tracking-tighter">Roubo de Doujutsus</h1>
                 <p class="text-base-content/60 font-medium">Sistemas de Conquista e Implante</p>
             </div>
             
@@ -39,7 +39,7 @@
                 <h3 class="text-lg font-bold text-error mb-4">⚠️ REGRAS</h3>
                 <div class="space-y-4 text-sm">
                     <div class="p-4 bg-error/5 border-l-4 border-error rounded-r-lg">
-                        <p><strong>Recusa de Luta:</strong> Caso o desafiado recuse, deverá pagar <span class="text-success font-bold">400kk</span> ao desafiante.</p>
+                        <p><strong>Recusa de Luta:</strong> Caso o desafiado recuse, deverá pagar 400kk ao desafiante.</p>
                         <ul class="list-disc list-inside text-xs mt-2 opacity-70">
                             <li>Não é permitido farm: desafios repetidos à mesma pessoa resultarão em punições.</li>
                             <li>Motivos plausíveis apresentados ao juiz anulam a cobrança.</li>
@@ -47,11 +47,11 @@
                     </div>
                     
                     <ul class="space-y-2 opacity-90">
-                        <li>• <strong>Penalidade de Derrota:</strong> Se o desafiante perder, será <span class="text-error font-bold">zerado em Ryos e Atributos</span>.</li>
+                        <li>• <strong>Penalidade de Derrota:</strong> Se o desafiante perder, será zerado em Ryos e Atributos.</li>
                         <li>• <strong>Desistência:</strong> Caso o desafiante desista durante a luta, recebe a mesma penalidade de derrota.</li>
-                        <li>• <strong>Regra do Desafiado:</strong> Após aceitar, não pode desistir. Quebrar esta regra resulta em multa de <span class="font-bold">2 Bilhões</span>.</li>
-                        <li>• <strong>Erros do Juiz:</strong> A luta será anulada. Caso já tenha sido finalizada há muito tempo, o juiz receberá multa de <span class="font-bold text-error">14 Bilhões</span>.</li>
-                        <li>• <strong>Recompra:</strong> Caso o desafiado perca o dōjutsu, só poderá recomprá-lo após <strong>3 dias</strong>.</li>
+                        <li>• <strong>Regra do Desafiado:</strong> Após aceitar, não pode desistir. Quebrar esta regra resulta em multa de 2 Bilhões. Desafiado não toma erros ou karmas.</li>
+                        <li>• <strong>Erros do Juiz:</strong> A luta será anulada. Caso já tenha sido finalizada há muito tempo, o juiz receberá multa de 14 Bilhões.</li>
+                        <li>• <strong>Recompra:</strong> Caso o desafiado perca o dōjutsu, só poderá recomprá-lo após 3 dias.</li>
                     </ul>
                 </div>
             </section>
@@ -67,7 +67,7 @@
                     <div class="grid grid-cols-2 md:grid-cols-3 gap-4 text-sm text-center">
                         <div class="bg-base-100 p-2 rounded-lg border border-success/30 flex flex-col h-full">
                             <p class="opacity-60 text-[9px] md:text-[10px] tracking-tight leading-tight uppercase">Sharingan / MS / MSE / Ketsuryūgan</p>
-                            <p class="font-bold text-success text-sm md:text-base mt-auto pt-2">40%</p>
+                            <p class="font-bold text-success text-sm md:text-base mt-auto pt-2">50%</p>
                         </div>
                         <div class="bg-base-100 p-2 rounded-lg border border-success/30 flex flex-col h-full">
                             <p class="opacity-60 text-[9px] md:text-[10px] tracking-tight leading-tight uppercase">Jōgan / Byakugan</p>
@@ -81,7 +81,11 @@
                             <p class="opacity-60 text-[9px] md:text-[10px] tracking-tight leading-tight uppercase">Tenseigan</p>
                             <p class="font-bold text-warning text-sm md:text-base mt-auto pt-2">25%</p>
                         </div>
-                        <div class="bg-base-100 p-2 rounded-lg border border-error/30 col-span-2 md:col-span-1 flex flex-col h-full">
+                        <div class="bg-base-100 p-2 rounded-lg border border-error/30 flex flex-col h-full">
+                            <p class="opacity-60 text-[9px] md:text-[10px] tracking-tight leading-tight uppercase">Doujutsus Especiais</p>
+                            <p class="font-bold text-error text-sm md:text-base mt-auto pt-2">15%</p>
+                        </div>
+                        <div class="bg-base-100 p-2 rounded-lg border border-error/30 flex flex-col h-full">
                             <p class="opacity-60 text-[9px] md:text-[10px] tracking-tight leading-tight uppercase">RinneSharingan</p>
                             <p class="font-bold text-error text-sm md:text-base mt-auto pt-2">10%</p>
                         </div>
@@ -91,17 +95,17 @@
 
             <section class="bg-primary/5 border-l-4 border-primary p-5 rounded-r-xl space-y-3">
                 <h3 class="text-lg font-bold text-primary flex items-center gap-2">🧬 IMPLANTES NO CORPO</h3>
-                <p class="text-sm">Ao obter alguma forma de <strong>regeneração passiva</strong>, o player pode implantar dōjutsus no corpo.</p>
+                <p class="text-sm">Ao obter alguma forma de regeneração passiva, o player pode implantar dōjutsus no corpo.</p>
                 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
                     <div class="text-xs space-y-2">
                         <p><strong>📍 Limites:</strong> 10 dōjutsus por braço e 5 no corpo.</p>
-                        <p><strong>⚔️ Combate:</strong> Fornecem apenas <strong>1 uso</strong> de uma habilidade por luta (se fecham após o uso).</p>
-                        <p><strong>✨ Assimilação:</strong> Assimilações completas do dono original fornecem <strong>+3 usos</strong>.</p>
+                        <p><strong>⚔️ Combate:</strong> Fornecem apenas 1 uso de uma habilidade por luta (se fecham no final do turno após o uso de uma habilidade, sendo desativado).</p>
+                        <p><strong>✨ Assimilação:</strong> Assimilações completas do dono original fornecem +1 uso.</p>
                     </div>
                     <div class="text-xs space-y-2">
-                        <p><strong>🎯 Sucesso:</strong> <span class="text-error font-bold text-sm">20% de chance</span> ao implantar no corpo.</p>
-                        <p><strong>📉 Custos:</strong> O gastos dos Dojutsus e suas habilidades são multiplicados por <strong>3</strong>.</p>
+                        <p><strong>🎯 Sucesso:</strong> 20% de chance ao implantar no corpo.</p>
+                        <p><strong>📉 Custos:</strong> O gastos dos Dojutsus e suas habilidades são multiplicados por 3.</p>
                     </div>
                 </div>
             </section>
@@ -112,7 +116,7 @@
                         <h3 class="font-bold text-sm">🚫 FALHA NO IMPLANTE</h3>
                         <div class="text-[10px] leading-tight space-y-1 mt-1">
                             <p>• O PP ficará cego de um olho (ou total se falhar 2x).</p>
-                            <p>• <strong>Imune a Genjutsu Visual e Jutsu Sexy.</strong></p>
+                            <p>• Imune a Genjutsu Visual e Jutsu Sexy.</p>
                             <p>• Só poderá atacar e defender com sensorial ativo.</p>
                         </div>
                     </div>
@@ -219,7 +223,7 @@
                         <h4 class="font-bold text-xs uppercase mb-2 text-red-600 font-black">RinneSharingan</h4>
                         <div class="text-[10px] space-y-1">
                             <div class="flex justify-between"><span>Ativar:</span> <span class="font-bold">400k</span></div>
-                            <div class="flex justify-between"><span>Turno:</span> <span class="font-bold text-red-600">900k</span></div>
+                            <div class="flex justify-between"><span>Turno:</span> <span class="font-bold">900k</span></div>
                         </div>
                     </div>
                 </div>
@@ -229,7 +233,7 @@
 
             <section>
                 <h3 class="text-lg font-bold text-success mb-4 uppercase flex items-center gap-2">💰 TABELA DE PREÇOS</h3>
-                <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
                     <div class="bg-base-200 p-4 rounded-xl text-center border border-base-300">
                         <p class="text-[10px] opacity-60 font-bold uppercase">Implantes</p>
                         <p class="text-lg font-black text-success">3 Bi</p>
@@ -306,10 +310,10 @@
                                 <li>➤ Permite possuir dois dōjutsus em um único olho, similar à habilidade de Urashiki.</li>
                                 <li>➤ Implanta a habilidade de um dōjutsu roubado em um já existente.</li>
                             </ul>
-                            <div class="bg-base-200 p-2.5 rounded text-[10px] space-y-1 font-medium">
+                            <div class="bg-base-200 p-2.5 rounded text-[10px] space-y-1 font-medium font-mono">
                                 <p class="font-bold opacity-60 uppercase text-[9px]">Alterações de legenda:</p>
-                                <p>• <strong>No dōjutsu original:</strong> {+200k de CK permite trocar de dōjutsu instantaneamente durante a luta}</p>
-                                <p>• <strong>No dōjutsu fusionado:</strong> {+400k de CK permite retornar ao dōjutsu original}</p>
+                                <p>• No dōjutsu original: {+200k de CK permite trocar de dōjutsu instantaneamente durante a luta}</p>
+                                <p>• No dōjutsu fusionado: {+400k de CK permite retornar ao dōjutsu original}</p>
                             </div>
                         </div>
                         <div class="mt-4 pt-3 border-t border-base-200 flex justify-between items-center">
@@ -319,7 +323,6 @@
                     </div>
                 </div>
             </section>
-            <!-- Fim conteúdo -->
         </div>
     </main>
 </body>
