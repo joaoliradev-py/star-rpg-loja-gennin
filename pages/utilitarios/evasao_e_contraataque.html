@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evasão e Contra-Ataque - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+
+    <main class="p-4 md:p-8 bg-[url(assets/images/evsao_e_contraataque.jpeg)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">⚔️ EVASÃO E CONTRA-ATAQUE ⚔️</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Mecânicas de Combate```</p>
+
+            <div class="space-y-8">
+
+                <!-- Mecânica 1 -->
+                <div class="space-y-4">
+                    <p><code class="bg-base-200 px-1 rounded text-lg font-bold">📌 Mecânica 1 — Escapar com 1 Rank a menos</code></p>
+
+                    <p>Quando alguém te ataca com um certo Rank de velocidade e você não tem nada pra igualar esse Rank, mas consegue reagir com algo que seja <strong>apenas 1 Rank abaixo</strong>, isso não significa que você obrigatoriamente toma o dano inteiro.</p>
+
+                    <p>Nessa situação, você ainda consegue sair parcialmente da trajetória do golpe e recebe <strong>apenas metade do dano</strong>.</p>
+
+                    <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                    <p class="text-xl font-bold italic">📝 Exemplo</p>
+                    <blockquote class="border-l-4 border-base-content/20 pl-4 my-2 italic">
+                        O adversário ataca em <strong>Rank 2</strong>. Você só consegue reagir em <strong>Rank 3</strong>. Mesmo sendo um pouco mais lento, ainda dá tempo de diminuir o impacto do golpe, então você toma só metade do dano.
+                    </blockquote>
+
+                    <p>Lembrando:</p>
+                    <blockquote class="border-l-4 border-base-content/20 pl-4 my-2">
+                        Letal = 4.000.000 -> Reduz para 2.000.000<br>
+                        Ilimitado = 40.000.000 -> Reduz para 20.000.000
+                    </blockquote>
+
+                    <blockquote class="border-l-4 border-base-content/20 pl-4 my-2">
+                        (Não se aplica a técnicas semiglobais ou superiores.)
+                    </blockquote>
+
+                    <p><strong>⚠️ Essa mecânica só funciona quando a diferença é de 1 Rank.</strong> Se a diferença for maior (por exemplo, Rank 5 contra um ataque Rank 2), aí não tem redução de dano.</p>
+                </div>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <!-- Mecânica 2 -->
+                <div class="space-y-4">
+                    <p><code class="bg-base-200 px-1 rounded text-lg font-bold">📌 Mecânica 2 — Contra-ataque fica 1 Rank mais rápido</code></p>
+                    <p><em>(Apenas em combate de curto alcance.)</em></p>
+
+                    <p>Se, ao invés de apenas esquivar, você aproveita o mesmo movimento para <strong>contra-atacar</strong>, esse contra-ataque recebe <strong>+1 Rank de velocidade</strong>.</p>
+
+                    <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                    <p class="text-xl font-bold italic">📝 Exemplo</p>
+                    <blockquote class="border-l-4 border-base-content/20 pl-4 my-2 italic">
+                        Você normalmente age em <strong>Rank 4</strong>. Se conseguir encaixar um contra-ataque durante a esquiva, esse ataque específico passa a valer como <strong>Rank 3</strong>.
+                    </blockquote>
+
+                    <p>É aquela situação clássica em que o personagem desvia e já responde praticamente no mesmo instante.</p>
+
+                    <p><strong>⚠️ Pra usar essa mecânica, a evasão ou defesa precisa ser curta.</strong> Além disso, <strong>não dá pra combinar essa regra com a Mecânica 1</strong>. Ou seja, você precisa ter conseguido escapar usando um Rank igual ou mais rápido que o ataque para poder aproveitar o bônus do contra-ataque. Esse bônus não aumenta Ranks superiores. Se você já precisou escapar usando um Rank superior ao do ataque, o contra-ataque permanece naquele Rank.</p>
+
+                    <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                    <p class="text-xl font-bold italic">📝 Exemplo</p>
+                    <blockquote class="border-l-4 border-base-content/20 pl-4 my-2 italic">
+                        Se o ataque vem em Rank 4 e você esquiva em Rank 4, o contra-ataque passa a ser Rank 3. Mas se você já esquivou em Rank 3, ele continua Rank 3, não vira Rank 2.
+                    </blockquote>
+                </div>
+
+            </div>
+        </div>
+    </main>
+</body>
+</html>

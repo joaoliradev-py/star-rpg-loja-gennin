@@ -54,6 +54,7 @@
                                 <li><a href="pages/utilitarios/zetsu_clones.html">Zetsus e Clones</a></li>
                                 <li><a href="pages/utilitarios/teletransporte_marcas.html">Teletransporte e Marcas</a></li>
                                 <li><a href="pages/utilitarios/ocultacoes.html">Ocultação de Técnicas</a></li>
+                                <li><a href="pages/utilitarios/evasao_e_contraataque.html">Evasão e Contra-Ataque</a></li>
                             </ul>
                         </details>
                     </li>
@@ -190,6 +191,7 @@
                             <li><a href="pages/utilitarios/zetsu_clones.html">Zetsus e Clones</a></li>
                             <li><a href="pages/utilitarios/teletransporte_marcas.html">Teletransporte e Marcas</a></li>
                             <li><a href="pages/utilitarios/ocultacoes.html">Ocultação de Técnicas</a></li>
+                            <li><a href="pages/utilitarios/evasao_e_contraataque.html">Evasão e Contra-Ataque</a></li>
                         </ul>
                     </details>
                 </li>
