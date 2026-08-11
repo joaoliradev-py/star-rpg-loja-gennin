@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pescaria de Chakra - Naruto RPG STAR</title>
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+
+    <main class="p-4 md:p-8 bg-[url(assets/images/pescaria_de_chakra.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-xl font-black text-center mb-2 uppercase tracking-tighter">🎣 VARA DE PESCA DE CHAKRA — URASHIKI ŌTSUTSUKI 🎣</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Sistema Exclusivo — Urashiki Ōtsutsuki```</p>
+
+            <div class="space-y-4 text-left">
+                <p>Exclusiva ao personagem Urashiki, permite perfurar o alvo ao final de uma luta Rank e retirar parte de seu Chakra, armazenando-o em sua cabaça.</p>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <p><code class="bg-base-200 px-1 rounded text-lg font-bold">⚙️ Funcionamento</code></p>
+                <ul class="list-disc list-inside space-y-1 pl-2">
+                    <li>Só pode ser utilizada ao final de uma luta Rank;</li>
+                    <li>Urashiki deve perfurar o alvo com sua Vara de Pesca de Chakra;</li>
+                    <li>O Chakra roubado fica armazenado na cabaça por 7 dias;</li>
+                    <li>Durante esse período, poderá utilizar técnicas provenientes do Chakra roubado, incluindo Kekkei Genkai, desde que não dependam da estrutura física do alvo.</li>
+                    <li>O alvo perfurado é zerado totalmente em atributos, sendo necessário recomprar com o dobro do valor convencional.</li>
+                </ul>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <p><code class="bg-base-200 px-1 rounded text-lg font-bold">🧬 Limite de Armazenamento</code></p>
+                <p>A cabaça pode armazenar no máximo 3 técnicas/variações de Chakra simultaneamente. Cada técnica armazenada deverá possuir uma legenda própria, identificando sua origem e efeito.</p>
+                <blockquote class="border-l-4 border-warning pl-4 my-2 font-semibold">⚠️ As técnicas armazenadas devem ser produzidas e registradas exclusivamente por um Global ou pelos Shin, não podendo ser criadas ou alteradas livremente pelo jogador.</blockquote>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <blockquote class="border-l-4 border-base-content/20 pl-4 my-4 font-bold">
+                    Após 7 dias, o Chakra armazenado e todas as técnicas provenientes dele são perdidos; técnicas Obtidas em executes são permanentes.
+                </blockquote>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

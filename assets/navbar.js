@@ -95,8 +95,7 @@
                     <li>
                         <details>
                             <summary>Sistemas</summary>
-                            <ul class="bg-base-100 rounded-t-none p-2 w-64 shadow-lg">
-
+                            <ul class="bg-base-100 rounded-t-none p-2 w-64 shadow-lg max-h-[75vh] overflow-y-auto overflow-x-hidden whitespace-normal">
                                 <li><a href="pages/sistemas/bingo_book.html">Bingo Book</a></li>
                                 <li><a href="pages/sistemas/criacao_personagem.html">Criação de Personagem</a></li>
                                 <li><a href="pages/sistemas/esconderijos.html">Esconderijo</a></li>
@@ -117,7 +116,7 @@
                                 <li><a href="pages/sistemas/aliancas_entre_vilas.html">Sistema de Alianças</a></li>
                                 <li><a href="pages/sistemas/armadilhas.html">Sistema de Armadilhas</a></li>
                                 <li><a href="pages/sistemas/casamento.html">Sistema de Casamento</a></li>
-                                <li><a href="pages/sistemas/ups.html">Sistema de UPs (Cards e Ranks)</a></li>
+                                <li><a href="pages/sistemas/ups.html">Sistema de UPs<br>(Cards e Ranks)</a></li>
                                 <li><a href="pages/sistemas/sistema_medico.html">Sistema Médico</a></li>
                                 <li><a href="pages/sistemas/tribunal_shinobi.html">Tribunal Shinobi</a></li>
                                 <li><a href="pages/sistemas/times_ninja.html">Times Ninja</a></li>
@@ -127,7 +126,7 @@
                                         <summary class="font-bold text-emerald-600">Subsistemas</summary>
                                         <ul class="p-2 rounded-lg mt-1">
                                             <li><a href="pages/sistemas/subsistemas/lista_subsistemas.html">Lista de Subsistemas</a></li>
-                                            <li><a href="pages/sistemas/subsistemas/konohagakure.html">Subsistema Konohagakure</a></li>
+                                            <li><a href="pages/sistemas/subsistemas/konohagakure.html">Subsistema<br>Konohagakure</a></li>
                                             <li><a href="pages/sistemas/subsistemas/kirigakure.html">Subsistema Kirigakure</a></li>
                                             <li><a href="pages/sistemas/subsistemas/sunagakure.html">Subsistema Sunagakure</a></li>
                                             <li><a href="pages/sistemas/subsistemas/iwagakure.html">Subsistema Iwagakure</a></li>
@@ -142,6 +141,20 @@
                                             <li><a href="pages/sistemas/gedo_mazo.html">Gedō Mazō</a></li>
                                             <li><a href="pages/sistemas/comabte_logica.html">Combate de Lógica</a></li>
                                             <li><a href="pages/sistemas/jutsus_supremos.html">Jutsus Supremos</a></li>
+                                        </ul>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details>
+                                        <summary class="font-bold text-blue-500">Sistemas Exclusivos</summary>
+                                        <ul class="p-2 rounded-lg mt-1">
+                                            <li><a href="pages/sistemas/sistemas_exclusivos/absorcao_de_momoshiki.html">Absorção de Momoshiki</a></li>
+                                            <li><a href="pages/sistemas/sistemas_exclusivos/edo_tensei.html">Edo Tensei</a></li>
+                                            <li><a href="pages/sistemas/sistemas_exclusivos/pescaria_de_chakra.html">Pescaria de Chakra</a></li>
+                                            <li><a href="pages/sistemas/sistemas_exclusivos/reencarnacao_em_vida.html">Reencarnação em Vida</a></li>
+                                            <li><a href="pages/sistemas/sistemas_exclusivos/revestimento_corporal.html">Revestimento Corporal</a></li>
+                                            <li><a href="pages/sistemas/sistemas_exclusivos/tecnica_parasita.html">Técnica Parasita</a></li>
+                                            <li><a href="pages/sistemas/sistemas_exclusivos/tecnica_quimera.html">Técnica Quimera</a></li>
                                         </ul>
                                     </details>
                                 </li>
@@ -227,7 +240,7 @@
                         <ul>
                             <li><a href="pages/economia/ryos.html">Ryos</a></li>
                             <li><a href="pages/economia/estabelecimentos.html">Estabelecimentos</a></li>
-                        </ul>k
+                        </ul>
                     </details>
                 </li>
                 <li>
@@ -280,6 +293,20 @@
                                         <li><a href="pages/sistemas/gedo_mazo.html">Gedō Mazō</a></li>
                                         <li><a href="pages/sistemas/comabte_logica.html">Combate de Lógica</a></li>
                                         <li><a href="pages/sistemas/jutsus_supremos.html">Jutsus Supremos</a></li>
+                                    </ul>
+                                </details>
+                            </li>
+                            <li>
+                                <details>
+                                    <summary class="font-bold text-blue-500">Sistemas Exclusivos</summary>
+                                    <ul class="p-2 rounded-lg mt-1">
+                                        <li><a href="pages/sistemas/sistemas_exclusivos/absorcao_de_momoshiki.html">Absorção de Momoshiki</a></li>
+                                        <li><a href="pages/sistemas/sistemas_exclusivos/edo_tensei.html">Edo Tensei</a></li>
+                                        <li><a href="pages/sistemas/sistemas_exclusivos/pescaria_de_chakra.html">Pescaria de Chakra</a></li>
+                                        <li><a href="pages/sistemas/sistemas_exclusivos/reencarnacao_em_vida.html">Reencarnação em Vida</a></li>
+                                        <li><a href="pages/sistemas/sistemas_exclusivos/revestimento_corporal.html">Revestimento Corporal</a></li>
+                                        <li><a href="pages/sistemas/sistemas_exclusivos/tecnica_parasita.html">Técnica Parasita</a></li>
+                                        <li><a href="pages/sistemas/sistemas_exclusivos/tecnica_quimera.html">Técnica Quimera</a></li>
                                     </ul>
                                 </details>
                             </li>

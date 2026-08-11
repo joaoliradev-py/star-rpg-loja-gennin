@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Técnica Quimera - Naruto RPG STAR</title>
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+
+    <main class="p-4 md:p-8 bg-[url(assets/images/tecnica_quimera.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-xl font-black text-center mb-2 uppercase tracking-tighter">🧬 TÉCNICA DA QUIMERA — HIRUKO 🧬</h1>
+            <p class="text-center font-mono opacity-60 mb-8">```Sistema Exclusivo — Hiruko```</p>
+
+            <div class="space-y-4 text-left">
+                <p>Exclusiva ao personagem Hiruko, permite assimilar o corpo de outros indivíduos para incorporar suas Kekkei Genkai.</p>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <p><code class="bg-base-200 px-1 rounded text-lg font-bold">📜 Requisitos</code></p>
+                <ul class="list-disc list-inside space-y-1 pl-2">
+                    <li>Ser, no mínimo, Chūnin;</li>
+                    <li>Eliminar 3 Jōnin, 2 Chūnin e 1 Genin utilizando exclusivamente Hiruko;</li>
+                    <li>As eliminações devem ocorrer sem qualquer atribuição exterior;</li>
+                    <li>Possuir o corpo do indivíduo que será assimilado.</li>
+                    <li>Máximo de 3 Kekkei Genkai obtidas.</li>
+                </ul>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <p><code class="bg-base-200 px-1 rounded text-lg font-bold">🎲 Assimilação</code></p>
+                <p>Ao assimilar um corpo, deverá ser rolado 1d6:</p>
+                <div class="bg-base-200 p-4 rounded-lg my-2 font-mono text-sm space-y-1">
+                    <p>1–5 → Sucesso: incorpora a Kekkei Genkai do corpo.</p>
+                    <p>6 → Falha: a assimilação falha.</p>
+                </div>
+                <p>Cada corpo assimilado permite obter sua respectiva Kekkei Genkai. A quantidade de assimilações segue o limite estabelecido pelo sistema.</p>
+                <blockquote class="border-l-4 border-warning pl-4 my-2 font-semibold">⚠️ Em caso de falha na rolagem, Hiruko será zerado em Ryōs e Atributos.</blockquote>
+
+                <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <blockquote class="border-l-4 border-base-content/20 pl-4 my-4 font-bold">
+                    A assimilação e a Kekkei Genkai obtida devem ser registradas e validadas pelo sistema.
+                </blockquote>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

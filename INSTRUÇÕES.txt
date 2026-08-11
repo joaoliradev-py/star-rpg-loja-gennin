@@ -41,7 +41,7 @@ O que faz:
 ├─ Formata em .html com o MESMO ESTILO de pages/sistemas/bijuus.html
 ├─ Mantém fidelidade absoluta ao conteúdo (nunca modifica)
 ├─ Usa imagem de background (você passa junto ou eu procuro em assets/images)
-├─ ATUALIZA as duas navbars (navbar.html e navbar.js) se for sistema NOVO
+├─ ATUALIZA as 4 localizações de navbar se for sistema NOVO (ver abaixo)
 ├─ Sem alterações significativas a menos que você peça explicitamente
 └─ USE QUANDO: Criar novo sistema (economia, bijuus, guerras, esconderijo, etc)
 
@@ -68,12 +68,42 @@ Estrutura do HTML gerado:
   - Conteúdo textual com blockquotes para destaque
   - Separadores visuais entre seções
 
-IMPORTANTE - Atualizações na Navbar:
-  Se for um NOVO SISTEMA em produção:
-  1. Editar navbar.html (adicionar link)
-  2. Editar navbar.js (adicionar item no menu)
-  
-  Obs: Em TESTES, pular essa etapa (como indicado no comando)
+IMPORTANTE — Atualizações na Navbar (5 locais):
+  Todo sistema novo deve ser registrado em:
+  1. navbar.html → seção desktop
+  2. navbar.html → seção mobile
+  3. navbar.js   → seção desktop
+  4. navbar.js   → seção mobile
+  5. index.html  → array systemPages (barra de busca)
+
+  Ordem: sempre ALFABÉTICA dentro da gaveta/lista.
+
+NOME DO LINK NA NAVBAR:
+  Usar o nome do arquivo (sem extensão, formatado), NÃO o nome completo
+  do sistema. Ex: revestimento_corporal.txt → "Revestimento Corporal"
+  Motivo: evitar textos longos que transbordam o menu.
+
+═══════════════════════════════════════════════════════════════
+
+📁 ESTRUTURA DE GAVETAS DO MENU "SISTEMAS"
+
+  O menu Sistemas possui três sub-gavetas coloridas:
+
+  🟢 Subsistemas (text-emerald-600)
+     → Sistemas de subsistemas de vilas
+     → Pasta: pages/sistemas/subsistemas/
+
+  🟠 Caça às Bijūs (text-orange-500)
+     → Sistemas relacionados a Bijūs e batalhas
+     → Pasta: pages/sistemas/
+
+  🔵 Sistemas Exclusivos (text-blue-500)
+     → Sistemas exclusivos de personagens específicos
+     → Pasta: pages/sistemas/sistemas_exclusivos/
+     → Começa vazia — só recebe sistemas quando criados via /sistema
+
+  Sistemas gerais ficam listados acima das sub-gavetas,
+  em ordem ALFABÉTICA.
 
 ═══════════════════════════════════════════════════════════════
 
@@ -82,12 +112,14 @@ IMPORTANTE - Atualizações na Navbar:
 pages/
   ├─ lojas/ ..................... Lojas de personagens (A-Z)
   ├─ habilidades_gerais/ ........ Styles ref: taijutsus.html
-  ├─ sistemas/ .................. Styles ref: bijuus.html
+  ├─ sistemas/ .................. Sistemas gerais
+  │   ├─ subsistemas/ ........... Subsistemas de vilas
+  │   └─ sistemas_exclusivos/ ... Sistemas exclusivos de personagens
   └─ (outras seções)
 
 assets/
-  ├─ navbar.js .................. Menu dinâmico
-  ├─ navbar.html ................ Navbar estática
+  ├─ navbar.js .................. Menu dinâmico (desktop + mobile)
+  ├─ navbar.html ................ Navbar estática (desktop + mobile)
   ├─ style.css .................. Estilos gerais
   └─ images/ .................... Backgrounds e imagens
 
@@ -104,6 +136,7 @@ assets/
     - dojo.webp
     - guerra_ninja.webp
     - guardioes_ninja.webp
+    - roubo_sangue.webp (usado em sistemas_exclusivos)
     - (e muitos outros...)
 
   Dica: Se não passar imagem, procuro uma apropriada em assets/images
@@ -119,13 +152,25 @@ Adicionar NOVA LOJA DE PERSONAGEM:
   4. Salvar na pasta: pages/lojas/[letra]/
   5. Pronto! 🎉
 
-Adicionar NOVO SISTEMA:
+Adicionar NOVO SISTEMA GERAL:
   1. Criar arquivo: sistema_nome.txt (com dados)
   2. Rodar comando: /sistema sistema_nome.txt
-  3. Arquivo gerado: sistema_nome.html
-  4. Atualizar navbars (navbar.html e navbar.js)
-  5. Salvar na pasta: pages/sistemas/
-  6. Pronto! 🎉
+  3. Arquivo gerado: sistema_nome.html → pasta pages/sistemas/
+  4. Registrar em navbar.html (desktop + mobile) em ordem alfabética
+  5. Registrar em navbar.js (desktop + mobile) em ordem alfabética
+  6. Registrar em index.html → array systemPages
+  7. Pronto! 🎉
+
+Adicionar SISTEMA EXCLUSIVO DE PERSONAGEM:
+  1. Criar arquivo: sistema_nome.txt (com dados)
+  2. Rodar comando: /sistema sistema_nome.txt
+  3. Arquivo gerado: sistema_nome.html → pasta pages/sistemas/sistemas_exclusivos/
+  4. Link name = nome do arquivo formatado (não o nome completo do sistema)
+  5. Registrar dentro da gaveta 🔵 "Sistemas Exclusivos" em:
+     - navbar.html (desktop + mobile)
+     - navbar.js (desktop + mobile)
+  6. Registrar em index.html → array systemPages
+  7. Pronto! 🎉
 
 ═══════════════════════════════════════════════════════════════
 
@@ -137,11 +182,13 @@ Adicionar NOVO SISTEMA:
 ✓ SEO-friendly: Titles, meta tags configurados
 ✓ DaisyUI + Tailwind: Componentes modernos e escaláveis
 ✓ Compatível GitHub Pages: Base href automático
+✓ Nomes de link curtos: usa nome do arquivo, não nome completo
+✓ 5 locais sempre sincronizados (navbar.html ×2, navbar.js ×2, index.html)
 
 ═══════════════════════════════════════════════════════════════
 
-Autor: GitHub Copilot
-Data: 23 de maio de 2026
-Versão: 1.0
+Autor: GitHub Copilot / Antigravity
+Data: 11 de agosto de 2026
+Versão: 2.0
 
 ═══════════════════════════════════════════════════════════════
