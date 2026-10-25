@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estilo Raio - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+    <!-- fim NavBar -->
+
+    <!-- Conteúdo -->
+    <main class="p-8 bg-[url(assets/images/arena_exame_chunnin.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
+        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
+
+            <!-- Título principal -->
+            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Estilo Raio</h1>
+
+            <!-- Subtítulo -->
+            <h2 class="text-base font-semibold text-center text-base-content/60 mb-2">Habilidades Gerais</h2>
+
+            <!-- Botão Copiar Loja -->
+            <div class="text-center">
+                <button id="btn-copiar-loja" onclick="copiarLoja()" class="btn btn-sm bg-blue-600 hover:bg-blue-500 text-white font-bold border-none shadow-md shadow-blue-500/30 hover:shadow-lg hover:shadow-blue-500/50 hover:scale-105 active:scale-95 transition-all duration-200">
+                    Copiar loja
+                </button>
+            </div>
+
+            <div class="divider"></div>
+
+            <!-- Conteúdo aqui -->
+            <p>⚡ JUTSUS GENNIN – LIBERAÇÃO DE RAIO</p>
+            <hr>
+            <p>Estilo Raio: Alicerce de Relâmpago Ilusório</p>
+            <p>Rank: A</p>
+            <p>Atk: Genjutsu</p>
+            <p>Ck p/uso: 70.000</p>
+            <p>|| O usuário utiliza o próprio corpo como condutor e libera uma intensa luz elétrica capaz de cegar momentaneamente todos que a encarem. Ao serem atingidos pelo clarão, os alvos entram instantaneamente em alucinação mental, criando brechas para ataques imediatos. A confusão causada prejudica percepção e leitura de movimentos, exigindo habilidades sensoriais para reagir corretamente aos ataques seguintes. ⚡ {Alvos afetados só podem defender os próximos ataques com sensorial ativo} ⚡ (Teleporte rank 3 antes do ataque escapam).||4x</p>
+            <p>Preço: 8.000.000</p>
+            <hr>
+            <p>Estilo Raio: Descarga Elétrica</p>
+            <p>Rank: C</p>
+            <p>Atk: Suplementar</p>
+            <p>Ck p/Ativar: 40.000</p>
+            <p>|| O usuário acumula chakra e o libera como uma poderosa descarga elétrica que reveste todo o corpo por 3 turnos. Qualquer inimigo que toque diretamente o usuário durante esse período é eletrocutado imediatamente. A técnica também pode ser desfeita concentrando toda a carga restante em um disparo único contra o alvo. ⚡ {Dura 3 turnos, causa paralisia a quem faz contato a curta distância} ⚡ {+30k de ck converte a aura em corrente elétrica e um ataque elétrico — causa dano 2xletal} ⚡ (Teleporte e Teletransporte Rank 3 escapam).||4x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Estilo Raio: Raio</p>
+            <p>Rank: A</p>
+            <p>Atk: Ilimitado/Multi-Direcional</p>
+            <p>Ck p/uso: 45.000</p>
+            <p>|| O usuário estende ambos os braços e libera violentas correntes elétricas pelas palmas das mãos, atingindo vários adversários ao mesmo tempo. As descargas se espalham em múltiplas direções, causando dano massivo e dificultando evasão em grupos. ⚡ {Acerta múltiplos alvos simultaneamente em uma área de 3m} ⚡ (Teleporte e Teletransporte Rank 4 escapam).||4x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Estilo Raio: Técnica da Lâmina Relâmpago</p>
+            <p>Rank: C</p>
+            <p>Atk: 3x Letal</p>
+            <p>Ck p/uso: 30.000</p>
+            <p>|| Após executar os selos necessários, o usuário concentra chakra de relâmpago na mão, moldando-o em uma lâmina elétrica extremamente afiada. A técnica é usada para perfurar, decepar ou atravessar defesas com velocidade e precisão elevadas. ⚡ {Ataque perfurante, causa dano elétrico por mais um turno após o impacto} ⚡ (Teleporte e Teletransporte escapam).||5x</p>
+            <p>Preço: 14.000.000</p>
+            <hr>
+            <p>Estilo Raio: Técnica do Projétil de Raio</p>
+            <p>Rank: A</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/uso: 45.000</p>
+            <p>|| O usuário amassa chakra no estômago e o expele pela boca na forma de uma poderosa corrente de relâmpago que avança diretamente até o alvo.⚡(Teleporte e Teletransporte Rank 4 escapam).||6x</p>
+            <p>Preço: 7.000.000</p>
+
+        </div>
+    </main>
+
+    <script>
+        function copiarLoja() {
+            const container = document.querySelector('main .max-w-3xl');
+            const children = Array.from(container.children);
+            
+            let resultado = [];
+            let jutsuAtual = [];
+            let passouDivider = false;
+            
+            for (let el of children) {
+                if (el.classList.contains('divider')) {
+                    passouDivider = true;
+                    continue;
+                }
+                if (!passouDivider) continue;
+                
+                if (el.tagName === 'HR') {
+                    if (jutsuAtual.length > 0) {
+                        resultado.push(jutsuAtual.join('\n'));
+                        jutsuAtual = [];
+                    }
+                } else if (el.tagName === 'P') {
+                    const texto = el.textContent.trim();
+                    if (
+                        texto.startsWith('||') || 
+                        /^preço:/i.test(texto) || 
+                        /^valor:/i.test(texto) || 
+                        texto.includes('JUTSUS GENNIN') || 
+                        texto.includes('LIBERAÇÃO') ||
+                        texto.includes('EQUIPAMENTOS NINJA')
+                    ) {
+                        continue;
+                    }
+                    if (texto) {
+                        jutsuAtual.push(texto);
+                    }
+                }
+            }
+            
+            if (jutsuAtual.length > 0) {
+                resultado.push(jutsuAtual.join('\n'));
+            }
+            
+            const textoFinal = resultado.join('\n\n');
+            const btn = document.getElementById('btn-copiar-loja');
+            const textoOriginal = btn.innerHTML;
+            
+            const aposCopiar = () => {
+                btn.innerHTML = '✓ Copiado!';
+                btn.classList.remove('bg-blue-600', 'hover:bg-blue-500');
+                btn.classList.add('bg-emerald-600', 'hover:bg-emerald-500');
+                setTimeout(() => {
+                    btn.innerHTML = textoOriginal;
+                    btn.classList.remove('bg-emerald-600', 'hover:bg-emerald-500');
+                    btn.classList.add('bg-blue-600', 'hover:bg-blue-500');
+                }, 2000);
+            };
+
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(textoFinal).then(aposCopiar).catch(() => {
+                    fallbackCopiar(textoFinal);
+                    aposCopiar();
+                });
+            } else {
+                fallbackCopiar(textoFinal);
+                aposCopiar();
+            }
+        }
+
+        function fallbackCopiar(texto) {
+            const textarea = document.createElement('textarea');
+            textarea.value = texto;
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+        }
+    </script>
+</body>
+</html>

@@ -24,7 +24,14 @@
             <!-- Título principal -->
             <div class="text-center">
                 <h1 class="text-xl font-bold text-blue-500 mb-2">Técnicas de Clonagem (Bunshinjutsu)</h1>
-                <h2 class="text-base font-semibold text-base-content/60">Habilidades Gerais</h2>
+                <h2 class="text-base font-semibold text-base-content/60 mb-2">Habilidades Gerais</h2>
+
+                <!-- Botão Copiar Loja -->
+                <div class="text-center my-2">
+                    <button id="btn-copiar-loja" onclick="copiarLoja()" class="btn btn-sm bg-blue-600 hover:bg-blue-500 text-white font-bold border-none shadow-md shadow-blue-500/30 hover:shadow-lg hover:shadow-blue-500/50 hover:scale-105 active:scale-95 transition-all duration-200">
+                        Copiar loja
+                    </button>
+                </div>
             </div>
 
             <div class="divider"></div>
@@ -143,5 +150,79 @@
 
         </div>
     </main>
+
+    <script>
+        function copiarLoja() {
+            const container = document.querySelector('.space-y-4');
+            const children = Array.from(container.children);
+            
+            let resultado = [];
+            let jutsuAtual = [];
+            
+            for (let el of children) {
+                if (el.tagName === 'HR') {
+                    if (jutsuAtual.length > 0) {
+                        resultado.push(jutsuAtual.join('\n'));
+                        jutsuAtual = [];
+                    }
+                    continue;
+                }
+                
+                if (el.tagName === 'P') {
+                    const texto = el.textContent.trim();
+                    if (
+                        texto.startsWith('||') || 
+                        /^preço:/i.test(texto) || 
+                        /^valor:/i.test(texto)
+                    ) {
+                        continue;
+                    }
+                    if (texto) {
+                        jutsuAtual.push(texto);
+                    }
+                }
+            }
+            
+            if (jutsuAtual.length > 0) {
+                resultado.push(jutsuAtual.join('\n'));
+            }
+            
+            const textoFinal = resultado.join('\n\n');
+            const btn = document.getElementById('btn-copiar-loja');
+            const textoOriginal = btn.innerHTML;
+            
+            const aposCopiar = () => {
+                btn.innerHTML = '✓ Copiado!';
+                btn.classList.remove('bg-blue-600', 'hover:bg-blue-500');
+                btn.classList.add('bg-emerald-600', 'hover:bg-emerald-500');
+                setTimeout(() => {
+                    btn.innerHTML = textoOriginal;
+                    btn.classList.remove('bg-emerald-600', 'hover:bg-emerald-500');
+                    btn.classList.add('bg-blue-600', 'hover:bg-blue-500');
+                }, 2000);
+            };
+
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(textoFinal).then(aposCopiar).catch(() => {
+                    fallbackCopiar(textoFinal);
+                    aposCopiar();
+                });
+            } else {
+                fallbackCopiar(textoFinal);
+                aposCopiar();
+            }
+        }
+
+        function fallbackCopiar(texto) {
+            const textarea = document.createElement('textarea');
+            textarea.value = texto;
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+        }
+    </script>
 </body>
 </html>

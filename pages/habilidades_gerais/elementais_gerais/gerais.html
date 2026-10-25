@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jutsus Gerais - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+    <!-- fim NavBar -->
+
+    <!-- Conteúdo -->
+    <main class="p-8 bg-[url(assets/images/arena_exame_chunnin.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
+        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
+
+            <!-- Título principal -->
+            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Jutsus Gerais</h1>
+
+            <!-- Subtítulo -->
+            <h2 class="text-base font-semibold text-center text-base-content/60 mb-2">Habilidades Gerais</h2>
+
+            <!-- Botão Copiar Loja -->
+            <div class="text-center">
+                <button id="btn-copiar-loja" onclick="copiarLoja()" class="btn btn-sm bg-blue-600 hover:bg-blue-500 text-white font-bold border-none shadow-md shadow-blue-500/30 hover:shadow-lg hover:shadow-blue-500/50 hover:scale-105 active:scale-95 transition-all duration-200">
+                    Copiar loja
+                </button>
+            </div>
+
+            <div class="divider"></div>
+
+            <!-- Conteúdo aqui -->
+            <p>🐍 JUTSUS GENNIN — GERAIS </p>
+            <hr>
+            <p>Técnica Sensorial</p>
+            <p>Rank: A</p>
+            <p>Def: Sensorial</p>
+            <p>Ck p/Ativar: 5.000</p>
+            <p>|| Técnica que permite ao usuário perceber assinaturas de chakra ao redor, localizando inimigos, aliados e presenças ocultas mesmo sem contato visual direto. Sensores experientes conseguem distinguir quantidade e movimentação do alvo. 👁️ {Previne ataques surpresa} 👁️ {Detecta e rastreia alvos entre curto e médio alcance} 👁️ {Pode localizar presenças escondidas ou camufladas}.||1x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Kawarimi no Jutsu</p>
+            <p>Rank: E</p>
+            <p>Def: Substituição</p>
+            <p>Ck p/uso: 5.000</p>
+            <p>|| No instante em que seria atingido, o usuário substitui o próprio corpo por outro objeto próximo, normalmente um tronco, pedra ou item similar. Isso cria a ilusão de que o ataque acertou, abrindo espaço para fuga, reposicionamento ou contra-ataque imediato. 🪵 {Usado para escapar de ataques simples como kunais, shurikens e taijutsu básico} 🪵 {Ainda recebe dano residual de 500} 🪵||15x</p>
+            <p>Preço: Grátis </p>
+            <hr>
+            <p>Teishō</p>
+            <p>Rank: D</p>
+            <p>Atk: 2.000.000</p>
+            <p>Ag p/uso: 5.000</p>
+            <p>|| Golpe corporal executado com a base da palma da mão ao invés do punho fechado. ✋ {Ótimo para interromper movimentos próximos — golpe físico} ✋ (Qualquer movimento escapa).||12x</p>
+            <p>Preço: Grátis </p>
+            <hr>
+            <p>Tática de Ataque Surpresa</p>
+            <p>Rank: B</p>
+            <p>Atk: Letal</p>
+            <p>Ag p/uso: 35.000</p>
+            <p>|| Após distrair o inimigo, o usuário se move rapidamente para baixo ou para trás da guarda adversária e salta desferindo um golpe inesperado. Pode ser usado para agarrar, restringir movimentos ou acertar um poderoso gancho no queixo capaz de nocautear. 🥷 {Necessita distração ou abertura para máxima eficiência} 🥷 (Teleporte e Teletransporte com Sensorial ativo escapam).||9x</p>
+            <p>Preço: 2.000.000</p>
+            <hr>
+            <p>Genjutsu Kai</p>
+            <p>Rank: A</p>
+            <p>Def: Suplementar</p>
+            <p>Ck p/uso: Variável</p>
+            <p>|| Técnica de dissipação de ilusões. O usuário interrompe bruscamente o fluxo de chakra no próprio cérebro, quebrando a interferência causada por genjutsus comuns e restaurando os sentidos. Para funcionar, é necessário empregar chakra superior ao da ilusão aplicada, ninjas com maior controle de chakra conseguem dissipar genjutsus sem a necessidade de selos de mão. {Dissipa genjutsus comuns e médios; Deve-se gastar o ck usado para o genjutsu +50k de ck para quebrar a ilusão}🌀{Não dissipa Tsukuyomi Infinito ou Parcial, Kotoamatsukami, Izanami, Confronto do Canto do Sapo ou Genjutsus do Rinnegan; Apenas outro usuario de sharingan ou kai usado por aliados conseguem dissipar Genjutsus Sharingan}.||4x</p>
+            <p>[Apenas chunnins+ conseguem dissipar genjutsus sem fazer selos de mão e dissipar genjutsus derivados do sharingan de nivel mais avançado ou genjutsus sonoros]</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Técnica de Cintilação Corporal</p>
+            <p>Rank: D</p>
+            <p>Suplementar </p>
+            <p>Ck p/uso: 25.000</p>
+            <p>|| É uma técnica básica de movimento em alta velocidade, permitindo que um ninja mova-se de uma curta para uma longa distância a uma velocidade quase indetectável. { 30k de ck para ir a um local em curto alcance; 70k de ck para ir a um local a média distância; 100k de ck para ir a um local a longa distância } • { Ela é realizada usando chakra para vitalizar temporariamente o corpo e se mover em velocidades extremas e escapar ou atacar até o Rank 3 }.|| 5x </p>
+            <p>Preço: 25.000.000</p>
+            <p>Esse jutsu não pode ter a rank upada.</p>
+            <hr>
+            <p>EQUIPAMENTOS NINJA — USO GERAL </p>
+            <hr>
+            <p>Agulhas da Sombra</p>
+            <p>Rank: B</p>
+            <p>Atk: Letal </p>
+            <p>Ag p/uso: 2.000</p>
+            <p>|| Uma técnica simples e estratégica com uso de senbons. O usuário lança simultaneamente uma agulha com sinos e outra silenciosa, manipulando a atenção do adversário. Instintivamente, o alvo reage ao som emitido pelos sinos e concentra sua percepção nessa direção, ignorando a verdadeira ameaça: a senbon silenciosa que vem em trajetória oculta. É uma técnica baseada em distração sensorial e leitura psicológica. 🪡 {Engana os reflexos naturais do inimigo, criando abertura para a agulha silenciosa acertar} 🪡 {Ideal para ataques surpresa, distrações e finalizações rápidas} 🪡 (Teleporte e Teletransporte rank 3 escapam).||10x</p>
+            <p>[Necessário cenas com argumentos válidos para fuga]</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Bolsas de Armas</p>
+            <p>Rank: B</p>
+            <p>Suplementar</p>
+            <p>Ag p/abrir a bolsa: 10.000</p>
+            <p>|| Bolsas portáteis utilizadas por shinobi para armazenar armas e ferramentas de combate, permitindo acesso rápido durante batalhas. São projetadas para saque rápido e organização tática, possibilitando ao usuário portar diferentes recursos sem comprometer sua mobilidade. Ideais para adaptar-se a diversas situações em combate, desde ataques à distância até suporte estratégico. 🎒 {Pode armazenar até 4 tipos diferentes de armas ou ferramentas} 🎒 {Limite total de 40 slots de armazenamento, variando conforme o tamanho dos itens} ◇ {Itens pequenos ocupam 1 slot; médios 2 slots; grandes 3 slots} 🎒 {Abertura rápida permite sacar itens em combate com agilidade} 🎒 (Considerado Rank 4).||1x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Shuriken no Jutsu</p>
+            <p>Rank: C</p>
+            <p>Atk/Def: Suplementar</p>
+            <p>Ag p/Uso: 120.000</p>
+            <p>|| Arte de combate baseada no lançamento preciso de armas ninja como shurikens, kunais, senbons e outros projéteis manuais. O usuário aplica técnica, cálculo de trajetória e controle corporal para aumentar drasticamente a precisão, velocidade e eficiência dos arremessos. Também pode ser usado de forma defensiva, interceptando projéteis inimigos com seus próprios lançamentos. ⚙️ {Eleva arremessos de shurikens, kunais e senbons em mais um rank de velocidade} ⚙️ {Usuários de Sharingan elevam a técnica em dois rank's} ⚙️ {Pode defender projéteis pequenos como kunais, senbons e shurikens} ⚙️ {Pode ser usado enquanto houver ferramentas disponíveis}.||3x</p>
+            <p>Preço: 12.000.000</p>
+            <hr>
+            <p>Kunai</p>
+            <p>Rank: C</p>
+            <p>Atk: Letal</p>
+            <p>Ag p/uso: 15.000</p>
+            <p>|| Uma das ferramentas ninja mais utilizadas, a kunai é uma adaga negra curta focada em perfuração, cortes rápidos e combate próximo. Também pode ser arremessada com boa eficiência, servindo tanto para ataque direto quanto distração tática. Seu formato permite uso em combos, armadilhas e marcações de técnicas. 🗡️ {+10k de Ag para arremessar 5 kunais simultâneas} 🗡️ {Útil em combate corpo a corpo ou arremesso preciso} 🗡️ (Considerado Rank 6).||10x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Shuriken</p>
+            <p>Rank: C</p>
+            <p>Atk: Letal </p>
+            <p>Ag p/uso: 10.000</p>
+            <p>|| Arma básica ninja em formato de estrela metálica com quatro pontas afiadas, feita para lançamentos rápidos e precisos. Excelente para distração, pressão à distância, ferimentos leves ou interromper movimentos inimigos. Seu centro vazado melhora a aerodinâmica, permite uso com fios e facilita manobras avançadas. ⚙️ {Pode ser usada para prender roupas, distrair ou ferir alvos} ⚙️ {Compatível com fios para mudanças de trajetória e armadilhas} ⚙️ (Considerado Rank 4).||10x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Papel Bomba</p>
+            <p>Rank: C</p>
+            <p>Atk: Letal</p>
+            <p>Ag p/uso: 10.000</p>
+            <p>|| Etiqueta explosiva com fórmula selada usada em armadilhas, projéteis ou ativações diretas. Ao ser acionada, gera uma explosão imediata capaz de ferir gravemente inimigos próximos. Pode ser anexada em armas ou superfícies. 📜 {Pode ser ativado manualmente ou por armadilha — +10k de ck p/explodir o papel bomba, explosão considerada multi-direcional} 📜 (Considerado Rank 4).||10x</p>
+            <p>Preço: 25.000.000</p>
+            <hr>
+            <p>Bomba de Fumaça</p>
+            <p>Rank: C</p>
+            <p>Suplementar</p>
+            <p>Ag p/uso: 15.000</p>
+            <p>|| Pequeno explosivo tático que libera grande cortina de fumaça ao ser lançado. Ideal para fuga, reposicionamento, esconder movimentos ou criar abertura ofensiva. ♨️ {Oculta visão por 1 turno, ataques do usuário só podem ser defendidoa com Sensorial ou dōjutsu} 💊 (Considerado Rank 4).||5x</p>
+            <p>Preço: 19.000.000</p>
+            <hr>
+            <p>Bomba de Luz</p>
+            <p>Rank: C</p>
+            <p>Suplementar</p>
+            <p>Ag p/uso: 15.000</p>
+            <p>|| Dispositivo que explode emitindo clarão intenso, cegando temporariamente quem olhar diretamente. Muito eficaz para interromper leitura visual e abrir brechas. 💣 {Cega alvo por 1 turno, Impede uso de dōjutsu no turno afetado} 💣 (Considerado Rank 4).||5x</p>
+            <p>Preço: 12.000.000</p>
+            <hr>
+            <p>Bomba de Gelo</p>
+            <p>Rank: B</p>
+            <p>Atk: Letal/Imobilização</p>
+            <p>Ag p/uso: 20.000</p>
+            <p>|| Artefato especial que explode liberando frio extremo e fragmentos congelantes. Ao atingir o alvo, reduz mobilidade e pode congelar membros temporariamente. 🧊 {Diminui velocidade do alvo em -1 Rank por 1 turno} 🧊 (Considerado Rank 5).||4x</p>
+            <p>Preço: 23.000.000</p>
+            <hr>
+            <p>Katana</p>
+            <p>Rank: B</p>
+            <p>Atk: Letal</p>
+            <p>Ag p/uso: 20.000</p>
+            <p>|| Espada longa tradicional focada em cortes rápidos, precisos e letais. Excelente alcance para combate corpo a corpo e técnicas de kenjutsu. ⚔️ (Atks ilimitados quebram a katana, equivalente a velocidade do usuário).||1x</p>
+            <p>Preço: 18.000.000</p>
+            <hr>
+            <p>Fios</p>
+            <p>Rank: C</p>
+            <p>Suplementar</p>
+            <p>Ag p/uso: 10.000</p>
+            <p>|| Fios metálicos resistentes usados para armadilhas, manipulação de armas arremessadas e restrição de movimentos inimigos. Quase invisíveis em combate se bem posicionados. 🪢 {Permite mudar trajetória de projéteis, pode imobilizar membros ou criar armadilhas} ◇ ( Durabilidade equivalente a ilimitado — Considerado Rank 3).||10x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Bomba de Gás</p>
+            <p>Rank: B</p>
+            <p>Suplementar</p>
+            <p>Ag p/uso: 20.000</p>
+            <p>|| Dispositivo que libera gás ao explodir, criando uma área contaminada capaz de dificultar respiração e concentração dos inimigos. Ideal para controle de campo e desorientação. 💣 {Alcance 10m área afetada por 1 turno, alvos sofrem dano letal por 3 turnos} 💣 (Máscaras/filtros anulam o efeito, jutsus de vento dissipam o gás, considerado rank 3).||4x</p>
+            <p>Preço: 13.000.000</p>
+            <hr>
+            <p>Pergaminhos Selados</p>
+            <p>Rank: B</p>
+            <p>Suplementar</p>
+            <p>Ag p/uso: 10.000</p>
+            <p>|| Pergaminhos especiais usados para armazenar armas, ferramentas, técnicas preparadas ou invocações. Ao abrir, liberam o conteúdo selado. 📜 {Permite saque rápido de itens ou Jutsus armazenados} 📜 (Considerado Rank 3).||3x</p>
+            <p>Preço: 16.000.000</p>
+            <hr>
+            <p>Guarda-Chuva</p>
+            <p>Rank: B</p>
+            <p>Atk: Letal/Multi-Direcional </p>
+            <p>Ag p/uso: 25.000</p>
+            <p>|| Guarda-chuva especial usado por shinobi de Amegakure. Além de proteção comum, possui mecanismo oculto capaz de disparar múltiplas agulhas ou projéteis em várias direções. Excelente para ataques surpresa. ☂️ {Dispara uma enxurrada de agulhas} ☂️ {Pode ser usado como cobertura defensiva — defende atks letais após isso o guarda chuva se quebra} ☂️ (Considerado Rank 3).||1x</p>
+            <p>Preço: 17.000.000</p>
+
+        </div>
+    </main>
+
+    <script>
+        function copiarLoja() {
+            const container = document.querySelector('main .max-w-3xl');
+            const children = Array.from(container.children);
+            
+            let resultado = [];
+            let jutsuAtual = [];
+            let passouDivider = false;
+            
+            for (let el of children) {
+                if (el.classList.contains('divider')) {
+                    passouDivider = true;
+                    continue;
+                }
+                if (!passouDivider) continue;
+                
+                if (el.tagName === 'HR') {
+                    if (jutsuAtual.length > 0) {
+                        resultado.push(jutsuAtual.join('\n'));
+                        jutsuAtual = [];
+                    }
+                } else if (el.tagName === 'P') {
+                    const texto = el.textContent.trim();
+                    if (
+                        texto.startsWith('||') || 
+                        /^preço:/i.test(texto) || 
+                        /^valor:/i.test(texto) || 
+                        texto.includes('JUTSUS GENNIN') || 
+                        texto.includes('LIBERAÇÃO') ||
+                        texto.includes('EQUIPAMENTOS NINJA')
+                    ) {
+                        continue;
+                    }
+                    if (texto) {
+                        jutsuAtual.push(texto);
+                    }
+                }
+            }
+            
+            if (jutsuAtual.length > 0) {
+                resultado.push(jutsuAtual.join('\n'));
+            }
+            
+            const textoFinal = resultado.join('\n\n');
+            const btn = document.getElementById('btn-copiar-loja');
+            const textoOriginal = btn.innerHTML;
+            
+            const aposCopiar = () => {
+                btn.innerHTML = '✓ Copiado!';
+                btn.classList.remove('bg-blue-600', 'hover:bg-blue-500');
+                btn.classList.add('bg-emerald-600', 'hover:bg-emerald-500');
+                setTimeout(() => {
+                    btn.innerHTML = textoOriginal;
+                    btn.classList.remove('bg-emerald-600', 'hover:bg-emerald-500');
+                    btn.classList.add('bg-blue-600', 'hover:bg-blue-500');
+                }, 2000);
+            };
+
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(textoFinal).then(aposCopiar).catch(() => {
+                    fallbackCopiar(textoFinal);
+                    aposCopiar();
+                });
+            } else {
+                fallbackCopiar(textoFinal);
+                aposCopiar();
+            }
+        }
+
+        function fallbackCopiar(texto) {
+            const textarea = document.createElement('textarea');
+            textarea.value = texto;
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+        }
+    </script>
+</body>
+</html>

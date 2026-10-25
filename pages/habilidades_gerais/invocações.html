@@ -21,7 +21,15 @@
             <!-- Título principal -->
             <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Invocações</h1>
             <!-- Subtítulo -->
-            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Habilidades Gerais</h2>
+            <h2 class="text-base font-semibold text-center text-base-content/60 mb-2">Habilidades Gerais</h2>
+
+            <!-- Botão Copiar Loja -->
+            <div class="text-center">
+                <button id="btn-copiar-loja" onclick="copiarLoja()" class="btn btn-sm bg-blue-600 hover:bg-blue-500 text-white font-bold border-none shadow-md shadow-blue-500/30 hover:shadow-lg hover:shadow-blue-500/50 hover:scale-105 active:scale-95 transition-all duration-200">
+                    Copiar loja
+                </button>
+            </div>
+
             <div class="divider"></div>
             <!-- Conteúdo aqui -->
             <p>A Técnica de Invocação (ou jutsu de invocação) é um ninjutsu de espaço-tempo que permite que o invocador transporte animais ou pessoas através de longas distâncias instantaneamente através do <a href="pages/evento_presentes/bussola_presente_vermelho.html">sangue</a> do usuário.</p>
@@ -168,5 +176,98 @@
             <!-- Fim do conteúdo -->
         </div>
     </main>
+
+    <script>
+        function copiarLoja() {
+            const container = document.querySelector('main .max-w-3xl');
+            if (!container) return;
+            const children = Array.from(container.children);
+            
+            let resultado = [];
+            let jutsuAtual = [];
+            let comecouJutsus = false;
+            let passouDivider = false;
+            
+            for (let i = 0; i < children.length; i++) {
+                const el = children[i];
+                if (el.classList && el.classList.contains('divider')) {
+                    passouDivider = true;
+                    continue;
+                }
+                if (!passouDivider) continue;
+                
+                if (el.tagName === 'HR') {
+                    comecouJutsus = true;
+                    if (jutsuAtual.length > 0) {
+                        resultado.push(jutsuAtual.join('\n'));
+                        jutsuAtual = [];
+                    }
+                    continue;
+                }
+                
+                if (el.tagName === 'P') {
+                    const texto = el.textContent.trim();
+                    if (!texto) continue;
+                    if (
+                        texto.includes('||') || 
+                        /^preço:/i.test(texto) || 
+                        /^valor:/i.test(texto)
+                    ) {
+                        continue;
+                    }
+                    if (!comecouJutsus) {
+                        const proximoP = children.slice(i + 1).find(c => c.tagName === 'P');
+                        const proximoTexto = proximoP ? proximoP.textContent.trim() : '';
+                        if (proximoTexto.startsWith('Rank:')) {
+                            comecouJutsus = true;
+                        } else {
+                            continue;
+                        }
+                    }
+                    jutsuAtual.push(texto);
+                }
+            }
+            
+            if (jutsuAtual.length > 0) {
+                resultado.push(jutsuAtual.join('\n'));
+            }
+            
+            const textoFinal = resultado.join('\n\n');
+            const btn = document.getElementById('btn-copiar-loja');
+            const textoOriginal = btn.innerHTML;
+            
+            const aposCopiar = () => {
+                btn.innerHTML = '✓ Copiado!';
+                btn.classList.remove('bg-blue-600', 'hover:bg-blue-500');
+                btn.classList.add('bg-emerald-600', 'hover:bg-emerald-500');
+                setTimeout(() => {
+                    btn.innerHTML = textoOriginal;
+                    btn.classList.remove('bg-emerald-600', 'hover:bg-emerald-500');
+                    btn.classList.add('bg-blue-600', 'hover:bg-blue-500');
+                }, 2000);
+            };
+
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(textoFinal).then(aposCopiar).catch(() => {
+                    fallbackCopiar(textoFinal);
+                    aposCopiar();
+                });
+            } else {
+                fallbackCopiar(textoFinal);
+                aposCopiar();
+            }
+        }
+
+        function fallbackCopiar(texto) {
+            const textarea = document.createElement('textarea');
+            textarea.value = texto;
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+        }
+    </script>
 </body>
 </html>

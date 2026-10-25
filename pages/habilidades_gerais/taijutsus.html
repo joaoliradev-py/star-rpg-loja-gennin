@@ -22,7 +22,15 @@
             <!-- Título principal -->
             <h1 class="text-xl font-bold text-blue-500 text-center mb-2">🥋 TAIJUTSU (体術) 🥋</h1>
             <!-- Subtítulo -->
-            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Habilidades Gerais</h2>
+            <h2 class="text-base font-semibold text-center text-base-content/60 mb-2">Habilidades Gerais</h2>
+
+            <!-- Botão Copiar Loja -->
+            <div class="text-center">
+                <button id="btn-copiar-loja" onclick="copiarLoja()" class="btn btn-sm bg-blue-600 hover:bg-blue-500 text-white font-bold border-none shadow-md shadow-blue-500/30 hover:shadow-lg hover:shadow-blue-500/50 hover:scale-105 active:scale-95 transition-all duration-200">
+                    Copiar loja
+                </button>
+            </div>
+
             <div class="divider"></div>
                         <!-- Conteúdo aqui -->
             <p>Taijutsu (体術; Literalmente significa "Técnicas Corporais") é uma forma básica de técnicas e refere-se à qualquer técnica que envolva artes marciais ou a otimização das habilidades humanas naturais. O Taijutsu é executado ao acessar diretamente as energias físicas e mentais do usuário, contando com a resistência e força ganhas através do treinamento. O Taijutsu tipicamente não requer chakra, apesar do chakra poder ser usado para fortificar suas técnicas, e dispensa selos de mão na maioria das vezes, ocasionalmente fazendo certos gestos ou poses, além de ser muito mais rápido de usar do que ninjutsu ou genjutsu. Taijutsu é colocado simplesmente como combate corpo-a-corpo.</p>
@@ -214,5 +222,84 @@
             <!-- fim conteúdo -->
         </div>
     </main>
+
+    <script>
+        function copiarLoja() {
+            const container = document.querySelector('main .max-w-3xl');
+            const children = Array.from(container.children);
+            
+            let resultado = [];
+            let jutsuAtual = [];
+            let passouPrimeiroHr = false;
+            
+            for (let el of children) {
+                if (el.tagName === 'HR') {
+                    passouPrimeiroHr = true;
+                    if (jutsuAtual.length > 0) {
+                        resultado.push(jutsuAtual.join('\n'));
+                        jutsuAtual = [];
+                    }
+                    continue;
+                }
+                if (!passouPrimeiroHr) continue;
+                
+                if (el.tagName === 'P') {
+                    const texto = el.textContent.trim();
+                    if (
+                        texto.startsWith('||') || 
+                        /^preço:/i.test(texto) || 
+                        /^valor:/i.test(texto) ||
+                        texto.startsWith('⚖️ Balanceamento') ||
+                        texto.startsWith('Nivelamento:')
+                    ) {
+                        continue;
+                    }
+                    if (texto) {
+                        jutsuAtual.push(texto);
+                    }
+                }
+            }
+            
+            if (jutsuAtual.length > 0) {
+                resultado.push(jutsuAtual.join('\n'));
+            }
+            
+            const textoFinal = resultado.join('\n\n');
+            const btn = document.getElementById('btn-copiar-loja');
+            const textoOriginal = btn.innerHTML;
+            
+            const aposCopiar = () => {
+                btn.innerHTML = '✓ Copiado!';
+                btn.classList.remove('bg-blue-600', 'hover:bg-blue-500');
+                btn.classList.add('bg-emerald-600', 'hover:bg-emerald-500');
+                setTimeout(() => {
+                    btn.innerHTML = textoOriginal;
+                    btn.classList.remove('bg-emerald-600', 'hover:bg-emerald-500');
+                    btn.classList.add('bg-blue-600', 'hover:bg-blue-500');
+                }, 2000);
+            };
+
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(textoFinal).then(aposCopiar).catch(() => {
+                    fallbackCopiar(textoFinal);
+                    aposCopiar();
+                });
+            } else {
+                fallbackCopiar(textoFinal);
+                aposCopiar();
+            }
+        }
+
+        function fallbackCopiar(texto) {
+            const textarea = document.createElement('textarea');
+            textarea.value = texto;
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+        }
+    </script>
 </body>
 </html>

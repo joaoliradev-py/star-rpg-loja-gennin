@@ -74,9 +74,21 @@
                     <li>
                         <details>
                             <summary>Habilidades Gerais</summary>
-                            <ul class="bg-base-100 rounded-t-none p-2 w-48 shadow-lg">
+                            <ul class="bg-base-100 rounded-t-none p-2 w-64 shadow-lg">
                                 <li><a href="pages/habilidades_gerais/taijutsus.html">Taijutsu</a></li>
-                                <li><a href="pages/habilidades_gerais/elementais_gerais.html">Elementais/Gerais</a></li>
+                                <li>
+                                    <details>
+                                        <summary class="font-bold text-amber-500">Elementais/Gerais</summary>
+                                        <ul class="p-2 rounded-lg mt-1">
+                                            <li><a href="pages/habilidades_gerais/elementais_gerais/fogo.html">Jutsus Estilo Fogo</a></li>
+                                            <li><a href="pages/habilidades_gerais/elementais_gerais/agua.html">Jutsus Estilo Água</a></li>
+                                            <li><a href="pages/habilidades_gerais/elementais_gerais/vento.html">Jutsus Estilo Vento</a></li>
+                                            <li><a href="pages/habilidades_gerais/elementais_gerais/terra.html">Jutsus Estilo Terra</a></li>
+                                            <li><a href="pages/habilidades_gerais/elementais_gerais/raio.html">Jutsus Estilo Raio</a></li>
+                                            <li><a href="pages/habilidades_gerais/elementais_gerais/gerais.html">Jutsus Gerais</a></li>
+                                        </ul>
+                                    </details>
+                                </li>
                                 <li><a href="pages/habilidades_gerais/dojutsus_gennin.html">Dojutsu Gennin</a></li>
                                 <li><a href="pages/habilidades_gerais/dojutsus_chunnin.html">Dojutsu Chunnin</a></li>
                                 <li><a href="pages/habilidades_gerais/monte_myobuko.html">Monte Myoboku</a></li>
@@ -227,7 +239,19 @@
                         <summary>Habilidades Gerais</summary>
                         <ul>
                             <li><a href="pages/habilidades_gerais/taijutsus.html">Taijutsu</a></li>
-                            <li><a href="pages/habilidades_gerais/elementais_gerais.html">Elementais/Gerais</a></li>
+                            <li>
+                                <details>
+                                    <summary class="font-bold text-amber-500">Elementais/Gerais</summary>
+                                    <ul class="p-2 rounded-lg mt-1">
+                                        <li><a href="pages/habilidades_gerais/elementais_gerais/fogo.html">Jutsus Estilo Fogo</a></li>
+                                        <li><a href="pages/habilidades_gerais/elementais_gerais/agua.html">Jutsus Estilo Água</a></li>
+                                        <li><a href="pages/habilidades_gerais/elementais_gerais/vento.html">Jutsus Estilo Vento</a></li>
+                                        <li><a href="pages/habilidades_gerais/elementais_gerais/terra.html">Jutsus Estilo Terra</a></li>
+                                        <li><a href="pages/habilidades_gerais/elementais_gerais/raio.html">Jutsus Estilo Raio</a></li>
+                                        <li><a href="pages/habilidades_gerais/elementais_gerais/gerais.html">Jutsus Gerais</a></li>
+                                    </ul>
+                                </details>
+                            </li>
                             <li><a href="pages/habilidades_gerais/dojutsus_gennin.html">Dojutsu Gennin</a></li>
                             <li><a href="pages/habilidades_gerais/dojutsus_chunnin.html">Dojutsu Chunnin</a></li>
                             <li><a href="pages/habilidades_gerais/monte_myobuko.html">Monte Myoboku</a></li>
@@ -372,4 +396,146 @@
     btn.addEventListener('click', () => menu.classList.contains('menu-aberto') ? fechar() : abrir());
     overlay.addEventListener('click', fechar);
     window.addEventListener('resize', () => { if (window.innerWidth >= 1024) fechar(); });
+
+    // ─── 4. Botão "Copiar loja" para Lojas de Personagens ──────────────────────
+    function copiarLoja() {
+        const container = document.querySelector('main .max-w-3xl');
+        if (!container) return;
+        const children = Array.from(container.children);
+        
+        let resultado = [];
+        let jutsuAtual = [];
+        let passouDivider = false;
+        const hasHr = container.querySelectorAll('hr').length > 0;
+        let passouPrimeiroHr = false;
+        let primeiroParagrafoIgnorado = false;
+        
+        for (let el of children) {
+            if (el.classList.contains('divider')) {
+                passouDivider = true;
+                continue;
+            }
+            if (!passouDivider) continue;
+
+            if (el.tagName === 'HR') {
+                passouPrimeiroHr = true;
+                if (jutsuAtual.length > 0) {
+                    resultado.push(jutsuAtual.join('\n'));
+                    jutsuAtual = [];
+                }
+                continue;
+            }
+
+            // Se a página utiliza HR como separador, tudo antes do primeiro HR é biografia/lore
+            if (hasHr && !passouPrimeiroHr) {
+                continue;
+            }
+
+            if (el.tagName === 'P') {
+                const texto = el.textContent.trim();
+                if (!texto) continue;
+
+                // Se a página não possui HR (ex: Zabuza), o primeiro parágrafo após divider é a biografia
+                if (!hasHr && !primeiroParagrafoIgnorado) {
+                    primeiroParagrafoIgnorado = true;
+                    if (!texto.startsWith('Rank:') && !/^(preço|valor):/i.test(texto)) {
+                        continue;
+                    }
+                }
+
+                // Preço delimita o fim do jutsu em páginas sem HR
+                if (/^(preço|valor):/i.test(texto)) {
+                    if (!hasHr && jutsuAtual.length > 0) {
+                        resultado.push(jutsuAtual.join('\n'));
+                        jutsuAtual = [];
+                    }
+                    continue;
+                }
+
+                // Ignora descrições e títulos de seção
+                if (
+                    texto.startsWith('|') || 
+                    texto.includes('||') || 
+                    texto.startsWith('⠂|') ||
+                    texto.includes('JUTSUS GENNIN') || 
+                    texto.includes('LIBERAÇÃO') ||
+                    texto.includes('EQUIPAMENTOS NINJA') ||
+                    texto.startsWith('⚖️ Balanceamento') ||
+                    texto.startsWith('Nivelamento:')
+                ) {
+                    continue;
+                }
+
+                jutsuAtual.push(texto);
+            }
+        }
+
+        if (jutsuAtual.length > 0) {
+            resultado.push(jutsuAtual.join('\n'));
+        }
+
+        const textoFinal = resultado.join('\n\n');
+        const btn = document.getElementById('btn-copiar-loja');
+        if (!btn) return;
+        const textoOriginal = btn.innerHTML;
+
+        const aposCopiar = () => {
+            btn.innerHTML = '✓ Copiado!';
+            btn.classList.remove('bg-blue-600', 'hover:bg-blue-500');
+            btn.classList.add('bg-emerald-600', 'hover:bg-emerald-500');
+            setTimeout(() => {
+                btn.innerHTML = textoOriginal;
+                btn.classList.remove('bg-emerald-600', 'hover:bg-emerald-500');
+                btn.classList.add('bg-blue-600', 'hover:bg-blue-500');
+            }, 2000);
+        };
+
+        if (navigator.clipboard && window.isSecureContext) {
+            navigator.clipboard.writeText(textoFinal).then(aposCopiar).catch(() => {
+                fallbackCopiar(textoFinal);
+                aposCopiar();
+            });
+        } else {
+            fallbackCopiar(textoFinal);
+            aposCopiar();
+        }
+    }
+
+    function fallbackCopiar(texto) {
+        const textarea = document.createElement('textarea');
+        textarea.value = texto;
+        textarea.style.position = 'fixed';
+        textarea.style.opacity = '0';
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textarea);
+    }
+
+    window.copiarLoja = copiarLoja;
+    window.fallbackCopiar = fallbackCopiar;
+
+    function initBotaoCopiarPersonagem() {
+        if (document.getElementById('btn-copiar-loja')) return;
+        const subtitle = document.querySelector('main .max-w-3xl h2');
+        if (subtitle && (subtitle.textContent.includes('Loja de') || window.location.pathname.includes('/pages/lojas/'))) {
+            subtitle.classList.remove('mb-6');
+            subtitle.classList.add('mb-2');
+            const btnDiv = document.createElement('div');
+            btnDiv.className = 'text-center my-2';
+            btnDiv.innerHTML = `
+                <button id="btn-copiar-loja" class="btn btn-sm bg-blue-600 hover:bg-blue-500 text-white font-bold border-none shadow-md shadow-blue-500/30 hover:shadow-lg hover:shadow-blue-500/50 hover:scale-105 active:scale-95 transition-all duration-200">
+                    Copiar loja
+                </button>
+            `;
+            subtitle.insertAdjacentElement('afterend', btnDiv);
+            btnDiv.querySelector('button').onclick = copiarLoja;
+        }
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initBotaoCopiarPersonagem);
+    } else {
+        initBotaoCopiarPersonagem();
+    }
 })();

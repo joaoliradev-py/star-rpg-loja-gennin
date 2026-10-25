@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estilo Água - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+    <!-- fim NavBar -->
+
+    <!-- Conteúdo -->
+    <main class="p-8 bg-[url(assets/images/arena_exame_chunnin.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
+        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
+
+            <!-- Título principal -->
+            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">Estilo Água</h1>
+
+            <!-- Subtítulo -->
+            <h2 class="text-base font-semibold text-center text-base-content/60 mb-2">Habilidades Gerais</h2>
+
+            <!-- Botão Copiar Loja -->
+            <div class="text-center">
+                <button id="btn-copiar-loja" onclick="copiarLoja()" class="btn btn-sm bg-blue-600 hover:bg-blue-500 text-white font-bold border-none shadow-md shadow-blue-500/30 hover:shadow-lg hover:shadow-blue-500/50 hover:scale-105 active:scale-95 transition-all duration-200">
+                    Copiar loja
+                </button>
+            </div>
+
+            <div class="divider"></div>
+
+            <!-- Conteúdo aqui -->
+            <p>💦 JUTSUS GENNIN – LIBERAÇÃO DE ÁGUA</p>
+            <hr>
+            <p>Estilo Água: Chicote de Água</p>
+            <p>Rank: A</p>
+            <p>Atk: Letal/Imobilização</p>
+            <p>Ck p/uso: 10.000</p>
+            <p>|| O usuário molda a água em forma de chicote flexível e veloz, capaz de atingir, envolver ou prender o alvo à distância. A estrutura líquida permite agarrar membros e limitar movimentos rapidamente. Também pode receber chakra relâmpago, eletrocutando qualquer inimigo capturado e elevando drasticamente o dano causado. 🌊 {Pode imobilizar o alvo ao envolver corpo ou membros} 🌊 {+100k de ck p/canalizar chakra do estilo raio, causando dano Ilimitado por turno} 🌊 (Velocidade equivalente ao do usuário).||5x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Estilo Água: Disparo da Boca</p>
+            <p>Rank: C</p>
+            <p>Atk: Letal</p>
+            <p>Ck p/uso: 15.000</p>
+            <p>|| O usuário cospe uma gota de água comprimida em forma de senbon em altíssima velocidade. O projétil é pequeno, veloz e difícil de perceber, sendo ideal para ataques surpresa, interrupções ou desgaste do inimigo. Ao impacto, a gota explode com pressão suficiente para ferir o alvo causando perfuração. 🌊 (Teleporte e Teletransporte Rank 5 escapam).||6x</p>
+            <p>Preço: 7.000.000</p>
+            <hr>
+            <p>Estilo Água: Onda de Choque Explosiva de Água</p>
+            <p>Rank: B</p>
+            <p>Atk: 4xLetal/Multi-Direcional</p>
+            <p>Ck p/uso: 60.000</p>
+            <p>|| O usuário expele grande volume de água criando uma onda poderosa abaixo de si. Sobre ela, desloca-se em alta velocidade enquanto avança contra o inimigo, usando a pressão da corrente para esmagar e atropelar múltiplos alvos. Após o uso, o terreno permanece inundado, favorecendo técnicas futuras de água. 🌊 {Permite locomoção sobre a água, +200k de ck p/tornar a técnica Semi-Global — 1x} 🌊 {Após o uso, campo inundado por 2 turnos propício para uso de outras técnicas Suiton} 🌊 (Teleporte e Teletransporte Rank 3 escapam).||4x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Estilo Água: Técnica do Projétil de Água</p>
+            <p>Rank: A</p>
+            <p>Atk: 2x Letal</p>
+            <p>Ck p/uso: 30.000</p>
+            <p>|| O usuário concentra chakra no estômago e expele uma corrente poderosa de água em linha reta contra o alvo. A pressão do disparo permite atingir com força considerável, podendo empurrar, ferir ou romper defesas mais simples. Técnica versátil e rápida alcance até média distância. 🌊 (Teleporte e Teletransporte escapam).||5x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Estilo Água: Técnica do Projétil do Dragão de Água</p>
+            <p>Rank: A</p>
+            <p>Atk: 3x Letal</p>
+            <p>Ck p/uso: 50.000</p>
+            <p>|| O usuário molda uma grande massa de água na forma de um dragão colossal que avança violentamente contra o inimigo. O impacto causa dano físico massivo e pode lançar o alvo à distância. Próximo de fontes de água, a técnica torna-se ainda maior e mais poderosa, embora usuários habilidosos consigam criá-la do nada. 🌊 {Sem fonte de água: dragão de 6 metros, com água próxima: 10 metros, +200k de ck p/adicionar aí mais chakra a técnica fazendo com que o dragão alcance 20m} 🌊 (Teleporte e Teletransporte Rank 4 escapam).||4x</p>
+            <p>Preço: 30.000.000</p>
+            <hr>
+            <p>Estilo Água: Ondas de Águas Cortantes</p>
+            <p>Rank: A</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/uso: 120.000</p>
+            <p>|| Após concentrar chakra no estômago e convertê-lo em água, o usuário expele um fluxo de alta pressão capaz de cortar de forma limpa através de materiais resistentes como árvores e rochas. A técnica também pode ser executada utilizando água já presente no ambiente, permitindo disparos contínuos e de diferentes direções, aumentando sua versatilidade em combate. 🌊 {Ataque até medio alcance que pode ser mantido e utilizado a partir de fontes de água do ambiente; +100k de ck para prolongar o ataque por mais 1 turno} 🌊 (Teleporte e teletransportes rank 3 escapam).||5x</p>
+            <p>Preço: 30.000.000</p>
+
+        </div>
+    </main>
+
+    <script>
+        function copiarLoja() {
+            const container = document.querySelector('main .max-w-3xl');
+            const children = Array.from(container.children);
+            
+            let resultado = [];
+            let jutsuAtual = [];
+            let passouDivider = false;
+            
+            for (let el of children) {
+                if (el.classList.contains('divider')) {
+                    passouDivider = true;
+                    continue;
+                }
+                if (!passouDivider) continue;
+                
+                if (el.tagName === 'HR') {
+                    if (jutsuAtual.length > 0) {
+                        resultado.push(jutsuAtual.join('\n'));
+                        jutsuAtual = [];
+                    }
+                } else if (el.tagName === 'P') {
+                    const texto = el.textContent.trim();
+                    // Ignora títulos de seção, descrições (iniciadas com ||) e preços
+                    if (
+                        texto.startsWith('||') || 
+                        /^preço:/i.test(texto) || 
+                        /^valor:/i.test(texto) || 
+                        texto.includes('JUTSUS GENNIN') || 
+                        texto.includes('LIBERAÇÃO') ||
+                        texto.includes('EQUIPAMENTOS NINJA')
+                    ) {
+                        continue;
+                    }
+                    if (texto) {
+                        jutsuAtual.push(texto);
+                    }
+                }
+            }
+            
+            if (jutsuAtual.length > 0) {
+                resultado.push(jutsuAtual.join('\n'));
+            }
+            
+            const textoFinal = resultado.join('\n\n');
+            const btn = document.getElementById('btn-copiar-loja');
+            const textoOriginal = btn.innerHTML;
+            
+            const aposCopiar = () => {
+                btn.innerHTML = '✓ Copiado!';
+                btn.classList.remove('bg-blue-600', 'hover:bg-blue-500');
+                btn.classList.add('bg-emerald-600', 'hover:bg-emerald-500');
+                setTimeout(() => {
+                    btn.innerHTML = textoOriginal;
+                    btn.classList.remove('bg-emerald-600', 'hover:bg-emerald-500');
+                    btn.classList.add('bg-blue-600', 'hover:bg-blue-500');
+                }, 2000);
+            };
+
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(textoFinal).then(aposCopiar).catch(() => {
+                    fallbackCopiar(textoFinal);
+                    aposCopiar();
+                });
+            } else {
+                fallbackCopiar(textoFinal);
+                aposCopiar();
+            }
+        }
+
+        function fallbackCopiar(texto) {
+            const textarea = document.createElement('textarea');
+            textarea.value = texto;
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+        }
+    </script>
+</body>
+</html>
