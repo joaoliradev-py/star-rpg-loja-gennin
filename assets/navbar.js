@@ -502,15 +502,37 @@
         }
     }
 
-    function fallbackCopiar(texto) {
+    window.execCopiarMobile = function(texto) {
         const textarea = document.createElement('textarea');
         textarea.value = texto;
+        textarea.setAttribute('readonly', '');
         textarea.style.position = 'fixed';
-        textarea.style.opacity = '0';
+        textarea.style.top = '0';
+        textarea.style.left = '-9999px';
+        textarea.style.fontSize = '16px';
         document.body.appendChild(textarea);
-        textarea.select();
-        document.execCommand('copy');
+        
+        if (navigator.userAgent.match(/ipad|ipod|iphone/i)) {
+            const range = document.createRange();
+            range.selectNodeContents(textarea);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            textarea.setSelectionRange(0, 999999);
+        } else {
+            textarea.select();
+        }
+        
+        try {
+            document.execCommand('copy');
+        } catch (err) {
+            console.error('Erro ao copiar:', err);
+        }
         document.body.removeChild(textarea);
+    };
+
+    function fallbackCopiar(texto) {
+        window.execCopiarMobile(texto);
     }
 
     window.copiarLoja = copiarLoja;
