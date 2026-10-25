@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <script>
         const isGH = window.location.hostname.includes('github.io');
@@ -12,18 +13,71 @@
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
 </head>
+
 <body>
     <!-- NavBar -->
     <script src="assets/navbar.js"></script>
-    
-    <main class="p-4 md:p-8 bg-[url(assets/images/floresta_nara.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+
+    <main
+        class="p-4 md:p-8 bg-[url(assets/images/floresta_nara.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
         <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
             <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">SISTEMA DE UPS</h1>
             <p class="text-center font-mono opacity-60 mb-8">```Evolução de Cards e Ranks```</p>
 
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+            <div class="space-y-4">
+                <p class="text-xl font-bold uppercase tracking-widest text-center">CALCULE SEUS ATRIBUTOS AQUI</p>
+
+                <div class="w-full md:w-2/3 mx-auto bg-base-200/50 p-5 rounded-xl border border-base-content/5 space-y-3">
+                    <div class="flex items-center gap-3">
+                        <label for="atk" class="w-12 font-semibold text-sm">Atk:</label>
+                        <input type="number" id="atk" min="0" placeholder="0" class="input input-bordered input-sm flex-1 font-mono">
+                    </div>
+
+                    <div class="flex items-center gap-3">
+                        <label for="def" class="w-12 font-semibold text-sm">Def:</label>
+                        <input type="number" id="def" min="0" placeholder="0" class="input input-bordered input-sm flex-1 font-mono">
+                    </div>
+
+                    <div class="flex items-center gap-3">
+                        <label for="hp" class="w-12 font-semibold text-sm">Hp:</label>
+                        <input type="number" id="hp" min="0" placeholder="0" class="input input-bordered input-sm flex-1 font-mono">
+                    </div>
+
+                    <div class="flex items-center gap-3">
+                        <label for="ag" class="w-12 font-semibold text-sm">Ag:</label>
+                        <input type="number" id="ag" min="0" placeholder="0" class="input input-bordered input-sm flex-1 font-mono">
+                    </div>
+
+                    <div class="flex items-center gap-3">
+                        <label for="ck" class="w-12 font-semibold text-sm">Ck:</label>
+                        <input type="number" id="ck" min="0" placeholder="0" class="input input-bordered input-sm flex-1 font-mono">
+                    </div>
+
+                    <div class="flex items-center gap-2 pt-2">
+                        <button type="button" id="btn-calcular" class="btn btn-sm btn-primary flex-1">Calcular</button>
+                        <button type="button" id="btn-limpar" class="btn btn-sm btn-outline flex-1">Limpar</button>
+                    </div>
+
+                    <div class="pt-3 border-t border-base-content/10 space-y-1">
+                        <div class="flex items-center justify-between gap-3">
+                            <label for="total-ryos" class="font-semibold text-sm">Total de Ryos:</label>
+                            <input type="text" id="total-ryos" readonly placeholder="0 Ryos" class="input input-bordered input-sm flex-1 font-mono font-bold text-success text-right">
+                        </div>
+                        <div class="text-right">
+                            <span id="resumo-pontos" class="text-xs opacity-60"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="my-8 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
             <div class="space-y-4">
                 <p class="text-xl font-bold uppercase tracking-widest">UP DE RANK DO CARD</p>
-                <p>Toda card de apresentação inicia no Rank C. Para evoluir, pague os valores abaixo (proibido pular ranks):</p>
+                <p>Toda card de apresentação inicia no Rank C. Para evoluir, pague os valores abaixo (proibido pular
+                    ranks):</p>
                 <ul class="list-none space-y-1 pl-4">
                     <li>• C → B: 150.000</li>
                     <li>• B → A: 200.000</li>
@@ -33,7 +87,8 @@
                 </ul>
 
                 <div class="bg-base-200/50 p-4 rounded-lg border border-base-content/5 mt-4">
-                    <p class="text-center font-bold text-xs uppercase tracking-widest mb-3 opacity-60">Total Acumulado para SSS</p>
+                    <p class="text-center font-bold text-xs uppercase tracking-widest mb-3 opacity-60">Total Acumulado
+                        para SSS</p>
                     <div class="flex flex-col gap-2 text-xs font-mono text-center">
                         <p>D → SSS: 2.550.000 Ryos</p>
                         <p>C → SSS: 2.450.000 Ryos</p>
@@ -101,7 +156,8 @@
 
             <div class="space-y-4">
                 <p class="text-xl font-bold uppercase tracking-widest">UP DE RANK DE JUTSU</p>
-                <p>Alguns modos só são afetados por jutsus de ranks específicos. Para evitar bloqueios em batalha, é permitido upar o rank de jutsus.</p>
+                <p>Alguns modos só são afetados por jutsus de ranks específicos. Para evitar bloqueios em batalha, é
+                    permitido upar o rank de jutsus.</p>
                 <p><strong>Custos:</strong></p>
                 <div class="grid grid-cols-2 gap-2 text-sm font-semibold">
                     <p>• D → C: 100.000</p>
@@ -114,5 +170,44 @@
             </div>
         </div>
     </main>
+
+    <script>
+        function calcularAtributos() {
+            const atk = parseFloat(document.getElementById('atk')?.value) || 0;
+            const def = parseFloat(document.getElementById('def')?.value) || 0;
+            const hp = parseFloat(document.getElementById('hp')?.value) || 0;
+            const ag = parseFloat(document.getElementById('ag')?.value) || 0;
+            const ck = parseFloat(document.getElementById('ck')?.value) || 0;
+
+            const totalPontos = atk + def + hp + ag + ck;
+            const totalRyos = totalPontos * 15;
+
+            const inputTotal = document.getElementById('total-ryos');
+            const spanPontos = document.getElementById('resumo-pontos');
+
+            if (inputTotal) {
+                inputTotal.value = totalRyos.toLocaleString('pt-BR') + ' Ryos';
+            }
+            if (spanPontos) {
+                spanPontos.textContent = totalPontos.toLocaleString('pt-BR') + ' pts de atributos';
+            }
+        }
+
+        function limparCalculadora() {
+            ['atk', 'def', 'hp', 'ag', 'ck'].forEach(id => {
+                const el = document.getElementById(id);
+                if (el) el.value = '';
+            });
+            calcularAtributos();
+        }
+
+        document.getElementById('btn-calcular')?.addEventListener('click', calcularAtributos);
+        document.getElementById('btn-limpar')?.addEventListener('click', limparCalculadora);
+
+        ['atk', 'def', 'hp', 'ag', 'ck'].forEach(id => {
+            document.getElementById(id)?.addEventListener('input', calcularAtributos);
+        });
+    </script>
 </body>
+
 </html>
