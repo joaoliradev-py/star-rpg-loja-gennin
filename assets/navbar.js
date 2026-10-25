@@ -20,6 +20,7 @@
         #mobile-menu {
             position: fixed; top: 64px; left: 0; right: 0; bottom: 0;
             z-index: 40; overflow-y: auto;
+            background-color: #1e293b;
             transform: translateX(-100%);
             transition: transform 0.3s ease-in-out;
         }
