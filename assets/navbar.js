@@ -2,6 +2,18 @@
  * navbar.js — Injeção completa da navbar ORIGINAL (HTML + CSS + eventos)
  */
 (function() {
+    // ─── 0. FAVICON (Shuriken Ninja) ──────────────────────────────────────────
+    (function setShurikenFavicon() {
+        let link = document.querySelector("link[rel*='icon']");
+        if (!link) {
+            link = document.createElement('link');
+            link.rel = 'icon';
+            document.head.appendChild(link);
+        }
+        link.type = 'image/svg+xml';
+        link.href = 'assets/images/favicon.svg';
+    })();
+
     // ─── 1. CSS ───────────────────────────────────────────────────────────────
     const style = document.createElement('style');
     style.textContent = `
