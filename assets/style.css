@@ -53,3 +53,30 @@
     white-space: normal !important;
     word-break: break-word;
 }
+
+/* Cards com botão "Em Breve" com filtro preto e branco */
+.char-card:has(button:disabled) .char-img,
+.char-card:has(button[disabled]) .char-img {
+    filter: grayscale(100%);
+    opacity: 0.85;
+    transition: filter 0.3s ease, opacity 0.3s ease;
+}
+
+.char-card:has(button:disabled):hover .char-img,
+.char-card:has(button[disabled]):hover .char-img {
+    filter: grayscale(20%);
+    opacity: 1;
+}
+
+/* Botão "Em Breve" mais escuro */
+.char-card button:disabled,
+.char-card button[disabled] {
+    background-color: #1e293b !important;
+    color: #e2e8f0 !important;
+    border-color: #0f172a !important;
+    opacity: 1 !important;
+    cursor: not-allowed !important;
+    font-weight: 700;
+}
+
+
