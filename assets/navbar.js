@@ -470,8 +470,8 @@
                     continue;
                 }
 
-                // Remove observações extras embutidas entre [] ou ()
-                texto = texto.replace(/\[.*?\]/g, '').replace(/\(.*?\)/g, '').trim();
+                // Remove observações extras embutidas entre [], () ou {}
+                texto = texto.replace(/\[.*?\]/g, '').replace(/\(.*?\)/g, '').replace(/\{.*?\}/g, '').trim();
                 texto = texto.replace(/\s{2,}/g, ' ');
                 if (!texto) continue;
 
