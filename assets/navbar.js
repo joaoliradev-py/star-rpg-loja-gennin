@@ -499,11 +499,26 @@
             }, 2000);
         };
 
+        // Tenta clipboard moderno (funciona em desktop HTTPS)
         if (navigator.clipboard && window.isSecureContext) {
-            navigator.clipboard.writeText(textoFinal).then(aposCopiar).catch(() => {
-                fallbackCopiar(textoFinal);
-                aposCopiar();
-            });
+            navigator.clipboard.writeText(textoFinal)
+                .then(aposCopiar)
+                .catch(() => {
+                    // Fallback 1: Web Share API (nativa no Android/iOS)
+                    if (navigator.share) {
+                        navigator.share({ text: textoFinal })
+                            .then(aposCopiar)
+                            .catch(() => { fallbackCopiar(textoFinal); aposCopiar(); });
+                    } else {
+                        fallbackCopiar(textoFinal);
+                        aposCopiar();
+                    }
+                });
+        } else if (navigator.share) {
+            // Mobile sem contexto seguro: usa Web Share API diretamente
+            navigator.share({ text: textoFinal })
+                .then(aposCopiar)
+                .catch(() => { fallbackCopiar(textoFinal); aposCopiar(); });
         } else {
             fallbackCopiar(textoFinal);
             aposCopiar();
