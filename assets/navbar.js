@@ -453,7 +453,7 @@
                     continue;
                 }
 
-                // Ignora descrições e títulos de seção
+                // Ignora descrições, títulos de seção e observações/requisitos
                 if (
                     texto.startsWith('|') || 
                     texto.includes('||') || 
@@ -462,10 +462,18 @@
                     texto.includes('LIBERAÇÃO') ||
                     texto.includes('EQUIPAMENTOS NINJA') ||
                     texto.startsWith('⚖️ Balanceamento') ||
-                    texto.startsWith('Nivelamento:')
+                    texto.startsWith('Nivelamento:') ||
+                    texto.startsWith('[') ||
+                    texto.startsWith('(') ||
+                    /^(obs|observa[çc][ãa]o|nota|requer|necessita):/i.test(texto)
                 ) {
                     continue;
                 }
+
+                // Remove observações extras embutidas entre [] ou ()
+                texto = texto.replace(/\[.*?\]/g, '').replace(/\(.*?\)/g, '').trim();
+                texto = texto.replace(/\s{2,}/g, ' ');
+                if (!texto) continue;
 
                 jutsuAtual.push(texto);
             }
