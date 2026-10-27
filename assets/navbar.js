@@ -433,7 +433,7 @@
             }
 
             if (el.tagName === 'P') {
-                const texto = el.textContent.trim();
+                let texto = el.textContent.trim();
                 if (!texto) continue;
 
                 // Se a página não possui HR (ex: Zabuza), o primeiro parágrafo após divider é a biografia
