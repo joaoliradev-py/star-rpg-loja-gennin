@@ -432,9 +432,19 @@
                 continue;
             }
 
+            // Se encontrar a seção de restrições, encerra a leitura da loja
+            if (el.id === 'restricoes' || el.classList.contains('restricoes') || el.classList.contains('restricoes-container')) {
+                break;
+            }
+
             if (el.tagName === 'P') {
                 let texto = el.textContent.trim();
                 if (!texto) continue;
+
+                // Interrompe imediatamente se encontrar início de restrições
+                if (/restri[çc][õo]es/i.test(texto) || texto.startsWith('*》') || texto.startsWith('•')) {
+                    break;
+                }
 
                 // Se a página não possui HR (ex: Zabuza), o primeiro parágrafo após divider é a biografia
                 if (!hasHr && !primeiroParagrafoIgnorado) {

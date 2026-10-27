@@ -1,0 +1,1122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orochimaru - Naruto RPG STAR</title>
+    <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg">
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+    <!-- fim NavBar -->
+    <main class="p-8 bg-[url(assets/images/vale_do_fim.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
+        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
+            <!-- Título principal -->
+            <h1 class="text-xl font-bold text-green-500 text-center mb-2">Orochimaru</h1>
+            <!-- Subtítulo -->
+            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Loja de Orochimaru</h2>
+            <div class="divider"></div>
+            <!-- Aviso -->
+            <div class="alert alert-warning shadow-md rounded-xl flex gap-2 items-start">
+                <span class="text-xl">⚠️</span>
+                <div>
+                    <p class="font-bold">Loja não segura para uso no momento.</p>
+                    <p class="text-sm">Restrições Chunnin perdidas.</p>
+                </div>
+            </div>
+            <!-- Botões de cópia -->
+            <div id="btn-copiar-loja" class="flex gap-3 flex-wrap justify-center -mt-2 mb-2">
+                <button onclick="copiarLojaParte(1, this)"
+                    class="btn btn-sm bg-blue-600 hover:bg-blue-500 text-white font-bold border-none shadow-md shadow-blue-500/30 hover:shadow-lg hover:shadow-blue-500/50 hover:scale-105 active:scale-95 transition-all duration-200">
+                    📋 Copiar Parte 1
+                </button>
+                <button onclick="copiarLojaParte(2, this)"
+                    class="btn btn-sm bg-purple-600 hover:bg-purple-500 text-white font-bold border-none shadow-md shadow-purple-500/30 hover:shadow-lg hover:shadow-purple-500/50 hover:scale-105 active:scale-95 transition-all duration-200">
+                    📋 Copiar Parte 2
+                </button>
+            </div>
+            <!-- Conteúdo aqui -->
+            <p>Orochimaru (大蛇丸, Orochimaru) é um dos Três Sannins Lendários de Konohagakure. Obcecado com imortalidade e poder ilimitado, ele deixou a aldeia para buscar seus experimentos proibidos. Considerado um dos ninjas mais perigosos já produzidos por Konoha, seu domínio sobre as cobras e as artes proibidas o tornaram uma lenda sombria no mundo shinobi.</p>
+            <hr>
+            <!-- conteúdo formatado -->
+            <p>Absorção de Chakra</p>
+            <p>Rank: SS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 30.000</p>
+            <p>|| Refere-se à capacidade de extrair chakra a partir de fontes externas e incorporá-lo em seu próprio sistema circulatório, reabastecendo suas reservas de chakra. {Orochimaru pode desativar Modos Sábios através desta técnica} • {Orochimaru pode absorver até 10kk ck por alvo em um turno} 🐍 (Teleportes e Teletransportes escapam).|| 5x</p>
+            <p>Preço: 7.000.000</p>
+            <hr>
+            <p>Assimilação</p>
+            <p>Rank: A</p>
+            <p>Suplementar</p>
+            <p>Ck p/Ativar: 75.000</p>
+            <p>|| Com um toque, o usuário pode se camuflar em algum local ou reduzir seu corpo a parte de alguma matéria. Enquanto usando esta técnica, o usuário se torna invulnerável a ataques diretos, embora, ainda assim, permaneça vulnerável da destruição de sua localização ou, inclusive, o uso de chakra gasto descontroladamente. {Ao ativar o usuário se torna parcialmente ou completamente "intangivel"; O usuário pode ser encontrado por Sensoriais, ou Byakugan; Ao custo de 90k Ck p/Turno pode manter ativo} 🐍 (Sua ativação é considerada Rank 2).||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Deslizamento do Modo da Cobra</p>
+            <p>Rank: SSS</p>
+            <p>Suplementar</p>
+            <p>Ag p/Uso: 80.000</p>
+            <p>|| Orochimaru transforma a metade inferior de seu corpo em uma cauda de serpente. {Os movimentos do usuário se tornam no mínimo rank 3} 🐍 {Ao custo de 80k de Ag em conjunto com a ativação da técnica: Pode se ejetar de sua própria boca tornando o próximo movimento Rank 2; +100k de Ag pode realizar um ataque multi-direcional onde entra e sai da terra diversas vezes enquanto ataca o oponente; Rank's 2 Escapam}.|| 3x</p>
+            <p>Preço: 15.000.000</p>
+            <hr>
+            <p>Ecdise</p>
+            <p>Rank: SSS</p>
+            <p>Def: Intacta</p>
+            <p>Ck p/Uso: 350.000</p>
+            <p>|| Usado principalmente após sofrer lesão em massa ou como um meio de iludir um ataque aparentemente inevitável; é uma forma única de substituição criada por Orochimaru, a fim de eliminar os danos de um corpo através da troca de pele. {Através desta técnica Orochimaru pode se recuperar de danos aparentemente irreparáveis; recupera-se até mesmo de Incalculáveis} 🐍 {Pode ser usado como Teletransporte, surgindo de uma cobra invocada anteriormente}.||6x</p>
+            <p>Preço: 30.000.000</p>
+            <hr>
+            <p>Encontro de Cobras</p>
+            <p>Rank: SS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 70.000</p>
+            <p>|| Se Orochimaru é de alguma forma cortado pelo adversário, cobras saem das metades que foram separadas e se juntam novamente, retomando o aspecto inicial do Sannin. 🐍 {O dano responsável por separar os membros é ignorado; Exceto danos Incalculável+ ou danos que anulam Regeneração}.||3x</p>
+            <p>Preço: 8.000.000</p>
+            <hr>
+            <p>Kusanagi</p>
+            <p>Rank: SS</p>
+            <p>Atk: 3x Letal</p>
+            <p>Ag p/Empunhar: 50.000</p>
+            <p>|| Ao abrir sua boca, uma cobra sai para fora revelando o cabo da espada entre suas presas. A espada é capaz de cortar quase tudo. {Ao custo de 70k de Ck pode alongar ou retrair a lâmina da espada até longas distâncias; Rank: 3} 🐍 {Ao custo de 80k de Ag pode ejetar a kusanagi de sua boca em direção ao oponente; Rank: 2} 🐍 {Pode se pagar 30k de Ck para transformar a Kusanagi em uma pequena cobra e a faz rastejar de volta ao usuário; Cada movimento feito com a Kusanagi tem o custo de 40k de Ag}.||1x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Espada de Kusanagi: Espada Longa do Céu</p>
+            <p>Rank: SS</p>
+            <p>Atk: 5x Letal</p>
+            <p>Ck p/Ativar: 65.000</p>
+            <p>|| Esta é uma técnica que permite que Orochimaru possa levitar a Espada de Kusanagi e atacar os inimigos a meia-distância. {Pode se controlar a trajetória da Kusanagi com os dedos ao custo de 50k de Ck} 🐍 (Rank's: 3 Escapam).||2x</p>
+            <p>Preço: 8.000.000</p>
+            <hr>
+            <p>Estilo Fogo: Técnica de Ocultação no Fogo</p>
+            <p>Rank: S</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 60.000</p>
+            <p>Ck p/Turno: 40.000</p>
+            <p>|| Usando esta técnica, o usuário pode esconder-se dentro de uma chama. Ao deixar a ocultação, chamas queimam, revelando o usuário. {Ao atacar a oculção é desfeita, porém torna o ataque indefensável sem auxílio de Sensorial ou Dōjutsu} 🐍 {Sensoriais detectam o usuário oculto}.||2x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Estilo Terra: Técnica de Esconder-se Como uma Toupeira</p>
+            <p>Rank: S</p>
+            <p>Suplementar</p>
+            <p>Ck p/Turno: 40.000</p>
+            <p>Ag p/Turno: 40.000</p>
+            <p>|| Essa técnica muda a terra em areia fina, canalizando chakra nela, permitindo ao usuário cavar através dela como uma toupeira. {No subterrâneo o usuário pode localizar seres na superfície; Contanto que estejam em contato com o solo} 🐍 {Ao emergir, Orochimaru pode tornar seu próximo ataque um ataque surpresa} 🐍 (Os movimentos no subterrâneo são Rank: 4).||2x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Estilo Vento: Grande Destruição</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Ilimitado/Multi-Direcional</p>
+            <p>Ck p/Uso: 70.000</p>
+            <p>|| Orochimaru cria uma rajada de vento forte o suficiente até mesmo para derrubar árvores de grande porte e soprar todas as coisas na linha de vista do usuário. {+80k de Ck aumenta o poder e alcance da técnica, tornando-a Global} 🐍 {Ao custo de 40k de Ck pode inflamar a técnica, fazendo com que queime seu alvo; imobilizando por 1 turno e causando dano ilimitado} 🐍 (Teleportes e Teletransportes Rank 3 escapam).||3x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Formação das Dez Mil Serpentes</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Ilimitado/Global/Contínuo</p>
+            <p>Ck p/Uso: 700.000</p>
+            <p>|| Um incontável número de serpentes são invocadas e se arrastam da boca de Orochimaru para atacar o inimigo. Diante dessa "parede de cobras" devastadora, não há sentido em tentar se defender ou esquivar, restando ao alvo ser enterrado por ela. {Quando invocadas; Podem formar um muro que defende orochimaru de atks Globais} 🐍 {+90k Ck faz as cobras expelirem uma réplica da Kusanagi de suas bocas, elevando o dano e paralisando por um turno ou matando alvos através de seus venenos} 🐍 {Os atks e movimentos realizados pelas cobras são Rank 3} 🐍 {Orochimaru pode realizar esta técnica cara a cara com o oponente, pegando-o de surpresa; Teletransportes Rank 2 escapam} 🐍 (teletransportes rank 3 escapam de seus ataques).||2x</p>
+            <p>Preço: 25.000.000</p>
+            <hr>
+            <p>Dez Mil Serpentes Espirais</p>
+            <p>Rank: SS</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/Uso: 280.000</p>
+            <p>|| Orochimaru cria um espiral com suas cobras criadas para bater de frente com a técnica de Katsuyu. {O massivo número de serpentes atinge e esmaga os alvos; Atinge 5 alvos ou mais caso estejam próximos} 🐍 {O grande dano imobiliza os atingidos por dois turnos; Rompe barreiras não ilimitadas} 🐍 (Teleportes e Teletransportes Rank 2 escapam).||3x</p>
+            <p>Preço: 30.000.000</p>
+            <hr>
+            <p>Habilidade de Regeneração</p>
+            <p>Rank: SSS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 100.000</p>
+            <p>|| Consiste em um tipo específico de saiseijutsu que concede aos seus usuários a capacidade de curar-se de lesões em instantes. Essa habilidade é ativada de forma automática e sem a necessidade de selos de mão. {Orochimaru demonstrou ser capaz de regenerar membros inteiros em um curto período de tempo} 🐍 (Regenera de atks não incalculáveis).||6x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Poder da Cobra Branca</p>
+            <p>Rank: SSS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Ativar: 70.000</p>
+            <p>|| Desde sua infância, Orochimaru detém grande admiração pelas cobras brancas, que são ditas representar grande sorte e regeneração, Tendo isso em vista, ele submeteu o próprio corpo à anos de experiências, O que resultou em sua transformação em uma cobra branca gigante, Garantindo a ele seu poder e uma incrível capacidade de regeneração, Com isso, A velocidade de recuperação do indivíduo é acelerada, é possível reconectar partes decepadas do corpo ou até mesmo anular danos severos simplesmente trocando de pele. {Permite que Orochimaru se regenere de atks não Globais sem dificuldades por 50k de Ck} 🐍 {Necessário para utilizar algumas técnicas regenerativas como Técnica Yamata ou Técnica de Transformação da Cobra}.||1x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Invocação: Rashōmon</p>
+            <p>Rank: SS</p>
+            <p>Def: Ilimitada</p>
+            <p>Ck p/uso: 100.000</p>
+            <p>|| Diferente de invocações comuns, o usuário tributa sangue e bate ambas as mãos no chão, fazendo surgir instantaneamente o portão Rashōmon através das marcas “A” e “Um”. A estrutura colossal se ergue como uma barreira absoluta, bloqueando e repelindo ataques físicos com extrema resistência, sendo praticamente impossível atravessá-la frontalmente. Além da defesa, o portão possui um sistema ofensivo oculto, capaz de disparar um enxame massivo de lâminas contra o campo de batalha. Apesar. 🐍 {Ao custo de 40k de Ck ativa o sistema ofensivo, disparando lâminas em um ataque ilimitado Semi-Global Rank 2} 🐍 {Defende ataques Globais até o rank 2; pode ser derrubado ao atingir sua base} 🐍||4x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Invocação: Rashōmon Triplo</p>
+            <p>Rank: SSS</p>
+            <p>Def: 3xIlimitada</p>
+            <p>Ck p/Uso: 300.000</p>
+            <p>|| É uma variante atualizada da Invocação: Rashōmon que invoca três portões. O primeiro portão suporta o peso do ataque, o segundo reduz o poder, enquanto o terceiro dispersa a pressão. {Qualquer ataque não incalculável que atravessar os portões tem seu dano reduzido a letal} 🐍 {Os portões podem ser posicionados da maneira que o usuário quiser, porém tendo as mesmas propriedades defensivas do rashōmon único} 🐍 {Pode ser invocado de maneira a prender o oponente, deixando-o exposto para o próximo ataque, que só poderá ser evitado por meio de Teletransportes} 🐍 {Defende qualquer ataque até o Rank 1; Exceto Bola da Besta com Cauda, Flecha de Indra, Rasengan de Ashura e outros Incalculáveis}.||3x</p>
+            <p>Preço: 18.000.000</p>
+            <hr>
+            <p>Invocação: Reencarnação do Mundo Impuro</p>
+            <p>Rank: SSS</p>
+            <p>Reencarnação </p>
+            <p>Ck p/Edo: 500.000</p>
+            <p>|| O usuário realiza um ritual proibido que invoca a alma de um indivíduo falecido, vinculando-a a um corpo hospedeiro e restaurando-o em seu estado de poder máximo em vida. O invocado possui regeneração constante, chakra praticamente ilimitado e obedece às ordens do invocador em combate. Além disso, o invocador pode assumir diretamente o controle do corpo invocado, utilizando-o como se fosse o seu próprio. Diferente de invocações comuns, o corpo não se desfaz com dano convencional, retornando continuamente até ser selado} • {Dura até ser selado ou encerrado pelo invocador}.||∞</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Edos:</p>
+            <p>Edo Tensei: Minato Namikaze</p>
+            <p>Rank: SS</p>
+            <p>Atk: 30.000.000</p>
+            <p>Def: 30.000.000</p>
+            <p>Hp: Regeneração</p>
+            <p>Ag: 30.000.000</p>
+            <p>Ck: Ilimitado</p>
+            <p>|| Minato Namikaze (波風ミナト), conhecido como o Quarto Hokage, foi um dos shinobi mais talentosos de Konohagakure. Reconhecido por sua velocidade lendária e genialidade em combate, era capaz de derrotar inimigos com extrema precisão e eficiência} • {Imune a Genjutsu's, exceto Kotoamatsukami e Izanami} • [Invocação considerada Rank 1].||1x</p>
+            <p>Edo Tensei: Hashirama Senju</p>
+            <p>Rank: SS</p>
+            <p>Atk: 30.000.000</p>
+            <p>Def: 30.000.000</p>
+            <p>Hp: Regeneração</p>
+            <p>Ag: 30.000.000</p>
+            <p>Ck: Ilimitado</p>
+            <p>|| Hashirama Senju (千手柱間), conhecido como o Primeiro Hokage, foi o fundador de Konohagakure e um dos shinobi mais poderosos da história. Reconhecido por sua força colossal e liderança, era capaz de dominar batalhas em larga escala com facilidade} • {Imune a Genjutsu's, exceto Kotoamatsukami e Izanami} • [Invocação considerada Rank 1].||1x</p>
+            <p>Edo Tensei: Tobirama Senju</p>
+            <p>Rank: SS</p>
+            <p>Atk: 30.000.000</p>
+            <p>Def: 30.000.000</p>
+            <p>Hp: Regeneração</p>
+            <p>Ag: 30.000.000</p>
+            <p>Ck: Ilimitado</p>
+            <p>|| Tobirama Senju (千手扉間), conhecido como o Segundo Hokage, foi um dos maiores estrategistas de Konohagakure. Reconhecido por sua inteligência e habilidade em combate, desenvolveu diversas técnicas que moldaram o mundo shinobi} • {Imune a Genjutsu's, exceto Kotoamatsukami e Izanami} • [Invocação considerada Rank 1].||1x</p>
+            <p>Edo Tensei: Hiruzen Sarutobi</p>
+            <p>Rank: SS</p>
+            <p>Atk: 30.000.000</p>
+            <p>Def: 30.000.000</p>
+            <p>Hp: Regeneração</p>
+            <p>Ag: 30.000.000</p>
+            <p>Ck: Ilimitado</p>
+            <p>|| Hiruzen Sarutobi (猿飛ヒルゼン), conhecido como o Terceiro Hokage, foi um dos líderes mais respeitados de Konohagakure. Reconhecido por seu vasto conhecimento e experiência em combate, era chamado de "Professor" por dominar inúmeras técnicas} • {Imune a Genjutsu's, exceto Kotoamatsukami e Izanami} • [Invocação considerada Rank 1].||1x</p>
+            <p>Preço: 15.000.000</p>
+            <hr>
+            <p>Edo Tensei: Terceiro Kazekage</p>
+            <p>Rank: SS</p>
+            <p>Atk: 30.000.000</p>
+            <p>Def: 30.000.000</p>
+            <p>Hp: Regeneração</p>
+            <p>Ag: 30.000.000</p>
+            <p>Ck: Ilimitado</p>
+            <p>|| O Terceiro Kazekage foi considerado o mais poderoso Kazekage da história de Sunagakure. Reconhecido por sua calma, frieza e orgulho, possuía uma presença imponente em combate, sendo temido por sua força e domínio no campo de batalha} • {Imune a Genjutsu's, exceto Kotoamatsukami e Izanami} • [Invocação considerada Rank 1].||1x</p>
+            <p>Edo Tensei: Yota</p>
+            <p>Rank: SS</p>
+            <p>Atk: 6.000.000</p>
+            <p>Def: 6.000.000</p>
+            <p>Hp: Regeneração</p>
+            <p>Ag: 6.000.000</p>
+            <p>Ck: Ilimitado</p>
+            <p>|| Yota (ヨタ), foi uma criança misteriosa com habilidades únicas relacionadas à manipulação do clima. Apesar de sua aparência inocente, era imprevisível em combate, podendo alterar o ambiente ao seu redor e surpreender seus adversários} • {Imune a Genjutsu's, exceto Kotoamatsukami e Izanami} • [Invocação considerada Rank 1].||1x</p>
+            <p>Edo Tensei: Osoi</p>
+            <p>Rank: SS</p>
+            <p>Atk: 9.000.000</p>
+            <p>Def: 9.000.000</p>
+            <p>Hp: Regeneração</p>
+            <p>Ag: 9.000.000</p>
+            <p>Ck: Ilimitado</p>
+            <p>|| Osoi (オソイ), foi um shinobi de Kumogakure e parceiro de Toroi. Reconhecido por seu orgulho e senso de dever, demonstrava grande lealdade e determinação, sendo um combatente confiável em batalhas intensas} • {Imune a Genjutsu's, exceto Kotoamatsukami e Izanami} • [Invocação considerada Rank 1].||1x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Juinjutsu de Orochimaru</p>
+            <p>Rank: SSS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 80.000</p>
+            <p>|| Orochimaru morde o destinatário, fazendo isso com a ajuda de suas presas afiadas. O selo, em seguida, aparece no corpo da vítima perto da punção ferida antes de levá-la a perder a consciência. {Após dois turnos inconsciente a vítima acorda com acesso a Marca da Maldição} 🐍 {Ao custo de 75k de Ck Orochimaru pode paralisar completamente os usuário da marca; Ou dar-lhe ordens, já que ficam sucetíveis ao seu controle} 🐍 {Alvos com menos da metade dos atributos atuais de Orochimaru morrem com a aplicação do selo} 🐍 (Teleportes e Teletransportes escapam).||6x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>|| Os 2 modos abaixos devem ser utilizados por uma vitima do juinjutsu. na elaboração do card; o nome "Orochimaru" deve ser posto no lugar da vila ||</p>
+            <p>Selo Amaldiçoado - Estágio Um</p>
+            <p>Rank: SSS</p>
+            <p>Atk: +2.500.000</p>
+            <p>Def: +2.500.000</p>
+            <p>Hp: +2.500.000</p>
+            <p>Ag: +2.500.000</p>
+            <p>Ck: +2.500.000</p>
+            <p>Ck P/Ativar: 200.000</p>
+            <p>Hp p/Turno: 700.000</p>
+            <p>|| Quando ativado, o selo amaldiçoado libera o próprio chakra sábio de Orochimaru no corpo do usuário, garantindo melhorias semelhantes ao Modo Eremita. {Os ataques do alvo passam a afetar seres que só podem ser afetados por senjutsu} 🐍 {Os movimentos do usuário serão no mínimo Rank 5} 🐍 {A cada turno com o modo ativo o alvo é cada vez mais facilmente influenciado por Orochimaru}.||1x</p>
+            <p>Preço: 30.000.000</p>
+            <hr>
+            <p>Selo Amaldiçoado - Estágio Dois</p>
+            <p>Rank: SSS</p>
+            <p>Atk: +4.5000.000</p>
+            <p>Def: +4.500.000</p>
+            <p>Hp: +4.500.000</p>
+            <p>Ag: +4.500.000</p>
+            <p>Ck: +4.500.000</p>
+            <p>Ck P/Ativar: 400.000</p>
+            <p>Hp p/Turno: 1.000.000</p>
+            <p>|| [Deve ser ativado com auxílio da Pílula do Despertar da Mente] Este estágio do selo faz com que as marcas pretas envolvam completamente o usuário, seguido por muitas alterações não naturais para seu corpo. {Os movimentos do usuário serão no mínimo Rank 3} 🐍 {O usuário ganha 1 uso adicional em cada um de seus jutsus} 🐍 {Neste modo o usuário pode facilmente ser manipilado por Orochimaru}.||1x</p>
+            <p>Preço: 30.000.000</p>
+            <hr>
+            <p>Maldição do Olhar da Serpente</p>
+            <p>Rank: SSS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 120.000</p>
+            <p>|| Uma ou mais grandes cobras rastejam para fora das mangas do usuário e envolvem os inimigos à sua frente. As cobras invocadas têm força e capacidade muito superiores às normais. Mesmo os shinobi experientes não conseguem fugir dessa restrição {Ao pagar 80k de Ck em conjunto a imobilização; Pode fazer a cobra injetar veneno no alvo, que o leva a morte caso não tenha Hp: Regeneração} 🐍 {+50k de Ck pode fazer com que a cobra aperte cada vez mais seu alvo chegando até a quebrar ossos e imobilizando por 2 turnos} 🐍 {+100k Ck pode utilizar de sua Intenção Assassina para tornar a captura mais fácil assim somente Rank's 1 escapam} 🐍 (Teleportes e Teletransportes Rank 2 escapam).||4x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Mãos de Serpente Oculta na Sombra</p>
+            <p>Rank: SSS</p>
+            <p>Atk: 6xLetal/Multi-Direcional</p>
+            <p>Ck p/Uso: 80.000</p>
+            <p>|| Esta técnica permite que o usuário ejete cobras de seu pulso ou manga. As cobras são usadas principalmente para atacar à distância e, sendo cobras, podem causar várias feridas venenosas no corpo da vítima ou mantê-la no lugar. {+60k Ck pode fazer as cobras expelirem kusanagis de suas bocas; Tornando o dano da técnica ilimitado} 🐍 {+70k Ck pode aplicar veneno a partir das cobras; O veneno pode paralisar o alvo por um turno} 🐍 (Teleportes e Teletransportes rank 2 escapam).||7x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Modificação Física Suave</p>
+            <p>Rank: S</p>
+            <p>Suplementar</p>
+            <p>Ck p/Ativar: 50.000</p>
+            <p>Ck p/Turno: 20.000</p>
+            <p>|| O usuário desloca suas articulações, em seguida, controla o seu corpo amolecido com chakra, permitindo-lhes se esticar e torcer qualquer parte de seu corpo em qualquer ângulo, alongando e até mesmo enrolando em torno de seu inimigo. A versão de Orochimaru lhe permite esticar qualquer das partes de seu corpo bem além de seu comprimento normal e lhe permite mover-se na forma de uma cobra. {Orochimaru pode esticar seus membro até 20 metros} 🐍 (Rank 3).||5x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Queima de Arquivo</p>
+            <p>Rank: B</p>
+            <p>Atk: Letal</p>
+            <p>Ck p/Uso: 20.000</p>
+            <p>|| Elevando a temperatura de seu chakra para produzir fogo, o usuário inflama seu alvo a fim de incinerar uma prova, seja documento ou até mesmo um corpo. 🐍 (Teleportes e Teletransportes Escapam).||4x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Reencarnação do Cadáver Vivente</p>
+            <p>Rank: SSS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 750.000</p>
+            <p>[Necessário Transformação Da Cobra Branca]</p>
+            <p>|| Para realizar esta técnica, Orochimaru engole o novo hospedeiro, levando-o a um plano mental separado, onde envolve a mente de sua vítima. O corpo de cobra, em seguida, morre e se desfaz, e a alma de Orochimaru domina o corpo. {Leva 2 turnos até Orochimaru dominar o corpo do alvo} 🐍 {Orochimaru ao invés de engolir o alvo pode entrar em sua boca esse método se demonstrou mais eficiente por tomar o corpo do alvo na hora} 🐍 {Após tomar posse do corpo; Orochimaru passa a perder 800k hp por turno.} 🐍 {Com o corpo na posse de orochimaru; ele ganha acesso a tudo do seu alvo, kekkei genkais, jutsus e etc; Além de seus atributos se tornarem o atributo do alvo} 🐍 (Teleportes e Teletransportes escapam).|| 2x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Selo Consumidor do Demônio Morto: Liberar</p>
+            <p>Rank: SSS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 200.000</p>
+            <p>Hp p/Uso: 400.000</p>
+            <p>[Necessário Máscara Do Shinigami]</p>
+            <p>|| O invocador é possuído pelo Shinigami permitindo-lhe o controle sobre ele, e pode forçá-lo a cortar o seu próprio estômago resultando na liberação das almas seladas dentro. Devido à posse no entanto, o mesmo dano vai refletir sobre o próprio corpo do invocador. 🐍 {Pode liberar almas seladas pelo Shinigami}.||4x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Selo de Cinco Elementos</p>
+            <p>Rank: SSS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 100.000</p>
+            <p>|| Esta técnica produz um selo poderoso que é usado para bloquear ou atrapalhar o fluxo do chakra num alvo. Após a aplicação o selo inicia suas fases até ser completo. {Alvos atingidos tem seus custos de chakra triplicados} 🐍 {1 turno após a aplicação o alvo é levado a inconsciência total} 🐍 (Teleportes e Teletransportes Escapam).||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Técnica da Cópia Facial Extinguível</p>
+            <p>Rank: S</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 50.000</p>
+            <p>|| O usuário coloca a mão no rosto da vítima, roubando suas características e tornando-as suas. O que é roubado é o próprio rosto, o disfarce é conseguido através da alteração facial característica da vítima e não revela o menor vestígio do disfarce. As vítimas desta técnica são reduzidas a cadáveres sem rosto. 🐍 {Ao tomar posse do rosto de algum oponente seus aliados não poderão ataca-lo até descobrirem a farsa; Podendo ser por meio da voz ou por sensorial das emoções negativas}.||3x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Técnica de Mudança de Voz</p>
+            <p>Rank: A</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 20.000</p>
+            <p>|| Essa técnica permite que seu usuário seja capaz de ajustar e alterar a sua voz, permitindo-lhe usar diferentes vozes e até mesmo imitar a de uma outra pessoa. Isso é geralmente utilizado em conjunto com técnicas de transformação, tornando disfarces ainda mais convincentes. 🐍 {A Técnica passa a consumir 50k de Hp por turno caso seja mantida por mais de 6 turnos}.||5x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Técnica da Morte Mútua das Cobras Gêmeas</p>
+            <p>Rank: SS</p>
+            <p>Atk: Sacrifício/Ilimitado</p>
+            <p>Ck p/Uso: 150.000</p>
+            <p>|| O usuário junta as suas mãos com a do inimigo, fazendo selos de forma compartilhada. Uma vez finalizados, duas serpentes saem das mangas do usuário, aplicando um veneno mortal através da mordida, tanto nele quanto no oponente. 🐍 (Teleportes e Teletransportes Rank 2 Escapam).||1x</p>
+            <p>Preço: 8.000.000</p>
+            <hr>
+            <p>Técnica de Cintilação Corporal</p>
+            <p>Rank: S</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: Variável</p>
+            <p>|| É uma técnica básica de movimento em alta velocidade, permitindo que um ninja mova-se de uma curta para uma longa distância a uma velocidade quase indetectável. {+30k Ck p/Se mover em curtas distâncias; +60k ck p/médias distâncias e 90k ck p/longas distâncias} 🐍 (Rank: 2).||6x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Técnica de Invocação: Cobras</p>
+            <p>Rank: S</p>
+            <p>Suplementar</p>
+            <p>Ck p/Ativar: 100.000</p>
+            <p>|| Invocações características de Orochimaru, de seu braço direito, Kabuto Yakushi, e de seus alunos: Sasuke Uchiha e Anko Mitarashi. Elas residem na caverna Ryūchi. {Necessário para utilizar as técnicas derivadas de invocações de cobras} 🐍 {As cobras variam muito em tamanho e por meio desta técnica Orochimaru pode controlar essa variação; Ao custo de 600k Ck pode tornar as cobras gigantes por 6x} 🐍 {Caso gigantes o alcance das técnicas é aumentado; Técnicas Multi-Direcionais se tornam Semi-Globais, Semi-Globais se tornam Globais, Globais se tornam Dimensionais; Técnicas originalmente de alvos únicos permanecem atingindo alvos únicos, tornando-as apenas mais eficientes contra seres de grande porte} 🐍 {+500k Ck Orochimaru pode inserir uma substância desconhecida em suas cobras levando-as a gerar uma explosão Semi-Global; Teletransportes rank 2 escapam por 5x}.||1x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Técnica de Paralisia</p>
+            <p>Rank: A</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 40.000</p>
+            <p>[Requer Curto Alcance]</p>
+            <p>|| É um ninjutsu com a capacidade de imobilizar um alvo através de uma força invisível como um cabo de aço. Mesmo os tigres gigantes da Floresta da Morte são incapazes de resistir a essa técnica e não conseguem mexer um bigode sequer. {Orochimaru pode imobilizar diversos alvos ao mesmo tempo; E também ja demonstrou ser resistente a esta técnica} 🐍 (Somente estando fora do alcance para escapar).||4x</p>
+            <p>Preço: 8.000.000</p>
+            <hr>
+            <p>Técnica de Transformação da Cobra</p>
+            <p>Rank: SSS</p>
+            <p>Atk: +10.000.000</p>
+            <p>Def: +10.000.000</p>
+            <p>Hp: Regeneração</p>
+            <p>Ag: +10.000.000</p>
+            <p>Ck: +10.000.000</p>
+            <p>Ck p/Ativar: 700.000</p>
+            <p>|| Ao usar a técnica, Orochimaru revela seu verdadeiro corpo. Uma cobra gigante branca constituída por milhares de cobras pequenas da mesma cor. Através de muitos anos de experimentos, Orochimaru conseguiu incorporar outras habilidades a essa sua forma, adquirindo uma constituição corporal extremamente veloz, uma regeneração capaz de curar qualquer lesão, recriar seu corpo incansavelmente, e uma mobilidade eficiente. {Neste modo, o usuário pode só pode ser afetado por Globais Ilimitados} 🐍 {Ao custo de 65k de Ck, o usuário pode se regenerar de Atks Globais Ilimitados por 6x} 🐍 {Os movimentos do usuário se tornam Rank 2; Ao custo de 120k de Ag, o usuário pode se locomover a Rank 1, 4x}.||1x</p>
+            <p>Preço: 30.000.000</p>
+            <hr>
+            <p>Veneno do Selo Amaldiçoado</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Paralisação</p>
+            <p>Ck p/Uso: 100.000</p>
+            <p>|| É um poderoso juinjutsu aplicado na forma de veneno. O veneno é injetado diretamente na corrente sanguínea do alvo, normalmente através das presas de uma cobra, mas Orochimaru também é capaz de realizar o mesmo feito por meio de sua própria mordida. Após a picada, a substância tem efeito imediato, causando dores, paralisia, além de impedir a fala da vítima por um período de tempo indeterminado, sendo útil para imobilizar inimigos e cessar batalhas {A paralisia é completa e dura 4 turnos; Seres com regeneração ficam somente um turno paralisados} 🐍 (Teleportes e Teletransportes Escapam).||5x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Técnica dos Clones das Sombras</p>
+            <p>Rank: S</p>
+            <p>Atk: 1.000.000</p>
+            <p>Def: 1.000.000</p>
+            <p>Hp: 1.000.000</p>
+            <p>Ag: 1.000.000</p>
+            <p>Ck: 1.000.000</p>
+            <p>Ck p/Clone: 80.000</p>
+            <p>|| Esta técnica cria cópias do usuário. No entanto, os clones são fisicamente reais, em vez de ilusões. 🐍 {Clones podem ser distinguido por Byakugan, Rinnegan, Rinnegan Supremo e Rinnesharingan}.||20x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Técnica de Yamata</p>
+            <p>Rank: SSS</p>
+            <p>Atk: 60.000.000</p>
+            <p>Def: 60.000.000</p>
+            <p>Hp: 60.000.000</p>
+            <p>Ag: 60.000.000</p>
+            <p>Ck: 60.000.000</p>
+            <p>Ck p/Ativar: 3.000.000</p>
+            <p>|| O usuário abandona completamente sua forma humana e se transforma na lendária serpente branca de oito cabeças e oito caudas, manifestação máxima do poder das cobras ligado à linhagem da Cobra Branca. Cada cabeça possui consciência própria, podendo atacar simultaneamente com presas altamente venenosas e força suficiente para esmagar construções inteiras apenas com o movimento do corpo. Sua escala colossal domina o campo de batalha, permitindo destruição contínua enquanto avança de forma imparável, resistindo a ataques convencionais com extrema durabilidade. 🐍 {A forma completa da Yamata atinge 80 metros de comprimento total. Cada uma de suas oito cabeças possui 15 metros, permitindo alcance ofensivo em múltiplas direções simultaneamente. Suas oito caudas medem 20 metros cada, sendo utilizadas tanto para ataques de esmagamento quanto para controle de área} 🐍 {Cada cabeça age independentemente, dificultando defesa e evasão; ataques físicos esmagam e envenenam, Veneno extremamente letal que causa paralisia progressiva e dano contínuo após o contato} 🐍 (Mov se tornam rank 3, atks rompe barreiras, nesta forma o usuário só morre selado).||1x</p>
+            <p>Preço: 50.000.000</p>
+            <hr>
+            <p>Armadilha Fūinjutsu</p>
+            <p>Rank: S</p>
+            <p>Atk: Selamento</p>
+            <p>Ck p/Uso: 80.000</p>
+            <p>|| Uma vez que a técnica é ativada, o alvo é selado em um espaço dimensional diferente, no interior da localização do selamento. A armadilha é ativada com a aproximação do alvo como no caso de Kakashi onde a armadilha foi plantada na mão de um viajante e foi ativada ao entrar em contato com Kakashi. {Se for pego pelo selamento, nada escapa} 🐍 (Teleportes e teletransportes rank 3 escapa).||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Armadilha da Destruição do Esconderijo</p>
+            <p>Rank: A</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/Uso: 50.000</p>
+            <p>|| Uma armadilha temporizada conjunta usada por Orochimaru para destruir qualquer vestígio de um velho esconderijo seu com o parecer de um vórtice gigante de lama. Ela pode ser ativada ou não, mesmo se existirem pessoas no esconderijo. 🐍 (Capacidade de Vôo ativo antes ou Teleportes e Teletransportes rank 4 com sensorial ativo antes escapam).||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Bisturi de Chakra</p>
+            <p>Rank: B</p>
+            <p>Atk: Letal</p>
+            <p>Ck p/Uso: 20.000</p>
+            <p>Ck p/Turno: 10.000</p>
+            <p>|| Esta pode então ser utilizada para incisões altamente precisas necessárias para cirurgias e dissecações anatômicas. O bisturi de chakra também pode ser usado ofensivamente, porém, requer grande precisão para ser eficaz. mesmo o maior ninja médico não será capaz de exercer a precisão necessária para fazer cortes fatais. 🐍 (Rank: Variável).||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Estilo Terra: Clone das Sombras</p>
+            <p>Rank: S</p>
+            <p>Atk: 900.000</p>
+            <p>Def: 900.000</p>
+            <p>Hp: 900.000</p>
+            <p>Ag: 900.000</p>
+            <p>Ck: 900.000</p>
+            <p>Ck p/Clone: 60.000</p>
+            <p>|| Esta técnica utiliza o Estilo Terra parar criar um clone das sombras do usuário feito de barro. {+50k de Ck Orochimaru faz com que o clone se reforme; mesmo após ser completamente estraçalhado; Não é possível reformar caso seja alvo de globais} 🐍 {+40k de Ck faz o clone explodir em cima do alvo o imobilizando} 🐍 {Só pode ser distinguido por Byakugan, Rinnegan, Rinnegan Supremo e Rinnesharingan}.||25x</p>
+            <p>Preço: 8.000.000</p>
+            <hr>
+            <p>Formação das Quatro Cobras Negras</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Ilimitado/Selamento</p>
+            <p>Ck p/Uso: 120.000</p>
+            <p>|| Orochimaru, juntamente com seus três clones, posicionam-se em uma formação de quadrado ao redor do alvo pretendido. Feito isso, os selos de mão são executados de forma simultânea para que uma barreira seja erguida envolvendo o alvo, Incinerando e Selando o conteúdo em seu interior ao comando, {Não sela bijūs} 🐍 (Teleporte e Teletransporte Rank 2 Escapam).||2x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Selo de Quatro Símbolos</p>
+            <p>Rank: SS</p>
+            <p>Atk: Selamento</p>
+            <p>Ck p/Uso: 250.000</p>
+            <p>|| Essa fórmula de selamento é gravada num corpo humano ou num objeto, e é principalmente usada quando um inimigo gigante ou um espírito do mal precisa ser selado. Para usá-lo, é necessário uma grande habilidade do usuário. Quando dois Selos de Quatro Símbolos são usados juntos, eles formam o Estilo de Selamento de Oito Trigramas {Sela qualquer coisa} 🐍 {Requer preparação de 1 Turno} 🐍 (Apenas teleportes e teletransportes rannk 1 escapam).||2x</p>
+            <p>Preço: 30.000.000</p>
+            <hr>
+            <p>Estilo de Selamento de Oito Trigramas</p>
+            <p>Rank: S</p>
+            <p>Suplementar</p>
+            <p>Ck P/Uso: 40.000</p>
+            <p>|| Essa técnica foi usada por Minato Namikaze para ajudar Naruto Uzumaki a acessar o chakra de Kurama, selada dentro dele. 🐍 {Concede ao alvo 10kk de Atributos}||.1x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Genjutsu de Paralisia</p>
+            <p>Rank: A</p>
+            <p>Atk/Def: Genjutsu/Suplementar</p>
+            <p>Ck p/Uso: 50.000</p>
+            <p>|| o usuário prende o adversário em um genjutsu, tornando-o incapaz de se movimentar. 🐍 {Pode ser aplicado em múltiplos alvos}.||2x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Marionetes Acidentadas</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Absorção/Selamento</p>
+            <p>Ck p/Uso: 200.000</p>
+            <p>|| Desenvolvido por Orochimaru, permite ao usuário absorver parcialmente um cadáver morto recentemente, transformando-o em uma extensão do corpo do usuário. {Após a absorção, o usuário ganha acesso aos jutsus do alvo} 🐍 {Os atributos do alvo são somados ao do usuário} 🐍 {A mente do alvo fica perturbada, ataques Ilimitados, fazem o alvo recobrar a consciência e tirar o usuário do controle}.||5x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Possessão da Cobra Branca</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Possessão</p>
+            <p>Ck p/Uso: 150.000</p>
+            <p>|| Orochimaru transfere sua consciência para uma pequena cobra branca onde se desliza para dentro do corpo de uma pessoa, permitindo que Orochimaru ganhe o controle de seu corpo e mente. {O Corpo do usuário fica "inconsciente" durante a técnica} 🐍 (Teleportes E Teletransportes Rank 1 Escapam).||3x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Prisão da Boca da Cobra</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Aprisionamento</p>
+            <p>Ck p/Uso: 100.000</p>
+            <p>|| O usuário pode prender os adversários e a si mesmo na boca de uma cobra. O estômago da cobra é muito parecido com elástico, podendo até mesmo resistir a Gamabunta, uma criatura de tamanho similar, sendo invocado dentro dele. {Semi-Globais rompem o estômago; Ao custo de 65k de Ck, o usuário pode manipular a estrutura do estômago, sufocando ou esmagando o alvo} 🐍 {Se for pego, somente Teletransportes ou atks Semi-Globais escapam}.||4x</p>
+            <p>Preço: 15.000.000</p>
+            <hr>
+            <p>Selo Amaldiçoado Animal</p>
+            <p>Rank: SS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 40.000</p>
+            <p>|| Orochimaru aplica esse juinjutsu através da mordida de sua cobra, manifestando uma tatuagem na vítima. A tatuagem inicialmente não tem quaisquer efeitos sobre o alvo e seus poderes só são revelados após ela consumir uma droga. {O alvo ganha acesso a "Transformação Bestial”} 🐍 (Teleportes e Teletransportes Escapam).||3x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>|| Os modos abaixos devem ser utilizados por uma vitima do juinjutsu. na elaboração do card; o nome "Orochimaru" deve ser posto no lugar da vila ||</p>
+            <p>Transformação Bestial - Estágio Um</p>
+            <p>Rank: S</p>
+            <p>Atk: +3.000.000</p>
+            <p>Def: +3.000.000</p>
+            <p>Ag: + 3.000.000</p>
+            <p>Ck p/Ativar: 230.000</p>
+            <p>Hp p/Turno: 600.000</p>
+            <p>Ag p/Turno: 400.000</p>
+            <p>|| Marcas animalescas surgem no corpo do usuário. O usuário  obtém um significativo aumento de seus atributos, sua velocidade foi elevada ao ponto em que olhos humanos não conseguiam acompanhar, seus reflexos o permitiam se esquivar da maioria dos ataques e sua força era o suficiente para lançar seus oponentes para longe com um simples so {Movimentação do usuário é no mínimo Rank 3} 🐍 {Após 10 turnos da ativação do modo; o usuário começa a sofrer com efeitos colaterais; o levando a uma desnutrição e posteriormente a morte}.||1x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Transformação Bestial - Estágio Dois</p>
+            <p>Rank: SS</p>
+            <p>Atk: +4.000.000</p>
+            <p>Def: +4.000.000</p>
+            <p>Hp: +4.000.000</p>
+            <p>Ag: +4.000.000</p>
+            <p>Ck: +4.000.000</p>
+            <p>Ck p/Ativar: 1.000.000</p>
+            <p>Hp p/Turno: 1.400.000</p>
+            <p>Ag p/Turno: 1.400.000</p>
+            <p>|| As marcas animalescas evoluem e tornam o usuário muito parecido com um animal. Após entrar no estágio 2, o usuário fica dez vezes mais forte, porém tem uma perda significativa em sua velocidade. {Os Ataques físicos do alvo causam no mínimo dano ilimitado e imobiliza o alvo por dois turnos} 🐍 {Reduz dano Ilimitado a Letal} 🐍 {Após 7 turnos da ativação desta técnica, o usuário começa a sofrer com efeitos colaterais, o levando a uma desnutrição e posteriormente a morte} 🐍 {Os movimentos do usuário serão no mínimo Rank 2}.||1x</p>
+            <p>Preço: 40.000.000</p>
+            <hr>
+            <p>Sucção da Língua de Cobra</p>
+            <p>Rank: A</p>
+            <p>Atk: Letal/Absorção</p>
+            <p>Ck p/Uso: 60.000</p>
+            <p>Ag p/Uso: 50.000</p>
+            <p>|| Orochimaru estica sua língua até o pescoço de seu alvo e o envolve para estrangulá-lo. Enquanto a vítima estiver imobilizada, seu chakra será constantemente drenado para repor as reservas de Orochimaru. {Se for pego, o inimigo perde 2kk de Ck por turno até o mesmo morrer sem Ck} 🐍 (Teleportes e teletransportes escapam).||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Talhada de Mãos Nuas</p>
+            <p>Rank: S</p>
+            <p>Atk: 3xLetal</p>
+            <p>Ag p/Uso: 100.000</p>
+            <p>|| Esticando a mão e mantendo os dedos firmes, o usuário é capaz de desferir um golpe forte o suficiente para uma besta com cauda decepar sua própria cauda. Combinada com velocidade, a técnica pode ser usada em batalha para decepar até dois membros do inimigo antes que este possa ter algum tempo de reação. Em sua luta com Victor, Orochimaru demonstrou tanta velocidade utilizando esta técnica que arrancou 3 membros de Victor em um único ataque de forma que até mesmo Victor demorou a perceber. 🐍 (Teleportes e Teletransportes rank 1 escapam).||3x</p>
+            <p>Preço: 15.000.000</p>
+            <hr>
+            <p>Técnica da Aniquilação Dilacerante</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Fatal</p>
+            <p>Ck p/Uso: 200.000</p>
+            <p>|| Esta é uma técnica letal usada por Orochimaru a fim de criar lâminas capazes de cortar o oponente em pequenos fragmentos até que se assemelham a pó. 🐍 (Teleportes e Teletransportes Rank's 0 com Sensorial ativo antes escapam).||7x</p>
+            <p>Preço: 40.000.000</p>
+            <hr>
+            <p>Técnica da Entrada Oculta</p>
+            <p>Rank: S</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 40.000</p>
+            <p>|| O usuário estende sua palma da mão em direção a uma parede, onde cria um buraco em forma de porta a partir de ondulações. {+60k Ck pode aplicar um selo que só pode ser rompido por Globais} 🐍 {Somente sensoriais longos podem encontrar a entrada oculta}.||3x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Técnica da Onda de Som</p>
+            <p>Rank: S</p>
+            <p>Atk/Def: Ilimitado/Semi-Global</p>
+            <p>Ck p/Uso: 90.000</p>
+            <p>|| Uma técnica que permite ao usuário criar uma explosão de ondas sonoras que aumenta à sua volta. Esta técnica foi forte o suficiente para não só destruir o laboratório de Orochimaru. {Ao custo de 35k de Ck, pode tornar a técnica Global/Ilimitado} 🐍 (Teleportes e teletransportes rank 2 escapam).||3x</p>
+            <p>Preço: 15.000.000</p>
+            <hr>
+            <p>Técnica de Ignição da Nuvem de Poeira</p>
+            <p>Rank: SS</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/Uso: 140.000</p>
+            <p>[Necessário Um Clone]</p>
+            <p>|| Esta é uma técnica de colaboração onde um usuário de Estilo Fogo engole o oponente em chamas que são então complementadas por um usuário de Estilo Vento, aumentando o alcance e poder das chamas. 🐍 (Teleportes e Teletransportes  rank 2 escapam).||3x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Técnica do Clone da Sombra de Shuriken</p>
+            <p>Rank: A</p>
+            <p>Atk: 3xLetal/Multi-Direcional</p>
+            <p>Ag p/Uso: 70.000</p>
+            <p>Ck p/Uso: 70.000</p>
+            <p>|| O usuário cria cerca de milhares de clones das sombras a partir de uma shuriken, derrubando o inimigo, todas da lâminas criadas pelas sombras no ar giram igualmente letais. Pelo fato dos clones se formarem em apenas um instante, evadir desse ataque completamente chega próximo do impossível. {Ao custo de 30k de Ck, o usuário pode triplicar o número de shurikens, tornando o dano 9xLetal} 🐍 (Teleportes e Teletransportes Rank 3 Escapam).||3x</p>
+            <p>Preço: 15.000.000</p>
+            <hr>
+            <p>Técnica do Clone de Cobra</p>
+            <p>Rank: B</p>
+            <p>Atk: 400.000</p>
+            <p>Def: 400.000</p>
+            <p>Hp: 400.000</p>
+            <p>Ag: 400.000</p>
+            <p>Ck: 400.000</p>
+            <p>Ck p/Clone: 40.000</p>
+            <p>|| Usando cobras como um catalisador, o usuário pode criar um clone de si mesmo que possui uma função similar ao clone das sombras. {O usuário pode reconstruir os clones caso o mesmo receba atks Letais/Multi-Direcionais, acima disse o clone é destruído totalmente} 🐍 {Pode ser distinguido por Byakugan, Rinnegan, Rinnegan Supremo e Rinnesharingan}.||15x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Técnica Reversível</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/Uso: 140.000</p>
+            <p>|| Depois de invocar uma de suas cobras gigantes para engolir completamente o alvo, Orochimaru faz a cobra derramar completamente a sua pele. Em seguida, Orochimaru ordena a cobra digerir instantaneamente seu alvo. {Se o inimigo for pego, só Teletransportes escapam} 🐍 {Após 2 turnos, o inimigo é digerido pelo ácido e é morto} 🐍 [Anula Regeneração] 🐍 (Teleportes e Teletransportes escapam).||5x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Constrição da Cobra Esmagadora</p>
+            <p>Rank: S</p>
+            <p>Atk: Genjutsu</p>
+            <p>Ck p/Uso: 70.000</p>
+            <p>|| Orochimaru coloca o oponente em um genjutsu onde suas cobras surgem do chão e se entrelace no oponente, e com o comando de Orochimaru, elas esmagam o alvo com total força, quebrando todos seus ossos. {O alvo leva um turno para recobrar a consciência} 🐍 (Genjutsu Kai e Contra Genjutsu não funcionam).||3x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Mãos de Múltiplas Serpentes Ocultas na Sombra</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Ilimitado/Multi-Direcional</p>
+            <p>Ck p/Uso: 130.000</p>
+            <p>|| Uma versão mais eficiente da Mãos de Serpente Oculta na Sombra. Cada uma das grandes cobras do súbito emaranhado que surge fica encarregada de ataque, imobilização, e outras funções, todas atacando em conjunto. Elas se entrelaçam no inimigo, sem lhe dar tempo de reagir. Caso sejam vários inimigos, elas também estão preparadas para atacar dividas. {Ao custo de 90k de Ck, o usuário pode adicionar veneno na corrente sanguínea no inimigo, fazendo o mesmo ter seus movimentos caídos em 1 e levar dano 5xLetal/Contínuo} 🐍 (Teleportes e Teletransportes rank 2 escapam}.||6x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Dança da Espada</p>
+            <p>Rank: SS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Ativar: 90.000</p>
+            <p>Ck p/Turno: 20.000</p>
+            <p>|| Essa habilidade refere-se à habilidade de Orochimaru com sua Espada de Kusanagi. 🐍 {O chakra rosa em torno da lâmina torna o dano da espada ilimitado, além de deixar seus cortes no mínimo rank 2}.||2x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Dupla Calma de Kusanagi</p>
+            <p>Rank: S</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ag p/Uso: 60.000</p>
+            <p>[Necessário Dupla Com Sasuke]</p>
+            <p>|| Sasuke se movimenta em alta velocidade para trás do oponente, chutando-o em direção ao ar. Orochimaru salta e cospe sua Kusanagi para Sasuke, que pega a Kusanagi de Orochimaru com a mão livre e pula em direção ao oponente, desferindo uma sequência de ataques com ambas as lâminas repetidamente. 🐍 (Teleportes e Teletransportes Rank 2 Escapam).||2x</p>
+            <p>Preço: 8.000.000</p>
+            <hr>
+            <p>Esfera Gigante</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Global/Ilimitado</p>
+            <p>Ck p/Uso: 600.000</p>
+            <p>[Necessário Técnica Yamata] </p>
+            <p>|| É uma técnica poderosa utilizada por criaturas de tamanhos colossais. A criatura reúne e condensa uma grande quantidade de chakra na forma de uma esfera que é disparada contra seu inimigo, explodindo no impacto. {Rompe barreiras} 🐍 (Outra Dimensão Rank 1 Escapa).||2x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Espada de Kusanagi: Lâminas de Todas as Direções</p>
+            <p>Rank: SS</p>
+            <p>Atk: Multi-Direcional/6xLetal/Perseguidor</p>
+            <p>Ck p/Uso: 70.000</p>
+            <p>|| Depois de imobilizar o alvo com uma cobra, Orochimaru invoca várias réplicas de sua espada de Kusanagi que atacam o inimigo de todas as direções, Impedindo escapatória depois de ser Imobilizado. 🐍 (Teletransporte rank 3 escapam).||3x</p>
+            <p>Preço: 8.000.000</p>
+            <hr>
+            <p>Espada de Kusanagi: Um Golpe Mortal</p>
+            <p>Rank: A</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/Uso: 60.000</p>
+            <p>|| Orochimaru invoca uma cobra gigante, que bate no chão com sua cauda, lançando o seu alvo para o ar. Então, Orochimaru ordena para Espada de Kusanagi esfaquear o seu alvo. 🐍 (Capacidade de Vôo, Teleportes ou Teletransportes escapam).||3x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Estilo Fogo: Bomba do Dragão de Fogo</p>
+            <p>Rank: B</p>
+            <p>Atk: 2xLetal/Multi-Direcional</p>
+            <p>Ck p/Uso: 20.000</p>
+            <p>|| após moldar chakra de fogo dentro de seu corpo, exala um sopro de chamas da sua boca. Com objetivo de mais efetividade na técnica. 🐍 (Teleportes e teletransportes escapam).||3x</p>
+            <p>Preço: 1.000.000</p>
+            <hr>
+            <p>Fūinjutsu do Esconderijo</p>
+            <p>Rank: S</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 50.000</p>
+            <p>|| Após bloquear uma passagem com um objeto, como uma grande pedra, Orochimaru coloca um fūinjutsu sobre o entulho e cria um mecanismo de quebra-cabeças para dificultar o acesso. {+70k Ag oponentes podem resolver o quebra cabeça leva um turno até que seja completo} 🐍 {Globais quebram o fūinjutsu}.||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Golpe Nocauteador</p>
+            <p>Rank: A</p>
+            <p>Atk: 2xLetal</p>
+            <p>Ag p/Uso: 100.000</p>
+            <p>|| O usuário desfere um Golpe Nocauteador forte, rápido e imperceptível no oponente, que o faz cair de joelhos no chão. Devido à grande velocidade em que o movimento é executado, o golpe sequer pode ser visto, deixando o adversário sem reação. 🐍 {Se for pego, o oponente fica 1 turno nocauteado}.||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Grandeza do Mal</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/Uso: 300.000</p>
+            <p>|| Orochimaru primeiro soca o adversário na cara e bate-o de volta. Ele, então, envolve o adversário com inúmeras cobras que cria um domo ao redor dele e prende-o. Em seguida, ele salta e apunhala-o com sua Espada de Kusanagi finalizando-o. 🐍 (Outra Dimensão Escapa).||2x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Ilusão Demoníaca: Técnica do Não-Está-Aqui</p>
+            <p>Rank: B</p>
+            <p>Atk: Genjutsu</p>
+            <p>Ck p/Uso: 30.000</p>
+            <p>|| Esta técnica é um genjutsu que permite enganar e persuadir o adversário, fazendo-o acreditar que está em outro local, impedindo-o de ver certos aspectos do cenário em que está. {Pode alterar completamente aspectos do cenário} 🐍 (Genjutsu Kai pode quebrar o genjutsu).||5x</p>
+            <p>Preço: 8.000.000</p>
+            <hr>
+            <p>Mãos de Serpente Selvagem Oculta na Sombra</p>
+            <p>Rank: S</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/Uso: 50.000</p>
+            <p>|| O usuário conjura uma grande quantidade de cobras que emergem do subsolo para atacar o alvo de forma selvagem. {+50k Ck Orochimaru pode invocar uma nova cobra} 🐍 (Teleportes e Teletransportes Rank 4 Escapam).||3x</p>
+            <p>Preçp: 5.000.000</p>
+            <hr>
+            <p>Modo Sannin</p>
+            <p>Rank: SSS</p>
+            <p>Atk: +10.000.000</p>
+            <p>Def: +10.000.000</p>
+            <p>Hp: +10.000.000</p>
+            <p>Ag: +10.000.000</p>
+            <p>Ck: +10.000.000</p>
+            <p>Ck p/Ativar: 250.000</p>
+            <p>Ck p/Turno: 70.000</p>
+            <p>|| Este modo aumenta todas as estatísticas do usuário. Também aumenta o alcance, poder e velocidade dos ataques do usuário. Além de dar acesso ao jutsu despertar do personagem. {Movimentos do usuário serão no mínimo Rank 2} 🐍 {Só pode ser afetado por jutsus Rank SSS; Ao custo de 80k de Ck, pode se regenerar de ataques Globais/Ilimitados por 5x} 🐍 (Dobra os danos causados por Orochimaru e suas cobras pós modo).||1x</p>
+            <p>Preço: 30.000.000</p>
+            <hr>
+            <p>Movimento de Pinça</p>
+            <p>Rank: A</p>
+            <p>Suplementar</p>
+            <p>Ag p/Uso: 100.000</p>
+            <p>[Necessários Dois Clones]</p>
+            <p>||  Consiste em uma tática militar na qual os flancos inimigos são envolvidos simultaneamente em uma investida conjunta com um movimento similar aos braços de uma pinça, cercando-o e reduzindo suas possíveis rotas de fuga, embora ainda seja possível encontrar brechas. 🐍 (Teleportes e Teletransportes Rank 4 escapam).||2x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Pulando no Buraco de Fogo e Vento</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Global/Ilimitado</p>
+            <p>Ck p/uso: 1.000.000</p>
+            <p>[Requer Tsunade e Orochimaru em Campo]</p>
+            <p>|| Tsunade soca o chão, criando um grande terremoto. Como cobertura, Orochimaru invoca três Rashōmon, criando então em uma forma de triângulo, deixando o oponente sem saída. Então, Orochimaru e Jiraiya usam fogo e vento para criar um grande turbilhão de fogo. Tsunade pula nas chamas e, depois de ativar o Selo Yin, dá um soco tão poderoso que quebra os portões na explosão, causando uma grande explosão. {Anula Regeneração Usual} 🐍 (Somente outra dimensão escapa).||2x</p>
+            <p>Valor: 30.000.000</p>
+            <hr>
+            <p>Resma de Etiquetas Explosivas</p>
+            <p>Rank: SS</p>
+            <p>Atk: Letal/Multi-Direcional</p>
+            <p>Ag p/Uso: 10.000</p>
+            <p>Ck p/Uso: 10.000</p>
+            <p>||  É quando o usuário anexa um papel explosivo em uma kunai e lança como um projétil contra o oponente, fazendo com que o selo exploda no alvo. {+20k Ck aumenta o número de  papel explosivo na kunai, elevando seu dano a 3xLetal} 🐍 (Teleportes e Teletransportes Rank 5 Escapam).||8x</p>
+            <p>Preço: 1.000.000</p>
+            <hr>
+            <p>Técnica de Invocação: Manda</p>
+            <p>Rank: SS</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/Uso: 220.000</p>
+            <p>|| Orochimaru invoca Manda, que engole o oponente e passa com ele debaixo da terra por alguns metros, e então sai da terra e gira em torno de si, terminando por cuspir o oponente para longe. {Ao cuspir o oponente quando atingir o chão gera uma onde de choque com dano Ilimitado/Multi-Direcional rank 4} 🐍 (Teleportes e teletransportes rank 3 escapam).|| 1x</p>
+            <p>Preço: 15.000.000</p>
+            <hr>
+            <p>Técnica de Substituição do Corpo</p>
+            <p>Rank: SS</p>
+            <p>Def: Substituição</p>
+            <p>Ck p/uso: 250</p>
+            <p>|| Com esta técnica, os usuários substituem o seu próprio corpo por algum outro objeto, geralmente um tronco de madeira, no momento em que um ataque pousa. Isso cria uma ilusão de ótica, fazendo com que o inimigo pense que o ataque foi bem sucedido. A partir daí, o usuário pode usar o lapso de atenção do inimigo para atacar ou fugir do campo de batalha. 🐍 {Pode ser utilizado para escapar de ataques simples como taijutsus que não causem dano ilimitado ou de shurikens e kunais}.||15x</p>
+            <p>Preço: 1.000.000</p>
+            <hr>
+            <p>Técnica do Agressor Espelhado </p>
+            <p>Rank: A</p>
+            <p>Suplementar </p>
+            <p>Ck p/Amuleto: 60.000</p>
+            <p>|| Uma armadilha vinculada a selos de proteção ou ao amuleto que ativa automaticamente ao serem violados. Ao romper ou remover o selo, uma cópia perfeita do invasor é criada instantaneamente, replicando aparência, atributos e habilidades no estado atual. A réplica não sofre cansaço, forçando o alvo a lidar com uma versão idêntica de si mesmo. 🐍 {Deve ser previamente vinculada a um selo ou área protegida ou ter o amuleto aplicado em algo; ao ser quebrado, ativa automaticamente criando a cópia de quem quebrou} 🐍 {A cópia possui mesmas habilidades e estratégias, porém com resistência superior, pode usar todos os jutsus do oponente que já foram usados} 🐍 (Só pode ser ativada uma vez por amuleto).||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Técnica do Encantador de Cobra</p>
+            <p>Rank: S</p>
+            <p>Atk: 5xLetal</p>
+            <p>Ck p/Uso: 70.000</p>
+            <p>|| Usando de seu próprio corpo como artifício, antes de ser dissolvido, o usuário faz com que uma cobra gigante emerja e rasteje para infligir danos ao oponente. Depois dos golpes serem feitos, a cobra também se dissolve, em fragmentos, revelando ser, na verdade, o próprio usuário. {Técnica perseguidora; +100k Ck Orochimaru utiliza esta técnica utilizando sua verdadeira forma no lugar da cobra comum e após retornando a sua forma normal isso eleva o dano da técnica para ilimitado} 🐍 (Teletransportes escapam).||4x</p>
+            <p>Preço: 15.000.000</p>
+            <hr>
+            <p>Técnica Proibida: Destruição do Selo do Mundo Impuro</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Selamento</p>
+            <p>Ck p/Uso: 200.000</p>
+            <p>|| Orochimaru invoca um caixão. Várias mãos fantasmagóricas saem do caixão, e em seguida, se estende através do corpo do oponente, danificando-o, até que uma mão maior agarra-o, e o esmaga, logo em seguida, puxa-o para dentro do caixão. A tampa do caixão se fecha e começa a afundar na escuridão que o rodeia. Orochimaru por fim, ri sinistramente, observando como ele desaparece. 🐍 (Teleportes e teletransportes rank 1 escapam).||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Técnica Proibida: Selo Gedō - Selar</p>
+            <p>Rank: SSS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 150.000</p>
+            <p>|| É um juinjutsu que pode selar as habilidades de um alvo, incluindo as kekkei genkai, causando dor ao alvo, mesmo quando não está usando sua habilidade. {Causa dano Letal/Contínuo e impede o alvo de utilizar jutsus em geral durante toda a batalha} 🐍 {Requer 1 turno para preparar} 🐍 (Teletransportes Rank 2 Escapam).||2x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Técnica Proibida: Selo Gedō - Confusão</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Suplementar </p>
+            <p>Ck p/Uso: 150.000</p>
+            <p>|| É um jujutsu que provoca dor na cabeça cegante na vítima, que transforma seu corpo em uma ferramenta do usuário da técnica. Quando a confusão é usada para combater outra pessoa, o alvo não sente dor dos golpes de seu oponente e não ouve o que qualquer pessoa diz. {Ao custo 1kk hp e um turno, o alvo pode se libertar da confusão} 🐍 (Teletransportes Rank 3 Escapam).||2x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Transferência de Chakra</p>
+            <p>Rank: SS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: Variável</p>
+            <p>|| Esta é uma técnica que permite ao usuário que transfira parte de seu chakra para outra pessoa 🐍 {O usuário pode transferir 10kk de Ck}.||5x</p>
+            <p>Preço: 8.000.000</p>
+            <hr>
+            <p>Trovão dos Mortos</p>
+            <p>Rank: S</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/Uso: 90.000</p>
+            <p>[Necessário Dupla Com Sasuke]</p>
+            <p>|| Orochimaru invoca uma cobra e Sasuke usa a Corrente de Chidori e em espiral em torno deles pode atingir o oponente se nas proximidades. {Paralisa alvos por 2 turnos} 🐍 (Teleportes e Teletransportes Rank 3 Escapam).||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Máscara Shinigami</p>
+            <p>Rank: A</p>
+            <p>Máscara</p>
+            <p>Ag p/Equipar: 10.000</p>
+            <p>|| Uma máscara que se assemelha a face do Shinigami, que residia em uma parede dentro do Templo Armazenador de Máscara do Clã Uzumaki. Ela permite que o usuário invoque o Shinigami por possuir o corpo do usuário. 🐍 {Permite a "invocação" do Shinigami}.||1x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Pílula do Despertar da Mente</p>
+            <p>Rank: S</p>
+            <p>Suplemetar</p>
+            <p>Ag p/Uso: 40.000</p>
+            <p>|| é um medicamento criado por Orochimaru para acelerar o desenvolvimento do Selo Amaldiçoado e para aumentar o nível de Selo Amaldiçoado do usuário para o nível 2. No entanto, isso vai aumentar consideravelmente a velocidade de contaminação do Selo Amaldiçoado. 🐍 {Apesar de permitir que o alvo utilize o estágio dois do selo amaldiçoado, a pílula faz com que os gastos de hp do alvo dupliquem}.||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Veneno</p>
+            <p>Rank: SS</p>
+            <p>Suplementar</p>
+            <p>Ck p/Ativar: 50.000</p>
+            <p>|| Venenos, toxinas e peçonhas são todas substâncias venenosas inebriantes — pós, líquidos e gases — que podem ser usados pelos ninjas em combate. Os venenos contam com uma variedade de efeitos, desde a fraqueza corporal, paralisia ou morte. {Ao custo de 120k de Ck, o usuário pode fazer uma nuvem de veneno Semi-Global, causando dano 2xLetal/Contínuo enquanto o oponente estiver dentro dela} 🐍 {Ao custo de 20k de Ck, o usuário pode colocar veneno em suas armas, fazendo com que o oponente acertado, tome dano 2xLetal/Contínuo por 2 turnos} 🐍 {Ao custo de 50k de Ck, o usuário pode fazer com que o veneno entre na corrente sanguínea paralisando o alvo por 1 turno} 🐍 (Teleportes e teletransportes escapam).||1x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Droga Secreta de Orochimaru</p>
+            <p>Rank: A</p>
+            <p>Suplementar</p>
+            <p>Ag p/Uso: 40.000</p>
+            <p>|| Mizuki, ao tomar a poção, adquiriu a Transformação Bestial. De início, isso concedeu-lhe grande poder. No entanto, a poção estava ainda incompleta e foi consumida antes da hora, fazendo com que Mizuki sofresse efeitos colaterais, perdendo todos os seus poderes e nunca mais podendo voltar a ser ninja novamente. 🐍 {Ao ingerir esta droga o usuário ganha acesso a Transformação Bestial}.||3x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Mecanismo de Kunai Escondida</p>
+            <p>Rank: A</p>
+            <p>Atk: Suplementar/Letal</p>
+            <p>Ag p/Uso: 15.000</p>
+            <p>|| Este item permite ao usuário instantaneamente estender e retrair uma kunai de sua manga com um fio de mola. 🐍 (Teleportes e Teletransportes Rank 3 com sensorial ativo Escapam).||5x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Pílulas de Genjutsu</p>
+            <p>Rank: S</p>
+            <p>Atk: Genjutsu</p>
+            <p>Ag p/Uso: 50.000</p>
+            <p>|| Essas pílulas especiais foram desenvolvidas por Orochimaru. Uma vez ingeridas, as pílulas irão lançar um genjutsu sobre o alvo que paralisa o corpo. O poderoso genjutsu foi capaz de afetar o Jinchuuriki do oito caudas, e até de afetar a memória do oito caudas {Uma vez ingerida, paralisa o alvo por 5 turnos o colocando em alucinação} 🐍 (Rank equivalente a velocidade do usuário).||3x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Etiqueta Explosiva</p>
+            <p>Rank: A</p>
+            <p>Atk: 2xLetal/Multi-Direcional</p>
+            <p>Ag p/Uso: 10.000</p>
+            <p>|| É uma tira papel estampada com uma fórmula de "explosão". {Após aplicada, o usuário pode pagar 10k ck e explodir a etiqueta} 🐍 (Teleportes e teletransportes rank 5 escapam).||30x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Senbon</p>
+            <p>Rank: A</p>
+            <p>Atk: Letal</p>
+            <p>Ag p/Senbon: 8.000</p>
+            <p>|| As Senbon são agulhas de metal com um ponto nas duas extremidades. Muitas vezes podem ser usadas em finalidades médicas, para atacar os pontos de acupuntura. Apesar de serem pouco usadas para matar, um usuário com conhecimentos médicos adequados pode usar o Senbon no campo de batalha para incapacitar ou matar o alvo. 🐍 (Teleportes e teletransporte rank 4 com sensorial ativo escapam).||30x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Arma De Fóton</p>
+            <p>Rank: A</p>
+            <p>Atk: 5xLetal</p>
+            <p>Ag p/Empunhar: 15.000</p>
+            <p>|| A Arma de Fóton roubada é utilizada por Orochimaru tinha o formato de uma pistola. A arma foi capaz de com um tiro arrancar a perna do alvo e incendiar a região onde o tiro atingiu. {Ao custo de 10k de Ag e Ck, o usuário pode atirar com a arma e causar um incêndio causando dano 7xLetal/Contínuo} 🐍 (Teleportes e teletransportes rank 2 com sensorial ativo escapam).||1x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Fórmula da Técnica de Espaço-Tempo: Virada do Submundo</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Selamento/Sacrifício</p>
+            <p>Ck p/Uso: 200.000</p>
+            <p>|| A técnica projetada por Orochimaru é utilizada ao liberar o ódio dentro dos selos amaldiçoados do Quarteto do Som reencarnado, para ser usado com o único propósito de vingança. O selo ativa ao redor do usuário, prendendo qualquer um dentro de seu alcance. Após a utilização da técnica; as almas do alvo e usuário são isoladas em uma barreira. {A barreira só pode ser encontrada com Sensorial das Emoções Negativas e só pode ser destruída por Globais/Ilimitado} 🐍 {Dura 3 Turnos} 🐍 {Se o oponente for pego, nada escapa da barreira a não ser que a mesma seja destruída} 🐍 (Teleportes e teletransportes rank 1 escapam).||1x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Cilada</p>
+            <p>Rank: S</p>
+            <p>Suplementar</p>
+            <p>Ag p/Uso: 10.000</p>
+            <p>|| Cilada trata-se de uma série de armadilhas para enfraquecer, capturar, enganar, derrubar, distrair ou matar um inimigo. {+50k Ag cria uma armadilha que caso o oponente encoste em um fio, ativará um sistema que dispararam diversas kunais nele, 2xLetalMulti-Direcional; rank's 5 com sensorial escapam} 🐍 {+100k Ag cria uma armadilha com um sistema semelhante a anterior, porém ao invés de disparar kunais, um grande tronco de árvore vai em direção ao oponente; dano 2x letal que incapacita por dois turnos; rank's 4 com sensorial escapam} 🐍 {+70k Ag planta uma armadilha no chão, que caso o oponente pise; uma rede irá o capturar; rank's 3 com sensorial ativo escapam} 🐍 {cada armadilha leva 1 turno até ser feita}.||3x</p>
+            <p>Preço: 15.000.000</p>
+            <hr>
+            <p>Névoa Venenosa</p>
+            <p>Rank: A</p>
+            <p>Atk: Global/Suplementar</p>
+            <p>Ck p/Uso: 50.000</p>
+            <p>|| Precisa que o chakra seja reunido dentro do corpo do usuário e, em seguida, transformado em substâncias químicas especiais que depois é ejetado através da boca. Quando a substância entra em contato com o ar exterior no corpo, ele muda instantaneamente e é transformado em uma névoa de veneno letal. A capacidade do veneno para matar é enorme, pois mesmo apenas com a respiração em uma pequena quantidade vai significar o fim da vida do alvo. {Orochimaru é imune ao veneno; O veneno causa dano 8xLetal/Contínuo e deixa o alvo paralisado} 🐍 {Globais Ilimitados dissipam a névoa} 🐍 {Dura 4 Turnos} 🐍 (Teleportes e teletransportes escapam).||3x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Intenção Assassina - Orochimaru</p>
+            <p>Rank: SS</p>
+            <p>Suplementar</p>
+            <p> </p>
+            <p>Ag p/ Uso: 100.000</p>
+            <p>|| Intenção Assassina é o simples ato de matar e ou exalar uma grande e imensa intensão de matar seus adversários, assim paralisando-os de medo ou até mesmo fazendo eles desmaiar. Orochimaru foi visto aplicando essa técnica até mesmo no Terceiro Hokage, assim conseguindo matá-lo. {Reduz em um o rank de velocidade do alvo} 🐍 {+100k Ag paralisa o adversário por 1 turno} 🐍 {esta técnica pode ser aplicada em diversos alvos ao mesmo tempo} 🐍 {Não existe forma de escapar desta técnica, somente resistir, e para isso o alvo deve ter um atributo de ataque mais alto que o do usuário}.||5x</p>
+            <p>Preço: 30.000.000</p>
+            <hr>
+            <p>Uwabami</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Global/Ilimitado/Selamento</p>
+            <p>Ck p/Uso: 1.000.000</p>
+            <p>[Necessário Modo Sannin]</p>
+            <p>|| Orochimaru utiliza sua "Formação De Dez Mil Cobras" em forma de um tsunami gigante, as cobras cobrem o oponente e todo o cenário. Após isso, algumas das cobras se juntam, formando uma cobra gigante que abocanha o oponente, e o leva para o alto, e em seguida parte em direção ao mar de cobras presente no chão. A grande cobra se choca com o chão, gerando um impacto e se desfazendo, ao mesmo tempo, as pequenas cobras começam a selar o adversário por um meio o qual o oponente sucumbe em meio a elas. {A parte em que surge a cobra gigante atinge apenas um alvo; o resto atinge todos os oponentes} 🐍 (Outra Dimensão Escapa).||2x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Daenroka</p>
+            <p>Rank: SS</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/Uso: 90.000</p>
+            <p>|| Orochimaru invoca cinco grandes cobras atrás de si, que ao seu comando partem para cima do oponente. As três primeiras cobras realizam ataques individuais, arremessando o alvo para cima enquanto as duas cobras restantes atacam o alvo em conjunto. {O ataque em conjunto das cobras causa dano 2x Ilimitado} 🐍 (Teletransportes escapam).||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Slithering Snakes</p>
+            <p>Rank: SS</p>
+            <p>Atk: 6xLetal</p>
+            <p>Ck p/Uso: 60.000</p>
+            <p>|| Orochimaru leva as mãos ao solo e duas cobras entrelaçadas saem dele, atacando ferozmente o oponente ou defendendo o usuário de aproximações inimigas. {Se utilizado em conjunto com modo sannin causa dano Ilimitado e incapacita o alvo por 1 turno} 🐍 (Teleportes e teletransportes rank 3 escapam).||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr id="parte-dois-marker">
+            <p>Mecha-Kurama</p>
+            <p>Rank: SSS</p>
+            <p>Atk: 27.000.000</p>
+            <p>Def: 27.000.000</p>
+            <p>Hp: 27.000.000</p>
+            <p>Ag: 27.000.000</p>
+            <p>Ck: 27.000.000</p>
+            <p>Ag p/Convocar: 400.000</p>
+            <p>|| Mecha-Kurama foi criado por Orochimaru com a finalidade de destruir Konohagakure. O corpo principal de Mecha-Kurama se parece com uma versão robótica de uma raposa. Ele é bastante grande e tem nove caudas feitas de chamas puras. {Só é afetado por globais+ ou incalculáveis} 🐍 {+500k Ag realiza ataques ilimitados/multi-direcionais utilizando seu corpo} 🐍 {Seus movimentos são no mínimo rank 3; Caso Mecha-Kurama seja destruída; mecha-naruto também é destruído} 🐍 {Pode usar os jutsus de sua loja}.|| 1x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Manda</p>
+            <p>Rank: SSS</p>
+            <p>Atk: 12.000.000</p>
+            <p>Def: 10.000.000</p>
+            <p>Hp: 16.000.000</p>
+            <p>Ag: 14.000.000</p>
+            <p>Ck: 8.000.000</p>
+            <p>Ck p/Invocar: 600.000</p>
+            <p>|| Manda é uma serpente colossal e extremamente agressiva, reconhecida como uma das maiores e mais poderosas invocações. Seu tamanho gigantesco permite dominar completamente o campo de batalha, esmagando estruturas e oponentes com facilidade enquanto se move com velocidade surpreendente para sua escala. Seus ataques são brutais, envolvendo investidas, mordidas letais e esmagamento contínuo, sendo capaz de atingir múltiplos alvos ao mesmo tempo apenas com seu corpo massivo. Além disso, sua resistência absurda reduz significativamente o impacto de ataques recebidos. 🐍 {Movimentos base considerados Rank 3; +900k de Ag permite executar ações a Rank 2} 🐍 {Reduz danos ilimitados para letal, suportando ataques massivos} 🐍 {Ataques possuem alcance amplo, podendo atingir múltiplos alvos próximos simultaneamente em uma área de 15m} 🐍 {Pode escavar o solo e se mover pelo subterrâneo, surgindo de forma surpresa para ataques que só podem ser defendidos com sensorial ativo}||1x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Cobra Gigante – Verde</p>
+            <p>Rank: SS</p>
+            <p>Atk: 9.000.000</p>
+            <p>Def: 7.500.000</p>
+            <p>Hp: 12.000.000</p>
+            <p>Ag: 11.000.000</p>
+            <p>Ck: 6.000.000</p>
+            <p>Ck p/Invocar: 400.000</p>
+            <p>|| Uma serpente colossal de coloração verde invocada por Orochimaru, utilizada tanto para defesa quanto para ofensiva em alta velocidade. Demonstrou capacidade de interceptar ataques diretamente no lugar do invocador sem sofrer danos aparentes, evidenciando sua alta resistência. Mesmo com seu grande tamanho, possui velocidade impressionante, sendo capaz de atacar de forma quase instantânea e eliminar alvos antes que reajam. Seus ataques envolvem investidas rápidas, mordidas letais e esmagamento em área. 🐍 {Movimentos base considerados Rank 2; +700k de Ag permite executar ações a Rank 1 por 3x} 🐍 {Ignora dano letal, mantendo alta resistência em combate} 🐍 {Ataques causam dano ilimitado e podem atingir múltiplos alvos próximos} 🐍 {Pode ser usada para interceptar ataques no lugar do invocador}||5x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Cobra de Três Cabeças</p>
+            <p>Rank: SS</p>
+            <p>Atk: 15.000.000</p>
+            <p>Def: 9.000.000</p>
+            <p>Hp: 12.000.000</p>
+            <p>Ag: 9.000.000</p>
+            <p>Ck: 5.000.000</p>
+            <p>Ck p/Invocar: 600.000</p>
+            <p>|| Uma invocação colossal composta por três cabeças independentes, com corpo massivo de coloração marrom coberto por padrões escuros. Seu tamanho gigantesco permite erguer-se acima de muralhas e grandes estruturas, dominando o campo de batalha com presença esmagadora. Cada cabeça possui autonomia total, podendo atacar simultaneamente com mordidas devastadoras, enquanto o corpo principal realiza investidas e esmagamentos em área. Quando coordenadas, as três cabeças executam ataques conjuntos extremamente destrutivos, capazes de romper defesas e causar impacto massivo em múltiplos alvos. 🐍 {Cobra possui 50 metros de comprimento total e até 20 metros de altura quando erguida} 🐍 {Movimentos base considerados Rank 4; +900k de Ag permite executar ações em Rank 3} 🐍 {Cada cabeça causa dano ilimitado individualmente} 🐍 {Ataque conjunto das três cabeças causa dano 3xilimitado, rompendo barreiras que não defendem Globais} 🐍 {Ataques atingem múltiplos alvos próximos simultaneamente}||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Cobra Gigante</p>
+            <p>Atk: 6.000.000</p>
+            <p>Def: 4.500.000</p>
+            <p>Hp: 8.000.000</p>
+            <p>Ag: 8.000.000</p>
+            <p>Ck: 2.000.000</p>
+            <p>Ck p/Invocar: 200.000</p>
+            <p>|| Uma Cobra de cor verde ou marrom invocada por Orochimaru, ela pode ser muito grande, sendo comparável a casas e prédios. {Tem seus movimentos no mínimo rank 4} 🐍 {+600k Ck invoca a cobra especial invés das comuns; Ela é maior que uma besta com cauda e foi capaz de receber ataques seguidos da quatro, uma, oito e nove caudas; Seus atributos são triplicados e somente Globais a afetam; Seus ataques causam dano ilimitado} 🐍 {Quando ataca causa dano letal e atinge múltiplos alvos quando agrupados}.||10x</p>
+            <hr>
+            <p>Cobras Menores de Orochimaru</p>
+            <p>Rank: C</p>
+            <p>Suplementar </p>
+            <p>Ck p/Invocae: 20.000</p>
+            <p>|| O usuário invoca ou manifesta diversas pequenas serpentes que se movem rapidamente pelo campo, podendo atacar em grupo ou servir como extensão sensorial e estratégica. As cobras podem morder, envenenar, envolver membros do alvo ou até serem usadas para distração e controle de espaço, dificultando a movimentação inimiga. 🐍 {Invoca várias cobras pequenas para ataques múltiplos, distração ou controle de área, cobras tem seu tamanho max de 3m} 🐍 {Podem aplicar veneno leve ao contato, causando enfraquecimento gradual — causando paralisia por um turno} 🐍 (Facilmente destruídas individualmente; eficácia baseada na quantidade).||60x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Formação De Dez Mil Cobras - Mundo Das Serpentes</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Global</p>
+            <p>Ck p/Uso: 500.000</p>
+            <p>Ck p/Turno: 700.000</p>
+            <p>||  Orochimaru cospe inúmeras cobras, cercando  alvos e atacando continuamente. 🐍 {As cobras causam dano Ilimitado Global por turno; Capacidade de voo ou Teletransportes rank 2 escapam} 🐍 {+100k Ck cria uma grande cobra que ataca o oponente, mesmo no ar, causando dano 2xIlimitado onde rank's 2 escapam} 🐍 {+300k Ck Orochimaru faz uma cobra de tamanho colossal surgir e atacar o oponente onde somente Teletransportes escapam, rompendo barreiras ilimitadas} 🐍 {+150k Ck pode fazer cobras que defendam Orochimaru de atks não Globais até o rank 2} 🐍 {+110k Ck cria um morro de cobras que se move a rank 3 de velocidade; Globais Dimensionais destroem todas as cobras} 🐍 {Orochimaru passa todo o tempo alimentando a técnica com novas serpentes; Caso ele pare e a técnica seja destruída ela não pode ser refeita normalmente, sendo necessário pagar 1kk de Ck para recriar o campo de cobras}.||4x</p>
+            <p>Preço: 500.000.000</p>
+            <hr>
+            <p>Técnica do Portador da Serpente Gigante</p>
+            <p>Rank: S</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck P/Uso: 150.000</p>
+            <p>|| Orochimaru se transforma em uma grande cobra que abocanha o oponente e vai em direção ao céu realizando movimentos espirais, ao chegar em certa altura, a cobra parte com o oponente em direção ao chão, se chocando com ele e explodindo em diversas cobras. {+50k Ck Orochimaru persegue o oponente até o abocanhar assim somente Teletransportes rank 4 escapam} 🐍 (Teleportes e Teletransportes Rank 4 Escapam).||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Técnica Proíbida - Um, Dois, Três</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/Uso: 600.000</p>
+            <p>|| Orochimaru invoca dois caixões, de onde saem o primeiro e segundo Hokage. {Tobirama ataca o oponente com três dragões de água e após o último ataque Hashirama faz raízes surgirem do solo imobilizando e quebrando os ossos de seu adversário} 🐍(Teletransportes rank 2 escapam) 🐍 {Se os reencarnados não estavam invocados antes eles retornam ao caixão e são mandados de volta para onde vieram}.||1x</p>
+            <p>Preço: 20.000.000</p>
+            <hr>
+            <p>Cobras Furiosas</p>
+            <p>Rank: SSS</p>
+            <p>Atk: Ilimitado</p>
+            <p>Ck p/Uso: 200.000</p>
+            <p>|| [Necessário Técnica de Transformação da Cobra] Orochimaru ataca o oponente com uma infinidade de cobras brancas que constituem seu corpo, finalizando com um golpe com sua espada de Kusanagi, que se origina a partir de sua boca. {Incapacita o alvo por dois turnos} 🐍 (Teleportes e Teletransportes rank 3 escapam).||3x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+            <p>Etiqueta de Selamento</p>
+            <p>Rank: SS</p>
+            <p>Atk: Selamento</p>
+            <p>Ag p/Uso: 70.000</p>
+            <p>|| Ao colocar uma etiqueta de selamento sobre um oponente ou objeto, um selo substancial é gerado que impede que o artigo em questão seja invocado ou aberto. {Ataques totalmente baseados em chakra destroem a etiqueta} 🐍 {Se utilizado em um oponente as marcas tomam seu corpo e o paralisam até que alguém retire o selo} 🐍 (Teleportes e Teletransportes Escapam).||5x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+            <p>Força Sobre-Humana</p>
+            <p>Rank: B</p>
+            <p>Suplementar</p>
+            <p>Ck p/uso: 50.000</p>
+            <p>|| O usuário concentra chakra em pontos específicos do corpo por um breve instante, liberando-o no momento exato do impacto para amplificar drasticamente sua força física. Essa técnica exige controle preciso e timing perfeito, permitindo que golpes simples causem destruição massiva, como quebrar defesas, abrir crateras no solo ou superar bloqueios físicos com facilidade. Pode ser aplicada em qualquer parte do corpo, tornando ataques corpo a corpo extremamente letais e imprevisíveis. 🐍 {Aumenta massivamente a força em golpes físicos, podendo quebrar defesas e causar grande destruição} 🐍 {Pode ser aplicado em socos, chutes ou até com um único dedo dobra o dano físico} 🐍 (Concede ao usuário a capacidade de realizar feitos físicos sobre-humanos, como destruir obstáculos com facilidade, executar grandes saltos e aplicar força muito além dos limites humanos).||2x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+        </div>
+    </main>
+
+    <script>
+    function copiarLojaParte(parte, btn) {
+        const container = document.querySelector('main .max-w-3xl');
+        if (!container) return;
+
+        const children = Array.from(container.children);
+        let resultado = [];
+        let jutsuAtual = [];
+        let passouPrimeiroHr = false;
+        let dentroDaParte = (parte === 1);
+
+        for (let el of children) {
+            // Interrompe se alcançar a seção de restrições
+            if (el.id === 'restricoes' || el.classList.contains('restricoes') || el.classList.contains('restricoes-container')) {
+                break;
+            }
+
+            // Marcador da Parte Dois
+            if (el.id === 'parte-dois-marker' || (el.tagName === 'P' && el.textContent.includes('Parte Dois'))) {
+                if (jutsuAtual.length > 0 && dentroDaParte) {
+                    resultado.push(jutsuAtual.join('\n'));
+                    jutsuAtual = [];
+                }
+                if (parte === 1) {
+                    break;
+                } else {
+                    dentroDaParte = true;
+                    continue;
+                }
+            }
+
+            if (el.tagName === 'HR') {
+                if (!passouPrimeiroHr) {
+                    passouPrimeiroHr = true;
+                    continue;
+                }
+                if (dentroDaParte && jutsuAtual.length > 0) {
+                    resultado.push(jutsuAtual.join('\n'));
+                    jutsuAtual = [];
+                }
+                continue;
+            }
+
+            if (!passouPrimeiroHr || !dentroDaParte) continue;
+
+            if (el.tagName === 'P') {
+                let texto = el.textContent.trim();
+                if (!texto) continue;
+
+                // Não para em bullets decorativos ou cabeçalhos
+                if (texto.includes('⠂') || texto.includes('•°•°•') || texto.includes('Parte Dois') || texto.includes('Parte Um')) {
+                    continue;
+                }
+
+                // Interrompe no início real das restrições
+                if (/restri[çc][õo]es/i.test(texto) || texto.startsWith('*》')) {
+                    break;
+                }
+
+                // Preço delimita o fim do jutsu
+                if (/^(preço|valor):/i.test(texto)) {
+                    if (jutsuAtual.length > 0) {
+                        resultado.push(jutsuAtual.join('\n'));
+                        jutsuAtual = [];
+                    }
+                    continue;
+                }
+
+                // Ignora descrições e observações/requisitos
+                if (
+                    texto.startsWith('|') || 
+                    texto.includes('||') || 
+                    texto.startsWith('⠂|') ||
+                    texto.startsWith('[') ||
+                    texto.startsWith('(') ||
+                    /^(obs|observa[çc][ãa]o|nota|requer|necessita):/i.test(texto)
+                ) {
+                    continue;
+                }
+
+                // Remove [ ], ( ), { }
+                texto = texto.replace(/\[.*?\]/g, '').replace(/\(.*?\)/g, '').replace(/\{.*?\}/g, '').trim();
+                texto = texto.replace(/\s{2,}/g, ' ');
+                if (!texto) continue;
+
+                jutsuAtual.push(texto);
+            }
+        }
+
+        if (jutsuAtual.length > 0 && dentroDaParte) {
+            resultado.push(jutsuAtual.join('\n'));
+        }
+
+        const textoFinal = resultado.join('\n\n');
+        const original = btn.innerHTML;
+
+        function aposCopiar() {
+            btn.innerHTML = '✅ Copiado!';
+            setTimeout(() => { btn.innerHTML = original; }, 2000);
+        }
+
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(textoFinal).then(aposCopiar).catch(() => {
+                fallbackCopiarTexto(textoFinal, aposCopiar);
+            });
+        } else {
+            fallbackCopiarTexto(textoFinal, aposCopiar);
+        }
+    }
+
+    function fallbackCopiarTexto(texto, cb) {
+        const ta = document.createElement('textarea');
+        ta.value = texto;
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.select();
+        try { document.execCommand('copy'); } catch(e){}
+        document.body.removeChild(ta);
+        if (cb) cb();
+    }
+    </script>
+</body>
+</html>
