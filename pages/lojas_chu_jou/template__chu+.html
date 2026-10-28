@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 1. Altere o título da página -->
+    <title>[NOME DO PERSONAGEM] - Naruto RPG STAR</title>
+    <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg">
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar (Injetada automaticamente) -->
+    <script src="assets/navbar.js"></script>
+    <!-- fim NavBar -->
+
+    <main class="p-8 bg-[url(assets/images/vale_do_fim.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center">
+        <!-- Container Principal: todos os <p> e <hr> devem ser filhos diretos dele para manter o espaçamento (gap-7) -->
+        <div class="bg-base-100 rounded-xl p-6 mt-40 max-w-3xl mx-auto shadow-lg flex flex-col gap-7">
+            
+            <!-- 2. Título principal (ajuste a cor se quiser: text-blue-500, text-red-500, text-purple-500, etc.) -->
+            <h1 class="text-xl font-bold text-blue-500 text-center mb-2">[NOME DO PERSONAGEM]</h1>
+            
+            <!-- 3. Subtítulo (O navbar.js reconhece 'Loja de' e cria o botão 'Copiar loja' automaticamente) -->
+            <h2 class="text-base font-semibold text-center text-base-content/60 mb-6">Loja de [NOME DO PERSONAGEM]</h2>
+            <div class="divider"></div>
+
+            <!-- (Opcional) Aviso se as restrições foram perdidas:
+            <div class="alert alert-warning shadow-md rounded-xl flex gap-2 items-start">
+                <span class="text-xl">⚠️</span>
+                <div>
+                    <p class="font-bold">Loja não segura para uso no momento.</p>
+                    <p class="text-sm">Restrições Chunnin perdidas.</p>
+                </div>
+            </div>
+            -->
+
+            <!-- 4. Lore / Biografia do personagem -->
+            <p>[Nome do Personagem] é um ninja da aldeia de... (insira aqui a biografia/apresentação inicial do personagem).</p>
+            <hr>
+
+            <!-- 5. JUTSUS E HABILIDADES (Cole seus jutsus aqui, separando cada técnica com <hr>) -->
+
+            <!-- Exemplo de Jutsu 1 -->
+            <p>Nome do Jutsu Um</p>
+            <p>Rank: A</p>
+            <p>Atk: 1.000.000</p>
+            <p>Ck p/Uso: 50.000</p>
+            <p>|| Descrição da técnica com seus efeitos entre barras. {Efeitos adicionais} (Escapes).|| 3x</p>
+            <p>Preço: 5.000.000</p>
+            <hr>
+
+            <!-- Exemplo de Jutsu 2 -->
+            <p>Nome do Jutsu Dois</p>
+            <p>Rank: S</p>
+            <p>Suplementar</p>
+            <p>Ck p/Uso: 70.000</p>
+            <p>|| Descrição detalhada da técnica...|| 2x</p>
+            <p>Preço: 10.000.000</p>
+            <hr>
+
+            <!-- 6. Seção de Restrições Chunnins (mantenha a div id="restricoes" para não ser copiada no botão) -->
+            <div id="restricoes" class="restricoes mt-4 p-4 rounded-xl bg-base-200/50 border border-base-300 flex flex-col gap-2">
+                <p class="font-bold text-red-500 mb-1">*》Restrições Chunnins:*</p>
+                <p>• Jutsu Restrito 1</p>
+                <p>• Jutsu Restrito 2</p>
+            </div>
+
+        </div>
+    </main>
+</body>
+</html>
