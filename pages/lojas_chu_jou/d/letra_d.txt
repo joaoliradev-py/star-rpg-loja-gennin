@@ -1,0 +1,15 @@
+Daemon (ダイモン, Daimon) é um ciborgue que foi criado por Amado, é membro da nova Kara de Code, além de irmão mais novo de Ada.
+••••••••••••••••••••••••••••••••••••••••
+Reflexão
+Rank: SSS
+Suplementar
+Ck por Turno: 300.000
+|| A principal habilidade de Daemon é o efeito de refletir a “intenção de matar” do ataque do oponente de volta para ele antes mesmo que ocorra, resultando na consequência sobre o próprio atacante. Quanto mais forte for a intenção assassina e vontade de ferir Daemon, mais poderosa é a reação. {Ao ativar, consegue refletir quaisquer tipo de dano que seria causado a si mesmo, 2x mais forte que o ataque original} • {Essa habilidade não reflete coisas na qual Daemon não seja o alvo} • (Em uso, se torna inescapável).||1x
+Preço: 100.000.000
+••••••••••••••••••••••••••••••••••••••••
+Técnica de Cintilação Corporal
+Rank: D
+Suplementar
+Ck p/Uso: 25.000
+|| É uma técnica básica de movimento em alta velocidade, permitindo que um ninja mova-se de uma curta para uma longa distância a uma velocidade quase indetectável. {+30k de ck para ir a um local em curto alcance; +70k de ck para ir a um local a média distância e +100k de ck para ir a um local a longa distância} • {Ela é realizada usando chakra para vitalizar temporariamente o corpo e se mover em velocidades extremas e escapar de atks até o Rank 1}.||7x
+Preço: 75.000.000
