@@ -286,7 +286,5 @@ Preço: 35.000.000
 Upo A pra SSS
 Preço: 2.100.000
 
-RG: 8.812.500.000 Ryos
-• Total em Jutsus: 8.755.000.000 Ryos
-• Total em Ups p/ SSS: 57.500.000 Ryos
-RR: [Insira seu saldo inicial - RG]
+RG: 8.812.500.000 
+RR: 

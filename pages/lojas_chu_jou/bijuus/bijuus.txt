@@ -1,19 +1,11 @@
-Kurama 
+Gyuki 
 Rank: SSS 
-Atk: 450.000.000 Def: Ilimitada Hp: Ilimitado Ag: 450.000.000 Ck: 450.000.000 Ck p/Transformar: 1.000.000 Ck p/Invocar: 1.000.000 
-|| Kurama (九尾, Kyūbi ) , mais conhecido como a Raposa de Nove Caudas , é uma das nove bestas com cauda . Séculos sendo considerado um
-monstro irracional e procurado como arma de guerra fizeram com que Kurama desenvolvesse ódio pelos humanos. Após ser selado em Naruto
-Uzumaki , Kurama tenta manter sua visão cínica do mundo, mas com a insistência de Naruto em tratá-lo com respeito, a raposa supera seu
-ódio e se esforça para usar seu poder pela salvação do mundo. { Se move a rank 3; Só é afetada por Selamentos de escala Global ou que selam
-qualquer coisa, sofre dano apenas por 5 Globais/Ilimitado ou Global/Incalculável e quando ataca não pode Kawarimi, evasão, absorção,
-assimilação e trocas.} 🦊 ( +100k de Ag pode se mover, golpear com as patas ou caudas a rank 1, 3x. – Causa dano equivalente ao “Atk”. ).|| 1x 
-Balanço Destrutivo 
-Rank: S 
-Atk: Ilimitado/Multi-Direcional 
-Ag p/Uso: 450.000 
-|| Kurama bate a pata no solo para criar grande explosão, de modo a atacar ou se defender de seu inimigo. O impacto causado foi forte o
-suficiente para dizimar completamente a Formação das Dez Mil Serpentes de Orochimaru. { Dizima alvos acertados, o impacto joga alvos
-longe. }🦊 ( Considerado rank 3. ).|| 3x 
+Atk: 450.000.000 Def: 450.000.000 Hp: Ilimitado Ag: 450.000.000 Ck: 450.000.000 Ck p/Transformar: 1.000.000 Ck p/Invocar: 1.000.000 
+|| Gyuuki (牛鬼), mais conhecido como Oito-Caudas (八尾, Hachibi), é uma das nove Bijuu. Ele está em posse de Kumogakure por décadas,
+tendo sido selado em muitos jinchuuriki. O mais recente, e o primeiro a ter algum sucesso em cooperar com ele, é Killer B. Gyuuki é
+caracterizado como um indivíduo difícil e sério. Ele usa “ore” (オレ) quando se refere a si mesmo, e muitas vezes fala em um dialeto um pouco
+rude. { Se move e reage a rank 3; Só é afetado por 3 atks de escala globais, globais massivos contínuos, selamentos que selam qualquer coisa e
+selamentos globais.} 🐙 { +1kk de Ag p/se mover a rank 2 ou golpear com a cauda no mesmo rank, 3x.}.|| 1x 
 Bijuu Dama 
 Rank: SS 
 Atk: Ilimitado/Semi-Global 
@@ -24,30 +16,14 @@ que se compacta em uma esfera maciça frente à boca da Bijuu. Uma vez que a esf
 alvo, um processo que Gyuuki compara a vomitar. A Bomba Bijuu é extremamente densa, visto que mesmo suspensa no ar, ela provoca uma
 cratera sob seu usuário devido ao peso extremo. Mesmo assim, ela se move a uma velocidade elevadíssima uma vez que tenha sido disparada,
 podendo cruzar vários quilômetros em segundos. { Demora 1 turno para carregar; Ao colidir, libera uma explosão de escala Global com dano
-Ilimitado; Aqueles atingidos em cheio ficarão incapazes de se mover por 2 turnos caso sobrevivam.} 🦊 ( Considerado rank 2. ).|| 3x 
-Bijuu Dama em Série 
+Ilimitado; Aqueles atingidos em cheio ficarão incapazes de se mover por 2 turnos caso sobrevivam.} 🐙 ( Considerado rank 2. ).|| 3x 
+Feixe Bijuu 
 Rank: S 
 Atk: Ilimitado 
-Ck p/Uso: 200.000 
-|| (連続尾獣玉, Renzoku Bijuudama; Panini: “Bijuudama em Série”) — Pode ser usada pelas Bijuu, ou pelos jinchuuriki que dominaram a
-Transformação em Bijuu com maestria. Consiste em disparar múltiplas Bombas Bijuu em rápida sucessão parar bombardear um alvo. Uma vez
-que a etapa de compactação da esfera é pulada, a velocidade de produção e disparo são elevadas. ( Apenas Teletransportes ou 5x de Teleportes
-seguidos a Rank 1 ou acima escapam.).|| 4x 
-Bijuu Dama: Onda Feroz 
-Rank: SS 
-Atk: Ilimitado 
-Ck p/Uso: 500.000 
-|| (尾獣玉・激吼波, Bijuudama: Gekiha) — Após reunir os chakras nas proporções adequadas, Kurama forma uma Bomba Bijuu e a engole,
-dentro de seu corpo a esfera dilata e toda a energia é liberada subitamente ao abrir sua boca, como um canhão de chakra. Enquanto
-controlava Naruto em sua forma de quatro caudas, Kurama foi capaz de destruir o Rashōmon Triplo com essa variante, que ainda teve poder o
-suficiente para lançar Orochimaru longe com a onda de choque residual. { Rompe barreiras até mesmo as Globais; Ao colidir, libera uma onda
-de choque jogando qualquer atingido a longo alcance.}🦊 ( Considerado rank 2. ).|| 3x 
-Viga da Besta com Cauda 
-Rank: S 
-Atk: Ilimitado 
-Ck p/Uso: 90.000|| É uma técnica utilizada pelas Bestas com Caudas, em que elas acumulam chakra em sua boca e disparam em um fino e potente feixe de
-energia, capaz de cortar até mesmo através de rochas com grande facilidade. { Rompe barreiras exceto as globais.} 🦊 ( Teleporte e
-Teletransportes Rank 3 Escapam.).|| 5x 
+Ck p/Uso: 70.000 
+|| É uma técnica utilizada pelas Bijuu, em que elas acumulam chakra em sua boca e disparam em um fino e potente feixe de energia, capaz de
+cortar até mesmo através de rochas com grande facilidade, parecendo funcionar como um laser extremamente potente. { Rompe barreiras
+exceto as globais.} 🐙 ( Teleporte e Teletransportes Rank 3 Escapam.).|| 5x 
 Carga Brutal das Bestas com Cauda 
 Rank: SS 
 Atk: Incalculável 
@@ -61,58 +37,47 @@ Grande Rugido
 Atk: Ilimitado/Global 
 Ck p/Uso: 350.000 
 || O Grande Rugido é quando uma Bijuu usa sua enorme reserva de chakra e transforma qualquer coisa a partir de um rugido ou uma onda
-em uma poderosa força de pressão e destruição. { Devolve quaisquer jutsus até o Rank 3.} 🦊 ( Teletransportes Rank’s 3 escapam. ).|| 3x 
-Orbes de Roda do Nove - Caudas 
-Rank: SS 
-Atk: Ilimitado/Suplementar 
-Ck p/uso: 450.000 
-|| O Nove - Caudas cria orbes de chakra preto e vermelho que giram em torno de seu corpo e danifica qualquer um que lhe toca. Os orbes
-depois se espalham pelo local, enquanto continuam a girar mais rápido até desaparecerem. { Se espalham em até 15 metros em locais
-aleatórios; Mata qualquer um que tentar atacar de curto alcance com Rank abaixo de 3.} 🦊 ( Dos Atks singulares: Teleportes e Teletransportes
-Rank 3 ou acima com Sensorial ativo antes escapam).|| 3x 
-Braços de Chakra da Besta com Cauda 
-Rank: SSS 
-Atk/Def: Ilimitado 
-Ck p/Uso: 100.000 
-|| Trata-se de uma habilidade que um jinchūriki é capaz de realizar, quando em sua forma de besta com cauda. O jinchūriki usa o chakra bruto
-da sua Besta com Cauda para criar braços de forma que ele pode manipular livremente para atacar seus inimigos e para auxiliar na
-performance de técnicas, além de ser capaz de atacar um adversário mais rápido do que um usuário do Sharingan possa reagir. { Pode usar as
-mãos p/auxiliar em técnicas. } 🦊 ( Apenas Teletransportes e Teleportes rank 3 escapam. ).|| 9x 
-Sensoriamento Negativo 
+em uma poderosa força de pressão e destruição. { Devolve quaisquer jutsus até o Rank 3.} 🐙 ( Teletransportes Rank’s 3 escapam. ).|| 3x 
+Bijuu Dama em Série 
 Rank: S 
-Sensorial 
-Ck p/Ativar: 70.000 
-|| É uma técnica sensorial exclusiva para Kurama e seus jinchūriki. Usando esta técnica, o usuário é capaz de detectar as emoções negativas,
-como ódio, de qualquer indivíduo em torno deles. { Previne Atks baseados em ódio.}|| 1x 
-Poder do Nove-Caudas 
-Rank: SS 
-Atk: Ilimitado/Multi-Direcional 
-Ck p/Uso: 100.000 
-|| Kurama é capaz de disparar um grande fluxo de chamas através de sua boca. As chamas tem poder suficiente para quebrar pedras
-enormes, e até mesmo causar danos ao Chibaku Tensei de Nagato. { Caso esteja sobre efeito do Chibaku Tensei, permite quebra - lo.} 🦊 (
-Apenas Teleportes e Teletransportes rank 2 escapam. ).|| 3x 
-Tornado ViolentoRank: SSS 
-Atk: Semi-Global/Ilimitado 
-Ck p/Uso: 300.000 
-//Com o movimento de suas mãos, o usuário desencadeia um poderoso vendaval que toma a forma de um tornado que avança em direção ao
-seu alvo, podendo causar danos maciços à área.{ Rebate atks até o rank 3 e joga alvos longe do usuário. } 🦊 ( Apenas Teletransportes Rank’s 3
-escapam. ).|| 3x 
-Transferência de Chakra (Variação Kurama) 
-Rank: S 
-Atk:+5.000.000 
-Def:+5.000.000 
-Hp:+5.000.000 
-Ag:+5.000.000 
-Ck:+5.000.000 
-Ck p/Uso: 1.000.000 
-|| Essa técnica foi originalmente criada por Hagoromo Ōtsutsuki, a fim de “ligar” as energias espirituais de cada pessoa viva. Sua intenção era
-para que pudesse ser usada para construir e manter a paz através de sua religião de ninshū, mas esta técnica acabou se tornando mais uma
-ferramenta para a guerra, quando a humanidade armou o chakra. Essa técnica é utilizada por muitos shinobi, cada um deles mostrando uma
-maneira diferente de uso. ( Nada Pode impedi esse jutsu).|| 12x 
-Técnica Sensorial 
+Atk: Ilimitado 
+Ck p/Uso: 200.000 
+|| (連続尾獣玉, Renzoku Bijuudama; Panini: “Bijuudama em Série”) — Pode ser usada pelas Bijuu, ou pelos jinchuuriki que dominaram a
+Transformação em Bijuu com maestria. Consiste em disparar múltiplas Bombas Bijuu em rápida sucessão parar bombardear um alvo. Uma vez
+que a etapa de compactação da esfera é pulada, a velocidade de produção e disparo são elevadas. ( Apenas Teletransportes ou 5x de Teleportes
+seguidos a Rank 1 ou acima escapam.).|| 4xTinta Preta 
 Rank: A 
-Def: Sensorial 
-Ck p/Ativar: 5.000 
-|| A Técnica Sensorial é um tansakujutsu que permite ao usuário sentir a presença de chakra nos arredores, a fim de facilmente detectar e
-rastrear alvos a partir dele, podendo até mesmo distinguir chakras semelhantes por parentesco ou vila. { Pode identificar chakra dentre a
-dimensão atual e distinguir de usuário pra usuário.}.|| 1
+Suplementar 
+Ck p/Uso: 175.000 
+|| A Tinta Preta é uma habilidade inata utilizada por Gyuuki e seus jinchuuriki, embora outras pessoas ainda possam replicá-la. O usuário é
+capaz de formar tinta em sua boca, que pode ser usada para várias finalidades, como cobrir seu dedo de tinta para usar com um lápis
+improvisado ou para cegar seu adversário. A tinta pode ser expelida na forma líquida, como visto quando Killer B usou esta técnica para cobrir
+toda a prisão de água de Kisame com tinta para fim de cega-lo, ou na forma de uma densa fumaça, que esconde seus movimentos e permite
+fugir despercebido. A tinta também pode ser moldada numa forma mais sólida para criar clones ou confeccionar caracteres, no anime. { Pode
+expelir tinta líquida para cegar e cobrir alvos ou uma área de 15m a curto alcance do usuário; Ao converter em uma névoa densa, oculta
+completamente os movimentos e atrapalha dojutsus, sendo possível localizar apenas por sensorial negativo ou Byakugan; Ao custo de +100k
+de Ck, pode ampliar a área em escala Semi–Global; Ao custo de +70k de Ck, pode solidificar a tinta para criar superfícies ou objetos com
+resistência equivalente á Ilimitado.} 🐙 ( É considerado rank 2.).|| 10x 
+Gyuuki: Bomba Bijuu 
+Rank: SS 
+Atk: Ilimitado 
+Ck p/Uso: 675.000 
+|| (牛鬼・尾獣玉, Gyuuki: Bijuudama) — Em anime e em game, a Bomba Bijuu produzida por Killer B enquanto transformado em Gyuuki é
+imbuída com Tinta Preta, conferindo à esfera uma consistência líquida e aparência escura. Embora não esteja claro como a tinta afeta em seu
+poder, esta Bomba Bijuu é disparada como uma potente onda de energia. { É lançada obrigatoriamente no próximo turno; Ao colidir com algo,
+libera uma nuvem de tinta preta em escala global aplicando o mesmo efeito; Alvos acertados ficam sem se mover por 1 turno.} 🐙 (
+Considerado Rank 3. ).|| 2x 
+Grande Martelo de Ferro 
+Rank: A 
+Atk: Variável 
+Ck p/Uso: 40.000 
+|| Enquanto controla o poder de sua Bijuu, o jinchuuriki manifesta dois grandes braços criados a partir de si, seja um par de Mãos de Chakra
+ou manifestando os braços físicos da besta, que ele une e golpeia seu oponente com um movimento descendente. { Causa dano equivalente ao
+“Atk” da Biju.} 🐙 ( Considerado rank 4.).|| 4x 
+Relâmpago 
+Rank: SS 
+Atk: Ilimitado 
+Ck p/Uso: 240.000 
+|| Uma versão menor da Bomba Bijuu que é infundida com chakra raio que o usuário em forma de besta, ou a própria besta pode usar para
+atravessar as defesas de seu alvo e causar grandes danos. Ao contrário da Bomba Bijuu original, essa técnica não requer tempo para ser
+formada. { Alvos acertados são paralisados por 2 turnos.} 🐙 ( Considerado Rank 1.).|| 3
