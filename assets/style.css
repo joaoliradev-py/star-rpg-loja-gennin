@@ -79,4 +79,180 @@
     font-weight: 700;
 }
 
+/* ========================================================
+   CARDS DE BIJUUS (EDIÇÃO ESPECIAL / CARTA RARA DOURADA)
+   ======================================================== */
+
+.bijuu-card {
+    position: relative;
+    background: linear-gradient(135deg, #bf953f 0%, #fcf6ba 25%, #b38728 50%, #fbf5b7 75%, #aa771c 100%) !important;
+    border: 2px solid #ffd700 !important;
+    box-shadow: 0 4px 15px rgba(212, 175, 55, 0.4), inset 0 0 12px rgba(255, 255, 255, 0.5) !important;
+    transition: all 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    overflow: hidden;
+}
+
+/* Efeito de brilho reflexivo metálico que passa pelo card */
+.bijuu-card::after {
+    content: '';
+    position: absolute;
+    top: -60%;
+    left: -60%;
+    width: 220%;
+    height: 220%;
+    background: linear-gradient(60deg, transparent 40%, rgba(255, 255, 255, 0.45) 50%, transparent 60%);
+    transform: rotate(25deg) translateY(-100%);
+    transition: transform 0.7s ease-in-out;
+    pointer-events: none;
+    z-index: 10;
+}
+
+.bijuu-card:hover::after {
+    transform: rotate(25deg) translateY(100%);
+}
+
+.bijuu-card:hover {
+    transform: translateY(-8px) scale(1.02);
+    border-color: #fff6a8 !important;
+    box-shadow: 0 16px 30px -4px rgba(184, 134, 11, 0.6), 0 0 20px rgba(255, 215, 0, 0.6), inset 0 0 15px rgba(255, 255, 255, 0.8) !important;
+}
+
+/* Moldura interna da imagem da Bijuu */
+.bijuu-card .char-img-container {
+    background: radial-gradient(circle at center, rgba(255, 255, 255, 0.3) 0%, rgba(138, 92, 10, 0.35) 100%), #1c1507;
+    border-bottom: 2px solid rgba(180, 130, 20, 0.5);
+}
+
+.bijuu-card .char-img {
+    filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.45));
+    transition: all 0.3s ease;
+}
+
+.bijuu-card:has(button:disabled) .char-img,
+.bijuu-card:has(button[disabled]) .char-img {
+    filter: grayscale(35%) drop-shadow(0 4px 6px rgba(0, 0, 0, 0.45));
+    opacity: 0.92;
+}
+
+.bijuu-card:has(button:disabled):hover .char-img,
+.bijuu-card:has(button[disabled]):hover .char-img {
+    filter: grayscale(0%) drop-shadow(0 6px 10px rgba(0, 0, 0, 0.6));
+    opacity: 1;
+}
+
+/* Nome do Personagem em alto contraste sobre o dourado */
+.bijuu-card .char-name {
+    color: #261601 !important;
+    font-weight: 900 !important;
+    letter-spacing: 0.5px;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.8);
+}
+
+/* Botão Ativo ("Ver Loja") - Preto Ônix com Borda Dourada e Glow */
+.bijuu-card a.btn {
+    background: linear-gradient(180deg, #1c1917 0%, #0c0a09 100%) !important;
+    color: #fbbf24 !important;
+    border: 1px solid #f59e0b !important;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.6), 0 0 10px rgba(245, 158, 11, 0.4) !important;
+    font-weight: 900 !important;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: all 0.25s ease;
+}
+
+.bijuu-card a.btn:hover {
+    background: #000000 !important;
+    color: #fef08a !important;
+    border-color: #fde047 !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.7), 0 0 16px rgba(250, 204, 21, 0.7) !important;
+    transform: scale(1.03);
+}
+
+/* Botão Desabilitado ("Em Breve") - Chumbo/Grafite metálico de alto contraste */
+.bijuu-card button:disabled,
+.bijuu-card button[disabled] {
+    background: linear-gradient(180deg, #27272a 0%, #18181b 100%) !important;
+    color: #d4d4d8 !important;
+    border: 1px solid #52525b !important;
+    opacity: 0.95 !important;
+    cursor: not-allowed !important;
+    font-weight: 800 !important;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5) !important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8) !important;
+}
+
+/* ========================================================
+   BIJUUS SELADAS (ASPECTO DE ROCHA / MONUMENTO SAGRADO ANTIGO)
+   ======================================================== */
+
+.bijuu-sealed {
+    position: relative;
+    /* Fundo de rocha ancestral / monólito de pedra sagrada */
+    background: linear-gradient(145deg, #2a2d34 0%, #1e2025 40%, #18191d 70%, #2e323b 100%) !important;
+    border: 2px solid #4a5260 !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6), inset 0 0 15px rgba(0, 0, 0, 0.8), inset 0 1px 1px rgba(255, 255, 255, 0.1) !important;
+    transition: all 0.4s ease;
+    overflow: hidden;
+}
+
+/* Textura sutil de pedra/rocha sagrada */
+.bijuu-sealed::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: 
+        radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.04) 0%, transparent 50%),
+        radial-gradient(circle at 70% 80%, rgba(0, 0, 0, 0.45) 0%, transparent 60%);
+    pointer-events: none;
+}
+
+/* Moldura interna da imagem: Gruta/Santuário ancestral de pedra */
+.bijuu-sealed .char-img-container {
+    background: radial-gradient(circle at center, #262930 0%, #121316 100%) !important;
+    border-bottom: 2px solid #383e4a;
+    position: relative;
+}
+
+/* A Bijuu petrificada / selada na rocha */
+.bijuu-sealed .char-img {
+    filter: grayscale(100%) brightness(0.72) contrast(1.2) drop-shadow(0 2px 5px rgba(0, 0, 0, 0.95)) !important;
+    opacity: 0.72;
+    transition: all 0.4s ease;
+}
+
+/* Ao passar o mouse: efeito de despertar do selo ancestral da rocha */
+.bijuu-sealed:hover {
+    transform: translateY(-6px);
+    border-color: #717d94 !important;
+    box-shadow: 0 12px 24px -4px rgba(0, 0, 0, 0.8), 0 0 16px rgba(148, 163, 184, 0.25), inset 0 0 12px rgba(0, 0, 0, 0.9) !important;
+}
+
+.bijuu-sealed:hover .char-img {
+    filter: grayscale(50%) brightness(0.9) contrast(1.15) drop-shadow(0 4px 8px rgba(0, 0, 0, 0.85)) !important;
+    opacity: 0.9;
+}
+
+/* Nome gravado na rocha (efeito entalhado / baixo-relevo sagrado) */
+.bijuu-sealed .char-name {
+    color: #cbd5e1 !important;
+    font-weight: 800 !important;
+    letter-spacing: 0.8px;
+    font-size: 11px;
+    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.95), 0 1px 1px rgba(255, 255, 255, 0.15);
+}
+
+/* Botão de Selo / Em Breve em pedra sagrada entalhada */
+.bijuu-sealed button:disabled,
+.bijuu-sealed button[disabled] {
+    background: linear-gradient(180deg, #1f232b 0%, #14171d 100%) !important;
+    color: #94a3b8 !important;
+    border: 1px solid #3b4352 !important;
+    box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.05), 0 2px 4px rgba(0, 0, 0, 0.6) !important;
+    font-weight: 800 !important;
+    letter-spacing: 0.5px;
+    text-shadow: 0 1px 2px #000 !important;
+}
+
+
+
 
