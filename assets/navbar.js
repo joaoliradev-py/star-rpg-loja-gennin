@@ -441,8 +441,8 @@
                 let texto = el.textContent.trim();
                 if (!texto) continue;
 
-                // Interrompe imediatamente se encontrar início de restrições
-                if (/restri[çc][õo]es/i.test(texto) || texto.startsWith('*》') || texto.startsWith('•')) {
+                // Interrompe se encontrar título ou cabeçalho explícito de restrições
+                if (/^(\*?》?\s*)?restri[çc][õo]es/i.test(texto) || texto.startsWith('*》')) {
                     break;
                 }
 
