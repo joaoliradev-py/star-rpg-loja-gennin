@@ -40,12 +40,6 @@ Preço: 55.000.000
 Upo SS pra SSS
 Preço: 950.000
 
-Rasengan Final Supremo
-Preço: 180.000.000
-
-Verdadeiro: Rasengan Final Supremo
-Preço: 500.000.000
-
 Kunai do Deus Voador do Trovão
 Preço: 100.000.000
 
@@ -64,12 +58,6 @@ Preço: 450.000.000
 Upo S pra SSS
 Preço: 1.650.000
 
-Deus Voador do Trovão: Segundo Passo
-Preço: 220.000.000
-
-Upo S pra SSS
-Preço: 1.650.000
-
 Deus Voador do Trovão: Trovão Guiado
 Preço: 300.000.000
 
@@ -82,22 +70,7 @@ Preço: 120.000.000
 Upo S pra SSS
 Preço: 1.650.000
 
-Relâmpago Dourado
-Preço: 220.000.000
-
-Upo SS pra SSS
-Preço: 950.000
-
-Terceira Forma da Dança do Super-Rugido de Lampejo em Espiral Estágio Três
-Preço: 260.000.000
-
-Upo S pra SSS
-Preço: 1.650.000
-
-Deus Voador do Trovão: Flash Furacão do Espaço-Tempo Etapas Sequenciais: Estilo Zero
-Preço: 450.000.000
-
-Técnica dos Clones das Sombras
+Deus Voador do Trovão Rotativo
 Preço: 120.000.000
 
 Upo SS pra SSS
@@ -112,12 +85,6 @@ Preço: 1.650.000
 Modo de Chakra do Nove-Caudas
 Preço: 300.000.000
 
-Teletransporte Dourado
-Preço: 300.000.000
-
-Upo S pra SSS
-Preço: 1.650.000
-
 Rasengan da Raposa Demoníaca
 Preço: 95.000.000
 
@@ -129,30 +96,6 @@ Preço: 250.000.000
 
 Braços de Chakra da Besta com Cauda
 Preço: 120.000.000
-
-Corte de Ar Celestial Tipo Zero
-Preço: 300.000.000
-
-Combo da Besta com Cauda
-Preço: 250.000.000
-
-Upo SS pra SSS
-Preço: 950.000
-
-Modo de Chakra da Besta com Cauda
-Preço: 350.000.000
-
-Bijū Dama
-Preço: 180.000.000
-
-Bijū Dama Instantânea
-Preço: 160.000.000
-
-Upo SS pra SSS
-Preço: 950.000
-
-Rasengan do Pai com Filho
-Preço: 280.000.000
 
 Modo Sábio
 Preço: 140.000.000
@@ -171,9 +114,6 @@ Preço: 90.000.000
 
 Upo S pra SSS
 Preço: 1.650.000
-
-Quatro Formações Vermelhas Yang
-Preço: 150.000.000
 
 Selo Consumidor do Demônio Morto
 Preço: 180.000.000
@@ -241,9 +181,6 @@ Preço: 80.000.000
 Upo S pra SSS
 Preço: 1.650.000
 
-Konoha: Milhares de Mãos de Hokage Verdadeiras
-Preço: 160.000.000
-
 Jutsus de Games
 Preço: 180.000.000
 
@@ -286,5 +223,5 @@ Preço: 35.000.000
 Upo A pra SSS
 Preço: 2.100.000
 
-RG: 8.812.500.000 
+RG: 4.844.700.000
 RR: 
