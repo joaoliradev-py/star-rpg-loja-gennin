@@ -82,6 +82,7 @@ Usar **exatamente** o template abaixo como base:
 ## 2. Regras de Conteúdo
 
 - **Conteúdo 100% fiel**: manter texto, emojis (📜🦋 etc.), valores e formatação exatamente como fornecido pelo usuário.
+- **Atributos e custos individuais**: cada atributo (`Atk:`, `Def:`, `Hp:`, `Ag:`, `Ck:`) e cada custo (`Ck p/uso:`, `Ck p/ativar:`, `Ag p/uso:` etc.) deve ter **sua própria tag `<p>` exclusiva**, nunca compartilhando o mesmo parágrafo.
 - Todos os `<p>` e `<hr>` devem ser **filhos diretos** do container principal para respeitar o `gap-7`.
 - O botão **"Copiar loja"** é injetado automaticamente pelo `navbar.js` quando detecta `"Loja de"` no `<h2>` — não adicionar manualmente.
 - O bloco `alert alert-warning` é **opcional**: só incluir (descomentado) quando as restrições foram perdidas.

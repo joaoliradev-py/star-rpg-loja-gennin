@@ -1,163 +1,419 @@
-Haku (白, Haku) foi um morador do País da Água, e um membro do Clã Yuki. Mais tarde, ele se tornou um shinobi de Kirigakure após encontrar Zabuza Momochi. Ele também tinha a capacidade de combinar os elementos água e vento para formar sua kekkei genkai de Liberação de Gelo, que pertencia ao seu clã.
-••••••••••••••••••••••••••••••••••••••••
-Estilo Gelo
-Rank: SS
-Suplementar
-Ck p/ativar: 100.000
-|| (氷遁, Hyōton) é a kekkei genkai de natureza avançada do clã Yuki, e permite que os usuários combinem o chakra à base de vento e água para criar e manipular gelo, formando-o em várias estruturas, resistentes a fogo. Além disso, qualquer água por perto é uma vantagem, já que o usuário pode simplesmente congelar a água para criar gelo.☃️{Ck p/manipulação = 100k; Usando o estilo gelo é possível criar armas com dano letal ou defesas de gelo para defender ataques ilimitados; Feitos globais custam +600k de ck; Multi-direcionais custam +420k de ck; Manipulação de gelo é considerada rank 2; Criações pequenas, como armas e agulhas, podem ser formadas a rank 1}.|| 1x
-[O uso varia da criatividade do usuário]
-Preço: 100.000.000
-••••••••••••••••••••••••••••••••••••••••
-Senbon
-Rank: B
-Atk: Letal
-Ag p/senbon: 4.000
-|| As Senbon são agulhas de metal com uma ponta em cada extremidade. Muitas vezes usadas em finalidades médicas, para atacar pontos de acupuntura. Apesar de serem pouco usadas para matar, um usuário com conhecimentos médicos adequados pode usá-las no campo de batalha para incapacitar ou até matar o alvo. {Necessário atingir o alvo 8x para incapacitar, ou 12x para matar; Ao custo de +8k de ag, Haku empunha mais 2 senbons como uma espécie de garra, usando-os como arma branca}☃️(Teleportes e teletransportes rank 5 com sensorial ativo escapam).|| 30x
-Preço: 7.000.000
-••••••••••••••••••••••••••••••••••••••••
-Técnica de Ocultação na Névoa
-Rank: S
-Suplementar
-Ck p/uso: 20.000
-|| Após realizar os selos de mão necessários, o usuário cospe uma névoa por todo o campo de batalha; seus ataques só podem ser defendidos com sensorial ativo, e o usuário só pode ser afetado se o adversário estiver com sensorial ativo ou usar jutsus globais.☃️{Jutsus globais dissipam a técnica; Dentro da névoa o usário só pode ser encontrado e seus ataques defendidos por byakugan e sensorial negativo}.|| 5x
-Preço: 7.000.000
-••••••••••••••••••••••••••••••••••••••••
-Decapitação da Respiração Instantânea {Haku}
-Rank: SS
-Atk: 4x Letal
-Ag p/uso: 25.000
-|| O usuário empunha uma arma branca e desfere uma série de golpes rápidos em seu adversário.☃️(Apenas teleportes e teletransportes rank 4 escapam).|| 5x
-Preço: 5.000.000
-••••••••••••••••••••••••••••••••••••••••
-Espelho Demoníaco de Gelo Fino
-Rank: SSS
-Suplementar
-Ck p/uso: 75.000
-|| O usuário cria um único espelho de gelo no qual consegue adentrar e se locomover de um espelho a outro instantâneamente e refletir ataques. {Atk: Pode lançar senbons a rank 0 ou atks rank 1 enquanto dentro dos espelhos}☃️{Locomoção: Haku pode entrar no espelho e se deslocar instantaneamente por toda a sua superfície ou até outros espelhos criados, surgindo em qualquer ponto do reflexo para realizar ataques sem percorrer distância física; Enquanto estiver dentro dele, sua posição real torna-se imprevisível}☃️{Def: Haku pode criar o espelho sem precisar estar dentro dele, refletindo o ataque inimigo de forma ilimitada rank 1; Também pode usar o espelho como proteção quase instantânea, refletindo atks não multi-direcionais até o rank 1; Caso esteja dentro do espelho quando ele for destruído, Haku é expelido imediatamente para fora, sem sofrer dano pela destruição do espelho}.|| 6x
-Preço: 25.000.000
-••••••••••••••••••••••••••••••••••••••••
-Espelhos Demoníacos de Cristais de Gelo
-Rank: SSS
-Multi-Direcional
-Ck p/ativar: 990.000
-Ck p/turno: 700.000
-|| Técnica envolta em muitos mistérios; diz-se que nenhum método de existência pode derrotá-la. Em um instante, vários espelhos de gelo são criados em torno do inimigo, refletindo nada além de Haku. O adversário fica preso em uma cúpula de 21 espelhos flutuantes feitos de gelo. {Nada impede a formação desse jutsu; Uma vez dentro dos espelhos, Haku pode se mover entre instantaneamente ao custo de 200k de ag e 50k de ck; É quase impossível seguir seus ataques}☃️{São necessários dōjutsu ou sensorial negativo para se defender dos movimentos de Haku; Fogo não afeta, e globais/ilimitados quebram os espelhos}☃️{Ao custo de 90k de ag, Haku dispara 3 senbons em um alvo a rank 0; A cada acerto, o dano das senbons dobra}.|| 3x
-Preço: 180.000.000
-••••••••••••••••••••••••••••••••••••••••
-Estilo Gelo: Domo de Iceberg
-Rank: S
-Def: Ilimitada
-Ck p/uso: 150.000
-|| Haku pode rapidamente criar uma cúpula de gelo em torno de seus aliados e de si mesmo para agir como defesa, forte o suficiente para suportar o ataque de vários papéis explosivos ao mesmo tempo, mantendo-se praticamente intacta.☃️{Defende atks até o rank 2; Globais ilimitados quebram o domo}.|| 5x
-Preço: 25.000.000
-••••••••••••••••••••••••••••••••••••••••
-Matança Silenciosa
-Rank: S
-Atk: Fatal
-Ag p/uso: 50.000
-Ck p/uso: 30.000
-|| Método muito tranquilo de matar um oponente, geralmente pelas costas com uma lâmina; como o usuário se desloca em silêncio, seus ataques não podem ser previstos nem defendidos. O usuário costuma cortar a garganta do oponente, impedindo qualquer grito.☃️{Se o alvo for pego, é morte na certa caso não tenha regeneração}☃️(Teleportes e teletransportes rank 3 com sensorial ativo escapam).|| 4x
-Preço: 10.000.000
-••••••••••••••••••••••••••••••••••••••••
-Mil Agulhas Voadoras de Água da Morte
-Rank: S
-Atk: Ilimitado/Multi-Direcional
-Ck p/uso: 240.000
-|| Haku reúne água e produz mil agulhas afiadas e longas, direcionando-as em sequência a um alvo específico em alta velocidade. {A curto alcance, +25k de ag permite segurar o alvo a rank 2, impedindo fuga ou defesa prévia (Apenas teletransportes rank 2 escapam); Antes de ser atacado, Haku salta para trás a médio alcance; As agulhas cercam o alvo por todos os lados, exceto pela região superior}☃️(Teleportes e teletransportes rank 2 escapam).|| 5x
-Preço: 19.000.000
-••••••••••••••••••••••••••••••••••••••••
-Lanças de Gelo do Assassinato Certeiro
-Rank: SS
-Atk: 3x Letal
-Ck p/uso: Variável
-|| Aproveitando partículas de gelo na atmosfera, o usuário as condensa instantaneamente em espinhos gigantes, capazes de perfurar um casebre, atacando o alvo com eles. {+420k de ck: atk perseguidor que dura 1 turno}☃️ (Teletransportes rank 2 escapam)☃️{+120k de ck: empala o alvo com vários espinhos, imobilizando-o; +220k de ck: espinho único com dano ilimitado}☃️(Teleportes e Teletransportes rank 2 escapam)☃ {+145k de ck: ataque multi-direcional ou contra-ataque em quem fizer contato curto; considerado rank 2}.||5x
-Preço: 30.000.000
-••••••••••••••••••••••••••••••••••••••••
-Assassinato dos Espelhos Demoníacos de Gelo
-Rank: SSS
+Hiruzen Sarutobi (猿飛ヒルゼン, Sarutobi Hiruzen) foi o Terceiro Hokage (三代目火影,
+Sandaime Hokage, Literalmente significa "Terceira Sombra do Fogo") de Konohagakure.
+Sendo um discípulo do Hokage anterior da vila, Hiruzen era um ninja poderoso, aclamado
+como o Deus Shinobi (忍の神, Shinobi no Kami, "O Shinobi Supremo"). Embora ele seja
+originalmente o professor dos Sannin, várias gerações de ninjas de Konoha se beneficiaram
+de sua sabedoria durante sua vida.
+*– Loja Gennin:*
+Estilo Terra: Bomba do Dragão de Terra
+Rank: A
+Atk: Multi-Direcional/Ilimitado
+Ck P/Uso: 45.000
+|| O usuário cria uma cabeça semelhante a de um dragão, que dispara bolas de lama em
+direção ao alvo. {+75k de Ck o usuário adiciona fogo nas rochas, tornando o dano da
+técnica 2xIlimitado} 🍃 (Teleportes e Teletransportes Rank 3 escapam).||10x
+Preço: 20.000.000
+—————————————————————
+Estilo Água: Técnica do Projétil de Água
+Rank: A
 Atk: Ilimitado
-Ck p/uso: 380.000
-|| Presa a vítima nos espelhos de gelo de Haku, ele a ataca em alta velocidade; em seguida, um clarão de luz azul explode dentro da cúpula, danificando-a gravemente. Haku escapa no último segundo, e os espelhos se quebram em um milhão de pedaços de gelo.☃️(Apenas Teletransportes rank 2 escapam).||2x
-Preço: 40.000.000
-••••••••••••••••••••••••••••••••••••••••
-Cintilação Corporal na Névoa
+Ck p/uso: 25.000
+|| Esta é uma técnica de Estilo Água altamente versátil. Depois de amassar chakra no
+estômago, o utilizador expele uma grande quantidade de água sob a forma de uma corrente
+forte até o objetivo pretendido. {É possível tornar a técnica Multi-Direcional se usado em
+ambiente com água pré existente, atingindo até 5 alvos distintos} 🍃 (Teleportes e
+Teletransportes Rank 3 Escapam).||5x
+Preço: 20.000.000
+—————————————————————
+Estilo Fogo: Bomba do Dragão Flamejante
+Rank: A
+Atk: Multi-direcional/Ilimitado
+Ck p/uso: 55.000
+|| O usuário amassa seu chakra em chamas, que são manipuladas na aparência de um
+dragão e direcionadas para atacar um ou mais alvos a partir de múltiplas direções. As
+investidas são focadas rapidamente, reduzindo o alvo em cinzas. Devido ao poder desta
+técnica, bem como a habilidade necessária para controlar as chamas, pouquíssimos ninjas
+foram capazes de performá-la, sendo o Terceiro Hokage um deles. {Acerta até 5 alvos
+distintos} 🍃 (Teleportes e Teletransportes Rank 3 Escapam).||5x
+Preço: 20.000.000
+—————————————————————
+Técnica dos Clones das Sombras
+Rank: S
+Atk: 500.000
+Def: 500.000
+Hp: 500.000
+Ag: 500.000
+Ck: 500.000
+Ck por clone: 100.000
+|| Os clones podem ser usados de forma ofensiva,defensiva e suplementar além de
+poderem usar jutsus do original exceto genjutsus e alguns jutsus supremos. 🍃 {Clones da
+sombra não podem ser distinguidos do original através de Dōjutsus ou Sensorial; Máx: 10
+Clones}.||
+Preço: 35.000.000
+————————————————
+Balanço Gigante
+Rank: B
+Atk: 3xLetal
+Ag p/Uso: 45.000
+|| O Balanço Gigante é uma manobra de taijutsu que consiste no usuário agarrar o seu alvo
+e girar em torno de seu próprio eixo para ganhar impulso e velocidade, então ele o solta
+para lançá-lo para longe. O dano causado à vitima pode ser maior se ela for lançada contra
+uma estrutura. {Pode ser usado em si com auxílio de um clone, se impulsionando no ar para
+atingir alvos com dano 5xLetal ou arremessar um alvo contra alguma estrutura,
+imobilizando-o por 1 turno; Usado para defesa} 🍃 (Teleportes e Teletransportes Rank 3
+escapam).||8x
+Preço: 15.000.000
+————————————————
+Invocação: Ferramenta Ninja
+Rank: B
+Suplementar
+Ck p/Uso: 50.000
+|| Com o objetivo de facilitar o combate, é possível realizar a invocação de diferentes
+ferramentas ninja. Por não utilizar pergaminhos para deslacramento, esta técnica permite
+aos usuários um método rápido e prático de se armar durante um confronto, o que contribui
+para pegar o oponente em um ataque surpresa. Hiruzen Sarutobi realizou a invocação
+desta ferramenta com o uso do selo Confronto. {Hiruzen pode usar pra invocar Fūma
+Shurikens; Dano: 3xLetal; Quando arremessadas: Ranks 3 escapam} 🍃 {Ck p/uso da
+técnica deve ser multiplicado pela quantidade de Fūma Shuriken invocada}.||5x
+Preço: 10.000.000
+————————————————
+Arte Ninja: Técnica do Corpo da Shuriken Gigante
+Rank: A
+Atk: Ilimitado
+Ag e Ck p/Uso: 75.000
+|| O usuário lança uma Fuuma Shuriken em direção ao oponente e usa seu chakra para
+ampliá-la massivamente, golpeando o oponente de forma brutal e jogando-o pelo ar. 🍃
+(Teleportes e Teletransportes Rank 3 escapam).||4x
+—————————————————————
+Estilo Raio: Técnica do Projétil de Raio
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 75.000
+|| Depois de amassar chakra no estômago, o usuário o expele sob a forma de uma
+poderosa corrente de relâmpago até o alvo pretendido. {Se não morrer paralisa o alvo por 2
+Turnos} 🍃 (Teleportes e Teletransportes Rank 3 Escapam).||5x
+Preço: 20.000.000
+—————————————————————
+Estilo Vento: Técnica do Projétil de Vento
+Rank: A
+Atk: Letal
+Ck p/uso: 40.000
+|| Depois de amassar chakra no estômago, o usuário o expele sob a forma de uma
+poderosa corrente de vento até o alvo pretendido, ou servindo de suporte para outras
+técnicas ou uma rápida locomoção. {+35k de Ck, o usuário pode usar a técnica para
+levantar uma nuvem de poeira Semi-Global que dura 1 turno; O usuário só poderá ser
+localizado através de Byakugan ou algum meio Sensorial; Globais podem atingir o usuário}
+🍃 (Teleportes e Teletransportes Rank: 3 Escapam).||5x
+Preço: 20.000.000
+—————————————————————
+Técnica do Clone da Sombra de Shuriken
+Rank: A
+Atk: Multi-Direcional/Letal
+Ck p/Uso: 50.000
+Ag p/Uso: 45.000
+|| O jutsu utiliza a Técnica dos Clones das Sombras para criar até mil cópias a partir de uma
+shuriken em um instante, encurralando o oponente com um ataque letal e de difícil esquiva.
+Comparado a criar clones da sombra do próprio usuário, clonar objetos é algo muito mais
+complexo, apesar disso, é um jutsu prático, já que quem o executa não precisa carregar
+várias armas de um mesmo tipo consigo. Como os clones criados são reais, não ilusões,
+todos são tão perigosos quanto o original. {+150k de ck p/triplicar o número de shuriken
+tornando o ataque semi-global/Ilimitado} 🍃 (Apenas teleportes e teletransportes rank 3
+escapam).||3x
+Preço: 20.000.000
+—————————————————————
+Estilo Terra: Grande Rio de Lama
+Rank: S
+Atk: Letal/Suplementar
+Ck p/Uso: 145.000
+|| Depois de formar o selo de mão necessário, o usuário transforma o chão debaixo de seu
+oponente em um rio de lama que lança-o para longe do usuário. {Se combinado com o
+Bomba do Dragão de Terra, o alvo atingido ficará incapacitado por 2 turnos; Pode ser usado
+para se defender, dessa forma o próximo ataque não poderá ser evitado por meios comuns}
+🍃 (Se usado em ambiente aquático ou enlameado apenas Capacidade de vôo, Teleportes
+e Teletransportes rank 2 escapam) 🍃 (Capacidade de vôo, Teleportes e Teletransportes
+Rank 3 com Sensorial ativo Escapam).||5x
+Preço: 35.000.000
+—————————————————————
+Técnica de Cintilação Corporal
 Rank: D
 Suplementar
 Ck p/uso: 25.000
-|| Técnica básica de movimento em alta velocidade, permitindo mover-se de curta para longa distância quase imperceptivelmente, comum entre ninjas de Kirigakure. Essa variante permite locomoção dentro da névoa sem ser detectado, possibilitando ataques furtivos com o alvo desprevenido. {+15k de ck = curta distância; +35k de ck = média distância; +55k de ck = longa distância}☃️{Pode escapar ou atacar a rank 2}.|| 4x
-[Necessário Técnica de Ocultação da Névoa]
-Preço: 13.000.000
-••••••••••••••••••••••••••••••••••••••••
-Clone do Espelho de Gelo
-Rank: A
-Atk: 300.000
-Def: 300.000
-Hp: 300.000
-Ag: 300.000
-Ck: 300.000
-Ck p/clone: 70.000
-|| Usando os Espelhos Demoníacos de Cristais de Gelo, Haku cria clones resistentes de gelo, capazes de lutar em velocidade semelhante à sua; quando derrotados, dissipam-se em água.☃️{Os clones nascem dos reflexos de Haku nos espelhos, sendo úteis para ataques surpresa; Ao retornarem aos espelhos, deixam de existir por se unirem novamente a um dos reflexos; Podem usar todos os jutsus do original, exceto jutsus supremos e genjutsus}.|| 10x
-[Necessário Espelhos Demoniaco de Gelo Fino]
-Preço: 60.000.000
-••••••••••••••••••••••••••••••••••••••••
-Dança do Avalanche
-Rank: A
-Atk: 6x Letal
-Ag p/uso: 90.000
-|| Haku entrega uma série de chutes, socos e senbons no oponente; em seguida salta ao ar, reaparece por trás e salta novamente para dispersar mais senbons, atingindo-o outra vez.☃️(Teleportes e teletransportes rank 4 escapam).|| 5x
+|| É uma técnica básica de movimento em alta velocidade, permitindo que um ninja mova-se
+de uma curta para uma longa distância a uma velocidade quase indetectável. {+30k de ck
+para ir a local em curto alcance, +70k de ck para ir um local a média distância e +100k de ck
+para ir a um local a longa distância} 🍃 {Ela é realizada usando chakra para vitalizar
+temporariamente o corpo e se mover em velocidades extremas e escapar de Atks até o
+Rank 3}.||4x
 Preço: 20.000.000
-••••••••••••••••••••••••••••••••••••••••
-Decapitação da Dança de Mil Flashes
-Rank: A
-Atk: Ilimitado/Imobilização
-Ag p/uso: 120.000
-|| Haku corta o oponente mil vezes em várias direções com senbons muito afiadas, deixando-o cheio de cortes e perfurações, incapacitado de atacar após o combo. {Se sobreviver, o oponente fica imóvel por 1 turno}☃️(Teleportes e teletransportes rank 3 escapam).|| 3x
-Preço: 20.000.000
-••••••••••••••••••••••••••••••••••••••••
-Estilo Gelo: Andorinha de Sincelo
+—————————————————————
+Shuriken dos Cinco Estilos: Técnica dos Clones das Sombras
 Rank: S
-Atk: 2x Letal
-Ck p/uso: 70.000
-|| O usuário dispara lanças de gelo para perfurar o alvo. {Uma vez atingido, o alvo fica congelado por 2 turnos e não consegue se mover} ☃️(Teleportes e teletransportes rank 2 escapam).||5x
-Preço: 10.000.000
-••••••••••••••••••••••••••••••••••••••••
-Estilo Gelo: Combo Sincelo
+Atk: Semi-Global/Ilimitado
+Ck p/Uso: 80.000
+Ag p/Uso: 45.000
+|| Hiruzen cria quatro clones das sombras, então cada um deles invoca uma fuuma shuriken
+que é infundida com um dos cinco elementos. As cinco shuriken são lançadas em um
+mesmo alvo e, ao colidir, explodem. {+140k de Ck pra criar os clones apenas para o uso da
+técnica; Alternativamente, também pode ser usado por clones pré-existentes} 🍃
+(Teleportes e Teletransportes Rank 3 escapam).||4x
+Preço: 35.000.000
+————————————————
+Estilo Raio: Rugido do Trovão
 Rank: A
-Atk: 4x Letal
-Ck p/uso: 90.000
-Ag p/uso: 70.000
-|| Haku desfere uma série de golpes com senbon, seguidos de chutes, antes de cortar o adversário novamente; chuta o oponente para longe e gera várias agulhas grandes de gelo no ar para acertá-lo.☃️(Teleportes e teletransportes rank 2 escapam).||4x
-Preço: 12.000.000
-••••••••••••••••••••••••••••••••••••••••
-Estilo Gelo: Desintegração do Pico de Gelo
+Atk: Multi-direcional/Ilimitado
+Ck p/Uso: 80.000
+|| Hiruzen cria um clone das sombras que se aproxima de seu inimigo e ergue a mão em
+direção ao céu para atrair um raio para si. O clone acumula toda a energia elétrica que é
+direcionada para o solo, causando uma grande explosão que o destrói junto e o que estiver
+nas proximidades. {Pode ser usado por clones pré-existentes; Aqueles que não morrerem
+ficarão paralisados pelos próximos 2 turnos} 🍃 {Aqueles à curto alcance do clone quando
+atingido pelo raio não escapam da explosão; Teleportes e Teletransportes Rank 4
+escapam}.||5x
+Preço: 20.000.000
+—————————————————————
+*– Loja Chunnin:*
+Técnica Sensorial
+Rank: A
+Def: Sensorial
+Ck p/Ativar: 10.000
+|| A Técnica Sensorial é um tansakujutsu que permite ao usuário sentir a presença de
+chakra nos arredores, a fim de facilmente detectar e rastrear alvos a partir dele, podendo
+até mesmo distinguir chakras semelhantes por parentesco ou vila. {Previne ataques
+surpresas e pode localizar inimigos em qualquer lugar, exceto em outra dimensão}.||1x
+Preço: 10.000.000
+————————————————
+Estilo Terra: Parede do Estilo Terra
+Rank: A
+Def: Ilimitada
+Ck p/uso: 60.000
+|| O chakra é convertido em terra no interior do corpo e, em seguida cuspindo para formar a
+parede. O utilizador também pode manipular a terra pré-existente de modo à formar a
+parede que imediatamente se levanta e toma forma. 🍃 {Defende Atks até o Rank 2, exceto
+globais/dimensionais ou Jutsus Raiton}.||5x
+Preço: 7.000.000
+————————————————
+Invocação: Rei Macaco — Enma
+Rank: S
+Atk: 15.000.000
+Def: 10.000.000
+Hp: 12.000.000
+Ag: 10.000.000
+Ck: 4.000.000
+Ck p/Invocar: 50.000
+|| Enma é um antigo companheiro de Hiruzen, o que implica que sua própria idade é
+avançada. Enma era ferozmente leal a Hiruzen, apesar de nem sempre aprovar as ações
+dele, sendo um exemplo disso o fato de ele sempre lembrar o Terceiro Hokage de suas
+ações em relação a Orochimaru, sendo que o macaco preferia tê-lo matado na primeira
+chance que tiveram. {Ao custo de 70k de Ag, Enma pode se mover a Rank 2, entre atk e def
+por 5x} 🍃 (Tem seus movimentos considerados Rank 3, quando ataca causa dano
+3xLetal).||1x
+Preço: 50.000.000
+————————————————
+Invocação: Bastão Adamantino
+Rank: S
+Atk/Def: Ilimitado
+Ck p/Transformar: 175.000
+[Requer Invocação do “Enma" em campo]
+|| Enma se transforma em um Bastão muito resistente, sendo usado principalmente por
+Hiruzen em suas lutas. Enma é capaz de projetar partes de seu corpo para fora do bastão,
+demonstrando fortes habilidades em Taijutsu. Durante o ataque do Kurama em Konoha,
+com ajuda de Hiruzen, Enma conseguiu com facilidade em sua forma de bastão se estender
+e jogar Kurama para longe da aldeia. Ele até mesmo podia se clonar gerando vários
+bastões e criando uma espécie de jaula que conseguiu proteger Hiruzen do ataque do
+Primeiro Hokage. Ofensivamente, Hiruzen foi capaz de desferir uma sucessão de golpes
+rápidos e poderosos cortando até mesmo o Estilo Madeira de Hashirama ou os ramos do
+Shinju quando restringiram Naruto na 4° grande guerra ninja. 🍃 {Enma pode se estender
+chegando a grandes distâncias em poucos instantes, considerado Rank 2; +50k de Ck
+p/bastão de 5 metros, +100k de Ck p/bastão de até 10 metros; Apartir de 10 metros o custo
+é somado por 10k de Ck por metro; Max: 20m; Quando ataca rompe barreiras não globais;
+Seus ataques podem incapacitar alvos por 1 turno ao acertar um ponto vital; Ao custo de
+300k de Ck Enma se multiplica criando uma barreira 360° ao redor de Hiruzen que defende
+qualquer ataque até o Rank 2, exceto Semi-Globais ilimitados e superiores} 🍃 (Teleportes
+e Teletransportes Rank 3 escapam).||2x
+Preço: 15.000.000
+————————————————
+Técnica Adamantina: Triturador de Crânio
+Rank: B
+Atk: 3xLetal
+Ck p/Uso: 50.000
+Ag p/Uso: 45.000
+[Requer Enma em campo]
+|| Hiruzen salta em cima da elevação de terra que fez, para alcançar o adversário. Em
+seguida, ele invoca o Rei Macaco: Enma e ataca com ele duas vezes, finalizando com um
+ataque do seu bastão na cabeça do inimigo. {Alvos atingidos na cabeça perderão a
+consciência por 1 turno} 🍃 (Teleportes ou Teletransportes Rank 4 escapam}.||5x
+Preço: 20.000.000
+————————————————
+Presas do Rei Macaco
+Rank: B
+Atk: Ilimitado
+Ck p/Uso: 50.000
+Ag p/Uso: 40.000
+|| Hiruzen dá um pontapé no intestino do oponente, então ele amplia o Rei Macaco: Enma
+na sua forma de bastão. Enma aparece na ponta do bastão, retalhando o alvo com suas
+presas. {Se pego pelo pontapé é impossível evitar os próximos golpes} 🍃 (Teleportes e
+Teletransportes Rank 4 escapam).||7x
+Preço: 20.000.000
+————————————————
+Fuuinjutsu: Selamento Triangular
+Rank: S
+Atk: Selamento
+Ck p/Uso: 175.000
+[Requer dois clones ativos]
+|| O usuário cria dois clones das sombras para formar um selo na forma de uma pirâmide de
+base triangular que isola o oponente dentro. Em seguida, o interior da pirâmide brilha
+intensamente antes de selar o oponente sem deixar vestígios. {Não sela alvos grandes
+como Bijūs ou Susano'os} 🍃 (Antes da pirâmide ser formada apenas Teleportes ou
+Teletransportes Rank 3 com Sensorial ativo escapam; Após sua formação, apenas
+Teletransportes escapam).||4x
+Preço: 20.000.000
+————————————————
+Telescópio: Bola de Cristal
+Rank: S
+Suplementar
+Ag p/Segurar: 40.000
+Ck p/Turno: 70.000
+|| A Bola de Cristal é um utensílio que consiste em uma esfera cristalina, e em alguns casos
+transparente, que permite a realização de certas técnicas, sendo um equipamento auxiliar
+para alguns ninjas. Utilizada principalmente para vigilância ou espionagem, a bola de cristal
+geralmente é ativada quando o usuário coloca suas mãos ao redor do objeto para a
+realização da Técnica do Telescópio, caso as condições necessárias para a técnica sejam
+cumpridas, fazendo com que a imagem do alvo desejado seja projetada no interior da bola
+de cristal. 🍃 {Rastreia e revela a posição de alvos em qualquer lugar dentre atual
+dimensão, mesmo através de barreiras; Após encontrado, a bola de cristal mostrará o alvo
+em tempo real para onde quer que ele vá pelo resto da batalha; Requer que o usuário tenha
+visto o alvo pelo menos uma vez durante a batalha e que ele mantenha a concentração na
+bola de cristal pra que a técnica não se cancele}.||1x
+Preço: 15.000.000
+————————————————
+Transferência de Chakra
+Rank: S
+Suplementar
+Ck p/uso: Variável
+|| Essa técnica foi originalmente criada por Hagoromo Ōtsutsuki, a fim de "ligar" as energias
+espirituais de cada pessoa viva. Sua intenção era para que pudesse ser usada para
+construir e manter a paz através de sua religião de ninshū, mas esta técnica acabou se
+tornando mais uma ferramenta para a guerra, quando a humanidade armou o chakra. Essa
+técnica é utilizada por muitos shinobi, cada um deles mostrando uma maneira diferente de
+uso. 🍃 {Limite de transferência: 10kk de Ck}.||5x
+Preço: 10.000.000
+————————————————
+Estilo Terra: Técnica da Decapitação Suicida
+Rank: S
+Atk: Suplementar
+Ck p/Uso: 75.000
+|| Esta técnica consiste em se esconder debaixo do chão e puxar o alvo para dentro da
+terra. Depois de imobilizar o oponente, quem executou a técnica pode cortar a cabeça ou
+torturar o alvo. {Se acertado, o próximo ataque não poderá ser defendido sem auxílio de
+teletransportes} 🍃 (Teleportes e Teletransportes Rank 3 com Sensorial ativo antes
+escapam).||10x
+Preço: 25.000.000
+————————————————
+Estilo Água: Técnica do Projétil do Dragão de Água
 Rank: S
 Atk: Ilimitado
-Ck p/uso: 170.000
-Ag p/uso: 120.000
-|| Haku dispara senbons, seguidos de chutes, corta o oponente no alto, chuta-o novamente, gera gelo para atacá-lo e arrastá-lo, e antes que caia ao chão, coloca a mão no solo gerando múltiplas agulhas finas de gelo para espetá-lo. {Se sobreviver, fica atordoado por 1 turno}☃ (Teleportes e teletransportes rank 3 escapam).||4x
+Ck p/uso: 90.000
+|| O usuário molda uma grande quantidade de água em um gigante e poderoso dragão, que
+atinge o adversário com poder formidável, causando dano físico. O lugar ideal para usá-lo é
+perto de um corpo de água, mas se a habilidade do usuário permite, é possível usá-lo
+mesmo em um lugar onde não há nenhuma. A quantidade de água utilizada será em
+proporção com a habilidade do usuário. {+75k Ck pode tornar a técnica Multi-Direcional
+podendo atingir até 6 alvos distintos} 🍃 (Teleportes e Teletransportes Rank 2
+Escapam).||7x
 Preço: 25.000.000
-••••••••••••••••••••••••••••••••••••••••
-*Técnicas Jounnin:*
-••••••••••••••••••••••••••••••••••••••••
-Ataque Frio da Lâmina Demoníaca
+————————————————
+Estilo Vento: Ciclone
+Rank: S
+Atk/Def: Multi-Direcional/4xLetal/Suplementar
+Ck p/Uso: 190.000
+|| Hiruzen manipula chakra de Estilo Vento para gerar um pequeno, porém potente,
+redemoinho em torno de si, que atrai as vítimas próximas e as joga para o alto. Uma vez
+que esse jutsu tenha sido usado, Hiruzen obtém um aumento de 30% em sua velocidade
+por um certo período de tempo. {Após o uso, os movimentos do usuário aumentam em 1
+Rank até que o redemoinho suma naturalmente; Dura 2 turnos} 🍃 (Teleportes e
+Teletransportes Rank 3 Escapam).||5x
+Preço: 25.000.000
+————————————————
+Estilo Água: Formação da Parede de Água
+Rank: A
+Def: Ilimitada
+Ck p/uso: 230.000
+|| Ataques inimigos são completamente interceptados por uma cerca de água soprada para
+fora da boca, e é disparado para baixo com tremenda força. A água é soprada para fora na
+forma de um círculo em torno do usuário, e faz uma defesa, sem aberturas. A força da
+parede e mudança de resistência seguindo a quantidade de chakra derramado para dentro
+da água, assim um shinobi habilidoso será capaz de construir uma resistente. A parede
+também pode ser formada a partir de uma fonte de água pré-existente. {Após o uso, o local
+se torna propício à utilização de outras técnicas da natureza água} 🍃 {+60k de Ck a
+quantidade de água é aumentada e manipulada, fazendo assim uma Def 360°; Defende
+Ataques até o Rank 3, Exceto Semi-Globais/Ilimitados e superiores}.||5x
+Preço: 25.000.000
+————————————————
+Deus das Chamas
+Rank: A
+Atk: Semi-Global/Ilimitado
+Ck p/Uso: 85.000
+|| Primeiro o usuário lança uma técnica de vento contra o inimigo, logo então ele a
+incendeia, criando um turbilhão de chamas que se torna ainda mais mortal. {Dura 2 turnos}
+🍃 (Teletransportes Rank 3 escapam).||3x
+Preço: 25.000.000
+————————————————
+*– Loja Jounnin:*
+Konoha: Milhares de Mãos de Hokage Verdadeiras
 Rank: SSS
-Atk: Imobilização
-Ck p/uso: 160.000
-|| Zabuza realiza os selos manuais para formar um enorme dragão de água, completamente revestido pelo gelo de Haku; em um rápido movimento, o dragão consome o oponente e o imobiliza, permitindo que Zabuza e Haku ataquem simultaneamente para finalizá-lo.☃ (Teleportes e teletransportes rank 2 escapam).||3x
-[Requer dupla com Zabuza]
-Preço: 100.000.000
-••••••••••••••••••••••••••••••••••••••••
-Técnica da Prisão de Gelo
-Rank: SS
-Atk: Selamento
-Ck p/uso: 175.000
-|| O usuário infunde chakra de gelo no chão e o traz à superfície, prendendo o adversário dentro do gelo e controlando seus movimentos, envolvendo-o completamente. {Ao custo de 75k de ck, o gelo passa a seguir o alvo, escapando apenas com capacidade de voo}☃️(Teleportes e teletransportes rank 3 escapam).||4x
-Preço: 100.000.000
-••••••••••••••••••••••••••••••••••••••••
-Jateamento do Cristal de Gelo
+Atk: Global/Incalculável
+Ck p/Uso: 200.000
+[Necessita de todos os Hokages até o 6°]
+|| Em seu Modo Eremita, Hashirama utiliza sua gigantesca estátua de madeira. Os outros
+cinco Hokage — Tobirama, Hiruzen, Minato, Tsunade e Kakashi — canalizam seu chakra na
+estátua, fazendo-a resplandecer com poder. Hashirama separa a estátua de suas várias
+mãos, e aterra uma sequência de seis socos aprimorados com chakra, rapidamente
+movendo a estátua para a frente do oponente após cada ataque para acertar o próximo. O
+último soco é um uppercut, lançando o oponente para o céu, e criando um incêndio na
+forma do kanji de "fogo" (火, hi), o mesmo kanji estampado no chapéu dos Hokage. 🍃
+(Apenas outra dimensão rank 1 escapam).||1x
+Preço: 45.000.000
+————————————————
+Técnica do Combo Massivo de Cinco Estilos
 Rank: SSS
-Atk: Fatal/Selamento
-Ck p/uso: 200.000
-Ag p/uso: 120.000
-|| Haku, através da névoa usa a umidade do ar para criar gelo diretamente do corpo do oponente congelando ele de fora pra dentro tornando o oponente uma estatua maciça de gelo. Por Haku fazer o gelo surgir diretamente do corpo do oponente, torna a técnica quase impossivel de se escapar. {Caso afetado, o oponente fica imobilizado e após um turno se torna uma estatua de gelo maciço sendo considerado selado; Haku precisa localizar o alvo para efetuar a técnica}☃️(Teletransportes rank 1 com Byakugan ou sensorial de emoções negativas escapam).||3x
-Preço: 170.000.000
+Atk: 5xIlimitado/Semi-Global
+Ck p/Uso: 250.000
+[Requer ao menos 4 clones das sombras ativo]
+|| A Técnica do Combo Massivo de Cinco Estilos é um ninjutsu usado por Hiruzen que
+emprega o uso das cinco Mudanças Básicas da Natureza, com o auxílio de quatro clones
+das sombras. Hiruzen e companhia lançam jatos de Estilo Fogo, Vento, Raio, Terra e Água
+simultaneamente contra um alvo, cada um deles responsável por uma natureza. 🍃
+(Apenas Teletransportes Rank 3 escapam).||5x
+Preço: 30.000.000
+————————————————
+Formação dos Quatro Sóis Vermelhos
+Rank: SSS
+Def: Ilimitada
+Ck p/Uso: 150.000
+[Requer 3 clones ou 3 outros usuários da técnica]
+|| O Usuário Concentra o seu ck assim conseguindo fazer um gigantesca barreira
+extremamente poderosa. {A barreira é de nível semi-global e defende de 360°} 🍃 {A
+barreira só pode ser rompida por Incalculáveis; Alternativamente, também pode ser rompida
+de dentro pra fora através de 3 Globais Ilimitados}.||3x
+Preço: 28.000.000
+————————————————
+Selo Consumidor do Demônio Morto
+Rank: S
+Atk: Selamento/Sacrifício
+Ck p/Uso: 200.000
+|| O Selo Consumidor do Demônio Morto é uma técnica de selamento desenvolvida pelo clã
+Uzumaki para invocar o poder do Shinigami. Após os selos de mão serem realizados, a
+alma do usuário é parcialmente separada de seu corpo e suspensa atrás dele. Somente o
+invocador é capaz de ver o Shinigami neste ponto. Ele então enfia seu braço na alma do
+invocador, permitindo assim que o invocador invoque o Shinigami para selar um alvo: o
+braço do Shinigami emerge do corpo do invocador e agarra a alma do alvo. {Toma posse da
+alma de quem o invocou; Durante o processo o invocador não pode se mexer; Sela toda e
+qualquer forma viva, agindo como um perseguidor que segue a vítima até sela-la;
+Necessário Média Distância} 🍃 {Necessário especificar o que foi selado do oponente;
+Podendo escolher entre incapacitar partes do corpo, selar o chakra em algo ou alguém ou
+até mesmo selar a alma do alvo dentro do Shinigami} 🍃 (Teleportes e Teletransporte rank 2
+com sensorial negativo ativo antes escapam).||1x
+Preço: 140.000.000
+[Nada impede a morte do usuário após a execução dessa técnica]
+————————————————
+*_•Atualizada com carinho: ⛧ Dean Winchester ⛧_*
