@@ -1,222 +1,220 @@
-Tantō
-Rank: A
-Atk: Letal
-Ag p/Empunhar: 20.000
-|| A tantō é simplesmente uma pequena katana. Vários chūnin, iryō-nin e shinobi de konohagakure usam-na amarrada inferiormente em suas costas quando vão para a batalha. Tendo dois gumes e não tendo ponta, destinado somente para efetuar cortes e utilizar como meio de defesa. { Bloqueia atks feitos com espadas.}.|| 1x
-Preço: 10.000.000
-Atemi
-Rank: S
-Atk: Variável
-Ag p/Uso: 25.000
-|| Atemi é um taijutsu que consiste em desferir uma leve pancada no encosto do pescoço do alvo, fazendo-o adormecer de forma natural, sem que qualquer dor seja sentida. Esse golpe é especialmente útil para tirar potenciais inimigos de cena e prevenir conflitos. { Causa dano equivalente ao “Atk”; Leva o alvo a inconsciência temporária por 2 turnos.} 🍃 ( Teleportes e Teletransportes escapam.).|| 3x
-Preço: 40.000.000
-Técnica de Procura
+Sasori (サソリ, Sasori), também conhecido como Sasori da Areia Vermelha (赤砂のサソリ, Akasuna no Sasori) era um shinobi de Sunagakure e que se juntou a Akatsuki, onde foi parceiro de Orochimaru e Deidara, respectivamente.
+
+Loja Chunnin
+
+Técnica de Marionetes: Lâmina Pesada do Armazém
+Rank: SS
+Atk: Semi-Global/Ilimitado
+Ck p/Uso: 500.000
+[Requer "Marionete Humana: Hiruko" em campo]
+|| Enquanto dentro de seu boneco Hiruko, Sasori invoca dois grandes recipientes em forma de torpedo. Quando aberto, os dois recipientes liberam milhares de kunai que perfuram o corpo do alvo. Em seguida, um outro conjunto de kunai são disparados. E novamente abre-se, lançando uma carga completa de kunai com vários papéis explosivos juntos em todo chão perto do oponente. A carga então detona-se, causando uma grande explosão e matando por fim seu oponente. (Teletransporte ou estar voando antes do ataque escapam).||3x
+Preço: 30.000.000
+
+Marionete Humana: Terceiro Kazekage
+Rank: SSS
+Atk: 3xLetal
+Def: Ilimitada
+|| O Terceiro Kazekage é a marionete criada por Sasori do corpo do 3° Kazekage de Sunagakure. Os esforços que Sasori teve que passar para adquirir a marionete fez dela a sua favorita. Depois de ser convertido em uma marionete humana, Sasori instalou várias armas em seu corpo, as quais foram embebidas de veneno mortal, a marca de Sasori. {Quando ataca não pode, kawarimi, assimilação, absorção ou trocas} 🦂 {A marionete possui uma série de lâminas que torna seus ataques físicos perfurantes; Inimigos acertados por quaisquer ataques realizados pela marionete sofrerão paralisia e morrerão após 3 turnos, por conta do veneno presente nela} 🦂 {Tem seus movimentos = rank 3}.||1x
+Preço: 70.000.000
+
+Assalto da Areia de Ferro
 Rank: S
 Suplementar
-Ag p/Uso: 50.000
-|| A regra ninja mais básica diz que “toda busca começar analisando todos os traços deixadas para trás”. Tem sido mostrados várias formas para o uso dessa técnica, que geralmente consistem em analisar mudanças não-naturais no ambiente circundante para encontrar rastros deixados por um fugitivo, que denunciam que alguém pode ter passado por ali. { Localiza oponentes através de rastros deixados em qualquer lugar dentre a dimensão atual; Necessário especificar qual rastro foi utilizado para rastreio.}🍃 ( Rank = Velocidade de Reação do Usuário).|| 3x
-Preço: 10.000.000
-Kotoamatsukami
-Rank: SSS
-Atk: Genjutsu
-Ck p/Uso: 300.000
-|| Kotoamatsukami é um poderoso genjutsu lançado a partir do Mangekyou Sharingan de Shisui, que controla indiretamente a mente do alvo. Ele permite que o usuário entre na mente de seu oponente e manipule-o, dando-lhe experiências falsas, fazendo parecer como se eles estivessem fazendo coisas de sua livre e espontânea vontade. { Desfaz controles mentais ou efeitos de genjutsus caso ainda estejam em êxito, exceto os que causam inconsciência; Toma controle completo da mente do alvo após 1 turno; Pode tomar controle de alvos inconscientes e os obrigar a fazer algo, porém isso não funciona com alvos do Tsukuyomi Infinito; Pode cancelar movimentos até o Rank 1.}.|| 2x
-Preço: 40.000.000
-Clones de Rastro
-Rank: SS
+Ck p/Ativar: 200.000
+[Requer "Marionete Humana: Terceiro Kazekage" em campo]
+|| Ao ser oferecido com areia de ferro, o usuário pode molda-lo à vontade e alterar seu formato durante a luta de acordo com as necessidades conferidas pelo terreno da batalha, principalmente tendo em mente as habilidades do adversário. Dessa forma, o usuário escolhe a forma de ataque mais adequada para cada situação. {Ao ativar pode-se fazer uso de todas as técnicas dependentes da areia de ferro; +25k de ck pode criar objetos, animais e afins feitos de areia de ferro que causam dano letal; +50k de ck pode aumentar o tamanho de seus construtos (a cada vez aumenta em 1 "nível" sendo Multi-Direcional, Semi-Global e Global); Pode-se também, ao custo de 75k de ck, aumentar a resistência da areia de ferro para que ela cause ou defenda danos até ilimitado; +30k de ck p/turno é possível levitar um construto de areia de ferro} 🦂 {Formação dos construtos = rank 3}.||1x
+Preço: 100.000.000
+
+Areia de Ferro: Asas de Ferro Negro
+Rank: S
 Suplementar
 Ck p/Ativar: 100.000
-|| Shisui usa a técnica de cintilação corporal e move-se nas redondezas, criando diversos clones de impressões vindas de sua velocidade. Através dela, ele pode mover-se entre os clones, e acertar ataques com cada um deles, como se tivessem a massa dele. Se for atacado, ele desvia. Deixando o ataque de seu adversário passar por um dos seus rastros. Os clones criados por Shisui podem se desmaterializar quando recebem um ataque e se materializam para realizar um golpe. { Enquanto ativo Shisui só pode ser alvo de globais; Enquanto esta ativo, Shisui se movimenta a Rank 1 entre os Clones de Rastro; Nada abaixo de Rank 1 escapa de seus Atks; Permanece ativo até Shisui levar dano; +100k de Ck materializa um Clone p/acertar o alvo com ataque de taijutsu, causa dano equivalente ao “atk”.} 🍃 { Clones de Rastro usam apenas taijutsus.}.|| 5x
-Preço: 45.000.000
-Genjutsu: Sharingan
+|| Esta técnica permite ao usuário a habilidade de voar, usando asas criadas a partir de Areia de Ferro. {Quando ativo, o usuário pode voar a Rank 2; ao custo de 40k ck pode disparar “penas” de aço para atacar o inimigo, causando Dano Letal por até 3x} 🦂 (Teleportes e teletransportes rank 2 escapam).||1x
+Preço: 14.000.000
+
+Assalto da Areia de Ferro: Pregos Longos
 Rank: A
-Atk: Genjutsu
-Ck p/Uso: 40.000
-|| Embora não seja uma técnica tão poderosa quanto o Tsukuyomi, é uma técnica bem versátil. Ao estabelecer contato visual com um alvo, o usuário do Sharingan prende-o dentro de um genjutsu para uma de várias finalidades. { Pode causar: Inconsciência instantânea, com duração de 2 turnos; Paralisia instantânea; Extração forçada de qualquer informação que o alvo possua; Transmitir memórias para o alvo; Remover genjutsu colocado no alvo por outros; Criar imagens intangíveis para ilustrar um acontecimento; Criar ilusão de falsas lutas; Torturar causando dano 5xLetal; Criar pequenas ilusões para transmitir estratégias de combate; Controlar as ações do alvo}.|| 10x
-Preço: 10.000.000
-Proficiência em Taijutsu
-Rank: S
-Estilo de Luta
-Ag p/Assumir: 200.000
-|| Shisui foi um usuário proficiente de taijutsu, sendo capaz de derrotar itachi várias vezes em duelo. { Todos os atks desse estilo de luta causam dano letal somavel ao atk; Atks são rank 2, Evasões rank 2 e Desvios rank 2; 10k de Ag p/soco; 25k de Ag p/Chute; 40k de Ag p/Chute Alto; 35k de Ag p/Chute Baixo; 80k de Ag p/Elevar um chute Rank 2 para rank 1; 45k de Ag p/Chute duplo causa 2xLetal somavel com o atributo atk; 18k de Ag p/Desviar um atk curto até o rank 1 por 4x; 30k de Ag p/Distrair e correr na direção do alvo podendo efetuar um atk; 15k de Ag p/bloquear taijutsus sem adição de teleportes; 70k de Ag p/Saltar e escapar de multi-direcional; 50k de Ag p/Bloquear taijutsus contra atancando com 1 acima; 90k de Ag p/Evadir um atk e atacar com a velocidade dobrada por 3x: 75k de Ag p/Rolar para o lado desviando um atk rank 1 longo por 4x.}.|| 1x
-[ 6kk de Ag exigido para Uso. ]
-Preço: 35.000.000
-Técnica de Invocação: Corvos
-Rank: A
-Atk: 450.000
-Def: 100.000
-Hp: 500.000
-Ag: 600.000
-Ck: 200.000
-Ck p/Invocar: 5.000
-|| Corvos (烏, Karasu) é a invocação característica de Itachi Uchiha, que Shisui Uchiha e Aoba também continham, mesmo que não com a maestria do primeiro usuário. Em algum ponto no tempo, Shisui fez um contrato com os corvos que lhe permite invocá-los como quiser. Ele usou principalmente eles combinados com seu genjutsu, bem como ninjutsu, enquanto luta — muitas vezes desmaterializando-se em um bando de corvos. { Se combinado para ataques apenas com sensorial ativo será possível escapar; Ao atacar causa dano letal; Tem seus movimentos = Rank 3; “Ck p/Invocar:” = “Ck p/Corvo”} 🍃 { Máximo de 30 corvos.}.||
-Preço: 35.000.000
-Técnica de Dispersão dos Mil Corvos
-Rank: C
-Suplementar
-Ck p/Ativar: 60.000
-Ck p/Uso: 10.000
-|| Esta técnica convoca um bando de inúmeros corvos, vislumbrando o inimigo. O usuário pode manipular livremente os corvos, emitindo chakra de seus dedos e alterando-o em ondas de alta frequência. Com os corvos continuamente clonando-se, o alvo fica completamente rodeado, obscurecendo o seu campo de visão. Quando não forem mais necessários, os corvos irão simplesmente desaparecer em uma nuvem de fumaça. { Usuário pode controlar corvos livremente, podendo executar um atk surpresa onde apenas com Sensorial ou Byakugan ativo é possível escapar; Corvos podem atacar; Dano Letal, Rank 3; Dura 4 Turnos}.|| 3x
-Preço: 18.750.000
-Técnica do Clone de Corvo
-Rank: C
-Atk: 400.000
-Def: 400.000
-Hp: 400.000
-Ag: 400.000
-Ck: 400.000
-Ck p/Clone: 20.000
-[ Necessita de Corvos em campo.]
-|| Uma técnica que produz um clone através da projeção de seu próprio chakra com dezenas de corvos. O usuário então usa os corvos como um meio, que exige menos chakra do que a técnica de clonagem normal, enquanto continuam sendo capazes de executar técnicas. Dezenas de corvos se juntam para formar o corpo de um clone. { Quando o chakra projetado pelo usuário é cortado, os corvos se dispersam, embora o usuário seja capaz de refazê-lo ao custo de 20k de Ck} 🍃 { Clones de Corvos não podem ser distinguidos do original por dōjutsus ou sensoriais; Max 10 Clones.}.||
-Preço: 18.750.000
-Ataque da Espada de Fogo Cintilante
-Rank: A
-Atk: 2xLetal
-Ck p/Uso: 25.000
-|| Shisui corre em alta velocidade em direção ao seu oponente e desfere um corte com sua tantō, então ele a infunde com fogo e desfere um segundo corte pelas costas. ( Teleporte e Teletransportes com Sensorial Ativo escapam.).|| 3x
-Preço: 10.000.000
-Estilo Fogo: Bomba de Chamas
-Rank: S
-Atk: Ilimitado
-Ck p/Uso: 50.000
-|| Essa técnica simplesmente dispara um míssil de fogo no inimigo. Se a quantidade de óleo que é preparado é grande, o tempo que leva para invocar a técnica é reduzido. Isso permite que o inimigo seja atingido inconscientemente, permitindo que o míssil de fogo contendo óleo o queime completamente. ( Teleporte e Teletransportes escapam.).|| 3x
-Preço: 15.000.000
-Estilo Fogo: Garras da Fênix Rubra
-Rank: B
-Atk: 4xLetal/Multi-Direcional
-Ck p/uso: 50.000
-|| O usuário libera uma enxurrada de shuriken com uma mão, e, ao mesmo tempo, exala fogo infundido com chakra nelas, a fim de aumentar o potencial de destruição das armas, tornando-as capazes de causar queimaduras graves em contato direto com o alvo, ou qualquer outro objeto preso dentro de sua trajetória. ( Teleportes e teletransportes rank 4 com sensorial ativo escapam.).|| 7x
-Preço: 15.000.000
-Estilo Fogo: Técnica do Grande Dragão de Fogo
-Rank: SSS
-Atk: Ilimitado
-Ck p/uso: 30.000
-|| O Estilo Fogo: Técnica do Grande Dragão de Fogo consiste no usuário comprime uma grande volume de chakra produzido dentro de seu corpo, moldando-o na forma de uma cabeça de dragão de chamas. O usuário então manipula habilmente o fogo, atacando seus opositores. Com experiência, é possível disparar vários dragões de chamas para atingir diversos alvos ou aumentar a chance de acerto contra um mesmo oponente { Acerta 3 alvos.} 🍃 ( Teleporte e Teletransporte rank 4 escapam.).|| 3x
-Preço: 28.000.000
-Liberação de Fogo: Técnica da Fênix Sábia de Fogo
-Rank: A
-Atk: Letal/Multi-Direcional
-Ck p/uso: 35.000
-|| Está técnica cria uma saraivada de bolas de fogo variando em tamanho pequeno até médio, que são lançadas em direções imprevisíveis contra o oponente { Pode ser usado para distrair o adversário e atacar de forma que apenas com sensorial ativo defende.} 🍃 ( Teleportes ou Teletransportes Escapam.).|| 3x
-Preço: 5.000.000
-Katana do Estilo Fogo
-Rank: A
-Atk: Suplementar
-Ck p/Uso: 25.000
-|| A Katana de Estilo Fogo é uma técnica normalmente empregada por especialistas em kenjutsu do clã Uchiha. Com a finalidade de aumentar a letalidade de uma espada, o usuário pode infundi-la com chakra de Estilo Fogo, então ele a empunha para combates a curto alcance { Atk’s feitos com a tantō se tornam Ilimitados queimando o alvo por 2 turnos com 2xLetal.}.|| 2x
-Preço: 10.000.000
-Kunai do Estilo Fogo
-Rank: B
-Suplementar
-Ck p/Uso: 10.000
-|| A fim de aumentar a letalidade de uma kunai, o usuário pode infundi-la com chakra de Estilo Fogo, então ele a empunha para combates a curto alcance. Também é possível usar essa técnica em múltiplas kunai e lançá-las para atingir seus inimigos { Torna todos os atks feitos com kunais 7xLetal e queima alvos por 2 turnos com 2xLetal.}.|| 10x
-Preço: 7.500.000
-Estilo Fogo: Técnica da Grande Bola de Fogo
-Rank: C
-Atk: Ilimitado
+Atk: ilimitado/Multi-Direcional
 Ck p/uso: 70.000
-|| Após formar os selos de mão necessários, o usuário amassa seu chakra dentro do corpo e o converte em natureza de fogo e, em seguida, o expulsa da boca. O fogo expelido pode tomar a forma de uma esfera de fogo maciça ou de um lança-chamas contínuo. O alcance do ataque é alterado através do controle do volume de chakra que está sendo reunido. As chamas lançadas vão engolir o seu alvo, e deixar uma cratera na superfície da terra. { Acerta até 9 alvos.} 🍃 ( Teleportes e teletransportes rank 4 escapam.).|| 5x
-Preço: 18.750.000
-Transversal Cintilante
-Rank: SS
-Atk: 7xLetal
-Ck p/Uso: 100.000
-|| Shisui agarra seu oponente e o chuta para o alto, movendo-se em alta velocidade, onde ele desfere uma série de cortes com sua tantō ( Teletransportes e Teleportes Rank 2 com Sensorial Ativo escapam.).|| 3x
-Preço: 44.000.000
-Técnica de Cintilação Corporal { Shisui }Rank: SS
-Suplementar
-Ck p/Uso: 100.000
-|| Shisui Uchiha que era conhecido por seu uso desta técnica, era temido como “Shisui da Cintilação Corporal” (瞬身のシスイ, Shunshin no Shisui). Sempre que ele empregou esta técnica, Shisui desaparecia de vista, não deixando nenhum vestígio de sua presença, sensorial necessário para detectá-lo { Escapa de qualquer ataque que não seja dimensional até o rank 1.} 🍃 { Se usado para ataque, só poderá ser defendido com sensorial ativo; +50k de Ck p/Curta distância; +150k de Ck p/Média distância; +200k de Ck p/Longa distância; +300k de Ck p Longa distância de ataques globais.}.|| 25x
-Preço: 30.000.000
-Ataque da Espada de Fogo Cintilante
-Rank: S
-Atk: 2xLetal
-Ck p/uso: 10.000 Ag p/Uso: 50.000
-|| Shisui corre em alta velocidade em direção ao seu oponente e desfere um corte com sua tantō, então ele a infunde com fogo e desfere um segundo corte pelas costas. ( Teleportes e Teletransportes Rank 2 com Sensorial Ativo escapam.).|| 3x
-Preço: 38.000.000
-Estilo Uchiha: Dança da Auréola
-Rank: SS
-Atk: 3x Letal
-Ck p/uso: 75.000
-|| Shisui infunde sua tantō em fogo e com um gesto rápido desencadeia uma onda de chamas em direção ao inimigo ( Apenas Teleportes e Teletransportes Rank 4 escapam.).|| 4x
-Preço: 40.500.000
-Kotoamatsukami: Feixe de Luz
-Rank: SSS
-Atk: Genjutsu
-Ck p/uso: 500.000
-|| Shisui usa o poder do Kotoamatsukami, onde um grande Mangekyō Sharingan refletido na lua, brilha em raios de luz e cai causando a desintegração do corpo da vítima em um genjutsu e, com isso, um dano gigantesco é causado na sua mente levando a inconsciência total que ocasiona no fim da batalha. { +90k de ck pode por até 3 alvos no genjutsu; Cada uso faz com que shisui feche um olho e não possa usá-lo novamente até o fim da luta; Alvos acertados ficam incapacitados de lutarem.}.|| 2x
-Preço: 45.000.000
-Liberação de Fogo: Técnica da Fênix Sábia de Fogo — Prego Carmesim
-Rank: SSS
-Atk: Ilimitado
-CK p/uso: 85.000
-|| Através de seu Susanoo, Shisui lança algumas fūma shuriken infundidas em fogo em seu oponente, acerta até 3 Alvos.(Teleportes e teletransportes rank 4 escapam).||3x
-Preço: 11.500.000
-Liberação de Fogo: Fênix Sábia de Fogo
-Rank: SS
-AtK: Letal/Multi – Direcional
-Ck p/uso: 15.000
-|| Esta técnica cria uma saraivada de bolas de fogo variando em tamanho pequeno até médio, que são lançadas em direções imprevisíveis contra o oponente, Se n matar, irá distrair o oponente de modo que sem sensorial ele não defenderá o próximo ataque ( Teleportes e teletransportes escapam.).|| 4x
-Preço: 11.500.000
-Recepção da Espada de Vento Cintilante
-Rank: A
-Atk: Letal
-Ck p/Uso: 25.000
-|| Shisui acerta alguns golpes em seu oponente e realiza uma sequência de ataques de fogo com sua tantō, lançando o oponente para cima { Se acertado, permite um 2° atk que não pode ser defendido } 🍃 ( Teleporte e Teletransportes com Sensorial Ativo escapam.).|| 3x
-Preço: 10.000.000
-Cintilação de Clones
-Rank: SS
-Atk: Letal/Suplementar
-Ck p/Uso: 240.000
-|| Shisui cria dois clones das sombras que avançam em alta velocidade em direção ao oponente e desferem um corte com kunai, ganhando tempo para que Shisui realize uma nova sequência de golpes { Ao acertar permite mais um ataque que não poderá ser defendido.} 🍃 ( Dos clones, Ranks 1 escapam.).|| 4x
-Preço: 30.500.000
-Técnica dos Clones das Sombras
-Rank: SS
-Atk: 900.000
-Def: 900.000
-Hp: 900.000
-Ag: 900.000
-Ck: 900.000
-Ck p/Clone: 80.000
-|| Semelhante à Técnica de Clonagem básica, esta técnica cria cópias do usuário. No entanto, os clones são fisicamente reais, em vez de ilusões. O chakra do usuário é uniformemente distribuído entre cada clone, dando a cada um deles uma fração igual do poder total do usuário. { Clones da sombra não podem ser distinguidos do original com Sharingan, Byakugan ou Rinne Sharingan; Não usam Jutsus Supremos.} 🍃 { Máx. de 12 Clones.}.||
-Preço: 30.000.000
-Quatro Estações Turbulentas
-Rank: S
-Atk: Ilimitado
-Ag p/uso: 60.000
-Ck p/uso: 120.000
-[ Necessário “Itachi” em campo.]
-|| Itachi e Shisui atacam seu oponente com o Estilo Fogo: Técnica do Grande Dragão de Fogo. Através do fogo ardente, Itachi lança uma enxurrada de kunai. Depois, Shisui aparece atrás do oponente, agarrando uma das kunai e, em sintonia com Itachi, lança uma onda de ataques com uma kunai em cada mão. ( Teleporte e teletransporte rank 2 com sensorial ativo escapam.).|| 2x
-Preço: 30.000.000
-Susano’o: Fogo Perfurante
-Rank: SSS
-Atk: 4xIlimitado
-Ck p/Uso: 200.000
-|| Shisui acerta alguns golpes com seu Susano’o, em seguida gira a espada-broca de seu Susano’o em alta velocidade e a infunde com fogo para atacar seu oponente. ( Apenas Teleportes e Teletransportes rank 3 escapam.).|| 3x
+|| Sasori manipula a marionete humana do Terceiro Kazekage para liberar areia de ferro e formá-la em múltiplas lanças longas para cercar e atacar o oponente, tornando a chance de escapar difícil. (Teleportes e teletransportes rank 3 escapam).||5x
 Preço: 12.000.000
-Susano’o: Chama Rotatória
-Rank: SSS
-Atk: 3xIlimitado/Contínuo
-Ck p/Uso: 225.000
-|| Shisui gira a espada-broca de seu Susano’o em alta velocidade para baixo, perfurando o oponente no chão. Logo, ele libera fogo, que circula ao redor da espada-broca, atingindo o oponente. { Rompe qualquer barreira.} 🍃 ( Apenas Teleportes e Teletransportes Rank 4 escapam.).|| 3x
-Preço: 40.500.000
-Susano’o: Perfuração
-Rank: SSS
-Atk: 2xIlimitado
-Ck p/Uso: 100.000
-|| Shisui gira a espada-broca de seu Susano’o em alta velocidade para baixo, perfurando o oponente no chão. { Rompe Barreiras Ilimitadas. } 🍃 ( Apenas Teleportes e Teletransportes escapam.).|| 3x
+
+Assalto da Aglomeração de Areia de Ferro: Martelo
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 50.000
+|| Sasori usa sua marionete humana do Terceiro Kazekage para manipular uma grande quantidade de areia de ferro em um grande bloco, o qual ele pode usar para esmagar seu oponente. (Teleportes e teletransportes rank 3 escapam).||7x
+Preço: 15.000.000
+
+Assalto da Aglomeração de Areia de Ferro: Martelo Gigante
+Rank: S
+Atk: ilimitado/Multi-Direcional
+Ck p/uso: 170.000
+|| Através da Marionete: Terceiro Kazekage, Sasori pode executar uma versão maior da técnica “Assalto da Areia de Ferro: Martelo” atirando dois blocos simultaneamente para formar um único bloco gigante que cai sobre o oponente. (Teleportes e teletransportes rank 3 escapam).||3x
+Preço: 8.000.000
+
+Assalto da Aglomeração de Areia de Ferro: Queda
+Rank: S
+Atk: Ilimitado/Multi-Direcional
+Ck p/uso: 80.000
+|| Depois de formar a areia de ferro em um bloco gigante, o usuário eleva-o acima do oponente e deixa-o cair sobre ele. Devido a ser um objeto pesado, a gravidade propicia um puxão mais forte nele, fazendo com que o tempo que isso leva para chegar ao chão seja muito rápido e com uma grande força por trás dele, tornando-se difícil escapar. (Teleportes e teletransportes rank 2, com sensorial ativo antes, escapam).||3x
+Preço: 14.000.000
+
+Lança de Areia de Ferro
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 50.000
+|| O usuário usa sua areia de ferro para formar uma grande e longa lança para perfurar o inimigo. Seu poder é tão grande que poderia facilmente perfurar o solo e destruir uma área significativa da área também. (Teleportes e teletransportes rank 3 escapam).||5x
 Preço: 10.000.000
-Susano’o: Tsukumo
+
+Escudo de Areia de Ferro
+Rank: SS
+Def: Ilimitada
+Ck p/uso: 170.000
+|| Usando a Areia de Ferro, o usuário cria uma barricada espessa à sua frente, a fim de bloquear ataques frontais. Esta capacidade é forte o suficiente para proteger até mesmo contra um forte ataque do Terceiro Kazekage reanimado pelo Edo Tensei. A técnica também se mostrou forte o suficiente para suportar uma enorme explosão desencadeada por múltiplos explosivos simultâneos de Deidara.{+50k de ck é possível ampliar a areia de ferro do escudo, podendo tornar uma defesa 360°} 🦂 (Se for 360° apenas ataques globais ou superiores rompem).||5x
+Preço: 16.000.000
+
+Chuva de Areia de Ferro
+Rank: A
+Atk: 4xLetal/Multi-Direcional
+Ck p/uso: 200.000
+|| É um ataque de projétil que usa a areia de ferro endurecida em grãos minúsculos para atacar em toda uma vasta gama, Usando a força repelente de magnetismo, a velocidade das balas aumenta rapidamente após os disparos. Além disso, o usuário também pode usar um padrão de ataque, onde as balas de areia de ferro são moldadas em agulhas afiadas, aumentando sua capacidade de ferir ou matar o adversário. (Teleportes e teletransportes rank 3 escapam).||2x
+Preço: 15.000.000
+
+Método do Mundo de Areia de Ferro
+Rank: S
+Atk: 6xletal/Semi-Global
+Ck p/uso: 160.000
+|| Esta técnica utiliza areia de ferro para criar uma esfera gigantesca que ramifica nos pontos. Primeiro o usuário cria duas massas de areia de ferro de campos magnéticos opostos e mescla-os. Isto faz com que as forças magnéticas. A areia de ferro se espalha em picos que se ramificam de forma irregular, tornando quase impossível obter uma visão clara do que está acontecendo. Mesmo que o adversário consiga evitar de ser atingido, os picos da areia terão preenchido o ambiente inteiro, cortando as rotas de fuga. Os espinhos permanecem espalhados pela arena, assim obstruindo a visão do adversário sobre o usuário. (Teleportes e teletransportes rank 2 escapam).||3x
+Preço: 9.000.000
+
+Cordilheira da Areia de Ferro
+Rank: A
+Atk: Ilimitado/Multi-Direcional
+Ck p/uso: 170.000
+|| Sasori usa sua marionete humana Terceiro Kazekage para criar uma parede de Areia de Ferro em sua frente, e em seguida, faz com que vários picos de tamanho variáveis se projetem e atinjam seu oponente. (Teleportes e teletransportes rank 2 escapam).||3x
+Preço: 6.000.000
+
+Funeral de Areia de Ferro
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 100.000
+|| O usuário envia sua Areia de Ferro até o inimigo para envolvê-lo e esmagá-lo em seguida, para sela-lo em Meio a areia de ferro e em seguida o esmagar, algo muito difícil de escapar. Como o as outras técnicas com Areia de Ferro utilizadas por Sasori, ele necessita utilizar a marionete criada a partir do Terceiro Kazekage. (Teletransportes com sensorial ativo antes escapa).||3x
+Preço: 6.000.000
+
+Corrente Mundial da Areia de Ferro
+Rank: A
+Atk: 6xLetal/Multi-Direcional
+Ck p/Uso: 70.000
+|| Sasori usa a marionete Terceiro Kazekage para liberar uma série de longos picos de areia de ferro em torno dele para apunhalar o oponente. (Teleportes e teletransportes rank 3 escapam).||4x
+Preço: 17.000.000
+
+Honra Militar das Mil Mãos
 Rank: SSS
-Atk: Ilimitado/Multi-direcional
-Ck p/Uso: 150.000
-|| Após Shisui manifestar a parte superior do corpo de seu Susano’o, ele abre a caixa torácica para expor seu peito antes de lançar uma enorme enxurrada de grandes agulhas feitas de chakra de cor verde. ( Apenas Teleportes e Teletransportes Rank 2 escapam; Se feito pelo Susano’o Perfeito de Shisui a velocidade aumenta em 1 rank; A curto alcance somente teletransporte do mesmo rank é capaz de escapar).|| 3x
+Atk/Def: Ilimitado
+Ck p/Ativar: 120.000
+[Requer "Marionete Humana: Terceiro Kazekage" em campo]
+|| A partir do braço esquerdo da marionete, abre-se um compartimento que libera outros por meio de um amuleto. Estes compartimentos são incorporados com inúmeros selos de invocação, suscitando um grande número de braços de marionetes longos que pode dobrar e acompanhar o adversário, em seguida, para esmaga-lo com sua força devastadora. Os braços são modificados com lanças. {Também pode ser usado para imobilizar vários inimigos de uma só vez ou prender um único inimigo no emaranhado de braços e cordas; Os braços podem ser usados para bloquear ataques Multi-Direcional e inferiores} 🦂 (Considerado rank 2).||1x
+Preço: 25.000.000
+
+Ataque da Super Arma
+Rank: SSS
+Atk: Venenoso/Multi-Direcional
+Ck p/uso: 200.000
+[Requer "Honra Militar das Mil Mãos" ativa]
+|| O usuário manipula sua marionete para liberar uma bomba com uma grande quantidade de seu Veneno Mortal. O veneno é poderoso o suficiente para matar um ser humano comum, e paralisa aqueles que sobrevivem. {+70k torna a técnica semi-global; O veneno permanece na arena por 2 turnos} 🦂 (Teleportes e teletransportes rank 2 escapam; Caso semi-global, apenas teletransportes escapam).||3x
 Preço: 20.000.000
-Susano’o — Segunda Forma {Shisui Uchiha}
+
+Loja Jounnin
+
+Marionete Humana: Sasori
+Rank: SSS
+Passiva
+Atk: +15.000.000
+Def: Ilimitada
+Hp: +15.000.000
+Ag: Ilimitado
+|| Essa é a Forma Final de Sasori. Sua cavidade do estômago continha um cabo grosso enrolado em torno de um pólio, como um fio de metal, permitindo ao marionetista usá-lo como um ferrão e retrai-lo se necessário. Com cinco lâminas grandes também embebidas com veneno que podiam girar como hélices, Ainda com a capacidade de controlar Livremente suas Marionetes. {Quanto ataca não pode kawarimi, evasão, absorção ou trocas} 🦂 {Quando atingido por ataques a marionete se desfaz, mas é reconstruída no próximo turno, assim Sasori só pode ser morto por ataques globais/ilimitados ou golpes perfurantes que atinjam diretamente seu núcleo; Nesta forma, os movimentos de Sasori serão no mínimo Rank 3} 🦂 {Ao custo de 40k de ck, Sasori dispara um jato de chamas de suas duas mãos, causando dano 4xLetal} 🦂 (Teleportes e teletransportes rank 3 escapam).||1x
+[Para Jounnins: Deve ser o primeiro card enviado por vcs no primeiro turno]
+Preço: 300.000.000
+
+Arremesso de Fio
+Rank: A
+Atk: 3xLetal/Imobilização
+Ag p/uso: 70.000
+[Requer "Marionete Humana: Sasori"]
+|| O usuário faz com que a marionete, com o cordão de ponta afiada instalado, desenrole ele de sua barriga para diversos fins. O cordão serve para perfurar o oponente causando dano, amarra-lo ou cortar fios de chakra. Também serve como condutor de eletricidade. {+30k ck é possível eletrocutar um alvo imobilizado, causando dano Ilimitado} 🦂 (Teleportes e teletransportes rank 3 escapam).||6x
+Preço: 50.000.000
+
+Asas Mecânicas
+Rank: A
+Suplementar
+Ck p/Ativar: 100.000
+Ck p/Turno: 30.000
+[Requer "Marionete Humana: Sasori"]
+|| Sasori utiliza os apêndices de sua forma em Marionete abrindo suas lâminas, que funcionam como um impulsionador de voo. Logo que está no ar, dilacerando tudo que encosta com suas lâminas. {Permite ao seu usuário voar a Rank 2; Alvos a curto alcance tomam dano Ilimitado por conta do giro das lâminas}.||1x
+Preço: 80.000.000
+
+Técnica Vermelha Secreta: Mar de Chamas Exaladas
+Rank: SSS
+Atk: Fatal
+Ck p/uso: 100.000
+[Requer "Marionete Humana: Sasori"]
+|| Utilizando o Lança-Chamas presente na marionete Sasori, o usuário faz com que um fluxo de fogo seja lançado contra o oponente, podendo controlar sua intensidade. Esse fogo é quente o suficiente incinerar totalmente um corpo humano e uma kunai em questão de segundos, embora grandes pedaços maciços de pedras sofram apenas derretidos superficialmente. (Teleportes e teletransportes rank 2 escapam).||2x
+Preço: 100.000.000
+
+Hidro Bomba
 Rank: SS
 Atk: Ilimitado
-Def: Ilimitada
-Ck p/Ativar: 200.000
-Ck p/Turno: 250.000
-Hp p/Turno: 125.000
-|| Shisui Uchiha ganhou acesso a esta técnica após despertar totalmente o potencial de ambos os olhos, através do Kotoamatsukami de ambos seus Mangekyō Sharingan. Ele é de cor verde e tem uma boca grande com dentes caninos inferiores alongados. A construção tem ombros arredondados com lâminas como apêndices sobre eles, bem como do lado de seu rosto e ao longo de seus antebraços. Seu braço direito empunha uma lança, como uma broca que pode ser usada em uníssono com o Estilo Fogo de Shisui para criar um vórtice de chamas. E também é capaz de desencadear uma enxurrada de agulhas de chakra. { Além de agir como defesa 360°, a finalidade do Susano’o varia da criatividade do usuário, podendo até mesmo atingir alvos com poderosos socos de dano Ilimitado, ou apenas usar seus braços para defender um ataque não global, diminuindo seu dano pela metade; O Susano’o de Shisui também pode usar sua broca para atacar de forma Ilimitada ou ao custo de 100k de ck infundir estilo fogo na mesma e criar um vórtice de chamas Multi-Direcional Ilimitado; Ignora atks Letais e abaixo do rank SS, 3 Ilimitados quebram uma parte do Susano’o, sendo necessário pagar 150k ck para reconstruir a parte quebrada; 2 Globais Ilimitados quebram o Susano’o; Alcance dos braços do Susano’o = 5m; Alcance da Broca = 8m; Alcance do Vórtice de chamas = 15m; Ativação deste Susano’o = Rank 0; Tem seus movimentos = Rank 3.}.|| 4x
+Ck p/Uso: 100.000
+[Requer "Marionete Humana: Sasori"]
+|| Sasori pode disparar fluxos pressurizados de água através dos canos em suas palmas, semelhante a um canhão de água, com alcance grande o bastante para ir até uma nuvem e parti-la. Torcendo os pulsos, como botões, Sasori pode condensar os fluxos em cortadores de jato de água que pode cortar através das rochas. Como munição, Sasori também leva quatro pergaminhos em suas costas. {Rompe barreiras até ilimitado; +100k de Ck p/turno é possível manter o fluxo de água por 2 turnos e guia-lo como uma lâmina} 🦂 (Teleportes e teletransportes rank 2 escapam).||4x
+Preço: 80.000.000
+
+Técnica Vermelha Secreta: Performance das Cem Marionetes
+Rank: SSS
+Suplementar
+Ck p/Invocar: 2.000.000
+Ck p/Turno: 500.000
+[Requer "Marionete Humana: Sasori"]
+|| Inicialmente, Sasori remove um pergaminho de invocação de suas costas. Ele então abre seu compartimento no peito direito emitindo mais de uma centena de cordas chakra, que atingem o pergaminho Sasori alegou que ele havia derrubado um país inteiro com esta técnica. {Quando ataca, não pode kawarimi, evasão, assimilação ou trocas} 🦂 {Inimigos acertados por quaisquer ataques realizados por estas marionetes, serão paralisados e morrerão após 3 turnos; Enquanto ativo o usuário é completamente protegido sem receber quaisquer dano até todas as marionetes serem destruídas; Cada marionete causa dano letal; Globais/Ilimitados quebram todas as marionetes} 🦂 {As marionetes tem seus movimentos = rank 2}.||1x
+Preço: 300.000.000
+
+Arte da Matança Combinada
+Rank: SSS
+Atk: Semi-Global/Ilimitado
+Ck p/uso: 600.000
+[Requer dupla com "Deidara" e "Marionete Humana: Terceiro Kazekage" em campo]
+|| Usando sua argila, Deidara cria várias aranhas explosivas e as joga no ar, em seguida, Sasori usa sua marionete do Terceiro Kazekage para criar estilhaços de Areia de Ferro em forma de lâminas que transportam as aranhas até o oponente. O oponente é forçado contra o chão onde as aranhas detonam. A explosão é tão poderosa que Sasori usa sua marionete do Terceiro Kazekage para criar uma barreira de areia de ferro para defender-se. (Apenas outra dimensão escapa).||2x
+Preço: 80.000.000
+
+Chama Combinada
+Rank: S
+Atk: Ilimitado/Multi-Direcional
+Ck p/uso: 70.000
+[Requer "Marionete Humana: Sasori"]
+|| O usuário dispara inúmeras bolas de fogo através de seu lança-chamas anexado nas mãos de sua marionete. {As chamas perseguem seu oponente até que o queime} 🦂 (Apenas teletransportes rank 3 escapam).||3x
+Preço: 80.000.000
+
+Colaboração: Arte Final
+Rank: SSS
+Atk: Global/Ilimitado
+Ck p/uso: 800.000
+[Requer dupla com "Deidara" e "Marionete Humana: Terceiro Kazekage" em campo]
+||Deidara começa criando aves de argila C1, que Sasori manipula com linhas de chakra para acertar o inimigo com maior precisão, depois Deidara cria seu dragão de argila de C2, que Sasori reveste em Areia de Ferro com a marionete do Terceiro Kazekage, também lhe desferindo um golpe com sua cauda espetada. O dragão ataca seu oponente, resultando em uma explosão com estilhaços de Areia de Ferro. (Apenas outra dimensão escapa).||2x
+Preço: 50.000.000
+
+Combinação de Arte
+Rank: SSS
+Atk: Multi-Direcional/Ilimitado
+Ck p/uso: 250.000
+[Requer dupla com "Deidara" e "Marionete: Terceiro Kazekage" em campo]
+|| Sasori, com a marionete do Terceiro Kazekage usa projéteis de areia de ferro enquanto Deidara acrescenta suas aranhas de argila nas agulhas que envenenam o oponente, e em seguida, explodindo-o. (Teleportes e teletransportes rank 2 escapam).||2x
+Preço: 50.000.000
+
+Horror do “Amanhecer”
+Rank: SSS
+Atk: Global/Incalculável
+Ck p/uso: 900.000
+|| Todos os membros se reúnem e começam a correr em direção ao inimigo, desferindo poderosos golpes que se complementam contra o oponente. {Hidan desfere um corte usando sua Foice de Lâmina Tripla; Kakuzu então captura e ataca o inimigo contra o chão; Zetsu, em seguida, emerge do solo com uma mordida da sua planta e um ataque giratório; Deidara e Sasori logo preparam e combinam suas artes a fim de causar uma grande explosão; Orochimaru, então, acrescenta vento à explosão, formando um poderoso furacão; Itachi, em seguida, utiliza o Amaterasu para deixar o furacão ainda mais quente ao ponto de evaporar tudo; Kisame então logo surge com um corte da Samehada; Konan aproveita para desferir diversos ataques rápidos com várias lanças de papel; E, para finalizar, Nagato, através do Caminho Deva, utiliza um poderoso Shinra Tensei} 🦂 {Inimigos atingidos que não morrerem ficam paralisados por 2 turnos} 🦂 (Apenas outra dimensão rank 1 escapa).||1x
+Preço: 40.000.000

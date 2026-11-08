@@ -1,419 +1,206 @@
-Hiruzen Sarutobi (猿飛ヒルゼン, Sarutobi Hiruzen) foi o Terceiro Hokage (三代目火影,
-Sandaime Hokage, Literalmente significa "Terceira Sombra do Fogo") de Konohagakure.
-Sendo um discípulo do Hokage anterior da vila, Hiruzen era um ninja poderoso, aclamado
-como o Deus Shinobi (忍の神, Shinobi no Kami, "O Shinobi Supremo"). Embora ele seja
-originalmente o professor dos Sannin, várias gerações de ninjas de Konoha se beneficiaram
-de sua sabedoria durante sua vida.
-*– Loja Gennin:*
-Estilo Terra: Bomba do Dragão de Terra
+Hinata Hyūga (うずまきヒナタ, (日向)) é a maior personagem de assistência da série. Ela é um membro dos clãs Hyūga e Uzumaki de Konohagakure. Tendo um temperamento humilde, a falta de auto-confiança de Hinata era refletida em suas habilidades — traços que fizeram seu pai considerar que ela não era adequada para a sua posição como herdeira do clã. A partir de suas observações com relação a Naruto Uzumaki, Hinata encontra tanto um exemplo a seguir para ser mais assertiva, como uma pessoa para amar. Em sua filiação com o Time Kurenai, ela procura mudar e se tornar forte, mesmo sendo um pouco de cada vez. Eventualmente, ela e Naruto se casam e ela dá à luz a dois filhos, Boruto Uzumaki e Himawari.
+
+
+
+*– Loja Chunnin.*
+
+Byakugan {Hinata Hyūga}
 Rank: A
-Atk: Multi-Direcional/Ilimitado
-Ck P/Uso: 45.000
-|| O usuário cria uma cabeça semelhante a de um dragão, que dispara bolas de lama em
-direção ao alvo. {+75k de Ck o usuário adiciona fogo nas rochas, tornando o dano da
-técnica 2xIlimitado} 🍃 (Teleportes e Teletransportes Rank 3 escapam).||10x
-Preço: 20.000.000
-—————————————————————
-Estilo Água: Técnica do Projétil de Água
-Rank: A
-Atk: Ilimitado
-Ck p/uso: 25.000
-|| Esta é uma técnica de Estilo Água altamente versátil. Depois de amassar chakra no
-estômago, o utilizador expele uma grande quantidade de água sob a forma de uma corrente
-forte até o objetivo pretendido. {É possível tornar a técnica Multi-Direcional se usado em
-ambiente com água pré existente, atingindo até 5 alvos distintos} 🍃 (Teleportes e
-Teletransportes Rank 3 Escapam).||5x
-Preço: 20.000.000
-—————————————————————
-Estilo Fogo: Bomba do Dragão Flamejante
-Rank: A
-Atk: Multi-direcional/Ilimitado
-Ck p/uso: 55.000
-|| O usuário amassa seu chakra em chamas, que são manipuladas na aparência de um
-dragão e direcionadas para atacar um ou mais alvos a partir de múltiplas direções. As
-investidas são focadas rapidamente, reduzindo o alvo em cinzas. Devido ao poder desta
-técnica, bem como a habilidade necessária para controlar as chamas, pouquíssimos ninjas
-foram capazes de performá-la, sendo o Terceiro Hokage um deles. {Acerta até 5 alvos
-distintos} 🍃 (Teleportes e Teletransportes Rank 3 Escapam).||5x
-Preço: 20.000.000
-—————————————————————
-Técnica dos Clones das Sombras
+Dōjutsu
+Ck p/Ativar: 7.000
+Ck p/Turno: 25.000
+|| O Byakugan (白眼; Literalmente significa "Olho Branco"; Significado (Panini) "Olho Branco que Tudo Vê") é um dōjutsu kekkei genkai do clã Hyūga e do clã Ōtsutsuki. Seu poder a princípio surgiu como uma Kekkei Mōra. Hinata Hyūga também conhecida como a princesa do byakugan, demonstrou ser extremamente habilidosa com seu byakugan passando por diversos treinos para aprimorar seu dōjutsu e assim dominar suas habilidades demonstrando até mesmo a capacidade de localizar oponentes através da visão infravermelha. {O byakugan dá ao usuário uma visão de 360°; Uma visão clara de 50m que pode ser extendida. [+10k Ck p/Turno = +15m; Limite = 10km]; Consegue ver atravéz de objetos sólidos e encontrar alvos em qualquer lugar da dimensão atual até seu alcance de visão; Dá ao usuário visão infravermelho} 🍥 {Identifica e segue movimentos rápidos até o Rank 1; Capaz de ver fluxos de chakra do alvo; Ao custo de 5k de ck o usuário cria uma agulha de ck no dedo indicador que se direcionado a uma vaso de chakra impedem o inimigo de modular charka pelo local afetado por 2 turnos; Podendo notar até os menores detalhes no que vê, impede ocultação de ações e genjutsus exceto Kotoamatsukami e Izanami}.||1x
+
+Deflexão
 Rank: S
-Atk: 500.000
-Def: 500.000
-Hp: 500.000
-Ag: 500.000
-Ck: 500.000
-Ck por clone: 100.000
-|| Os clones podem ser usados de forma ofensiva,defensiva e suplementar além de
-poderem usar jutsus do original exceto genjutsus e alguns jutsus supremos. 🍃 {Clones da
-sombra não podem ser distinguidos do original através de Dōjutsus ou Sensorial; Máx: 10
-Clones}.||
-Preço: 35.000.000
-————————————————
-Balanço Gigante
-Rank: B
-Atk: 3xLetal
-Ag p/Uso: 45.000
-|| O Balanço Gigante é uma manobra de taijutsu que consiste no usuário agarrar o seu alvo
-e girar em torno de seu próprio eixo para ganhar impulso e velocidade, então ele o solta
-para lançá-lo para longe. O dano causado à vitima pode ser maior se ela for lançada contra
-uma estrutura. {Pode ser usado em si com auxílio de um clone, se impulsionando no ar para
-atingir alvos com dano 5xLetal ou arremessar um alvo contra alguma estrutura,
-imobilizando-o por 1 turno; Usado para defesa} 🍃 (Teleportes e Teletransportes Rank 3
-escapam).||8x
-Preço: 15.000.000
-————————————————
-Invocação: Ferramenta Ninja
-Rank: B
-Suplementar
-Ck p/Uso: 50.000
-|| Com o objetivo de facilitar o combate, é possível realizar a invocação de diferentes
-ferramentas ninja. Por não utilizar pergaminhos para deslacramento, esta técnica permite
-aos usuários um método rápido e prático de se armar durante um confronto, o que contribui
-para pegar o oponente em um ataque surpresa. Hiruzen Sarutobi realizou a invocação
-desta ferramenta com o uso do selo Confronto. {Hiruzen pode usar pra invocar Fūma
-Shurikens; Dano: 3xLetal; Quando arremessadas: Ranks 3 escapam} 🍃 {Ck p/uso da
-técnica deve ser multiplicado pela quantidade de Fūma Shuriken invocada}.||5x
-Preço: 10.000.000
-————————————————
-Arte Ninja: Técnica do Corpo da Shuriken Gigante
+Def: Redirecionar
+Ag p/Uso: 80.000
+[Requer "Punho Gentil" em Êxito]
+|| É um movimento que permite defletir ataques diretos ao empurrar o braço de seu oponente para o lado e desviar a rota do ataque, podendo inclusive desferir um contra-ataque. Com isso é possível se defender de dois ataques simultaneamente ao aplicar o uso do Punho Suave. {O usuário pode redirecionar qualquer atk de taijutsu curto até o Rank 2; Após redirecionar um atk, permite contra-atacar com a velocidade dobrada}.||4x
+Preço: 40.000.000
+
+Película de Chakra
 Rank: A
-Atk: Ilimitado
-Ag e Ck p/Uso: 75.000
-|| O usuário lança uma Fuuma Shuriken em direção ao oponente e usa seu chakra para
-ampliá-la massivamente, golpeando o oponente de forma brutal e jogando-o pelo ar. 🍃
-(Teleportes e Teletransportes Rank 3 escapam).||4x
-—————————————————————
-Estilo Raio: Técnica do Projétil de Raio
-Rank: A
-Atk: Ilimitado
-Ck p/uso: 75.000
-|| Depois de amassar chakra no estômago, o usuário o expele sob a forma de uma
-poderosa corrente de relâmpago até o alvo pretendido. {Se não morrer paralisa o alvo por 2
-Turnos} 🍃 (Teleportes e Teletransportes Rank 3 Escapam).||5x
-Preço: 20.000.000
-—————————————————————
-Estilo Vento: Técnica do Projétil de Vento
-Rank: A
-Atk: Letal
-Ck p/uso: 40.000
-|| Depois de amassar chakra no estômago, o usuário o expele sob a forma de uma
-poderosa corrente de vento até o alvo pretendido, ou servindo de suporte para outras
-técnicas ou uma rápida locomoção. {+35k de Ck, o usuário pode usar a técnica para
-levantar uma nuvem de poeira Semi-Global que dura 1 turno; O usuário só poderá ser
-localizado através de Byakugan ou algum meio Sensorial; Globais podem atingir o usuário}
-🍃 (Teleportes e Teletransportes Rank: 3 Escapam).||5x
-Preço: 20.000.000
-—————————————————————
-Técnica do Clone da Sombra de Shuriken
-Rank: A
-Atk: Multi-Direcional/Letal
-Ck p/Uso: 50.000
-Ag p/Uso: 45.000
-|| O jutsu utiliza a Técnica dos Clones das Sombras para criar até mil cópias a partir de uma
-shuriken em um instante, encurralando o oponente com um ataque letal e de difícil esquiva.
-Comparado a criar clones da sombra do próprio usuário, clonar objetos é algo muito mais
-complexo, apesar disso, é um jutsu prático, já que quem o executa não precisa carregar
-várias armas de um mesmo tipo consigo. Como os clones criados são reais, não ilusões,
-todos são tão perigosos quanto o original. {+150k de ck p/triplicar o número de shuriken
-tornando o ataque semi-global/Ilimitado} 🍃 (Apenas teleportes e teletransportes rank 3
-escapam).||3x
-Preço: 20.000.000
-—————————————————————
-Estilo Terra: Grande Rio de Lama
-Rank: S
-Atk: Letal/Suplementar
-Ck p/Uso: 145.000
-|| Depois de formar o selo de mão necessário, o usuário transforma o chão debaixo de seu
-oponente em um rio de lama que lança-o para longe do usuário. {Se combinado com o
-Bomba do Dragão de Terra, o alvo atingido ficará incapacitado por 2 turnos; Pode ser usado
-para se defender, dessa forma o próximo ataque não poderá ser evitado por meios comuns}
-🍃 (Se usado em ambiente aquático ou enlameado apenas Capacidade de vôo, Teleportes
-e Teletransportes rank 2 escapam) 🍃 (Capacidade de vôo, Teleportes e Teletransportes
-Rank 3 com Sensorial ativo Escapam).||5x
-Preço: 35.000.000
-—————————————————————
-Técnica de Cintilação Corporal
-Rank: D
-Suplementar
-Ck p/uso: 25.000
-|| É uma técnica básica de movimento em alta velocidade, permitindo que um ninja mova-se
-de uma curta para uma longa distância a uma velocidade quase indetectável. {+30k de ck
-para ir a local em curto alcance, +70k de ck para ir um local a média distância e +100k de ck
-para ir a um local a longa distância} 🍃 {Ela é realizada usando chakra para vitalizar
-temporariamente o corpo e se mover em velocidades extremas e escapar de Atks até o
-Rank 3}.||4x
-Preço: 20.000.000
-—————————————————————
-Shuriken dos Cinco Estilos: Técnica dos Clones das Sombras
-Rank: S
-Atk: Semi-Global/Ilimitado
-Ck p/Uso: 80.000
-Ag p/Uso: 45.000
-|| Hiruzen cria quatro clones das sombras, então cada um deles invoca uma fuuma shuriken
-que é infundida com um dos cinco elementos. As cinco shuriken são lançadas em um
-mesmo alvo e, ao colidir, explodem. {+140k de Ck pra criar os clones apenas para o uso da
-técnica; Alternativamente, também pode ser usado por clones pré-existentes} 🍃
-(Teleportes e Teletransportes Rank 3 escapam).||4x
-Preço: 35.000.000
-————————————————
-Estilo Raio: Rugido do Trovão
-Rank: A
-Atk: Multi-direcional/Ilimitado
-Ck p/Uso: 80.000
-|| Hiruzen cria um clone das sombras que se aproxima de seu inimigo e ergue a mão em
-direção ao céu para atrair um raio para si. O clone acumula toda a energia elétrica que é
-direcionada para o solo, causando uma grande explosão que o destrói junto e o que estiver
-nas proximidades. {Pode ser usado por clones pré-existentes; Aqueles que não morrerem
-ficarão paralisados pelos próximos 2 turnos} 🍃 {Aqueles à curto alcance do clone quando
-atingido pelo raio não escapam da explosão; Teleportes e Teletransportes Rank 4
-escapam}.||5x
-Preço: 20.000.000
-—————————————————————
-*– Loja Chunnin:*
-Técnica Sensorial
-Rank: A
-Def: Sensorial
-Ck p/Ativar: 10.000
-|| A Técnica Sensorial é um tansakujutsu que permite ao usuário sentir a presença de
-chakra nos arredores, a fim de facilmente detectar e rastrear alvos a partir dele, podendo
-até mesmo distinguir chakras semelhantes por parentesco ou vila. {Previne ataques
-surpresas e pode localizar inimigos em qualquer lugar, exceto em outra dimensão}.||1x
-Preço: 10.000.000
-————————————————
-Estilo Terra: Parede do Estilo Terra
-Rank: A
-Def: Ilimitada
-Ck p/uso: 60.000
-|| O chakra é convertido em terra no interior do corpo e, em seguida cuspindo para formar a
-parede. O utilizador também pode manipular a terra pré-existente de modo à formar a
-parede que imediatamente se levanta e toma forma. 🍃 {Defende Atks até o Rank 2, exceto
-globais/dimensionais ou Jutsus Raiton}.||5x
-Preço: 7.000.000
-————————————————
-Invocação: Rei Macaco — Enma
-Rank: S
-Atk: 15.000.000
-Def: 10.000.000
-Hp: 12.000.000
-Ag: 10.000.000
-Ck: 4.000.000
-Ck p/Invocar: 50.000
-|| Enma é um antigo companheiro de Hiruzen, o que implica que sua própria idade é
-avançada. Enma era ferozmente leal a Hiruzen, apesar de nem sempre aprovar as ações
-dele, sendo um exemplo disso o fato de ele sempre lembrar o Terceiro Hokage de suas
-ações em relação a Orochimaru, sendo que o macaco preferia tê-lo matado na primeira
-chance que tiveram. {Ao custo de 70k de Ag, Enma pode se mover a Rank 2, entre atk e def
-por 5x} 🍃 (Tem seus movimentos considerados Rank 3, quando ataca causa dano
-3xLetal).||1x
+Def: Suplementar
+Ck p/Ativar: 80.000
+Ck p/Turno: 50.000
+|| O usuário libera chakra através de seus 361 tenketsu e o acumula sobre a superfície da pele como uma película fina e invisível aos olhos. {Concede imunidade aos efeitos de cristalização do Estilo Cristal e aos efeitos de congelamento do Estilo Gelo}.||1x
+Preço: 40.000.000
+
+Formação da Barreira de Selamento de Quatro Pontas
+Rank: SS
+Atk: Selamento/Global
+Ck p/Uso: 200.000
+[Requer estar em quarteto com Ino, Sakura e Shizune ou 3 clones]
+|| A técnica é realizada com quatro pergaminhos individuais e uma amostra de sangue, similar à Técnica de Invocação. Shizune mencionou que um bom controle de chakra e concentração são necessários para executar essa técnica, além de um pergaminho para selar a inúmera quantidade de chakra. Esta técnica teria como objetivo selar o Isobu em sua própria dimensão, de forma permanente. {Em seu primeiro estágio a barreira erguesse sobre uma área e procura o alvo; Em seu segundo estágio, após encontrar o alvo, a barreira é então estendida sobre o alvo; E por fim, no seu terceiro estágio a barreira é reduzida e sela o alvo} 🍥 (Caso o selamento seja concluído apenas Teletransportes escapam) 🍥 (Teleportes e Teletransportes rank 4 com sensorial ativo escapam).||2x
 Preço: 50.000.000
-————————————————
-Invocação: Bastão Adamantino
+
+Oito Trigramas: Defesa de Sessenta e Quatro Palmas
+Rank: SS
+Atk/Def: Ilimitado/Multi-Direcional
+Ck p/Uso: 150.000
+Ag p/Uso: 100.000
+[Requer "Punho Gentil" em Êxito]
+|| Criada por Hinata, esta é uma técnica altamente versátil que proporciona capacidades ofensivas e defensivas em que ela emite um fluxo constante de chakra de suas mãos, formando lâminas muito finas e afiadas. 🍥 {Cria uma esfera de lâminas de chakra que defende atks vindo de todas as direções e atinge oponentes dentro do alcance} 🍥 (Teleportes e Teletransportes Rank 2 escapam).||4x
+Preço: 60.000.000
+
+Oito Trigramas: Palma de Vácuo
+Rank: S
+Atk: Ilimitado
+Ag p/Uso: 50.000
+[Requer "Punho Gentil" em Êxito]
+|| Usando o Byakugan como mira ótica, o usuário identifica os pontos vitais do oponente e desfere um golpe de palma secreto em super velocidade. A "bala de vácuo" comprimida pelo Punho Suave é formada para atacar os órgãos vitais do oponente de uma certa distância e tem poder de destruição incrível, lançando os inimigos para longe com uma força tremenda antes mesmo que percebam ter sido atingidos. {Envia uma poderosa e rápida bala de vácuo que atinge o alvo em até média distância e o repele para longe} 🍥 {Rompe barreiras ilimitadas exceto as globais} 🍥 (Teleportes e de Teletransportes Rank 2 com sensorial ativo escapam).||3x
+Preço: 60.000.000
+
+Oito Trigramas: Sessenta e Quatro Palmas
+Rank: SS
+Atk/Def: Ilimitado/Multi-Direcional
+Ck p/Uso: 180.000
+Ag p/Uso: 150.000
+[Requer "Punho Gentil" em Êxito]
+|| É uma manobra do estilo de luta Punho Suave. Com o campo de visão do Byakugan perto de 360°, o usuário visualiza um círculo de Oito Trigramas, então o inimigo dentro desse círculo é atingido com uma série de golpes violentos. Ao atingir sessenta e quatro tenketsu de toda a rede do chakra do inimigo, o seu fluxo de chakra é interrompido, tornando-o incapaz de sequer ficar em pé. {Após o fim dos atks, o oponente fica incapaz de continuar a luta, resultando em sua derrota} 🍥 (Teleportes e Teletransportes Rank 2 escapam).||4x
+Preço: 60.000.000
+
+Passo Suave: Punhos dos Leões Gêmeos
+Rank: SS
+Atk/Def: 6xLetal/Suplementar
+Ck p/Ativar: 200.000
+|| A técnica consiste na liberação de uma grande quantidade de chakra dos punhos, aplicando a Mudança da Forma para que assuma o formato de duas cabeças de leões. Ao atingir o inimigo, a técnica destroça por completo os meridianos de sua rede do chakra, o que aumenta a letalidade de seu taijutsu de forma geral. Por ser uma técnica que possuí um grande nível de dificuldade, somente os usuários do Byakugan que possuem um excelente controle de chakra são aptos o suficiente para utilizá-la de modo que não ocorram falhas. {Técnicas de Taijutsu terão no mínimo o dano desta técnica; Cada punho causa dano 6xLetal individualmente e Ilimitado quando usados em conjunto} 🍥 {Quando usados em conjunto, Rompe Barreiras Ilimitadas exceto as globais}.||1x
+Preço: 60.000.000
+
+Transferência de Chakra
+Rank: A
+Suplementar
+Ck p/Uso: Variável
+|| Essa técnica foi originalmente criada por Hagoromo Ootsutsuki, a fim de "ligar" as energias espirituais de cada pessoa viva. Sua intenção era para que pudesse ser usada para construir e manter a paz através de sua religião de ninshuu, mas esta técnica acabou se tornando mais uma ferramenta para a guerra, quando a humanidade armou o chakra. Essa técnica é utilizada por muitos shinobi, cada um deles mostrando uma maneira diferente de uso. {Pode transferir até 8kk de Ck}.||3x
+Preço: 20.000.000
+
+Vento Suave: Rasen Punho do Leão Gêmeo: Neve Branca
+Rank: SSS
+Atk: 2xIlimitado
+Ck p/Uso: 300.000
+Ag p/Uso: 100.000
+[Requer estar em dupla com Naruto]
+|| Naruto e Hinata unem seus chakra e criam juntos uma face de leão gigante com um Rasengan no interior, formando-os onde se encontra as mãos unidas dos usuários. A técnica mostrou-se forte o suficiente para destruir o Tenseigan de Hamura por completo. {Rompe barreiras ilimitadas} 🍥 {Após o atk do punho, o Rasengan explode causando uma explosão Multi-Direcional} 🍥 {Caso o alvo sobreviva ao atk, o mesmo fica incapaz de se mover por 2 Turnos} 🍥 (Teleportes e Teletransportes Rank 3 escapam).||2x
+Preço: 80.000.000
+
+Centenas de Palmas Furiosas
+Rank: S
+Atk: Ilimitado
+Ck p/Uso: 90.000
+Ag p/Uso: 150.000
+[Requer "Punho Gentil" em Êxito]
+|| Depois de ativar seu Byakugan, Hinata bate no oponente noventa e nove vezes e, em seguida, no último golpe, ela faz seu oponente voar. (Teleportes e Teletransportes Rank 3 escapam).||3x
+Preço: 20.000.000
+
+Fênix Suave: Rasen Punhos de Leões Gêmeos
+Rank: SSS
+Atk: 3xIlimitado
+Ck p/Uso: 300.000
+Ag p/Uso: 100.000
+[Requer estar em dupla com Naruto]
+|| No Modo Kurama, Naruto transfere seu chakra para Hinata, que lança uma Palma de Vácuo no inimigo reforçada com o chakra de Kurama para desequilibrá-lo. Eles dão as mãos e Hinata é rodeada pelo chakra de Kurama. Dessa forma, eles saltam alto em direção ao oponente, de maneira que o chakra vermelho ao redor deles assuma a forma de um pássaro. Hinata usa o Passo Suave: Punhos dos Leões Gêmeos e Naruto forma um Rasengan dentro da mandíbulas do leão, acertando-o no adversário. O inimigo então é detonado em uma explosão, de onde Naruto escapa rapidamente com Hinata. {Rompe barreiras ilimitadas} 🍥 {Causa uma explosão Semi-Global} 🍥 {Caso o alvo sobreviva ao atk, o mesmo fica incapaz de se mover por 2 Turnos} 🍥 (Teleportes e Teletransportes Rank 3 escapam).||2x
+Preço: 80.000.000
+
+Hyuuga: Grande Rotação
+Rank: SS
+Atk/Def: Ilimitado
+[Requer estar em dupla com um Hyūga ou 1 Clone e "Punho Gentil" em Êxito]
+|| Uma técnica colaborativa utilizada por dois membros do clã Hyuuga. Um executa a técnica Oito Trigramas: Defesa de Sessenta e Quatro Palmas e o outro usa as Oito Trigramas: Palma Rotativa em torno dele. Isso cria uma enorme esfera com tanto poder ofensivo quanto defensivo, causando grande dano ao adversário. {Forma uma esfera de lâminas de chakra que defende atks vindos de qualquer direção; Atinge alvos que estiverem em seu alcance, deixando-os paralisados por 2 turnos} 🍥 (Teleportes e Teletransportes Rank 2 escapam).||3x
+Preço: 50.000.000
+
+Oito Trigramas: Defesa de Cento e Vinte e Oito Palmas
+Rank: SSS
+Atk/Def: Ilimitado/Semi-Global
+Ck p/Uso: 300.000
+Ag p/Uso: 150.000
+[Requer "Punho Gentil" em Êxito]
+|| Hinata demonstra uma variação mais poderosa da técnica, "Oito Trigramas: Defesa de Sessenta e Quatro Palmas". Com o intuito de causar danos, sua área de alcance é ampliada em várias vezes, de modo que suas lâminas possam atingir inimigos distantes. {Cria uma esfera de lâminas de chakra que defende atks vindos de qualquer direção e atinge os alvos que estiverem em seu alcance, causando a destruição de vários tenketsu's e os deixando paralisados e incapazes de modular Ck por 2 turnos sobrevivam} 🍥 (Teleportes e Teletransportes rank 2 escapam).||2x
+Preço: 40.000.000
+
+Oito Trigramas: Palma Aiki
+Rank: A
+Atk: 5xLetal
+Ck p/Uso: 50.000
+Ag p/Uso: 80.000
+[Requer "Punho Gentil" em Êxito]
+|| Hinata levanta os braços defensivamente, sendo um contragolpe. Quando o oponente a acerta, ela agarra o oponente e envia-o voando para longe. Ela, então, os atinge com um ataque poderoso com sua palma. {Contra-Ataca atks curtos até o rank 3}.||2x
+Preço: 20.000.000
+
+Oito Trigramas: Palma de Vácuo Celestial
 Rank: S
 Atk/Def: Ilimitado
-Ck p/Transformar: 175.000
-[Requer Invocação do “Enma" em campo]
-|| Enma se transforma em um Bastão muito resistente, sendo usado principalmente por
-Hiruzen em suas lutas. Enma é capaz de projetar partes de seu corpo para fora do bastão,
-demonstrando fortes habilidades em Taijutsu. Durante o ataque do Kurama em Konoha,
-com ajuda de Hiruzen, Enma conseguiu com facilidade em sua forma de bastão se estender
-e jogar Kurama para longe da aldeia. Ele até mesmo podia se clonar gerando vários
-bastões e criando uma espécie de jaula que conseguiu proteger Hiruzen do ataque do
-Primeiro Hokage. Ofensivamente, Hiruzen foi capaz de desferir uma sucessão de golpes
-rápidos e poderosos cortando até mesmo o Estilo Madeira de Hashirama ou os ramos do
-Shinju quando restringiram Naruto na 4° grande guerra ninja. 🍃 {Enma pode se estender
-chegando a grandes distâncias em poucos instantes, considerado Rank 2; +50k de Ck
-p/bastão de 5 metros, +100k de Ck p/bastão de até 10 metros; Apartir de 10 metros o custo
-é somado por 10k de Ck por metro; Max: 20m; Quando ataca rompe barreiras não globais;
-Seus ataques podem incapacitar alvos por 1 turno ao acertar um ponto vital; Ao custo de
-300k de Ck Enma se multiplica criando uma barreira 360° ao redor de Hiruzen que defende
-qualquer ataque até o Rank 2, exceto Semi-Globais ilimitados e superiores} 🍃 (Teleportes
-e Teletransportes Rank 3 escapam).||2x
-Preço: 15.000.000
-————————————————
-Técnica Adamantina: Triturador de Crânio
-Rank: B
-Atk: 3xLetal
-Ck p/Uso: 50.000
-Ag p/Uso: 45.000
-[Requer Enma em campo]
-|| Hiruzen salta em cima da elevação de terra que fez, para alcançar o adversário. Em
-seguida, ele invoca o Rei Macaco: Enma e ataca com ele duas vezes, finalizando com um
-ataque do seu bastão na cabeça do inimigo. {Alvos atingidos na cabeça perderão a
-consciência por 1 turno} 🍃 (Teleportes ou Teletransportes Rank 4 escapam}.||5x
-Preço: 20.000.000
-————————————————
-Presas do Rei Macaco
-Rank: B
-Atk: Ilimitado
-Ck p/Uso: 50.000
-Ag p/Uso: 40.000
-|| Hiruzen dá um pontapé no intestino do oponente, então ele amplia o Rei Macaco: Enma
-na sua forma de bastão. Enma aparece na ponta do bastão, retalhando o alvo com suas
-presas. {Se pego pelo pontapé é impossível evitar os próximos golpes} 🍃 (Teleportes e
-Teletransportes Rank 4 escapam).||7x
-Preço: 20.000.000
-————————————————
-Fuuinjutsu: Selamento Triangular
-Rank: S
-Atk: Selamento
-Ck p/Uso: 175.000
-[Requer dois clones ativos]
-|| O usuário cria dois clones das sombras para formar um selo na forma de uma pirâmide de
-base triangular que isola o oponente dentro. Em seguida, o interior da pirâmide brilha
-intensamente antes de selar o oponente sem deixar vestígios. {Não sela alvos grandes
-como Bijūs ou Susano'os} 🍃 (Antes da pirâmide ser formada apenas Teleportes ou
-Teletransportes Rank 3 com Sensorial ativo escapam; Após sua formação, apenas
-Teletransportes escapam).||4x
-Preço: 20.000.000
-————————————————
-Telescópio: Bola de Cristal
-Rank: S
-Suplementar
-Ag p/Segurar: 40.000
-Ck p/Turno: 70.000
-|| A Bola de Cristal é um utensílio que consiste em uma esfera cristalina, e em alguns casos
-transparente, que permite a realização de certas técnicas, sendo um equipamento auxiliar
-para alguns ninjas. Utilizada principalmente para vigilância ou espionagem, a bola de cristal
-geralmente é ativada quando o usuário coloca suas mãos ao redor do objeto para a
-realização da Técnica do Telescópio, caso as condições necessárias para a técnica sejam
-cumpridas, fazendo com que a imagem do alvo desejado seja projetada no interior da bola
-de cristal. 🍃 {Rastreia e revela a posição de alvos em qualquer lugar dentre atual
-dimensão, mesmo através de barreiras; Após encontrado, a bola de cristal mostrará o alvo
-em tempo real para onde quer que ele vá pelo resto da batalha; Requer que o usuário tenha
-visto o alvo pelo menos uma vez durante a batalha e que ele mantenha a concentração na
-bola de cristal pra que a técnica não se cancele}.||1x
-Preço: 15.000.000
-————————————————
-Transferência de Chakra
-Rank: S
-Suplementar
-Ck p/uso: Variável
-|| Essa técnica foi originalmente criada por Hagoromo Ōtsutsuki, a fim de "ligar" as energias
-espirituais de cada pessoa viva. Sua intenção era para que pudesse ser usada para
-construir e manter a paz através de sua religião de ninshū, mas esta técnica acabou se
-tornando mais uma ferramenta para a guerra, quando a humanidade armou o chakra. Essa
-técnica é utilizada por muitos shinobi, cada um deles mostrando uma maneira diferente de
-uso. 🍃 {Limite de transferência: 10kk de Ck}.||5x
-Preço: 10.000.000
-————————————————
-Estilo Terra: Técnica da Decapitação Suicida
-Rank: S
-Atk: Suplementar
-Ck p/Uso: 75.000
-|| Esta técnica consiste em se esconder debaixo do chão e puxar o alvo para dentro da
-terra. Depois de imobilizar o oponente, quem executou a técnica pode cortar a cabeça ou
-torturar o alvo. {Se acertado, o próximo ataque não poderá ser defendido sem auxílio de
-teletransportes} 🍃 (Teleportes e Teletransportes Rank 3 com Sensorial ativo antes
-escapam).||10x
-Preço: 25.000.000
-————————————————
-Estilo Água: Técnica do Projétil do Dragão de Água
-Rank: S
-Atk: Ilimitado
-Ck p/uso: 90.000
-|| O usuário molda uma grande quantidade de água em um gigante e poderoso dragão, que
-atinge o adversário com poder formidável, causando dano físico. O lugar ideal para usá-lo é
-perto de um corpo de água, mas se a habilidade do usuário permite, é possível usá-lo
-mesmo em um lugar onde não há nenhuma. A quantidade de água utilizada será em
-proporção com a habilidade do usuário. {+75k Ck pode tornar a técnica Multi-Direcional
-podendo atingir até 6 alvos distintos} 🍃 (Teleportes e Teletransportes Rank 2
-Escapam).||7x
-Preço: 25.000.000
-————————————————
-Estilo Vento: Ciclone
-Rank: S
-Atk/Def: Multi-Direcional/4xLetal/Suplementar
-Ck p/Uso: 190.000
-|| Hiruzen manipula chakra de Estilo Vento para gerar um pequeno, porém potente,
-redemoinho em torno de si, que atrai as vítimas próximas e as joga para o alto. Uma vez
-que esse jutsu tenha sido usado, Hiruzen obtém um aumento de 30% em sua velocidade
-por um certo período de tempo. {Após o uso, os movimentos do usuário aumentam em 1
-Rank até que o redemoinho suma naturalmente; Dura 2 turnos} 🍃 (Teleportes e
-Teletransportes Rank 3 Escapam).||5x
-Preço: 25.000.000
-————————————————
-Estilo Água: Formação da Parede de Água
-Rank: A
-Def: Ilimitada
-Ck p/uso: 230.000
-|| Ataques inimigos são completamente interceptados por uma cerca de água soprada para
-fora da boca, e é disparado para baixo com tremenda força. A água é soprada para fora na
-forma de um círculo em torno do usuário, e faz uma defesa, sem aberturas. A força da
-parede e mudança de resistência seguindo a quantidade de chakra derramado para dentro
-da água, assim um shinobi habilidoso será capaz de construir uma resistente. A parede
-também pode ser formada a partir de uma fonte de água pré-existente. {Após o uso, o local
-se torna propício à utilização de outras técnicas da natureza água} 🍃 {+60k de Ck a
-quantidade de água é aumentada e manipulada, fazendo assim uma Def 360°; Defende
-Ataques até o Rank 3, Exceto Semi-Globais/Ilimitados e superiores}.||5x
-Preço: 25.000.000
-————————————————
-Deus das Chamas
-Rank: A
-Atk: Semi-Global/Ilimitado
-Ck p/Uso: 85.000
-|| Primeiro o usuário lança uma técnica de vento contra o inimigo, logo então ele a
-incendeia, criando um turbilhão de chamas que se torna ainda mais mortal. {Dura 2 turnos}
-🍃 (Teletransportes Rank 3 escapam).||3x
-Preço: 25.000.000
-————————————————
-*– Loja Jounnin:*
-Konoha: Milhares de Mãos de Hokage Verdadeiras
-Rank: SSS
-Atk: Global/Incalculável
 Ck p/Uso: 200.000
-[Necessita de todos os Hokages até o 6°]
-|| Em seu Modo Eremita, Hashirama utiliza sua gigantesca estátua de madeira. Os outros
-cinco Hokage — Tobirama, Hiruzen, Minato, Tsunade e Kakashi — canalizam seu chakra na
-estátua, fazendo-a resplandecer com poder. Hashirama separa a estátua de suas várias
-mãos, e aterra uma sequência de seis socos aprimorados com chakra, rapidamente
-movendo a estátua para a frente do oponente após cada ataque para acertar o próximo. O
-último soco é um uppercut, lançando o oponente para o céu, e criando um incêndio na
-forma do kanji de "fogo" (火, hi), o mesmo kanji estampado no chapéu dos Hokage. 🍃
-(Apenas outra dimensão rank 1 escapam).||1x
-Preço: 45.000.000
-————————————————
-Técnica do Combo Massivo de Cinco Estilos
+Ag p/Uso: 150.000
+[Requer "Punho Gentil" em Êxito]
+|| Primeiramente, Hinata acerta o inimigo e lança-o no ar, logo o usuário salta até o céu e realiza um incrível Oito Trigramas: Palma Rotativa, entretanto a esfera maciça aumenta seu tamanho constantemente e assim o inimigo começa a forçar-se contra o solo, assim ele chega a atravessar o solo e sumir no meio da esfera de lâminas. Finalmente, o usuário começa a conter sua rotação, em seguida, ele cai no centro de uma cratera imensa feita com a incrível rotação de lâminas de chakra. {Deixa o alvo paralisado por 2 turnos caso sobreviva} 🍥 (Do primeiro atk, Teleportes e Teletransportes rank 3 escapam) 🍥 (Dos atks realizados no ar, apenas Teletransportes ou capacidade de vôo rank 3 escapam).||2x
+Preço: 40.000.000
+
+Oito Trigramas: Palma Rotativa
 Rank: SSS
-Atk: 5xIlimitado/Semi-Global
-Ck p/Uso: 250.000
-[Requer ao menos 4 clones das sombras ativo]
-|| A Técnica do Combo Massivo de Cinco Estilos é um ninjutsu usado por Hiruzen que
-emprega o uso das cinco Mudanças Básicas da Natureza, com o auxílio de quatro clones
-das sombras. Hiruzen e companhia lançam jatos de Estilo Fogo, Vento, Raio, Terra e Água
-simultaneamente contra um alvo, cada um deles responsável por uma natureza. 🍃
-(Apenas Teletransportes Rank 3 escapam).||5x
-Preço: 30.000.000
-————————————————
-Formação dos Quatro Sóis Vermelhos
-Rank: SSS
-Def: Ilimitada
+Atk/Def: Ilimitado/Multi-Direcional
 Ck p/Uso: 150.000
-[Requer 3 clones ou 3 outros usuários da técnica]
-|| O Usuário Concentra o seu ck assim conseguindo fazer um gigantesca barreira
-extremamente poderosa. {A barreira é de nível semi-global e defende de 360°} 🍃 {A
-barreira só pode ser rompida por Incalculáveis; Alternativamente, também pode ser rompida
-de dentro pra fora através de 3 Globais Ilimitados}.||3x
-Preço: 28.000.000
-————————————————
-Selo Consumidor do Demônio Morto
+Ag p/Uso: 100.000
+[Requer "Punho Gentil" em Êxito]
+|| Esta técnica utiliza o controle de chakra adquirido através do treinamento do Punho Suave para liberar uma enorme quantidade de chakra de todos os pontos de chakra no corpo do usuário. Esta também é uma manobra defensiva para compensar o ponto cego do Byakugan, visto que o chakra liberado bloqueia qualquer ataque possível no usuário. Após a liberação de chakra de cada tenketsu em seu corpo, o usuário executa uma rotação em torno de seu próprio eixo para barrar o ataque, criando com ambos um escudo rotativo de chakra ao redor do usuário e lançando longe qualquer atacante próximo. (Teleportes e Teletransportes rank 1 escapam).||5x
+Preço: 90.000.000
+
+Oito Trigramas: Sessenta e Quatro Palmas Espirituais
+Rank: SS
+Atk: 2xIlimitado
+Ck p/Uso: 100.000
+Ag p/Uso: 80.000
+[Requer "Punho Gentil" em Êxito e estar em dupla com o Neji]
+|| Neji usa as Oito Trigramas: Sessenta e Quatro Palmas, mais ou menos 8 à 16 ataques, na qual, lança seu oponente para o alto. Hinata então o ataca com a Oito Trigramas: Onda de Palmas Agrupadas, mas nos dois últimos golpes aparece uma onda gigantesca de chakra, que manda o oponente novamente até Neji, onde por fim, ele ataca seu alvo com a anterior concentração de chakra em seus dedos. {Caso o alvo sobreviva ele fica paralisado por 2 turnos} 🍥 (Teleportes e Teletransportes rank 2 escapam).||2x
+Preço: 60.000.000
+
+Passo Suave: Punho dos Leões Gêmeos de Bijuu
+Rank: SSS
+Atk: 2xIlimitado
+Ck p/Uso: 150.000
+Ag p/Uso: 50.000
+[Requer estar em dupla com o Naruto]
+|| Naruto e Hinata combinam o Rasengan com o Passo Suave: Punhos dos Leões Gêmeos para atacar seu oponente e, por fim, Naruto finaliza com Canhão Pesado Bijuu. {Rompe barreiras ilimitadas} 🍥 (Teleportes e Teletransportes rank 3 escapam).||2x
+Preço: 80.000.000
+
+Presa de Inseto Gigante: Sessenta e Quatro Palmas
+Rank: SSS
+Atk: 3xIlimitado
+Ck p/Uso: 150.000
+Ag p/Uso: 100.000
+[Requer estar em dupla com Shino, Kiba e Akamaru]
+|| O Time Kurenai se prepara para atacar. Kiba cria um clone da sombra, Shino prepara seus insetos e Hinata concentra chakra em suas mãos. Em seguida, Kiba, seu clone e Akamaru se transformam em um Lobo de Três Cabeças e usam a Cauda Perseguidora de Presa da Presa Giratória de Presa. Hinata se junta ao golpe, deixando-o azul devido a seu chakra, e acerta sessenta e quatro golpes no oponente, aplicando os insetos de Shino. Shino usa um último golpe, que consome o oponente, finalizando com uma grande explosão. {Os insetos de Shino drenam 2kk de Ck do alvo} 🍥 (Teleportes e Teletransportes rank 3 escapam).||2x
+Preço: 80.000.000
+
+Técnica de Recuperação
 Rank: S
-Atk: Selamento/Sacrifício
-Ck p/Uso: 200.000
-|| O Selo Consumidor do Demônio Morto é uma técnica de selamento desenvolvida pelo clã
-Uzumaki para invocar o poder do Shinigami. Após os selos de mão serem realizados, a
-alma do usuário é parcialmente separada de seu corpo e suspensa atrás dele. Somente o
-invocador é capaz de ver o Shinigami neste ponto. Ele então enfia seu braço na alma do
-invocador, permitindo assim que o invocador invoque o Shinigami para selar um alvo: o
-braço do Shinigami emerge do corpo do invocador e agarra a alma do alvo. {Toma posse da
-alma de quem o invocou; Durante o processo o invocador não pode se mexer; Sela toda e
-qualquer forma viva, agindo como um perseguidor que segue a vítima até sela-la;
-Necessário Média Distância} 🍃 {Necessário especificar o que foi selado do oponente;
-Podendo escolher entre incapacitar partes do corpo, selar o chakra em algo ou alguém ou
-até mesmo selar a alma do alvo dentro do Shinigami} 🍃 (Teleportes e Teletransporte rank 2
-com sensorial negativo ativo antes escapam).||1x
-Preço: 140.000.000
-[Nada impede a morte do usuário após a execução dessa técnica]
-————————————————
-*_•Atualizada com carinho: ⛧ Dean Winchester ⛧_*
+Def: Regeneração
+Ck p/Ativar: 100.000
+Ck p/Turno: 50.000
+|| A Técnica de Recuperação é um ninjutsu médico que consiste no usuário produzir Chakra Curativo ao realizar um selo de mão e então liberá-lo nas proximidades como uma barreira. Aliados que estiverem dentro do perímetro da barreira, incluindo o próprio usuário, terão sua a saúde restaurada. {Forma uma barreira de 3m de diâmetro que cura o usuário de ferimentos letais e ilimitados, Não funciona com globais; Aliados que estiverem dentro da barreira} 🍥 {Dura 3 turnos}.||2x
+Preço: 20.000.000
+
+*– Loja Jounnin.*
+
+Kuchiyose no Jutsu
+Rank: SSS
+Suplementar
+Ck p/Invocar: 50.000
+|| Invoca por 3 turnos um personagem que seja necessário para usar combijutsus. {O personagem não pode ser morto e nem pode ser invocado 2 vezes seguidas em uma luta}.||5x
+Preço: 30.000.000
+
+Grande Combo de Palma dos Hyuuga
+Rank: SSS
+Atk: Fatal
+Ck p/Uso: 400.000
+Ag p/Uso: 400.000
+[Requer estar em quarteto com Hiashi, Neji e Hanabi e "Punho Gentil" em Êxito]
+|| Hanabi, Hinata e Neji iniciam desferindo uma série de golpes no adversário enquanto o levam para o alto e, antes que ele caia no chão, eles usam as Oito Trigramas: Palma de Vácuo mandando-o para longe. Em seguida, Hiashi aparece para a surpresa dos outros três, e logo ele usa as Oito Trigramas: Palma da Parede de Vácuo. Com isso, os quatro ativam seu Byakugan e utilizam um cooperativo Oito Trigramas: Sessenta e Quatro Palmas. Neji e Hiashi usam as Oito Trigramas: Palma Rotativa com seu alvo entre eles, que é mandado para o alto, onde é novamente golpeado por Hinata e Hanabi. Logo os quatro concentram chakra em suas palmas e golpeiam o alvo simultaneamente, mandando-o voando por vários metros. {Após o fim dos atks o alvo tem todos os seus tenketsu's destruídos, ficando incapaz de continuar a luta, resultando em sua derrota} 🍥 (Apenas Teleportes e Teletransportes Rank 2 escapam).||2x
+Preço: 100.000.000
+
+Oito Trigramas: Ataque Destruidor dos Leões Gêmeos
+Rank: SSS
+Atk/Def: Ilimitado/Suplementar
+Ck p/Ativar: 300.000
+|| Esta técnica é uma versão aperfeiçoada do Passo Suave: Punhos dos Leões Gêmeos, utilizada por Hinata Hyuuga em uma tentativa de destruir o Tenseigan de Hamura. {Técnicas de Taijutsu terão no mínimo o dano desta técnica; Cada punho individualmente causa dano Ilimitado} 🍥 {Movimentos dos punhos serão no mínimo rank 3} 🍥 {Rompe barreiras ilimitadas excepto globais}.||1x
+*(Nota: Chunnins podem usar os Combijutsus que não estão restritos, porém não poderão invocar o personagem usados através de Kuchiyose no Jutsu)*

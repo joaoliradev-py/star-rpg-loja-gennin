@@ -1,154 +1,788 @@
-Kinshiki Ōtsutsuki (大筒木キンシキ, Ōtsutsuki Kinshiki) era um descendente do clã Ōtsutsuki e o subordinado obediente de Momoshiki Ōtsutsuki. Kinshiki foi muito leal e ele era como uma figura paterna.
+Kakashi Hatake (はたけカカシ, Hatake Kakashi)
+Kakashi Hatake (はたけカカシ, Hatake Kakashi) é um shinobi de Konohagakure. Ele recebeu um Sharingan de seu ex-companheiro de equipe, Obito Uchiha, quando era mais jovem, fazendo-o ser conhecido como Kakashi o Ninja Copiador (コピー忍者のカカシ, Kopī Ninja no Kakashi) e Kakashi do Sharingan (写輪眼のカカシ, Sharingan no Kakashi). Seu prodigioso talento, habilidades e destreza com o Sharingan fizeram dele um dos mais capazes ninjas da aldeia, sendo reconhecido em todo o mundo ninja. Logo um tempo após a Quarta Guerra Mundial Shinobi, Kakashi ocupa o cargo público como o Sexto Hokage (六代目火影, Rokudaime Hokage; Literalmente significa "Sexta Sombra do Fogo").
 
-Absorção de Todas as Coisas
-Rank: SSS
-Absorção
-Ck p/uso: 50.000
-|| Trata-se de uma habilidade manifestada por alguns membros do clã Ōtsutsuki da primeira e segunda classe, que lhes permitem absorver qualquer tipo de chakra, independente de sua forma. {+75k de ck pode absorver globais até o rank 2}.|| 6x
-Preço: 260.000.000
+Loja Chunnin
 
-Deus das Marés
-Rank: SSS
-Atk/Def: Semi - Global/Ilimitado
+
+Rank: ?
+Dōjutsu
+Hp p/Turno: 400.000
+Ck p/Ativar: 300.000
+Ck p/Turno: 400.000
+Kamui: Dimensão Celestial
+|| Depois de testemunhar Rin Nohara morrer nas mãos de Kakashi, Obito Uchiha despertou o Mangekyō Sharingan em seu olho direito, simultaneamente com Kakashi, que possuía o olho esquerdo de Obito. O referido olho possui uma variação de longo alcance de Kamui, sendo capaz de teletransportar alvos dentro da sua linha de visão. {O Mangekyō Sharingan dá um poder aprimorado para as habilidades genéricas do Sharingan, aumentando o nível de percepção do usuário o suficiente para reagir e acompanhar a trajetória visualmente de movimentos até o rank 2 sem nenhum problema e impedindo assim ocultação de genjutsus exceto Tsukuyomi, Kotoamatsukami e Izanami; Enquanto o usuário ataca não pode kawarimi; Previne atks surpresas e age como "sensorial visual"}. || 2x
+Preço: 60.000.000
+
+
+Rank: SS
+Atk/Def: Suplementar
+Ck p/uso: 300.000
+Crueldade
+|| O olho esquerdo de Obito é capaz de utilizar uma versão de longo alcance do Kamui, que pode transportar alvos de qualquer lugar dentro do campo de visão do usuário. O alvo é cercado por uma barreira espacial, onde a localização e o tamanho da barreira varia, e quando o usuário foca no alvo, o espaço no centro da barreira distorce e transporta tudo dentro para outra dimensão. Sendo o próprio usuário, ou até mesmo inimigos. {Pode ser 🌀 usado para escapar de ataques até o rank 3 ou enviar um alvo para a dimensão do kamui, o selando} (Apenas Teletransportes rank 3 escapam). || 3x
+Preço: 30.000.000
+
+
+Rank: A
+Atk: Suplementar/Letal
+Ck p/uso: 120.000
+Corte Relâmpago
+|| O usuário faz uso do Kamui para se teletransportar em uma posição acima de seu alvo, desferindo um golpe para baixo, acertando o inimigo desprevenido. A fim de aumentar a 🌀 letalidade da técnica, pode se fazer uso de armas laminadas como uma kunai. {O dano da técnica pode ser potencializado por armas brancas} (Com sensorial de emoções negativas ou byakugan em êxito, teleportes e teletransportes Rank 2 escapam). || 3x
+Preço: 14.000.000
+
+
+Rank: A
+Atk: 2xIlimitado
+Ck p/uso: 90.000
+Corte da Kunai da Lâmina Relâmpago
+|| O Corte Relâmpago é uma forma melhorada e concentrada do Chidori com os mesmos efeitos e desvantagens. sendo uma versão melhorada, requer uma concentração de chakra avançada, que é exemplificado em sua aparência. De acordo com Might Guy, essa técnica 🌀 ganhou seu nome após Kakashi dividir um raio com ela. {Rompe barreiras ilimitadas, exceto as globais} (Teleporte e teletransporte escapa). || 4x
+Preço: 7.000.000
+
+
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 45.000
+Ag p/uso: 30.000
+Corte Relâmpago: Perfuração das Luzes Gêmeas
+|| O usuário carrega o seu chakra relâmpago em sua kunai, acrescentando poder de corte e perfuração. O usuário também pode lançar a kunai. {+35k Ck, mais chakra relâmpago é adicionado à técnica, fazendo com que a kunai penetre qualquer coisa que ela consiga, sem 🌀 qualquer perda de dinamismo ou mudança na trajetória; Quebra barreiras, até mesmo as Ilimitadas} (Teleporte e teletransporte Rank 2 Escapam). || 3x
+Preço: 5.000.000
+
+
+Rank: S
+Atk/Def: 2xIlimitado
 Ck p/uso: 250.000
-|| Kinshiki canaliza chakra na ponta de seus dedos e os crava no chão e propaga toda sua energia através deles, provocando uma onde de choque que repele todos nas proximidades. {+90k de ck Kinshiki cria uma cratera e derruba seus adversários e soterra os mesmos com os destroços}⚔️(Somente outra dimensão rank 2 ou capacidade de vôo ativa antes escapam).|| 6x
-Preço: 100.000.000
+Liberação de Relâmpago: Raiton Roxo
+|| Kakashi forma dois Corte Relâmpago, um em cada mão para fins diversos. A técnica mostrou-se útil de forma defensiva e ofensiva, bem como poderosa o suficiente para rivalizar contra a Liberação de Relâmpago: Gian de Kakuzu. Kakashi ao utilizar essa técnica tem um poder bruto muito elevado a médio alcance, desferindo golpes consecutivos no alvo a fim de perfurá-lo. {Também pode ser usado defensivamente, onde Kakashi cria uma 🌀 barreira em suas mãos, poderosa o suficiente para repelir ataques de seu oponente; Não repele multi-direcionais e superiores e atks com dano superior à Ilimitado} (Teleporte e teletransporte rank 3 escapam). || 3x
+Preço: 3.000.000
 
-Percepção Sensorial
-Rank: SSS
+
+Rank: B
+Atk: Multi-Direcional/Ilimitado
+Ck p/uso: 70.000
+Liberação de Relâmpago: Rastreamento de Presa da Besta Relâmpago
+|| Essa técnica foi originalmente concebida por Kakashi, a fim de substituir o Corte Relâmpago, ela consiste em reunir chakra de relâmpago em sua mão e então aplicar a transformação da forma para controlar a forma, direção, escopo e força da técnica. Por manter as propriedades padrões da Liberação de Relâmpago, a Eletricidade Roxa possui capacidades de condução e interação elétrica elevadas, podendo ser conduzida através de 🌀 líquidos. {Ao ser adicionado a uma técnica Suiton Global, a eletricidade é intensificada, e ataca de forma que nem mesmo o usuário pode controlar} (Teleporte e teletransporte rank 5 escapam; Se utilizado em um ambiente aquático, apenas outra dimensão escapa). || 3x
+Preço: 13.000.000
+
+
+Rank: S
+Atk: Perseguidor/Ilimitado
+Ck p/uso: 170.000
+Transmissão Relâmpago
+|| Ao aplicar a Mudança da Forma em seu Raikiri, Kakashi consegue moldar uma besta canina feita de relâmpago que persegue os seus alvos.A besta canina é altamente rápida e seus movimentos são imprevisíveis, tornando muito difícil evitá-la. Como a mão de Kakashi permanece conectada ao cão por um fio elétrico, ajustar a quantidade de chakra usada para a técnica permite que ele manipule livremente sua velocidade e alcance para impedir que 🌀 sua presa escape. {Persegue o alvo até que o mesmo fique à longa distância de Kakashi; Se atingido, caso o alvo não morra, o mesmo ficará 2 turnos paralisado} (Teleportes e teletransportes rank 1 escapam). || 3x
+Preço: 6.000.000
+
+
+[Necessita de 1 Clone]
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 150.000
+Combo do Corte Relâmpago
+|| Usando o auxílio de um clone, cada um dos dois Kakashi realizam a técnica Corte Relâmpago em mãos opostas. Conectando as suas técnicas em conjunto, eles formam uma corrente de relâmpagos entre si que é capaz de cortar através de objetos como braços de chakra de bestas com cauda com grande facilidade. Kakashi também foi capaz de envolver 🌀 o relâmpago em torno de um alvo, assim restringindo efetivamente os seus movimentos. {Alvos atingidos que não morrerem ficarão paralisados por 2 turnos} (Teleporte e teletransporte rank 3 escapam). || 3x
+Preço: 3.000.000
+
+
+Rank: S
+Atk: Ilimitado
+Ag p/uso: 30.000
+Ck p/uso: 70.000
+Corte Relâmpago: Ápice Único
+|| Este combo começa com uma série de cotoveladas no oponente, então socando-o no 🌀 rosto, dando uma rasteira nos seus pés, chutando-o com as duas pernas e jogando-o bem alto, então usando o Corte Relâmpago na queda da vítima e derrubando-o no chão. (Teleporte e teletransporte rank 2 escapam). || 3x
+Preço: 7.000.000
+
+
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 60.000
+🌀
+Corte Relâmpago: Duplo Terremoto Relâmpago
+|| Kakashi aparece embaixo de seu oponente e o chuta para o alto. Em seguida, aparece acima dele e acerta o Corte Relâmpago em seu peito, jogando-o para o chão de volta. (Teleporte e teletransporte rank 4 escapam). || 2x
+Preço: 7.000.000
+
+
+Rank: S
+Atk: Ilimitado
+Ck p/uso: 230.000
+Velocidade da Luz
+|| Kakashi forma dois Corte Relâmpago em suas duas mãos e corre contra o adversário, eletrocutando-o com um dos ataques e lançando-o para cima. Logo em seguida, Kakashi persegue o oponente em zigue-zague, deixando um rastro de relâmpagos e luz, finalizando então com o segundo Corte Relâmpago em seu adversário, levando-o para o chão. Ela aparenta ser uma técnica muito difícil de esquivar devido a sua ampla área de ataque, ainda 🌀 podendo deixar o oponente imobilizado por certo tempo. {Paralisa por 1 turno aqueles que sobreviverem ao ataque} (Teleporte e teletransporte rank 2 com sensorial ativo escapam). || 3x
+Preço: 6.000.000
+
+
+Rank: A
+Atk Ilimitado
+Ck p/uso: 70.000
+Chidori: Trovão
+|| Kakashi usa o Raikiri em ziguezague ao redor do inimigo ganhando uma grande 🌀 velocidade, evitando ataques e finalizando o oponente com sua técnica. {Durante o avanço Kakashi pode desviar de ataques que não sejam Multi-Direcionais ou acima até o rank 2} (Teleportes e teletransportes rank 2 escapam). || 5x
+Preço: 5.000.000
+
+
+Rank: A
+Atk: Multi-Direcional/Ilimitado
+Ck p/Uso: 100.000
+Técnica de Ocultação na Névoa
+|| Uma variante do Chidori, onde primeiro o usuário concentra a técnica em sua mão e 🌀 depois libera uma descarga elétrica que cria uma tempestade com relâmpagos provindos do Chidori, devastando a área e finalizando inimigos mesmo no ar. (Teleportes e teletransportes rank 3 escapam). || 6x
+Valor: 2.500.000
+
+
+Rank: S
 Suplementar
-Ck p/ativar: 150.000
-|| Kinshiki possui uma destreza em sensorial sem igual. Com ela, ele era capaz de detectar anormalidade na curvatura de chakra do planeta Terra, mesmo estando à milhares de quilômetros de distância, ele também foi capaz de sentir o chakra de Naruto que estava em konohagakure, mesmo ele estando em Kumogakure. {Ao custo de 300k de ck Kinshiki e capaz de sentir mudanças de chakra em outras dimensões no qual ele já esteve presente; previne atks surpresas; pode localizar alvos em qualquer lugar dentro da dimensão atual}.|| 2x
+Ck p/Uso: 100.000
+🌀
+Cintilação Corporal na Névoa
+|| Após realizar os selos de mão necessários o usuário cospe uma névoa por todo o campo de batalha. {O usuário só pode ser localizado por sensorial ou dōjutsus} {Ao custo de 25k de Ck, o usuário pode adicionar seu próprio chakra à névoa, podendo ser localizado somente por sensorial negativo ou Byakugan}. || 2x
+Preço: 3.500.000
+
+
+[Nescessita névoa em campo]
+Rank: D
+Suplementar
+Ck p/uso: 50.000
+Matança Silenciosa
+|| Permite locomoverem-se entre a névoa sem serem detectados, podendo assim desferir ataques furtivos e eliminar seus alvos com a guarda baixa. Quando em ambientes pobres de névoa, é possível utilizar a Técnica de Ocultação na Névoa, assim gerando uma névoa 🌀 artificial para tornar a técnica possível. Assim com bastante mobilidade, Atacando ou escapando de Atks. {Considerado rank 2}. || 5x
+Preço: 3.500.000
+
+
+Rank: A
+Atk: Fatal
+Ag p/uso: 80.000
+Método de Selamento do Mal
+|| A Matança Silenciosa, como o nome sugere, é simplesmente um método muito tranquilo de matar um oponente, geralmente por trás com uma lâmina. Além disso, uma vez que o usuário se desloca em silêncio, seus ataques não podem ser defendidos, já que não podem 🌀 ser previstos. O usuário, muitas vezes, corta a garganta do oponente, impedindo qualquer grito que ele passa dar. (Com sensorial ativo, teleporte e teletransporte escapam). || 4x
+Preço: 7.000.000
+
+
+Rank: A
+Atk: Letal/Selamento
+Ck p/uso: 140.000
+Invocação: Liberação de Terra: Técnica da Presa Rastreadora
+|| Essa técnica é usada para suprimir marcas induzidas por uma técnica numa pessoa. Marcas de poder mais fraco podem ser completamente suprimidas por essa técnica, mas marcas de poder mais alto como o Selo Amaldiçoado do Céu de Sasuke são suprimidas parcialmente. Esse selo requer um grande número de selos de mão e uma grande quantidade de chakra na sua realização. {Necessita de 1 turno de preparação; Esse selo 🌀 🌀 pode ser removido a qualquer momento pelo usuário; É capaz de selar marcas de poder, certas kekkei genkai e Fūinjutsu} {Não sela Bijus} (Teleporte e teletransporte Rank 5 escapam). || 3x
+Preço: 7.000.000
+
+
+[Necessita dos "Ninken's" em campo]
+Rank: B
+Atk: Letal/Imobilização
+Ck p/uso: 70.000
+Lua Obscura
+|| Depois que o usuário marca um adversário com o seu sangue, ele o coloca entre as mãos e faz os selos antes de bater o pergaminho no chão. Os ninken são invocados e percorrem através do solo seguindo o cheiro do sangue. Quando o alvo é encontrado, eles saem do chão, Perseguem e mordem o adversário e o mantém pressionado com suas bocas. No 🌀 entanto, se o pergaminho de invocação for danificado, a técnica é desfeita e os cães voltam para seu habitat de origem. (Teletransporte rank 4 com sensorial ativo escapam). || 2x
+Preço: 7.500.000
+
+
+Rank: A
+Atk: Ilimitado
+Ag p/uso: 70.000
+Presa Sobre Presa
+|| Kakashi invoca todos seus oito ninken para segurar o oponente, logo em seguida, ele 🌀 entrega um corte mortal rapidamente com sua espada. {Ao utilizar este ataque todos os Ninken's são invocados; Necessário apresentar a legenda dos Ninken's ao usar} (Teleporte e teletransporte rank 4 escapam). || 3x
+Preço: 12.000.000
+
+
+[Precisa de pelo menos 1 ninken em campo]
+Rank: B
+Atk: Ilimitado
+Ag p/uso: 90.000
+Liberação de Água: Formação da Parede de Água
+|| O usuário e seu parceiro ninken rotacionam a uma velocidade feroz e desferem muitos ataques poderosos como bestas quando o contato é feito com o alvo. A força desse ataque 🌀 é forte o suficiente para perfurar uma pedra. Este ataque também pode ser realizado individualmente. (Teleporte e teletransporte rank 2 escapam). || 3x
+Preço: 2.000.000
+
+
+Rank: A
+Def: Ilimitada
+Ck p/uso: 90.000
+Liberação de Água: Técnica da Grande Cachoeira
+|| Esta técnica defensiva cria uma parede de água ao redor do usuário. Ataques inimigos são completamente interceptados por uma cerca de água soprada para fora da boca, e é disparado para baixo com tremenda força. A água é soprada para fora na forma de um círculo em torno do usuário, e faz uma defesa, sem aberturas. É também possível para o utilizador controlar a quantidade de água e duração à vontade. Além disso, já que o campo de visão é mantido mesmo enquanto a defesa pode facilmente ir para o próximo passo, é 🌀 uma grande vantagem. {A barreira pode ser mantida ao longo de vários turno, gerando um custo de 50k de ck por turno} {Não defende semi-globais e superiores; Formação da parede = Rank 2}. || 3x
+Preço: 10.000.000
+
+
+Rank: S
+Atk: Global/Ilimitado
+Ck p/uso: 300.000
+Liberação de Água: Técnica do Projétil do Tubarão de Água
+|| Um grande volume de água é direcionado de uma fonte pré-existente, ou expelido pela boca. Manipular tanta água de uma só vez requer uma grande quantidade de chakra. Uma vez estando alto o suficiente, o usuário pode usar a técnica liberando-a como uma cascata na área do alvo, lembrando uma cachoeira gigante. Como visto no combate entre Zabuza e Kakashi, ao usar uma fonte de água na formação do jutsu, um grande vórtex é criado e direcionado contra o alvo, cuja força é grande o suficiente para danificar o solo, lavando 🌀 tudo na área. {Ataques raiton utilizados em conjunto com a técnica se tornam global/ilimitado} (Apenas outra dimensão escapa). || 2x
+Valor: 14.000.000
+
+
+Rank: C
+Atk/Def: Suplementar/Letal
+Ck p/uso: 50.000
+Liberação de Terra: Múltiplas Paredes do Estilo Terra
+|| O usuário molda a água na forma de um grande tubarão e, empurrando a sua mão para a frente, envia-o para o oponente em alta velocidade, resultando em um impacto poderoso. 🌀 {Ao custo de 60k Ck, o usuário pode também montar no tubarão dentro de água para aumentar drasticamente a sua velocidade de natação, agindo como um teleporte rank 2} (Teleporte e teletransporte rank 4 escapam). || 4x
+Preço: 5.000.000
+
+
+Rank: S
+Def: Ilimitada/360°
+Ck p/uso: 150.000
+Liberação de Terra: Parede do Estilo Terra
+|| Esta Técnica cria uma parede de terra reforçada para ser usada como um mecanismo defensivo. No entanto, utilizando uma fonte pré-existente de terra, esta permite ao usuário criar múltiplas paredes de terra, fortificando ainda mais suas defesas, assim, mesmo que as 🌀 paredes de fora sejam destruídas, as de dentro ainda permanecem intactas. {Não defende semi-globais e superiores} {Formação das paredes = Rank 3}. || 3x
+Preço: 4.500.000
+
+
+Rank: B
+Def: Ilimitada
+Ck p/uso: 40.000
+Liberação de Terra: Técnica da Onda de Terra
+|| O chakra é convertido em terra no interior do corpo e, em seguida cuspido para formar a parede, ou o utilizador pode manipular a terra pré-existente de modo à formar a parede. A terra então, imediatamente se levanta e toma forma. A barreira em si também é revestida 🌀 com chakra, tornando a sua força incomparável à de uma parede de lama normal. {Não defende, Semi-Globais, Globais, Globais/Ilimitados e Atks de elemento raiton} {Formação da parede = Rank 3}. || 5x
+Preço: 4.500.000
+
+
+Rank: C
+Suplementar
+Ck p/uso: 70.000
+Liberação de Terra: Técnica de Esconder-se Como uma Toupeira
+|| O usuário bate com a palma da mão no chão abaixo de seus pés, fazendo-o se mover, 🌀 semelhante às ondas. Assim afastando inimigos, escapando de ataques. É mencionado que esta técnica exige uma quantidade considerável de chakra. {Pode ser utilizada pra impedir ataques curtos até o rank 3 sem auxílio de teletransportes}. || 3x
+Preço: 3.000.000
+
+
+Rank: C
+Suplementar
+Ck p/uso: 40.000
+Liberação de Vento: Grande Destruição
+|| Essa técnica muda a terra em areia fina, canalizando chakra nela, permitindo ao usuário cavar através dela como uma toupeira. Este efeito vai ao redor do corpo, tornando-se grande o suficiente para uma pessoa poder percorrer. O usuário pode localizar seu inimigo, 🌀 apesar de estar no subsolo, ao sentir as forças magnéticas. {Pode ser usado pra escapar de atks ou atacar o oponente de surpresa} (Com Sensorial, byakugan ou capacidade de vôo, Teleportes e Teletransportes Rank 4 Escapam). || 3x
+Preço: 4.000.000
+
+
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 35.000
+Liberação de Fogo: Névoa de Água
+|| Esta Liberação de Vento permite criar uma súbita rajada de vento em escala variável, dependendo da maestria do usuário, a técnica poderá ter um poder destrutivo suficiente para derrubar uma árvore de grande porte. A rajada de vento pode soprar todas as coisas na linha de vista do usuário. Uma variação da técnica envolve uma explosão menor de 🌀 vento que se inflama com uma técnica de fogo. {O usuário pode adicionar Katon a Técnica, tornando ela Global/Ilimitada} (Teleporte e teletransporte rank 3 escapa). || 3x
+Preço: 3.000.000
+
+
+Rank: A
+Atk: Ilimitado/Perseguidor
+Ck p/uso: 50.000
+Liberação de Água: Besta de Água
+|| A partir de seu corpo, Kakashi é capaz de emitir um enorme pássaro de fogo, que ele controla para atacar seus alvos. Contrariando a fraqueza natural das técnicas de fogo, o calor gerado pelo pássaro é tal que, ao invés de se apagar ao entrar em contato com a água, ele a evapora em um instante. Adicionalmente, o pássaro é capaz de expelir um fluxo de chamas a partir de sua boca. {Técnicas do estilo água inferiores à semi-globais não 🌀 defendem este jutsu; Ao custo 80k de ck, o pássaro lança uma rajada de fogo de sua boca que causa dano 2xLetal} (Teletransportes rank 2 escapa). || 3x
+Preço: 2.000.000
+
+
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 60.000
+Liberação de Gelo: Narval Albino
+|| O usuário manipula a água e a transforma em um lobo gigante de coloração amarela. A besta pode lançar poderosas correntes de água de sua boca inundando todo campo de batalha, ou varrer o campo de batalha com suas garras para deixar uma poderosa torrente 🌀 de água para lançar os inimigos para longe. {Ao custo de 70k de Ck, o usuário pode fazer a besta perseguir seus oponentes} (Teleporte e teletransporte rank 4 escapam). || 3x
+Preço: 1.200.000
+
+
+Rank: S
+Atk/Def: Ilimitado/Suplementar
+Ck p/uso: 800.000
+Liberação de Fogo: Projétil de Chama do Dragão de Fogo
+|| Esta técnica permite que o usuário crie uma baleia monstruosa com um longo chifre narval de preexistência de gelo para atacar seu oponente. O utilizador pode usar o tamanho da invocação para destruir barreiras. O grande volume desta técnica é capaz de criar uma grande destruição em cima de uma aterragem. No entanto, devido ao seu tamanho e falta de velocidade, esta técnica é utilizada mais como uma distração, ou para bloquear 🌀 movimentos de um oponente ao invés de ataque. {Ao atacar causa dano Ilimitado e rompe 🌀 barreiras Ilimitadas} {Quando utilizado para defesa, apenas Globais/Ilimitados conseguem atravessar o narval} (Teleportes e teletransportes rank 4 escapam). || 2x
+Preço: 5.000.000
+
+
+Rank: B
+Atk: Ilimitado
+Ck p/uso: 35.000
+Liberação de Fogo: Projétil de Chamas
+|| O usuário amassa seu chakra em chamas, que são manipuladas na aparência de um dragão e direcionadas para atacar um alvo a partir de múltiplas direções. As investidas são focadas, rapidamente, reduzindo o alvo em cinzas ao tocar. Devido ao poder desta técnica, 🌀 bem como a habilidade necessária para controlar as chamas, pouquíssimos ninjas foram capazes de performá-la. (Teleporte e teletransportes rank 4 escapam). || 5x
+Preço: 6.000.000
+
+
+Rank: B
+Atk: Letal
+Ck p/uso: 20.000
+Técnica dos Clones de Relâmpago
+|| Esta técnica é executada pela reunião de óleo que é criado pelo chakra na boca do 🌀 usuário, cuspindo-o fora, e inflamando-o. Essa técnica simplesmente dispara um míssil de fogo no inimigo. (Teleporte e teletransporte escapam). || 5x
+Preço: 7.000.000
+
+
+Rank: A
+Atk: 600.000
+Def: 600.000
+Hp: 600.000
+Ag: 600.000
+Ck: 600.000
+Ck p/Clone: 70.000
+Técnica dos Múltiplos Clones da Sombra
+|| Esta técnica permite ao usuário fazer um clone da sombra infundido com relâmpago. Se o 🌀 clone é ferido, ele voltará ao seu estado de relâmpago natural, ao mesmo tempo eletrocutando tudo o que é tocado. {Clones podem utilizar todas as técnicas do usuário exceto jutsus supremos e derivados de dōjutsus; Ao receberem dano eles retornam ao estado de elemento raiton, eletrificando, paralisando por 1 turno e causando dano Letal à oponentes à curto alcance}. || 5x
+Preço: 12.000.000
+
+
+Rank: A
+Atk: 400.000
+Def: 400.000
+Hp: 400.000
+Ag: 400.000
+Ck: 400.000
+Ck p/uso: 300.000
+Técnica do Clone de Água
+|| Esta técnica é essencialmente uma versão massiva da Técnica dos Clones das Sombras. Em vez de apenas alguns clones como sua técnica mãe, ele cria algumas centenas de 🌀 clones. {Os clones podem ser usados de forma ofensiva, defensiva e suplementar além de 🌀 poderem usar jutsus do original exceto jutsus supremos} {Clones da sombra não podem ser distinguidos do original por dōjutsus ou sensoriais} {Faz 50 clones}. || 4x
+Preço: 5.000.000
+
+
+Rank: A
+Atk: 350.000
+Def: 350.000
+Hp: 350.000
+Ag: 350.000
+Ck: 350.000
+Ck p/Clone: 45.000
+Emissão de Chakra
+|| Semelhante aos clones das sombras, exceto que os clones de água têm um décimo do poder da pessoa original. Tal como outras técnicas de clones sólidos, os clones podem ser usados para executar as tarefas do usuário que estiver incapaz ou não quiser fazer por si mesmo. No entanto, o alcance do clone é limitado, uma vez que não podem viajar muito 🌀 longe do corpo original sem perder o controle. {Clones da água não podem ser distinguidos do original por dōjutsus ou sensoriais} [Max 8 Clones]. || 
+Preço: 3.000.000
+
+
+Rank: S
+Def: +2.000.000
+Ck p/Uso: 120.000
+Técnica de Arrombamento de Fechadura
+|| A Emissão de Chakra é uma técnica defensiva de fluxo de chakra. O usuário libera chakra 🌀 através de seus tenketsu e o acumula pela superfície do corpo, condensando-o e criando uma camada fina e rígida que serve para proteger contra ataques físicos. {Enquanto ativo, o usuário não sofre dano abaixo de Letais e reduz Ilimitados a Letais, exceto semi-globais e superiores; Atks cortantes e perfurantes ultrapassam essa técnica}. || 1x
+Preço: 3.000.000
+
+
+Rank: B
+Suplementar
+Ck p/uso: 30.000
+Técnica da Divisão do Terreno
+|| Mediante situações em que um ninja se depara com uma fechadura trancada e vê-se na 🌀 necessidade de abri-la, é comum o uso de ninjutsu para o arrombamento, sendo que cada um possui seus próprios meios para fazer isso. {Pode ser usado para quebrar barreiras simples, desde que faça sentido, exceto as Ilimitadas}. || 5x
+Preço: 500.000
+
+
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 45.000
+Deus das Chamas
+|| Depois de executar os selos de mão necessários, o usuário bate as mãos no chão, o que 🌀 faz com que a terra entre em erupção debaixo dos pés de seus oponentes. Essa técnica é efetiva ao criar barricadas que levam algum tempo para uma pessoa normal transpor. (Teleporte, teletransporte e capacidade de vôo ativa antes escapam). || 3x
+Preço: 2.000.000
+
+
+Rank: S
+Atk: Global/Ilimitado
+Ck p/uso: 120.000
+Liberação de Terra: Corte da Presa de Broca
+|| Primeiro o usuário lança uma técnica de vento contra o inimigo, logo então ele a incendeia, criando um turbilhão de chamas que se torna ainda mais mortal. Há uma diferença do uso da técnica de vento de Kakashi Hatake e Momoshiki Ōtsutsuki, uma vez 🌀 que o Ōtsutsuki lança um tornado de vento já formado e o Hatake lança uma explosão de vento que se torna um pequeno redemoinho em contato com o fogo. (Teleporte e teletransporte rank 3 escapam). || 3x
+Preço: 10.000.000
+
+
+[Necessita de Liberação de Terra: Técnica de Esconder-se Como uma Toupeira]
+Rank: C
+Atk: Letal
+Ag p/uso: 30.000
+Personificação da Sakura Interior
+|| Aproveitando-se de uma manobra surpresa, o usuário, em um momento de distração do 🌀 oponente, executa um soco vindo do chão. O usuário também pode utilizar uma kunai ao invés do soco para aumentar a fatalidade da técnica. (Teleporte, teletransporte e Capacidade de Vôo com sensorial ativo escapam). || 3x
+Preço: 6.000.000
+
+
+Rank: A
+Atk: +400.000
+Def: +400.000
+Ag: +400.000
+Ck p/Ativar: 200.000
+Técnica de Imitação pela Sombra
+|| Esta técnica consiste basicamente na manifestação da personalidade oculta de Sakura Haruno no usuário. Kakashi é capaz de exteriorizar a personalidade oculta de Sakura a fim 🌀 de aplicar genjutsu ou desferir golpes de taijutsu nas mais diversas combinações. {Aumenta a força de Kakashi fazendo seus taijutsus terem dano Letal} {Dura 2 turnos}. || 2x
+Preço: 4.000.000
+
+
+Rank: B
+Atk/Def: Suplementar
+Ck p/uso: 150.000
+Técnica de Procura
+|| Depois de performar o único selo de mão necessário, o usuário tem a sua sombra estendida por uma área considerável e em qualquer superfície. Assim que a sombra do usuário entrar em contato com a outra sombra, o alvo é paralisado e os movimentos da 🌀 vítima se tornam exclusivos do usuário desta técnica, repetindo, assim, qualquer ação que o usuário fizer também será imitada. (Teleportes e teletransportes rank 3 escapam). || 3x
+Preço: 7.000.000
+
+
+Rank: B
+Suplementar
+Ck p/uso: 10.000
+Técnica de Troca da Mente do Corpo
+|| Tem sido mostrados várias formas para o uso dessa técnica, que geralmente consistem 🌀 em analisar mudanças não-naturais no ambiente circundante para encontrar rastros deixados por um fugitivo. {Encontra oponentes em qualquer lugar na dimensão atual através de pistas; Requer especificação do que foi usado pra localizar o oponente}. || 1x
+Preço: 3.000.000
+
+
+Rank: A
+Atk: Suplementar
+Ck p/uso: 60.000
+Técnica de Ignição da Nuvem de Poeira
+|| Originalmente, esse ninjutsu foi adequado para missões de recolha de informações ao invés de batalha. Com ela, um ninja envia sua mente como energia espiritual ao corpo de um alvo implantando a mente do alvo com a sua própria. {O usuário transfere sua consciência para o alvo, dando-lhe controle total do corpo do alvo por 2 turnos, mas assim deixando o corpo do usuário desprotegido} 🌀 (Teleporte e teletransporte rank 2 escapam). || 3x
+Preço: 7.000.000
+
+
+[Necessita de 1 Clone]
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 45.000
+Arte Ninja: Cópia de Ninjutsu
+|| Esta é uma técnica de colaboração onde um usuário de Liberação de Fogo engole o 🌀 oponente em chamas que são então complementadas por um usuário de Liberação de Vento, aumentando o alcance e poder das chamas. (Teleportes e teletransporte escapa). || 3x
+Preço: 2.000.000
+
+
+[Necessita de 2 Clones]
+Rank: S
+Atk: Global/Ilimitado
+Ck p/uso: 300.000
+Espada Relâmpago
+|| Kakashi e seus Clones saltam, logo em seguida fazem selos de mão necessários simultaneamente: um dos clones utiliza a Liberação de Vento: Grande Destruição, o original utiliza a Liberação de Água: Técnica do Projétil do Dragão de Água e o último clone utiliza a 🌀 Liberação de Fogo: Técnica da Grande Bola de Fogo, as técnicas se chocam causando uma enorme explosão massiva sobre o oponente. (Apenas outra dimensão rank 4 escapa). || 2x
+Preço: 26.000.000
+
+
+[Necessita de Yūgao em campo]
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 35.000
+🌀
+Fluxo da Palma de Madeira e Relâmpago
+|| Kakashi joga o oponente no ar, onde Yūgao chuta-o e em seguida, ataca-o com sua espada, logo Kakashi finaliza com o Corte Relâmpago, assim dando duplo dano no alvo. (Teleporte e teletransporte rank 4 escapam). || 3x
+Preço: 7.000.000
+
+
+[Necessita de Yamato]
+Rank: S
+Atk: Ilimitado
+Ck p/uso: 60.000
+🌀
+Mestre e Aluno: Rasengan
+|| Yamato ataca o oponente com a Liberação de Madeira: Técnica da Grande Floresta e em seguida Kakashi ataca a madeira com Corte Relâmpago que atinge o oponente. (Teleporte e teletransporte rank 3 escapa). || 3x
 Preço: 50.000.000
 
-Fundição Furiosa
-Rank: SSS
-Suplementar
-Ck p/criar: 250.000
-Ck p/turno: 120.000
-|| Kinshiki manifesta um arco de chakra que flutua em suas costas, através do qual ele extrai e molda variadas armas e ferramentas. As armas criadas possuem resistência elevada, visto que não se quebravam mesmo com a pressão dos golpes que Kinshiki realizava com elas. Kinshiki também pode produzir múltiplas armas ao mesmo tempo, que ele manipula telecineticamente para alvejar inimigos distantes. Quando a técnica e desfeita, as armas se desintegram como vidro quebrando e dão espaço para a produção de novas criações. {+60k de ck Kinshiki e capaz de infundir chakra do elemento raio, paralisando o alvo por 1 turno}⚔️{+60k de ck Kinshiki e capaz de infundir chakra do elemento fogo, causando queimaduras que causam dano 3x letal}⚔️{+120k de ck Kinshiki e capaz de infundir chakra dos elementos raio e fogo, causando uma explosão de dano ilimitado}⚔️{As armas tem seus atks com dano ilimitado; criação das armas são a rank 1; nada impede que as armas sejam criadas}.|| 1x
-Preço: 120.000.000
 
-Técnica de Expansão Muscular
-Rank: SS
-Suplementar
-Ag p/uso: 400.000
-Ck p/uso: 350.000
-Ck p/turno: 300.000
-|| Graças as habilidades de manipulação do corpo concedidas pelo estilo yang, Kinshiki e capaz de usar seu chakra para inchar seus músculos, efetivamente aumentando sua força física. Kinshiki usa a técnica para condensar a massa muscular, a fim de ampliar sua agilidade e velocidade. {Quando ativo atks físicos ganham status de ilimitado; o usuário ganha buff de velocidade em 2 rank}.|| 3x
-Preço: 100.000.000
-
-Portal Espaço Temporal
-Rank: SSS
-Suplementar
-Ck p/uso: 300.000
-|| Kinshiki foi visto utilizando um portal semelhante ao Kamui de Obito Uchiha, com seu ponto de abertura saindo de seu olho coberto por suas vestes, não foi revelado como funciona esse poder, mas foi mostrado que o mesmo é capaz de entrar e sair de inúmeros mundo ou dimensão. {Kinshiki pode levar até 3 pessoas junto com ele, desde que eles entrem antes dele} ⚔️(Apenas teleporte e teletransporte rank 2 com sensorial de emoções negativas ou visão 360° ativa escapam).|| 6x
-Preço: 250.000.000
-
-Cintilação Corporal Raiton
-Rank: S
-Suplementar
+[Necessita de 1 Clone em campo]
+Rank: A
+Atk: Ilimitado
 Ck p/uso: 75.000
-|| Kinshiki foi visto utilizando perfeitamente a técnica de Cintilação Corporal Raiton, ele foi rápido o suficiente para acompanhar os movimentos de Sasuke Uchiha utilizando a mesma técnica. (Considerado rank 2).|| 9x
-Preço: 70.000.000
+Técnica da Chegada da Fênix com Incêndio Elétrico
+|| Uma técnica colaborativa utilizada por dois usuários do Rasengan, um dos quais era o professor, que ensinou o Rasengan para o outro. Em simultâneo, cada um deles formam um 🌀 Rasengan e atacam seu oponente em conjunto, fazendo duas vezes o dano do que um único Rasengan faria. (Teleporte ou teletransporte escapam). || 4x
+Preço: 10.000.000
 
-Liberação de Fogo: Bestas Ardentes
-Rank: SS
-Atk: Multi - Direcional/Ilimitado
-Ck p/uso: 150.000
-|| Kinshiki é capaz de lançar um poderoso fogo ardente que assume a forma de um cachorro e um macaco gigante. As bestas avançam em direção aos seus oponentes e podem atacar múltiplos alvos simultaneamente. {As bestas ficam 1 turno caçando e atacando seus alvos} ⚔️(Apenas teleporte e teletransporte rank 3 escapam).|| 5x
-Preço: 80.000.000
 
-Flechas Aladas Celestiais
-Rank: SSS
-Atk: Sacrifício/Multi - Direcional/Incalculável
-Ck p/uso: Variável
-[Necessita de Fundição Furiosa ativa]
-|| Ao espremer cada pingo de chakra contido em seu corpo, Kinshiki manifesta múltiplas armas de chakra que ele manipula telecineticamente próximas de si. Ao seu comando, uma torrente de armas é disparada em rápida velocidade rasgando tudo em seu caminho. Esse atk só pode ser feito por aqueles que já aceitaram a morte, e é tão poderoso que, no romance, mesmo Naruto e Sasuke combinando a Kurama e Susano'o foram atirados para longe, enquanto que no filme ela foi capaz de destruir as raízes de uma Árvore Divina. (Apenas teleporte rank 0 e teletransporte rank 1 com sensorial ativo antes escapam).|| 1x
-Preço: 300.000.000
-
-Corte Alado Celestial
-Rank: SSS
+[Necessita de 1 Clone]
+Rank: A
 Atk: Ilimitado
-Ck p/uso: 100.000
-Ag p/uso: 110.000
-[Necessita Fundição Furiosa ativa]
-|| Kinshiki cria duas enormes foices de chakra com as quais atinge o oponentes que estejam até médio alcance, girando como um tornado em seu próprio eixo. (Apenas teleporte e teletransporte rank 2 escapam).|| 4x
-Preço: 110.000.000
+Ck p/uso: 40.000
+Técnica da Mina Terrestre de Lança-ificação
+|| Uma técnica de colaboração usada entre um usuário de Liberação de Relâmpago e outro de Liberação de Fogo. Usando do relâmpago, o inimigo é eletrocutado, antes de ser, logo 🌀 após, carbonizado com o fogo expelido. O contato do relâmpago com o fogo gera uma explosão. (Teleporte e teletransporte rank 3 escapam). || 3x
+Preço: 7.000.000
 
-Lança Celestial Invertida
-Rank: SSS
-Atk: Ilimitado
-Ck p/uso: 100.000
-Ag p/uso: 110.000
-[Necessita Fundição Furiosa ativa]
-|| Kinshiki golpeia seu oponente com um kanabō de chakra, atirando-o para longe. Em seguida, ele avança até seu alvo em alta velocidade e, com um par de lâminas de mão, ele desfere um poderoso golpe carregado de chakra. (Apenas teleporte e teletransporte rank 2 escapam).|| 4x
-Preço: 110.000.000
 
-Machado do Julgamento
-Rank: SS
-Atk: Ilimitado
-Ck p/uso: 100.000
-Ag p/uso: 110.000
-[Necessita Fundição Furiosa ativa]
-|| Kinshiki materializa um machado de chakra e desfere um corte transversal diagonal em seu oponente, então ele salta e o finaliza com um corte descendente com força o suficiente para demolir o terreno próximo. (Apenas teleporte e teletransporte rank 2 escapam).|| 4x
-Preço: 110.000.000
-
-Martelo Sagrado
-Rank: SSS
-Atk: Ilimitado
+[Necessita de 1 Clone]
+Rank: A
+Atk: Ilimitado/Suplementar
 Ck p/uso: 70.000
-[Necessita Fundição Furiosa ativa]
-|| Kinshiki desfere vários socos em seu oponente, então ele manifesta um martelo de chakra e lhe dá uma martelada, atirando-o contra o chão. (Apenas teleporte e teletransporte rank 2 escapam).|| 4x
-Preço: 100.000.000
+Técnica de Calamidade da Descarga Relâmpago
+|| Uma técnica de colaboração realizada por usuários de Liberação de Terra e Liberação de Relâmpago. O usuário de Liberação de Terra usa seu chakra para criar uma lança feita de areia e terra, que é posicionada perto do usuário, protegendo o mesmo. O usuário de 🌀 Liberação de Relâmpago então eletrifica a lança, que ao fazer contato curto causa graves danos ao oponente. (Teleporte e teletransporte rank 3 escapam; Da lança apenas Teleportes e teletransportes ranks 2 escapam). || 3x
+Preço: 13.000.000
 
-Força Sobre - Humana
+
+[Necessita de 1 Clone]
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 80.000
+Técnica de Erupção Selvagem da Terra Derretida
+|| Uma técnica de colaboração usada por um usuário de Liberação de Água e um usuário de Liberação de Relâmpago. O usuário de Liberação de Água cria uma grande poça de água, 🌀 em seguida, o usuário de Liberação de Relâmpago eletrocuta a água conduzindo rapidamente a eletricidade em direção ao alvo, causando uma explosão. (Teleporte e teletransporte rank 3 escapam). || 3x
+Preço: 10.000.000
+
+
+[Necessita de 1 Clone]
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 55.000
+Técnica do Deus do Vento e Deus do Trovão
+|| Uma técnica colaborativa realizada por um usuário de Liberação de Terra e um usuário de 🌀 Liberação de Fogo. Um estoura pedaços de terra do chão, enquanto o outro queima os pedaços de terra, e assim explodem sobre o oponente. (Teleporte e teletransporte rank 3 escapam). || 3x
+Preço: 12.000.000
+
+
+[Necessita de 1 Clone]
+Rank: A
+Atk: Ilimitado
+Ck p/uso: 45.000
+Técnica do Incêndio Elétrico do Lótus Carmesim
+|| Uma técnica de colaboração usada por um usuário de Liberação de Vento e Liberação de Relâmpago. O usuário de Liberação de Vento cria um tornado gigante que gira em direção ao oponente, após o qual o usuário de Liberação de Relâmpago passa uma corrente 🌀 elétrica através do tornado. {Causa paralisia de 1 turno aos alvos atingidos que sobreviverem ao ataque} (Teleporte e teletransporte rank 3 escapam). || 3x
+Preço: 8.000.000
+
+
+[Necessita de Obito]
+Rank: S
+Atk: 3xIlimitado
+Ck p/uso: 80.000
+Trindade
+|| Obito expele uma grande quantidade de fogo a partir de sua boca em espiral, que forma um torno para, em seguida, Kakashi adiciona seu chakra relâmpago. O tornado, logo, ganha força e velocidade para se expandir rapidamente por toda a área até o oponente, de modo a 🌀 incinerar o oponente. {Oponentes atingidos que não morrerem receberão dano letal por 2 turnos graças as queimaduras} (Teletransporte rank 4 e capacidade de vôo ativa antes escapa). || 2x
+Preço: 30.000.000
+
+
+[Necessita de Obito e Minato]
+Rank: S
+Atk: 3xIlimitado
+Ck p/uso: 300.000
+Trio Impecável
+|| Obito usa a Liberação de Fogo: Técnica da Fênix Sábia de Fogo e Minato joga algumas Kunai do Deus Voador do Trovão no oponente. Kakashi aproveita e forma um Chidori, dando tempo para Obito ativar seu Sharingan e Minato teleportar os dois usando a Técnica do Deus Voador do Trovão. Kakashi acerta o oponente com seu Chidori e Obito chuta o oponente, em seguida, Kakashi dá uma breve corrida e volta com um novo Chidori que acerta novamente o oponente. Minato então se teleporta até o oponente e os três atacam 🌀 em conjunto, Obito esfaqueando com uma kunai, Minato cortando o oponente com sua kunai e Kakashi com o Sabre de Chakra da Luz Branca. (Apenas teleportes e teletransportes rank 1 escapam). || 2x
+Preço: 15.00.000
+
+
+[Necessita de Obito e Rin]
+Rank: S
+Atk: Ilimitado
+Ck p/uso: 300.000
+Técnica do Projétil do Dragão de Terra
+|| Kakashi, Obito e Rin avançam em direção ao oponente. Kakashi dá alguns cortes no oponente com sua Sabre de Chakra da Luz Branca, Obito acerta um golpe de kunai e Rin chuta o adversário. Enquanto o oponente está atordoado, Rin torce por Kakashi e Obito. Em 🌀 seguida, Obito atira várias bolas de fogo contra o oponente e Kakashi finaliza com mais um corte de seu Sabre de Chakra da Luz Branca. (Teleporte e teletransporte rank 2 escapam). || 2x
+Preço: 6.000.000
+
+
+[Necessita de 1 Clone]
+Rank: B
+Atk: Letal
+Ck p/uso: 75.000
+Técnica Sensual
+|| Uma técnica de colaboração entre um usuário de Liberação de Água e um usuário de Liberação de Terra onde água e terra são misturadas criando um dragão de lama que ataca 🌀 o oponente cuspindo Lama. {Ao custo de 40k de Ck, o dragão se desfaz atacando o alvo com toda sua lama, tornando o ataque Multi-Direcional} (Teleporte e teletransporte rank 4 escapam). || 3x
+Preço: 3.000.000
+
+
+Rank: A
+Atk: Suplementar
+Ck p/uso: 30.000
+Transferência de Chakra
+|| A Técnica Sensual é simplesmente uma Técnica de Transformação usada para transformar o usuário em uma mulher bonita, nua de uma forma muito sedutora com pose, 🌀 névoas de fumaça cobrindo suas partes íntimas. {Imobiliza qualquer shinobi por 1 turno; Não funciona contra kunoichis e Ōtsutsukis } {Não pode ser usado 2x seguidas}. || 3x
+Preço: 7.000.000
+
+
+Rank: A
+Suplementar
+Ck p/uso: Variável
+Retorno do Espelho
+|| Essa técnica foi originalmente criada por Hagoromo Ōtsutsuki, a fim de "ligar" as energias espirituais de cada pessoa viva. mas esta técnica acabou se tornando mais uma ferramenta 🌀 para a guerra, quando a humanidade armou o chakra. Essa técnica é utilizada por muitos shinobi, cada um deles mostrando uma maneira diferente de uso. {O chakra gasto é equivalente ao chakra transferido}. || 3x
+Preço: 6.000 000
+
+
+Rank: A
+Atk: Genjutsu/Suplementar
+Ck p/uso: 100.000
+Técnica do Templo de Nirvana
+|| Após fazer com que o oponente olhe para a fonte do genjutsu, o usuário coloca a vítima 🌀 em uma ilusão que a obriga utilizar seus golpes ou ferramentas em si enquanto pensa estar usando no inimigo assim recendo todo o dano na qual Kakashi "iria" receber. {Pode ser usado como um contra ataque a ataques não surpresas até o rank 2}. || 4x
+Preço: 8.000.000
+
+
+Rank: S
+Atk: Genjutsu/Semi-Global
+Ck p/uso: 130.000
+Ilusão Demoníaca: Técnica da Visão do Inferno
+|| Quando ativo, uma chuva de penas brancas ilusórias cai. Quem vê-las caindo, acumulando e cobrindo toda a área em volta, vai cair em um estado de sono tranquilo. Não 🌀 importa o quanto alguém resiste ao encanto hipnótico, o desejo de dormir é instintivo, e não há como lutar contra isso. {Precisa de 1 turno de preparação}. || 3x
+Preço: 10.000.000
+
+
+Rank: B
+Atk: Genjutsu
+Ck p/uso: 35.000
+Genjutsu: Liberar
+|| Este é um genjutsu que revela os medos que habitam dentro do coração das pessoas. Todo mundo tem uma imagem da única coisa que não quer nunca ver. Este genjutsu é uma técnica que chama para fora essa tal imagem a partir de dentro do coração e o modifica para a realidade. Primeiro, um círculo imaginário de folhas vai girar ao redor e envolver o alvo, fazendo-o cair logo depois. Após um curto período, a ilusão começará. 🌀 {Leva o alvo a inconsciência por 3 turnos}. || 4x
+Preço: 3.600.000
+
+
+Rank: A
+Def: Suplementar
+Ck p/Uso: 120.000
+Kubikiribouchou
+|| Ao cair em um genjutsu, o chakra no cérebro do alvo segue o fluxo da ilusão do seu inimigo. Interrompendo a circulação do chakra por um curto período de tempo, é possível quebrar a ilusão. Apesar disso, para que isso seja efetivo é necessário usar mais poder do 🌀 que a pessoa que está aplicando o genjutsu. {Necessita saber que está sob efeito de um genjutsu; Pode ser usado para libertar aliados} {Não dissipa Tsukuyomi Infinito, Tsukuyomi, Genjutsu Rinnegan e Izanami; Se usado em si mesmo, também é ineficaz contra genjutsus que paralisam o corpo do alvo}. || 5x
+Valor: 1.000.000
+
+
+Rank: S
+Atk: 3xLetal
+Ag p/empunhar: 80.000
+Tantō
+|| A Kubikiribouchou é uma espada enorme em forma de uma faca gigante de açougueiro, ganhando o título de "Espada Decepadora" (断刀, Dantou). Como as outras armas que pertencem aos Sete Espadachins Ninja da Névoa, a espada é passada de geração em geração entre os membros do grupo. {A espada possui capacidades regenerativas; Caso ela seja destruída o usuário pode utilizar sangue para que a espada possa se regenerar 🌀 através do ferro presente no sangue; +80k de ck, Kakashi pode canalizar chakra raiton na espada, tornando o dano Ilimitado e paralisando seus alvos por 2 turnos ao atingi-los} {Movimentos com a espada consomem 50k de Ag}. || 1x
+Preço: 15.0000.000
+
+
+Rank: C
+Atk: Letal
+Ag p/Empunhar: 25.000
+Ag p/Uso: 10.000
+Primeiro Portão: Portão de Abertura
+||A Tantou é simplesmente uma pequena katana. Vários chuunin, ninjas médicos e shinobi 🌀 de Konohagakure usam-na amarrada inferiormente em suas costas quando vão para a batalha. (Teleportes e Teletransportes rank 4 escapam). || 1x
+Valor: 10.000.000
+
+
 Rank: S
 Suplementar
-Ck p/uso: 125.000
-Ck p/turno: 250.000
-|| Utilizando o chakra, é possível aumentar a capacidade física do usuário momentaneamente e, quanto mais habilidoso o ninja for em converter o chakra, mais ele é capaz de elevar sua capacidade física. {Multiplica atk/def do usuário por 2}.|| 3x
-Preço: 95.000.000
+Ag p/Ativar: 50.000
+Entrada Dinâmica
+|| O Portão de Abertura (開門, Kaimon), localizado no cérebro, remove as restrições do cérebro sobre os músculos para que 100% da força do usuário possa ser usada enquanto que normalmente, uma pessoa só pode usar 20% da força de seus músculos para 🌀 preveni-los de se desintegrar. Desbloquear este portão permite que o usuário use a Lótus Frontal. {Concede 5x de atk/def; Movimentos do usuário serão no mínimo rank 4; Taijutsus usados pelo usuário são capazes de romper barreiras simples não ilimitadas}. || 3x
+Preço: 8.000.000
 
-Voz dos Deuses
+
+Rank: B
+Atk: Letal
+Ag p/uso: 20.000
+Combo do Leão
+|| A Entrada Dinâmica consiste em um movimento de taijutsu em que o objetivo é basicamente que o usuário execute um chute direcionado ao rosto do oponente 🌀 impulsionado por um salto. Kakashi usa uma arma, como uma kunai, para distrair o inimigo enquanto ele tira vantagem de seu ponto cego. (Teleporte e teletransporte escapam). || 5x
+Valor: 2.000.000
+
+
+Rank: B
+Atk: 3xLetal
+Ag p/uso: 45.000
+Tática de Ataque Surpresa
+|| Primeiro, o adversário é chutado para o ar e sombreado com a Sombra da Folha Dançante. Ao infligir um golpe, a pessoa aproveita o contra-ataque do oponente para girar e subir novamente para ataques posteriores. Já que a queda é aumentada na velocidade a 🌀 cada golpe, o dano feito quando oponente é eventualmente atirado no chão é inconcebível. (Teleporte e teletransporte rank 4 escapam). || 5x
+Preço: 2.000.000
+
+
+Rank: C
+Atk: Letal
+Ag p/uso: 25.000
+🌀
+Abraço Ardente da Juventude
+|| Após distrair o inimigo, o usuário move-se para debaixo dele e salta desferindo um poderoso golpe, podendo restringi-lo ou acertar um gancho no queixo, nocauteando-o. (Teleporte e teletransporte com sensorial ativo escapam). || 5x
+Preço: 1.000.000
+
+
+Rank: B
+Atk: 5xLetal
+Ag p/uso; 20.000
+🌀
+Sombra da Folha Dançante
+|| O usuário soca seu oponente, e em seguida, como uma de suas artimanhas, ele o abraça. O abraço é forte o suficiente para fraturar as costas de seu oponente. (Teleporte e teletransporte rank 5 escapam). || 5x
+Preço: 400.000
+
+
+Rank: S
+Atk: Suplementar
+Ag p/uso: 40.000
+Lótus Frontal
+|| Uma técnica onde se segue o adversário ou o movimento do seu corpo, tal como uma folha que dança no ar que é seguida pela sua sombra. A técnica é geralmente iniciada por 🌀 um chute alto que irá lançar o alvo no ar. É usado principalmente para mudar a posição do oponente em uma posição vulnerável aérea. (Teleporte e teletransporte com sensorial ativo escapam). || 4x
+Preço: 3.000.00
+
+
+[Necessita do "Primeiro Portão: Portão de Abertura" Ativo]
+Rank: A
+Atk: 4xLetal
+Ag p/uso: 40.000
+Mil Anos de Morte
+|| Esta técnica requer a abertura do primeiro dos Oito Portões, dando ao utilizador cinco vezes a sua força normal. O utilizador lança o oponente para o ar e depois usa a Sombra da Folha Dançante para chegar até as costas do oponente. Uma vez atrás do oponente, o 🌀 usuário o prende e leva-o girando em alta velocidade de cabeça para baixo em direção ao chão, soltando-o no último minuto. (Teleporte e teletransporte escapam). || 3x
+Preço: 4.500.000
+
+
+Rank: B
+Atk: Letal/Paralisia
+Ag p/uso: 25.000
+Ataque Contra os Pontos Fracos
+|| Uma técnica muito simples, com um nome excessivamente dramático, Mil Anos de Morte, no qual o usuário simplesmente insere os dedos médios semelhante ao selo de mão do Tigre no ânus do adversário, causando constipação, dor e/ou constrangimento. {A técnica 🌀 pode ser muito útil se usada corretamente, assim paralisando o alvo de dor por 2 Turnos} (Teleporte e teletransporte escapam). || 5x
+Preço: 1.000.000
+
+
+Rank: S
+Atk: Letal/Suplementar
+Ag P/Uso: 25.000
+Punho Forte {Kakashi}
+|| Consiste em desferir uma leve pancada no encosto do pescoço do alvo, fazendo-o adormecer de forma natural, sem que qualquer dor seja sentida. Esse golpe é 🌀 especialmente útil para tirar potenciais inimigos de cena e prevenir conflitos. {Leva o alvo a inconsciência temporária que dura 2 turnos} (Teleportes e teletransportes escapam). || 3x
+Preço: 4.000.000
+
+
+Rank: S
+Estilo de Luta
+Ag p/Assumir o Estilo: 220.000
+____________________________________________________
+|| O Punho Forte (剛拳, Gōken) é o estilo de luta característico de Might Guy e Rock Lee, que foi utilizado por Obito nos games da franquia. cujo objetivo é causar danos externos e quebrar ossos. Este estilo de luta envolve esmagar o seu adversário, e geralmente é usado somente por shinobi extremamente poderosos e dominadores em seus atributos físicos. 🌀 {Cada atk desse estilo incapacita o alvo por 1 turno se pego; Dano equivalente ao Atk do usuário; Rank dos Atks: 4} {90k de Ag p/Soco; 120k de Ag p/Chute Alto; 100k de Ag p/Chute lateral; 200k de Ag p/Mover-se rapidamente contra o alvo ou escapar de atks até o rank 2; 340k de Ag p/Série de chutes e socos com dano 8xLetal; 150k de Ag p/Bloqueio que ignora Atks Letais abaixo de S; 180k de Ag p/Saltar escapando de atks até o rank 2 exceto globais; 460k de Ag p/Chute que afeta o vigor do alvo removendo 3kk de Ag que ele tenha; 520k de Ag p/Chute esmagador que incapacita o alvo por 3 turnos caso ele não tenha Regeneração}. || 1x
+Preço: 7.000.000
+
+Loja Jounnin
+
+
 Rank: SSS
-Atk: Semi - Global/Ilimitado
-Ck p/uso: 325.000
-[Necessita Fundição Furiosa ativa]
-|| Kinshiki manifesta uma arma de chakra que ele usa para atacar seu oponente, em seguida ele cria um garfo que ele infunde com chakra do estilo raio e lança em sua direção, explodindo no impacto. (Apenas teleporte e teletransporte rank 2 escapam).|| 2x
+Atk: Ilimitado/Selamento
+Ck p/uso: 300.000
+Leitura Visual da Mente
+|| Utilizando o efeito de intangibilidade do Kamui em si mesmo enquanto se aproxima, ele materializa sua mão e ataca o alvo com o Corte Relâmpago diretamente, sem qualquer vulnerabilidade para um contra-ataque sobre a abordagem, permitindo-o atravessar o adversário e mandar a área atingida por esse golpe para outra dimensão, selando o alvo 🌀 imediatamente ao acertar o golpe. {Graças a intangibilidade utilizada em conjunto com a técnica, Kakashi fica imune a contra ataques e imobilizações} (Com sensorial ativo, teleporte e teletransporte escapa). || 2x
+Preço: 15.000.000
+
+
+Rank: A
+Suplementar
+Ck p/Uso: 300.000
+Duplo Mangekyō {Kakashi}
+|| Usando essa técnica, o usuário olha para um alvo e tece um sinal com seu olho, coletando informações sem que ele perceba. O usuário ainda é capaz de executar esta 🌀 técnica nele mesmo para restaurar ou remover informações em sua própria mente. Isto pode também ser usado em um alvo que está atualmente lendo a mente do utilizador. {Pode ser usado para antecipar quaisquer ataques que o oponente for desferir contra o alvo; Requer curto alcance e contato visual com o alvo; Não pode ser usado no primeiro turno}. || 3x
+Valor: 100.000.000
+
+
+Rank: SS
+Atk: +4.000.000
+Def: +4.000.000
+Hp: +4.000.000
+Ag: +4.000.000
+Ck: +4.000.000
+Hp p/Turno: 500.000
+Ck p/Turno: 200.000
+Ck p/Ativar: 400.000
+Kamui Duplo
+|| Dentro do subconsciente de Kakashi, Obito insiste que Kakashi se torne o sexto Hokage. Como presente de despedida, Obito transfere seu chakra e poderes Sharingan para Kakashi, permitindo que o jōnin consiga manifestar o Mangekyou Sharingan em cada um dos seus olhos. Com seu novo poder, Kakashi tem domínio da Intangibilidade, Susano'o 🌀 Perfeito e seus derivados. {Com este modo ativo, Kakashi pode utilizar a intangibilidade, Susano'o Perfeito e torna o kamui rank 1} {Após 10 turnos com esse modo ativo ambos os mangekyō sharingan são desativados}. || 1x
 Preço: 150.000.000
 
-Técnica do Chakra Fatiador
-Rank: S
+
+[Necessita de "Obito" em Campo]
+Rank: SS
 Atk: Ilimitado
-Ck p/uso: 100.000
-|| O usuário libera uma onda de chakra extremamente veloz que atravessa o solo rasgando tudo o que estiver pela frente. Alguns usuários são capazes de lançar múltiplas ondas simultaneamente, tornando ainda mais difícil a esquiva. {+200k de ck e possível lançar múltiplas ondas de Chakra}⚔️(Apenas teleporte e teletransporte rank 3 ou capacidade de vôo ativa antes escapam).|| 5x
-Preço: 120.000.000
+Ck p/uso: 200.000
+Toque Indesejado
+|| Usando o Kamui, Kakashi e Obito desaparecem no ar e, em seguida, Kakashi surge na frente de seu oponente e lhe dá um soco que o manda para longe, enquanto Obito, que surge logo atrás, avança contra o alvo e abre sua guarda para que Kakashi o ataque novamente. Após isso, Obito e Kakashi o atacam simultaneamente com uma kunai e 🌀 finalizam infundindo um Receptor Negro com o Corte Relâmpago, que é atirado em direção ao alvo. {Por Meio do "Receptor Negro", pode-se pagar 80k Ck p/Anular Regeneração} (Com sensorial ativo teletransporte rank 4 escapa). || 2x
+Preço: 30.000.000
 
-Capacidade de Vôo {Ōtsutsuki}
-Rank: S
-Suplementar
-Ck p/ativar: 45.000
-|| Os membros do clã Ōtsutsuki são naturalmente dotados da capacidade de flutuar, sendo esta uma habilidade muito comum entre eles. Contudo, apenas os membros do ramo principal da família foram identificados como portadores naturais desta habilidade. {Quando ativo, o usuário começa a flutuar, podendo voar livremente}⚔️[Rank 3].|| 1x
-Preço: 200.000.000
 
-Karma: Aplicação
+[Necessário "Duplo Mangekyō" em Êxito]
+Rank: A
+Def: Intacta
+Ck p/uso: 120.000
+Konoha: Milhares de Mãos de Hokage Verdadeiras
+|| Com ambos os olhos de Obito, Kakashi conseguiu dominar a Intangibilidade, Conseguindo até criar Técnicas como o "Kamui Raikiri". Quando ativado o usuário não pode atacar. Qualquer parte do corpo do usuário que se sobrepõe a outro objeto tem sua consistência física teletransportada para a dimensão do Kamui, permitindo ao usuário atravessar objetos sólidos, ficando invulnerável à esses ataques. {Ao custo de 200k de Ck 🌀 p/Turno pode estender a Intangibilidade por vários turnos, com o máximo de 3 turnos; Enquanto intangível, o usuário não pode atacar} {Ativar e desativar a técnica no mesmo turno mantém a contagem de "3 turnos no máximo"; Velocidade de Ativação: Instantânea}. || 5x
+Preço: 10.000.000
+
+
+[Necessita de todos os Hokages até a 5°]
 Rank: SSS
-Suplementar
-Ck p/uso: 280.000
-|| Karma é um selo amaldiçoado concedido voluntariamente por membros do clã Ōtsutsuki, Geralmente aplicado enquanto o Ōtsutsuki morre, marcando o corpo do destinatário como um “receptáculo”. O Karma trata-se de um arquivo de backup compactado que é lentamente extraído enquanto o processo é concluído. Após o karma se desenvolver Completamente, o corpo do receptáculo é sobreposto pelo material biológico do Ōtsutsuki e este deixa de existir de forma que o Ōtsutsuki Ressurge no Corpo do Receptáculo, Ōtsutsuki deve morrer antes da completude do Karma, o Karma ainda se desenvolverá dando sequência a Ressurreição, tomando seu corpo podendo utilizar as técnicas do Receptáculo, enquanto o Ōtsutsuki e o Receptáculo estiverem vivos a Ressurreição não ocorrerá, Karma é Aplicado ao Fazer Contato Direto Com o Alvo. {O processo de desenvolvimento do karma dura 7 turnos e requer que o usuário toque no alvo para aplicação}⚔️(Teleportes e Teletransportes escapam).|| 1x
-Preço: 400.000.000
-
-Byakugan {Kinshiki Ōtsutsuki}
-Rank: S
-Dōjutsu
-Ck p/Ativar: 7.000
-Ck p/Turno: 25.000
-|| O Byakugan (白眼; Literalmente significa “Olho Branco”; Significado (Panini) “Olho Branco que Tudo Vê”) é um dōjutsu kekkei genkai do clã Hyūga e do clã Ōtsutsuki. Seu poder a princípio surgiu como uma Kekkei Mōra. Kinshiki, apesar de não demonstrar muitos usos de seu byakugan, tinha grandes reflexos nos momentos de seu uso, visto que acompanhou sasuke em pleno movimento utilizando a cintilação raiton. {O byakugan dá ao usuário uma visão de 360°; Uma visão clara de 50m que pode ser extendida. [+10k Ck p/Turno = +15m; Limite = 10km]; Consegue ver atravéz de objetos sólidos e encontrar alvos em qualquer lugar da dimensão atual até seu alcance de visão} ⚔️ {Identifica e segue movimentos rápidos instantaneamente; Capaz de ver fluxos de chakra do alvo; Ao custo de 5k de ck o usuário cria uma agulha de ck no dedo indicador que se direcionado a uma vaso de chakra impedem o inimigo de modular chakra pelo local afetado por 2 turnos; Podendo notar até os menores detalhes no que vê, impede ocultação de ações e genjutsus exceto Kotoamatsukami e Izanami}.|| 1x
+Atk: Global/Incalculável
+Ck p/uso: 200.000
+Susano'o Perfeito: Kamui Raikiri
+|| Em seu Modo Sábio, Hashirama utiliza sua gigantesca estátua de madeira. Os outros cinco Hokage canalizam seu chakra na estátua, fazendo-a resplandecer com poder. Hashirama separa a estátua de suas incontáveis mãos, e aterra uma sequência de seis socos aprimorados com chakra, rapidamente movendo a estátua para a frente do oponente 🌀 após cada ataque para acertar o próximo. O último soco é um uppercut, lançando o oponente para o céu, e criando um incêndio na forma do kanji para fogo. (Outra dimensão rank 2 escapa). || 1x
 Preço: 40.000.000
 
-*》Restrições Chunnins:*
-• Absorção de Todas as Coisas
-• Técnica de Expansão Muscular
-• Flechas Aladas Celestiais
-• Karma: Aplicação
+
+[Necessita de Susanoo Perfeito]
+Rank: SS
+Atk: Incalculável/Selamento
+Ck p/uso: 600.000
+Susano'o: Chidori
+|| Após possuir o Mangekyō Sharingan em ambos os olhos, Kakashi forma o Corte Relâmpago do Kamui na mão direita do Susano'o Perfeito. Em seguida, ele descarrega a 🌀 técnica em seu adversário, culminando em uma explosão de eletricidade e enviando o alvo ao Kamui. {Sela qualquer coisa} (Teleportes e Teletransportes rank 2 escapam; Se pego pelo ataque apenas outra Dimensão escapa do selamento). || 3x
+Preço: 70.000.000
+
+
+[Necessita de Susanoo Perfeito]
+Rank: SS
+Atk: 2xIlimitado/Multi-Direcional
+Ck p/uso: 250.000
+Susano'o: Kamui Raikiri
+|| Susano`o: Chidori é uma técnica utilizada por Kakashi Hatake, que emprega o uso do Chidori ao Susanoo Perfeito. Kakashi, demonstrou a capacidade de aplicar seu Chidori através de seu Susanoo completo em sua mão esquerda primária, que é forte o suficiente 🌀 para destruir uma Esfera da Busca da Verdade e uma Bola da Besta com Cauda. {Quebra barreiras, até mesmo as Ilimitadas} (Teleporte e Teletransportes Rank 2 ou acima Escapam). || 3x
+Preço: 10.000.000
+
+
+Rank: SSS
+Atk: Fatal
+Ck p/Uso: 1.000.000
+Raiton: Flash Relâmpago
+|| Kakashi dispara 6 shurikens em direção ao alvo, enviando ele ao Kamui enquanto é atingido por elas e indo para o Kamui ao mesmo tempo. Ao chegar lá ele ativa o Susano'o Perfeito e, usando o Kamui Raikiri através do Susano'o atravessa seu alvo enquanto voa, a "absorção" junto dos relâmpagos e o calor gerado por eles causa uma explosão no corpo do 🌀 alvo enquanto pedaços dos pilares são jogados na direção dele, o levando de volta a terra por fim. {Mata qualquer ser, inclusive os que só morrem selados} (Somente outra Dimensão Rank 1 ou superior escapa). || 2x
+Preço: 50.000.000
+
+
+Rank: SS
+Atk: Ilimitado/Multi-direcional
+Ck p/Uso: 200.000
+Katana do Susano'o
+|| Através do Susano'o Perfeito, Kakashi cria algo similar a um chidori na mão esquerda do 🌀 Susano'o e em seguida o dispara pro céu, segundos depois diversos pequenos raios caem no alvo. {Aqueles pegos no meio dos raios ficam paralisados por 1 turno} (Teleportes e Teletransportes rank 2 ou acima escapam). || 5x
+Preço: 45.000.000
+
+
+Rank: SSS
+Atk: 5xIlimitado
+Ck p/Ativar: 100.000
+Susano'o Perfeito
+|| Kakashi ainda apresentou seu Susano'o empunhando uma katana, que, quando reforçada com chakra, fica maior e mais ameaçadora. {Rompe barreiras, até mesmo as Ilimitadas; Ao custo de 500k de ck pode sobrecarregar a Katana com chakra, onde ela toma uma forma que foi comparada à "Excalibur", nesta forma quando ataca rompe qualquer barreira exceto 🌀 "Espelho de Yata"; Enquanto na forma "Excalibur", 3 ataques consecutivos resultam em 🌀 dano Incalculável} {Alcance da espada = 20m, Na forma "Excalibur" o Alcance aumenta para 35m} (Somente teletransportes e teleportes rank 2 escapam). || 1x
+Preço: 350.000.000
+
+
+Rank: SSS
+Atk: 5xIlimitado
+Def: Incalculável
+Ck p/Ativar: 300.000
+Ck p/Turno: 300.000
+Hp p/Turno: 150.000
+Att feita por Bolin e Ricardo.   🐷
+Correção e finalização por: Kiyoshi.
+*Valor Loja Chu: 1.007.550.000*
+Valor Loja Jou: 1.678.950.000*
+|| Seu Susano'o é de cor azul céu profundo, tem o nariz característico do tengu e é vestido com um traje samurai. A estrutura também tem um protetor de testa chapada em sua cabeça, e dois prendedores do "cabelo" caindo em ambos os lados de seu rosto e um buraco no seu queixo. Ele possui asas para voar e uma marca vertical estendendo-se através de seu olho esquerdo, semelhante a cicatriz na face esquerda de Kakashi. {Ao ativar, "Katana do Susano'o" se ativa automaticamente, e Capacidade de Vôo estará ativa; 🌀 Ao custo de 200k de ck pode disparar até 4 Kamui's Shurikens que ao atingirem o alvo, enviam ele instantaneamente ao Kamui, selando o mesmo} {Apenas Incalculáveis semi-globais ou acima quebram o Susano'o Perfeito; Incalculáveis abaixo de semi-globais 🌀 quebram uma parte do Susano'o, sendo necessário pagar 200k de ck pra reconstruir por até 3x} {Altura do Susano'o Perfeito = 30m; Alcance dos braços = 10m; Ativação deste Susano'o = Rank 2; Tem seus movimentos rank 1; Kamui's Shurikens = rank 2}. || 1x
+Preço: 350.000.000
