@@ -1,587 +1,152 @@
-NAGATO 
-Nagato foi um shinobi de Amegakure descendente do clã Uzumaki. Órfão pelos conflitos da 
-Segunda Guerra Mundial Shinobi, Nagato se uniu de seus companheiros órfãos de guerra, Yahiko e Konan, para formar a Akatsuki, uma
-organização cujo objetivo era cessar os ciclos infinitos de ódio e morte. Nagato sonhava em trazer paz ao mundo violento dos shinobi. Os três
-foram alunos de Jiraiya durante três anos, nos quais o Sannin ensinou ninjutsu a eles para que sustentassem seus objetivos, protegessem uns
-aos outros e para que Nagato controlasse seus poderes, uma vez que ele possuia o Rinnegan, os olhos do Eremita dos Seis Caminhos. Depois
-de seu melhor amigo e líder, Yahiko, ser traído e morto por pregar a paz, Nagato se convenceu de que o mundo nunca iria parar de lutar
-voluntariamente a menos que ele conhecesse o que é a verdadeira dor. Por conta disso, ele adotou o pseudônimo de Pain (ペイン, Pein) e se
-tornou o novo líder da Akatsuki na tentativa de mudar o mundo para um estado de paz através do medo da destruição pelas mãos da Akatsuki.
-No fim de sua vida, Nagato se choca com Naruto Uzumaki, seu “irmão de mestre”, que o convence a apostar em um futuro onde as pessoas são
-capazes de entender umas as outras sem ser através da dor, passando adiante a Naruto seu desejo pela paz. 
-Absorção e Selamento de Jutsu 
-Rank : SS 
-Def: Absorção 
-Ck p/Uso: 50.000 
-[Necessário Caminho Preta Invocado/Ativo] 
-|| Uma técnica de selamento altamente avançada concedida pelo Caminho Preta, que é capaz de absorver qualquer jutsu, independentemente
-de qualquer forma ou natureza, girando o fluxo de chakra interno, na direção contrária. Como resultado, esta técnica pode absorver qualquer
-técnica baseada em ninjutsu, independentemente do poder { Absorve qualquer ninjutsu ou modo baseado em Chakra que chegue a curto
-alcance — 2m } 🌧 (Rank 1).|| 5x 
-Valor: 5.000.000 
-Ataque Asura 
-Rank: SS 
-Atk: Ilimitado/Semi-Global 
-Ck p/Uso: 750.000 
-[Necessário Caminho Asura Invocado/Ativo] 
-|| Com o ataque asura, a partir das habilidades do Caminho Asura, o usuário pode liberar um canhão, em alguma parte de seu corpo para
-disparar uma enorme explosão de chakra, com poder capaz de devastar regiões inteiras. {Pode-se pagar +250k de Ck p/tornar a técnica global}
-🌧 (Rank’s 3 acima escapam).|| 5x 
-Valor: 10.000.000 
-Banshou Te'nin 
-Rank: S 
-Atk: Suplementar 
-Ck p/Uso: 50.000 
-[Necessário Caminho Deva Invocado/Ativo] 
-|| Tendo a si mesmo como epicentro, o usuário é capaz de atrair qualquer alvo ou objeto para si com a sua mão ou movê-lo em suas
-proximidades. Quando ambas as mãos são utilizadas, múltiplos alvos podem ser puxados simultaneamente, podendo até mesmo ser
-redirecionados para colidir uns contra os outros. É uma técnica útil para distração ou para guiar o inimigo em direção a um ataque. {Pode
-puxar 2 coisas simultaneamente; pode ser usado pra puxar um oponente até o usuário enquanto faz um ataque, causando dano ilimitado
-como adicional, sendo possível escapar apenas com Rank superior} 🌧 (Teleporte e teletransportes rank 2 acima escapam).||5x 
-Valor: 10.000.000 
-Barreira dos Cinco Selos 
-Rank: SSS 
-Esconderijo 
-Ck p/Uso: 250.000[Necessário especificar onde colocou os 4 selos] 
-|| Esta técnica cria uma barreira em torno de um lugar, colocando quatro selos que vetam a passagem de um indivíduo em diferentes
-localidades ao redor do local a ser protegido, fazendo uma marca de cinco selos, contando com o selo do local que está sendo protegido. As
-etiquetas são colocadas sobre uma superfície plana e estão ligadas com o chakra do utilizador. Esta técnica torna toda a gama rodeada pelas
-etiquetas para um espaço de barreira e, no interior do espaço, a destruição material é “vedada”. O uso de qualquer tipo de agressão física para
-tentar destruir algo na barreira é inútil, pois só vai levar a lesões. Para cancelar isso, é necessário procurar os quatro selos e arrancá-los
-simultaneamente ao selo do local, o que significa que deve haver ao menos cinco pessoas em uma equipe para cancelá-la. {O usuário faz a
-barreira que é capaz de proteger um local de qualquer invasão ou dano, com tanto que os selos não sejam removidos; Selos ficam espalhados
-em uma área de até 1km sendo possível sua localização apenas por meio de Byakugan ou sensorial logo, sendo necessário a remoção dos 5
-selos ao mesmo tempo para que o selo da barreira seja desfeito} 🌧 {Barreira Indestrutível).|| 3x 
-Valor: 50.000.000 
-Estátua Demoníaca do Caminho Exterior: Dança do Dragão Vazio 
-Rank: SSS 
-Atk: Selamento 
-Ck p/Ativar: 250.000 
-Ck p/Turno: 500.000 
-Hp p/Turno: 200.000 
-[Necessário Gedo Mazo em Campo] 
-|| Nagato invoca a Estátua Demoníaca do Caminho Exterior e, a partir da boca da criatura, dispara um dragão composto por chakra de sucção
-que avança contra seus alvos, extraindo seu chakra e matando todos em que ele tocar. É uma técnica muito penosa para seu usuário, visto que
-sua vitalidade é constantemente drenada enquanto a utiliza. {Ao ativar essa técnica, o usuário fica completamente exposto e indefeso por
-estar no controle do Dragão devendo ficar parado próximo ao Gedo mazo durante o jutsu} 🌧 (Considerado Rank 2).|| 1x 
-Valor: 50.000.000 
-Estilo Vento: Palma Vendaval 
-Rank: A 
-Atk/Def: Suplementar 
-Ck p/Uso: 50.000 
-|| Jutsu que cria vento através do chakra e o comprime com um bater de mãos, emitindo uma rajada violenta com uma velocidade mais rápida
-que o som. Mesmo sozinha, a técnica tem força para fazer facilmente uma pessoa ser atirada pelos ares. {Se combar com algum projétil,
-apenas teleporte e teletransporte rank 3 escapam} 🌧 (Teleporte e teletransportes 4 escapam).||3x 
-Valor: 10.000.000 
-Flecha Flamejante da Incrível Habilidade 
-Rank: S 
-Atk: 4xLetal 
-Ck p/Uso: 75.000 
-|| A técnica concentra chakra na abertura do braço, causando uma pequena explosão. 
-Assim, o braço ganha força de propulsão e voa em linha reta com uma velocidade incrível. O pulso serve como projétil e ganha força de
-propulsão com a explosão do chakra na abertura. (Teleporte e teletransporte rank 3 escapam).||2x 
-Valor: 15.000.000 
-Flecha Flamejante de Ogivas 
-Rank: SS 
-Atk: Ilimitado/Perseguidor 
-Ck p/Uso: 150.000|| Graças à transformação corporal proporcionada pelo caminho asura, o usuário tornar-se capaz de destacar sua mão, revelando um pente de
-mísseis escondidos no interior de seu braço. Múltiplos mísseis podem ser disparados aleatoriamente para causar destruição generalizada, ou
-podem ser teleguiados para alcançar e explodir um alvo predeterminado. 
-{250k de Ck, torna a técnica Semi-Global; Teletransporte Rank 3 escapam} 🌧 (Alvo único: Teleporte e teletransporte rank 2 com sensorial ativo
-escapam).||3x 
-Valor: 15.000.000 
-Estátua Demoníaca do Caminho Exterior 
-Rank: SSS 
-Atk: 2xIlimitado 
-Def: 2xIlimitado 
-Hp: 40.000.000 
-Ag: 10.000.000 
-Ck: 20.000.000 
-Ck p/Invocar: 300.000 
-Hp p/Turno: 750.000 
-[Quando ataca, não pode kawarimi, evasão ou assimilação] 
-|| Apenas detentores do Rinnegan são capazes de conjurar e controlar a estátua. Pelo fato de ser uma invocação especial e exclusiva do
-Rinnegan, não é necessário nenhum tipo de contrato de sangue, no entanto, é preciso que a invocação seja paga com a própria vitalidade do
-usuário, como forma de tributo ao invocar a estátua, como demonstrado por Nagato, que teve as suas costas perfuradas por hastes. negras
-que saíram do abdômen da estátua 🌧 {Quando invocada, hastes negras são conectadas entre o usuário e a estátua, deixando-o o usuário
-incapacitado fisicamente} 🌧 (Movimentos Rank 3) .||1x 
-Valor: 50.000.000 
-Correntes da Estátua Demoníaca 
-Rank: S 
-Atk: Imobilização 
-Ck p/uso: 160.000 
-[Necessita de Estátua Demoníaca do Caminho Exterior em Campo] 
-|| Uma técnica derivada do Caminho Exterior, o que permite que o usuário manifeste correntes de chakra para prender o seu alvo. Estas
-correntes são fortes o suficiente para prender vários Bijū a um usuário, mesmo que remotamente. {Imobiliza qualquer coisa, até mesmo bijuus
-e avatares de chakra; se usado em um alvo ligado a um receptor negro, apenas teletransportes rank 1 escapam} 🌧 (Teleportes e
-teletransportes rank 2 escapam).||3x 
-Valor: 20.000.000 
-Seis Caminhos de Pain 
-Rank: SSS 
-Suplementar 
-Ck p/turno: 100.000 
-|| Os Seis Caminhos de Pain foram um grupo criado por Nagato para compensar sua deficiência de mobilidade, causada por Hanzō em suas
-pernas, e também devido ao seu corpo ter se tornado ainda mais frágil pelos inúmeros bastões de chakra encravados nas suas costas pela
-Estátua Demoníaca do Caminho Exterior. {Cada caminho custa 100k p/ser invocado através do caminho animal; Nagato só pode ser alvo
-quando eliminarem todos os caminhos} 🌧 {Todos os Caminhos contém os mesmos atributos do usuário}.|| 1x 
-Valor: 10.000.000 
-Tendō 
-Rank: SSSInvocação 
-|| Tendō foi criado através do corpo de Yahiko, que foi um shinobi de amegakure, fundador original da akatsuki e melhor amigo de Nagato.
-Juntos, eles e Konan foram os órfãos de ame, eventualmente treinados por Jiraiya que os ensinou ninjutsu para sobreviverem por conta própria
-na época da guerra. {Já vem com Caminho Deva ativo}.|| 1x 
-Valor: 20.000.000 
-Chikushōdō 
-Rank: SSS 
-Invocação 
-|| Chikushōdō foi criado a partir de um shinobi do clã Fuuma. À beira da Segunda Guerra Mundial Ninja, ele destruiu uma vila pacífica devido a
-uma informação de que um shinobi teria se infiltrado nela. Quando Jiraiya descobriu a vila, o membro de Fuuma o atacou com seu
-shurikenjutsu, levando-os a lutar e ele recebendo um corte na testa. {Já vem com Caminho Animal ativo}.|| 1x 
-Valor: 20.000.000 
-Shuradō 
-Rank: SSS 
-Invocação 
-|| Shuradō foi criado do corpo de um shinobi andarilho que Jiraiya conheceu durante sua jornada para encontrar seu discípulo profetizado. O
-homem era alto, careca e com formato corporal incomum, possuindo um pescoço muito grosso, sem orelhas e maxilar longo. {Já vem com
-Caminho Asura ativo}.|| 1x 
-Valor: 20.000.000 
-Ningendō 
-Rank: SSS 
-Invocação 
-|| Ningendō foi criado do corpo de um shinobi de Takigakure que Jiraiya conheceu durante sua jornada para encontrar seu discípulo
-profetizado. Ele era um homem alto, esguio, com longos cabelos de cor azul-claro repartidos na altura dos ombros e olhos verdes, cuja
-aparência lembra vagamente a de Dan Katō, e usava um traje por baixo de um colete azul-escuro de Takigakure, além do protetor de testa de
-sua aldeia. {Já vem com Caminho Humano ativo}.||1x 
-Valor: 20.000.000 
-Gakidō 
-Rank: SSS 
-Invocação 
-|| Gakidō foi criado do corpo de um shinobi de Kusagakure que Jiraiya conheceu durante sua jornada para encontrar seu discípulo profetizado.
-Ele era um homem robusto com olhos castanhos redondos. Ele tinha cabelos castanhos escondidos por um protetor de testa semelhante a
-uma bandana e usava uma camisa bege com uma camisa preta por baixo. {Já vem como Caminho Preta ativo.}.|| 1x 
-Jigokudō 
-Rank: SSS 
-Invocação 
-|| Jigokudō foi criado do corpo de um sacerdote de uma aldeia desconhecida que Jiraiya conheceu durante sua jornada para encontrar seu
-discípulo profetizado. Enquanto vivo, ele era um homem alto, atarracado, de pele escura com cabelos e olhos cinzentos. Ele usava um
-vestimenta verde como um poncho e calças coloridas combinando. {Já vem com Caminho Naraka ativo}.|| 1x 
-Valor: 20.000.000 
-Receptor Negro 
-Rank: S 
-Suplementar 
-Ck p/uso: 70.000 
-|| Os Receptores Negros são considerados uma marca registrada do Rinnegan, de modo que aqueles possuem que esse dōjutsu são capazes
-de gerá-los a partir de seus próprios corpos, geralmente com as palmas das mãos. {+80k Ck por meio do receptor, pode-se anular regeneraçãodo alvo, imobiliza-lo e assumir o controle de seu corpo, ou cortar o fluxo de chakra do mesmo impedindo-o de executar quaisquer ninjutsus;
-Receptor causa dano letal e tem resistência Ilimitada} 🌧 {Cada usuário dessa técnica tem a capacidade de manipular a forma e tamanho dos
-receptores criados para encaixar as suas necessidades tendo uma imensa versatilidade.} 🌧 (Acompanha a velocidade do usuário).|| 10x 
-Valor: 15.000.000 
-Ativação Caminho Exterior 
-Rank: SSS 
-Suplementar 
-Ck p/Uso: 150.000 
-|| Gedō governando sobre a vida e a morte, era considerado o “Sétimo Pain”; sendo capaz de criar os pains, ressuscitar completamente os
-mortos e conjurar a Estátua Demoníaca do Caminho Exterior. {Necessário ativar está técnica para usar rinnetensei, caminhos de Pain ou
-controlar a gedo mazo}.|| 1x 
-Valor: 20.000.000 
-Ativação Caminho Animal 
-Rank: SSS 
-Suplementar 
-Ck p/Ativar: 100.000 
-|| O Caminho Animal (畜生道, Chikushōdō) concede a um usuário do Rinnegan a habilidade de invocar vários animais e criaturas para ajudá-lo
-em batalha. As invocações apresentam ter vários receptores de chakra pelo seu corpo, Além disso, Elas possuem um par de Rinnegan, assim
-dando visão compartilhada a seu invocador. {Pode fazer múltiplas invocações de forma instantânea; cada invocação possui a visão e sentidos
-compartilhados com todos o usuário; pode invocar a mesma criatura mais de uma vez a reposicionado em combate}.|| 1x 
-Preço: 20.000.000 
-Ativação Caminho Asura 
-Rank: SSS 
-Suplementar 
-Ag p/Ativar: 50.000 
-Ck p/Ativar: 100.000 
-|| O Caminho Asura (修羅道, Shuradō) concede ao usuário a capacidade de produzir uma armadura mecanizada em seu corpo ignorando
-Ataques Letais, produzindo membros extras e vários armamentos mecânicos. {Pagando 40k de Ag o utilizador é capaz de formar até quatro
-braços adicionais e duas faces adicionais assim tendo uma visão 360°, bem como uma faixa de lâmina serrilhada dobradiça em torno da cintura
-como um suplementar causando dano Ilimitado ativando e desativando ambos a qualquer momento; considerada 
-Rank 3} 🌧 {Ao Custo de 130k de Ck o Usuário Libera Uma Grande Explosão De Chakra 
-Proveniente de Sua Cabeça Causando Dano Semi-Global/Ilimitado} 🌧 (Teleporte Teletransportes Rank 3 Escapam).|| 1x 
-Preço: 20.000.000 
-Ativação Caminho Deva 
-Rank: S 
-Suplementar 
-Ck p/Ativar: 100.000 
-|| O Caminho Deva (天道, Tendō) concede ao usuário a capacidade de manipular forças atrativas e repulsivas, permitindo mover objetos e
-pessoas. {Ao Custo de 30k de Ck o usuário tem total liberdade de usufruir das forças Atrativas e Repulsivas, utilizando de acordo com sua
-vontade a Rank 2} 🌧 {Permitindo mover objetos e pessoas, bem como voar. Estas técnicas de manipulação da gravidade, no entanto, não
-podem ser realizadas numa sucessão rápida, mas tem força o suficiente para nocautear um alvo por 1 turno, causando dano Ilimitado}.|| 1x 
-Preço: 20.000.000 
-Ativação Caminho Humano 
-Rank: SSuplementar 
-Ck p/Ativar: 100.000 
-|| O Caminho Humano (人間道, Ningendō) concede ao usuário a capacidade de leitura da mente simplesmente colocando sua mão sobre a
-cabeça do alvo, podendo extrair qualquer informação ou segredo a ser escondido pela vítima. No entanto, usando a técnica, inevitavelmente,
-ele puxa a alma para fora do corpo do alvo, causando morte instantânea ignorando quaisquer regenerações da vítima. {Ao tocar pode extrair
-qualquer informação do alvo da técnica; necessário pagar 50k de Ck p/Extrair Alma do Alvo ao toque}.|| 1x 
-Preço: 20.000.000 
-Ativação Caminho Naraka 
-Rank: S 
-Suplementar 
-Ck p/Ativar: 100.000 
-|| O Caminho Naraka (地獄道, Jigokudō) concede ao usuário duas habilidades principais: de interrogatório e de restauração, usando o Rei do
-Inferno uma estátua com chamas roxas que só pode ser vista pelo usuário. {Ao Custo de 45k de Ck Para interrogar o Caminho Naraka só
-precisa agarrar-se a uma pessoa fazendo com que o Rei do Inferno a apareça diante deles. Com a vítima aparentemente paralisada, o Caminho
-Naraka começa a questioná-los. Depois que respostas são dadas, Ao receber as respostas o usuário consegue previnir quaisquer ataques de
-seu oponente na qual foi questionado} 🌧 {Ao Custo de 50k de Ck pode utilizar da a habilidade de restauração, o Rei do Inferno ingere o corpo
-na qual irá ser restaurado, e o cospe totalmente rejuvenescido em qualquer lugar do campo; é capaz de manter alguém dentro dele por até 2
-turnos}.|| 1x 
-Preço: 20.000.000 
-Ativação Caminho Preta 
-Rank: SSS 
-Suplementar 
-Ck p/Ativar: 100.000 
-|| O Caminho Preta (餓鬼道, Gakidō) concede ao usuário a habilidade de absorver qualquer forma de chakra. É capaz de absorver as técnicas
-baseadas em Ninjutsu, anulando assim o seu efeito. {Pode absorver ninjutsu baseados em Chakra que forem lançando contra o usuário
-contanto que ele consiga reagir ao ataque; +100k de CK p/assumir a forma de uma barreira em torno de todo o corpo do utilizador, permitindo
-lhe absorver ataques de todas as direções ao mesmo tempo} 🌧 {Ao custo de 60k de Ck o usuário por meio do caminho Preta, consegue
-absorver o chakra de ceu alvo por meio do contato físico, convertendo-o em seu Chakra}.|| 1x 
-Preço: 10.000.000 
-Proteção Contra Genjutsu 
-Rank: SS 
-Def: Genjutsu 
-Ck p/Uso: 150.000 
-|| O usuário pode usar esta técnica para colocar bloqueios mentais na mente do alvo que contém informações valiosas e que foi capturado e
-interrogado. As barricadas parecem tradicionais portas estilizadas japonesas de correr. De acordo com Inoichi Yamanaka, é muito eficaz contra
-leitura mental ou qualquer ataque que venha afetar a mente do indivíduo em si. {Nagato usa essa técnica para bloquear técnicas de controle
-mental em seus caminhos; ao ativar Nagato aplica em seus caminhos criando barreiras que impede o uso de leitura de mente ou genjutsu
-capaz de afetar a mente deles; +50k de CK p/Caminho} 🌧 {+200k de CK p/Aplicar em si mesmo ou em um aliado}.|| 3x 
-Preço: 50.000.000 
-Técnica da Projeção Corporal 
-Rank: SSS 
-Suplementar 
-Ck p/Ativar: 500.000 
-|| Os membros da Akatsuki se sentam e mandam “ondas de pensamento” (思念波, shinenha), convertidas em chakra. Estas ondas depensamento são, então, pegas por Pain, agindo como uma espécie de torre de controle. Essa técnica amplifica as ondas de pensamento e as
-transmite para um local específico através de órgãos ilusórios. Os corpos ilusórios diferidos são meros reflexos, enquanto Pain está afinando os
-pensamentos dos membros, que podem conversar e utilizar técnicas variadas. {Ao ativar todos os membros da Akatsuki são convocados por
-Nagato para realizar a absorção do selamento; também pode usar para conseguir pelo menos 30% do CK dos membros para realizar a técnica
-de transferência de forma, membros vão ter os mesmos atributos do usuário para o jutsu} 🌧 (Nagato precisa ficar parado para sua
-execução).|| 1x 
-Preço: 230.000.000 
-Shinra Tensei 
-Rank: SSS 
-Atk/Def: Global/Ilimitado 
-Ck p/Uso: 200.000 
-|| (天道・神羅天征, Tendō: Shinra Tensei) — Uma variação mais poderosa do Shinra Tensei em que o usuário concentra todo o poder de
-repulsão com ambas as mãos em uma só direção, repelindo com violência tudo o que estiver no caminho. Com um único disparo, 
-Nagato deixou um longo rastro de destruição em uma floresta, arrancando árvores pela raiz. (Teleporte e teletransportes Rank 2 com sensorial
-ativo escapam).|| 5x 
-Valor: 15.000.000 
-Super Shinra Tensei 
-Rank: SSS 
-Atk: Global/Incalculável 
-Ck p/Uso: 1.000.000 
-Hp p/Uso: 1.000.000 
-|| (超・神羅天征, Chou: Shinra Tensei) — Exibindo o potencial de varrer Konohagakure do mapa, esse é o Shinra Tensei em seu poder máximo,
-que foi capaz de reduzir a vila a uma cratera. O gasto de chakra para realizá-la é altíssimo, obrigando Nagato a cortar sua conexão com os
-demais Pain enquanto o Pain (Caminho Deva) a executava, além de ter seu tempo de vida reduzido como efeito colateral. {Atk: O Shinra Tensei
-permite liberar forças repulsivas a partir do corpo do usuário através de Ambas as Mãos, Desencadeando Uma Explosão Gravitacional em
-Todas as Direções, Tendo o Usuário Como Epicentro. 
-Assim Incapacitando os Alvos Acertados por 2 Turnos caso não morram — Não Pode Ser Usado 2x Seguidas} 🌧 {Def: Usando esta técnica como
-uma medida defensiva, todos os ataques dirigidos ao usuário até o Rank 1 serão desviados} 🌧 (Somente outra dimensão rank 1 ou
-intangibilidade escapam).||5x 
-Valor: 50.000.000 
-Técnica da Entrada Oculta 
-Rank: S 
-Suplementar 
-Ck p/Uso: 100.000 
-|| O usuário estende sua palma da mão em direção a uma parede, onde cria um buraco em forma de porta a partir de ondulações. Além disso,
-um selo pode ser colocado na parede para proteger o conteúdo por trás dela. {Ao adentrar o usuário pode utilizar a técnica de barreira para
-proteger o seu interior; local só pode ser localizado através de sensorial longo através de uma cena}.|| 1x 
-Valor: 10.000.000 
-Técnica do Estilo Fogo Desconhecida 
-Rank: A 
-Atk: 4xLetal 
-Ck p/Uso: 50.000 
-|| Nagato realiza alguns selos de mão e expele um intenso fluxo de chamas a partir de sua boca. Essa técnica foi aprendida por ele enquanto
-sob a tutela de Jiraiya, uma vez que seu Rinnegan lhe proporcionava a capacidade de aprender diferentes naturezas de chakra com facilidade.
-(Teleporte e teletransportes escapam).||3x 
-Valor: 5.000.000Técnica do Estilo Vento Desconhecida 
-Rank: A 
-Atk: Letal/Suplementar 
-Ck p/Uso: 25.000 
-|| Nagato realiza uma técnica de Estilo Vento de longo alcance que consiste em aspirar o ar, enchendo os pulmões, para expelir na forma de
-uma grossa nuvem, capaz de impulsionar projéteis para alcançar velocidades altíssimas. {Se usado com para impulsionar projéteis, apenas
-teleporte e teletransportes rank 4 com sensorial ativo escapam} 🌧 (Teleporte e teletransporte escapam).||3x 
-Valor: 5.000.000 
-Técnica de Selamento: Selo dos Nove Dragões Fantasmas 
-Rank: SSS 
-Atk: Selamento 
-Ck p/Uso: 1.000.000 
-|| Pain invoca a estátua, para que cada membro posicione-se sobre um de seus dedos. As posições de cada membro correspondem a que anel
-da Akatsuki eles possuem, uma vez que os kanji correspondentes surgem nos dedos da estátua. Devidamente posicionados, os usuários
-concentram suas consciências para ativar a técnica e a mordaça da estátua cai, de forma que o chakra de sucção seja liberado, assumindo a
-forma de nove dragões espectrais que se chocam contra o jinchuuriki, extraindo totalmente o poderoso chakra bijuu {Extrai todo ck do alvo,
-fazendo o mesmo morrer por falta de ck} 🌧 {Se usado com todos personagens, demora 3 turnos para ficar pronto; Se apenas nagato usar a
-técnica, demora 6 turnos} 🌧 (Outra dimensão rank 1 com sensorial ativo escapa).|| 3x 
-Valor: 50.000.000 
-Técnica da Transferência de Forma 
-Rank: SSS 
-Suplementar 
-Ck p/Uso: 500.000 
-[Necessita de algum corpo para usar está técnica] 
-|| O poder dessa cópia depende da quantidade de chakra alocado, e ela consegue usar todas as habilidades do original, como lutar com suas
-armas, ferramentas e usar os mesmos jutsu, bem como kekkei genkai {Ao utilizar o corpo, poderá usar todas as habilidades do mesmo, exceto
-modos}.|| 10x 
-[Pode trazer qualquer membro da Akatsuki] 
-Valor: 10.000.000 
-Técnica do Agressor Espelhado 
-Rank: SS 
-Suplementar 
-Ck p/Amuleto: 50.000 
-|| Esta técnica é iniciada automaticamente quando os selos “proibidos” são afetados, e uma cópia perfeita de quem renovou, em aparência e
-habilidades, aparece para atacar. {A cópia do oponente, pode usar todos os jutsus do mesmo, exceto invocações}. || 5x 
-Preço: 10.000.000 
-Técnica do Tigre à Vontade na Chuva 
-Rank: SSS 
-Sensorial/Global 
-Ck p/Ativar: 500.000 
-|| Cada gota da chuva formada por essa técnica é ligada fortemente aos sentidos do usuário, e, se o chakra de alguém de fora da vila a
-obstrui, um invasor é descoberto imediatamente. Além disso, como esse jutsu age no ambiente em que foi ativado, a chuva continua caindo
-até que o usuário realize os selos que cancelam a técnica. Dessa forma, quando deixa a vila, Pain sempre deixa esse jutsu ativado para
-continuar a vigiá-la. {Ao ativar, o usuário pode sentir o Ck de todos no campo de batalha} 🌧 {Qualquer um que entre em contato com a chuva élocalizado}.|| 3x 
-Preço: 30.000.000 
-Chibaku Tensei 
-Rank: SSS 
-Atk: Semi-Global/Selamento 
-Ck p/Uso: 100.000 
-|| Nagato era capaz de produzir uma esfera negra entre suas mãos para atuar como um centro de gravidade, então ele a lançava para o céu,
-onde todo o terreno abaixo era atraído para construir um satélite. (Teleporte e teletransportes rank 3 com sensorial ativo escapam).|| 5x 
-Valor: 10.000.000 
-Verdadeiro: Chibaku Tensei 
-Rank: SSS 
-Atk: Selamento/Global/Incalculável 
-Ck p/Uso: 5.000.000 
-[Requer Pain Tendō em Campo] 
-|| O usuário une suas mãos, formando uma esfera negra entre elas, e a lança. A esfera se expande e cobre uma vasta área, atraindo uma
-grande quantidade de terra ao seu redor, efetivamente criando uma “lua” que paira no alto do céu. O interior da “lua” é oco e mantém a área
-que foi anteriormente delimitada pela esfera intacta, mas com o tempo suas paredes começam a comprimir-se lentamente, esmagando tudo o
-que há dentro. Suas paredes são extremamente duras, sendo fortes o suficiente para suportar um ataque reforçado pelos Oito Portões sem
-apresentar muitos danos. {Após 3 turnos, o oponente é totalmente esmagado pelas paredes, caso não morra, é selado} 🌧 {Teleportes e
-teletransportes rank 1 escapam}.||1x 
-Valor: 120.000.000 
-Arma Interna 
-Rank: A 
-Atk: 2xIlimitado 
-Ck p/Uso: 100.000 
-[Requer Caminho Ashura em Campo] 
-|| O Caminho Asura executa uma combinação de ataques, começando pela Flecha Flamejante da Incrível Habilidade e terminando com o
-Ataque Asura, aniquilando totalmente o oponente. (Teletransportes Rank 3 escapam).||3x 
-Valor: 20.000.000 
-Cobertura Protetora 
-Rank: S 
-Def: Semi-Global/360° 
-Ck P/Uso: 120.000 
-[Requer Pain Tendō em Campo] 
-|| Para fins defensivos, Nagato produz uma potente barreira gravitacional esférica em torno de si, mantendo os ataques inimigos afastados
-enquanto o protege de todas as direções. Com isso, ele pôde resistir às poderosas correntes de vento de um tornado sem quaisquer
-inconvenientes, bem como defletir uma série de Bomba Bijuu, lançados por Naruto enquanto possuído pelo Nove-Caudas. {Defende de atks
-Semi-Globais/Ilimitado. Acima disto, a barreira se desfaz; dura 3 turnos} 🌧 ( Ativação — Rank 2).|| 5x 
-Valor: 70.000.000 
-Combo Ataque: Shinra Tensei 
-Rank: SSS 
-Atk: Global/Ilimitado 
-Ck P/Uso: 60.000|| Ele começa o ataque com seus palmos, seguido por ataques de bastões de chakra e uma saraivada de shuriken, imediatamente gira e ataca
-mais com os bastões. Por fim, ele finaliza o combo com seu Shinra Tensei. {Ao custo de 50k de Ck, o usuário pode cortar as ligações de Ck do
-oponente} 🌧 {Teleportes e teletransportes rank 2 com sensorial ativo escapam}.||4x 
-Valor: 45.000.000 
-Retorno do Espelho 
-Rank: A 
-Atk: Genjutsu/Suplementar 
-Ck p/uso: 100.000 
-[Requer Caminho Humano em Campo] 
-|| Após fazer com que o oponente olhe para a fonte do genjutsu, o usuário coloca a vítima em uma ilusão que a obriga utilizar seus golpes ou
-ferramentas em si enquanto pensa estar usando no inimigo assim recebendo todo o dano na qual Nagato “iria” receber. {Pode ser usado como
-um contra ataque a ataques não surpresas até o rank 1}.|| 4x 
-Preço: 8.000.000 
-Horror do “Amanhecer” 
-Rank: SSS 
-Atk: Global/Fatal 
-Ck p/uso: 900.000 
-|| Todos os membros se reúnem e começam a correr em direção ao inimigo, desferindo poderosos golpes que se complementam contra o
-oponente. 
-{Hidan desfere um corte usando sua Foice de Lâmina Tripla; Kakuzu então captura e ataca o inimigo contra o chão; Zetsu, em seguida, emerge
-do solo com uma mordida da sua planta e um ataque giratório; Deidara e Sasori logo preparam e combinam suas artes a fim de causar uma
-grande explosão; Orochimaru, então, acrescenta vento à explosão, formando um poderoso furacão; Itachi, em seguida, utiliza o Amaterasu
-para deixar o furacão ainda mais quente ao ponto de evaporar tudo; Kisame então logo surge com um corte da Samehada; Konan aproveita
-para desferir diversos ataques rápidos com várias lanças de papel; E, para finalizar, Nagato, através do Caminho Deva, utiliza um poderoso
-Shinra Tensei} 🌧 {Mata qualquer ser, inclusive os que só morrem selando} 🌧 (Apenas outra dimensão rank 1 escapa) ||1x 
-Preço: 100.000.000 
-Kumade 
-Rank: C 
-Atk: 1.000.000 
-Ag P/Uso: 10.000 
-|| É um golpe de luta onde o usuário dobra os dedos sobre eles mesmos e golpeia o oponente. A área de impacto é a palma da mão, que fica
-mais rígida devido à curvatura dos dedos. (Teleportes e teletransportes escapam).||8x 
-Valor: 2.000.000 
-Pesadelo Rinne 
-Rank: SS 
-Genjutsu/Suplementar 
-Ck P/Uso: 200.000 
-|| Nagato faz contato visual com seu oponente e o coloca sob um genjutsu por intermédio do Rinnegan. O alvo terá uma alucinação onde irá
-se ver sendo repetidamente massacrado enquanto sua imagem se distancia em um padrão de ondulações. A imobilização dura um período de
-tempo considerável e dá abertura para ataques. {Se for pego, o oponente ficará 
-3 turnos completamente paralisado; pode ser usado através de seus caminhos de Pain}.||5x 
-Valor: 35.000.000 
-Deus da Estrela de Papel Ardente 
-Rank: SSSAtk: Ilimitado/Global/Selamento 
-Ck p/uso: 150.000 
-[Requer Konan em Campo] 
-|| Através do Caminho Deva, Nagato aprisiona seu oponente com o Chibaku Tensei. Uma vez que a esfera está completa, Konan abraça com
-suas asas de papel, cobrindo-a de inúmeros papéis explosivos. Ela, então, envia um único pássaro de origami que desencadeia as explosões.
-(Apenas teletransportes rank 3 escapam).||2x 
-Preço: 40.000.000 
-Estátua Demoníaca do Caminho Exterior 
-Rank: S 
-Atk: Ilimitado 
-Ck P/Uso: 100.000 
-[Requer Caminho Naraka em Campo] 
-|| O Pain do Caminho Naraka agarra o oponente pelo pescoço e invoca o Rei do Inferno, que leva o oponente para a sua boca, e morde-o e
-depois cospe-o para fora. (Teletransportes Rank 3 escapam).|| 4x 
-Valor: 34.000.000 
-────────────────────────── 
-Invocações • Caminho Animal 
-Quimera Gigante 
-Rank: SSS 
-Atk: 30.000.000 
-Def: 30.000.000 
-Hp: Ilimitado 
-Ag: 15.000.000 Ck: 15.000.000 
-Ck p/Invocar: 150.000 
-|| A Quimera Gigante é um cão gigante com várias cabeças e com duas asas. Ele tinha um diversos piercings corporais e um Rinnegan, o que
-indica que estava sendo controlado por Pain. {Um cão gigante com múltiplas cabeças capaz de se dividir de forma ilimitada; só é capaz de ser
-parado por selamentos globais devido ao seu tamanho colossal} 🌧{+150k de Ag pode usar as garras para atacar; +100k de Ag pode usar a boca
-para morder o oponente; Atk com garras: Ilimitado; Mordida: 2xIlimitado} 🌧 (Considerando Rank 2).||1x 
-Preço: 10.000.000 
-Técnica de Invocação Proliferada 
-Rank: SSS 
-Suplementar 
-Ck p/Uso: 100.000 
-|| É uma técnica de invocação com condições especiais. A criatura invocada vem com a característica de “se multiplicar quando atacada”, e
-sempre que essa condição é cumprida, a própria criatura ativa o efeito de multiplicação. {As novas divisões da criatura provenientes da técnica
-podem se separar e reagrupar em um mesmo corpo se recuperando}.||1x 
-Preço: 20.000.000 
-Camaleão Gigante 
-Rank: SSS 
-Atk: 15.000.000 
-Def: 15.000.000 
-Hp: 20.000.000 
-Ag: 15.000.000 Ck: 15.000.000Ck p/Invocar: 100.000 
-[Necessário Caminho Animal Ativo/Invocado] 
-|| O camaleão gigante tem um Rinnegan em seu olho esquerdo. {Atraves desse rinnegan, o usuário tem informações compartilhada com o
-Camaleão; Ele tem quatro membros, cada um terminando em quatro grandes garras} 🌧 {Ao custo de 100k de Ag, o Camaleão faz um ataque
-com as garras causando 2xLetal; Rank’s 3 escapam} 🌧 {Ao custo de 50k de Ag, o Camaleão ataca com sua cauda causando 4x letal; Rank’s 3
-escapam}. {Seu corpo é coberto de escamas e tem ataduras em volta do centro de suas costas. Ele tem duas asas em sua parte superior das
-costas, que são porosos e mal rasgado. Tem dois chifres em forma estranhamente próximos da parte de trás de sua cabeça. O chifre direito é
-arrancado e envolto em ataduras, enquanto seu chifre esquerdo tem quatro Bastões de Chakra} 🌧 {Ao custo de 150k de Ck, o Camaleão pode
-ficar “invisível”; O usuário pode entrar na boca do Camaleão e ficar camuflado por 3 turnos; Sensoriais e Byakugan acham o Camaleão ou são
-capazes de reagir a ele}.||1x 
-Valor: 10.000.000 
-Chicote do Camaleão 
-Rank: S 
-Atk: Imobilizador 
-Ag p/Uso: 150.000 
-[Necessário Camaleão Gigante estar invocado] 
-|| O Camaleão Gigante estende sua língua para fora, atacando ou prendendo o inimigo. 
-Esta habilidade foi forte suficiente para capturar tanto Naruto no Modo de Chakra do 
-Nove-Caudas quanto Utakata em sua segunda versão do Manto de Chakra do Seis-Caudas. Entretanto, o camaleão não resistiu ao braço do
-Susanoo e ao líquido extremamente alcalino do Seis-Caudas derramado em sua língua e acabou sendo dissipado imediatamente. {Se pego pelo
-chicote, ficará 2 turnos imobilizados} 🌧 (Teleporte e teletransportes Rank 3 escapam).||5x 
-Valor: 5.000.000 
-Yatagarasu 
-Rank: SSS 
-Atk: Ilimitado 
-Def: 15.000.000 
-Hp: Ilimitado 
-Ag: 15.000.000 Ck: 15.000.000 
-Ck p/Invocar: 150.000 
-|| Essa invocação possui uma grande velocidade de voo, podendo combinar com o bico para formar ataques de mergulho poderosos,
-atingindo o oponente rapidamente. Além de poder voar baixo e produzir nuvens de poeira repletas de relâmpago em seu rastro. {+150k de Ck
-p/Deixar uma nuvem de poeira no campo com relâmpagos que causam dano letal em quem fica na área; Sensoriais se guiam na poeira} 🌧
-{Vôo: Rank 2}.||1x 
-Valor: 5.000.000 
-Bombas de Ovos Verdes 
-Rank: S 
-Atk: Ilimitado 
-Ck p/Uso: 50.000 
-[Necessário Yatagarasu invocado] 
-|| No anime, a ave tem habilidades adicionais em que pode pôr uma grande quantidade de ovos explosivos enquanto voa. {+200k de Ck p
-Ovos explosivos multi-direcional; +500k de 
-Ck p/Ovos explosivos Semi-Globais} 🌧 (Teleporte e Teletransportes Rank 3 escapam).||10x 
-Valor: 10.000.000Panda Gigante 
-Rank: SSS 
-Atk: 15.000.000 
-Def: 25.000.000 
-Hp: 20.000.000 
-Ag: 15.000.000 Ck: 15.000.000 
-Ck p/Invocar: 150.000 
-|| O panda tem a capacidade de endurecer seu corpo, criando uma barreira defensiva para seu invocador, como um escudo. Como todos os
-outros animais invocados por Pain, é provável que ele tenha um campo de visão compartilhada com Nagato. {+200k de Ck p/Endurecer o corpo
-defendendo atk’s não Globais; sua invocação e feita especialmente para defesa podendo ser invocado de forma ilimitada para defender
-ataques ao custo de 200k de CK}.||1x 
-Valor: 5.000.000 
-Touro Gigante 
-Rank: SSS 
-Atk: 30.000.000 
-Def: 30.000.000 
-Hp: 20.000.000 
-Ag: 10.000.000 Ck: 10.000.000 
-Ck p/Invocar: 100.000 
-|| Com uma aparência semelhante a um touro normal, esta invocação possui vários Bastões de Chakra presos na sua cabeça e nas pernas,
-junto com o Rinnegan, implicando que estava sendo controlada por Pain. Todo o seu corpo também estava coberto de pelo castanho e possuía
-chifres pretos. {+100k de Ag p/Fazer um ataque frontal com os chifres; Rank’s 3 escapam; Ele também tem uma pequena cauda} 🌧 {+150k de
-Ag p/Fazer um atk letal com a cauda} 🌧 (Teleportes e teletransportes rank 4 escapam).||1x 
-Valor: 10.000.000 
-Rinoceronte Gigante 
-Rank: SSS 
-Atk: 30.000.000 
-Def: 30.000.000 
-Hp: 20.000.000 
-Ag: 10.000.000 Ck: 10.000.000 
-Ck p/Invocar: 150.000 
-|| Ele é semelhante a um rinoceronte normal, mas com pequenas asas em suas costas, ele tinha vários piercings e o Rinnegan, o que implica
-que estava sendo controlado por Pain, ele tem manchas marcando seus olhos e uma circular em sua testa. {+200k de Ag p/Ataque frontal com
-chifre; Dano: Ilimitado} 🌧 (Teleportes e teletransportes rank 3 escapam).||1x 
-Valor: 10.000.000 
-Centopeias Gigantes 
-Rank: SSS 
-Atk: 15.000.000 
-Def: 15.000.000 
-Hp: 20.000.000 
-Ag: 15.000.000 Ck: 15.000.000 
-Ck p/Invocar: 150.000|| Seu rosto e todos os seus pés são de cor laranja, enquanto o resto de seu corpo é preto. {+200k de Ag p/Centopeia se esconder na terra,
-fazendo com que apenas sensoriais defendam o ataque da mesma; +250k de Ag p/Se jogar encima do oponente; Rank’s 4 escapam} 🌧
-{Considerada Rank 3}.||3x 
-Valor: 5.000.000 
-Caranguejo Gigante 
-Rank: SSS 
-Atk: 15.000.000 
-Def: 15.000.000 
-Hp: 20.000.000 
-Ag: 15.000.000 Ck: 15.000.000 
-Ck p/Invocar: 150.000 
-|| Embora semelhante a um crustáceo normal, esta invocação tem um número de bastões de chakra que está sendo preso pelo lado superior
-esquerdo de suas costas, e outra no lado inferior direito da sua também de volta, o que implica que está sendo controlado por Pain. Por volta
-de sua boca e todo o seu lado de baixo são de cor branca, enquanto o resto é uma cor avermelhada. Ele tem oito patas de caranguejo e duas
-grandes pinças; Tem muitos espinhos e grandes transposições em sua área traseira inferior, mais notável o aumento muito grande no centro
-de sua parte inferior das costas, Parecia muito escuro dentro de sua boca {Aguenta danos ilimitado até 2x; letais são ignorandos, apenas Jutsus
-Rank SSS o afetam; ataques físicos são considerados Rank 4}.||1x 
-Preço: 10.000.000 
-Estilo Água: Onda de Bolhas Turbulentas 
-Rank: S 
-Atk: Semi-Global/Imobilizador 
-Ck p/Uso: 150.000 
-[Requer Caranguejo Gigante em Campo] 
-|| A espuma branca gerada em grande volume é esguichada com brutalidade e, além do efeito cegante, também tem a função de anular os
-efeitos de diversas técnicas, sobretudo as de fogo e óleo. Quando as bolhas espumosas cobrem o chão, o atrito é naturalmente reduzido,
-limitando bastante os movimentos do inimigo. {Caso seja acertado, ficará imobilizado por 1 turno} 🌧 (Teleportes e teletransportes rank 3
-escapam).|| 3x 
-Valor: 5.000.000 
-────────────────────────── 
-Jutsus Jounnin: Verdadeiro Chibaku Tensei, Super: Shinra Tensei, técnica de projeção corporal, proteção contra genjutsu
+Nanashi Uchiha (うちはナオリ, Uchiha Naori) foi uma kunoichi do famoso clã Uchiha de Konohagakure.
+
+Mangekyō Sharingan {Nanashi Uchiha}
+
+Rank: ?
+
+Dōjutsu
+
+Hp p/Turno: 200.000
+
+Ck p/Ativar: 150.000
+
+Ck p/Turno: 200.000
+
+|| Mesmo com pouca idade, Hikari (Nanashi) eventualmente despertou o Sharingan e o evoluiu para o Mangekyou Sharingan, obtendo acesso a um poder ocular que só ela podia usar, o Yachihoko, que tem a capacidade de interferir no fluxo de chakra de terceiros. {O Mangekyō Sharingan dá um poder aprimorado para as habilidades genéricas do Sharingan, aumentando o nível de percepção do usuário o suficiente para reagir e acompanhar a trajetória visualmente de movimentos instantâneos sem nenhum problema e impedindo assim ocultação de genjutsus exceto Tsukuyomi, Kotoamatsukami e Izanami; Enquanto o usuário ataca não pode kawarimi; Previne atks surpresas e age como "sensorial visual"}.||2x
+
+Amaterasu
+
+Rank: SS
+Atk: Ilimitado/Suplementar
+Ck p/Uso: 300.000
+Hp p/Uso: 300.000
+
+|| O Amaterasu é uma técnica ocular do Mangekyō Sharingan. Dito como a técnica de fogo de mais alto nível e a representação do "Mundo Material e Luz" (物質界と光, Busshitsukai para Hikari). Uma técnica que consiste em materializar chamas negras no ponto de foco da visão do usuário. Em situações comuns é quase impossível evitar o Amaterasu. { Ao acertar, o alvo fica queimando recebendo dano continuo por 7 turnos; As chamas atrapalham o suficiente para evitar que o alvo ataque, sendo assim enquanto em chamas ele só pode defender; As chamas negras do Amaterasu, que dizem ser "o fogo do inferno" e também dito que elas são tão quente quanto o sol, queimam qualquer material (incluindo outras chamas) até que reste apenas suas cinzas.}🌙{ Anula qualquer regeneração enquanto o alvo estiver queimando.}🌙( Teleportes e teletransportes rank 2 com sensorial ativo escapam).|| 7x
+
+Força Sobre-Humana
+
+Rank: S
+Suplementar
+Passiva
+
+|| A Força Sobre-Humana é a capacidade de usar chakra para aumentar as capacidades físicas do usuário. Por isso, é uma técnica que beneficia o combate a curta distância, como taijutsu, por exemplo, de forma que a técnica exija capacidade de percepção da situação e coragem, sobressaindo-se a outros tipos de força significativas. { Aumenta os atributos Atk/Def em 3x; Rompe barreiras com durabilidade inferior & nocauteia inimigos caso o golpe acerte em cheio. } 🌙 || 1x
+
+Técnica de Deslocamento Instantâneo
+
+Rank: D
+Suplementar
+Ck p/Uso: 30.000
+
+|| É uma técnica básica de movimento em alta velocidade, permitindo que um ninja mova-se de uma curta para uma longa distância a uma velocidade quase indetectável. { +30k de Ck p/ ir a curto alcance; +70k de Ck p/ ir a médio alcance e +100k de Ck p/ ir a longo alcance. } 🌙 { Ela é realizada usando chakra para vitalizar temporariamente o corpo e se mover em velocidades extremas e escapar de Atks até o Rank 2} 🌙.|| 7x
+
+Tsukuyomi
+
+Rank: SSS
+
+Genjutsu
+
+Ck p/Uso: 500.000
+Hp p/Uso: 500.000
+
+|| Considerado um dos genjutsus mais poderosos, o Tsukuyomi arrasta a mente da vítima para um mundo mental onde Nanashi possui controle absoluto sobre tempo, espaço, gravidade e percepção. {+500k de Ck cria uma ilusão específica, cujas consequências refletem na realidade; +200k de Ck altera tempo, gravidade, espaço ou a percepção do alvo, causando efeitos negativos conforme a alteração — requer ligamento argumentativo; Danos Psicólogos considerados 5x Letal cada.} 🌙 { Pode ser utilizado sem contato visual, exigindo apenas curto alcance. } 🌙 { Tsukuyomi só pode ser quebrado por um usuário do Sharingan que compartilha o mesmo sangue; Caso seja quebrado, Nanashi fica 2 turnos sem poder utilizar o Tsukuyomi, enquanto o alvo sofre redução da velocidade de movimento e reação pelos próximos 2 turnos. } || 5x
+
+Preço: 800.000.000
+
+Tsukuyomi Entalhado
+
+Rank: SSS
+
+Atk: Genjutsu/Global
+
+Ck p/Uso: 1.000.000
+Hp p/Uso: 1.000.000
+
+|| O Tsukuyomi Entalhado (刻まれた月読) é um poderoso genjutsu visual desenvolvido por Nanashi Uchiha. Após reunir chakra suficiente, o usuário replica seu Mangekyō Sharingan na lua, criando uma intensa luz rubra capaz de afetar a visão dos alvos, independentemente de tentarem esconder seus olhos.  {Nanashi concentra chakra e prepara a projeção do Mangekyō Sharingan na lua durante 1 turno – Após a luz atingir os alvos, um Jūinjutsu é aplicado, levando 1 turno para ser completamente absorvido pelo corpo}🌙{Após a absorção da marca, Nanashi pode utilizar a ligação criada pelo Jūinjutsu para aplicar Genjutsus; Pode absorver ou transferir chakra entre Nanashi e os alvos afetados, tendo como limite máximo 80% do chakra do alvo; Dura 2 turnos}🌙(Susano'os utilizados por Rinnegan para impedir que a luz atinja o corpo, são capazes de resistir a aplicação do Jūinjutsu; Genjutsus aplicados por meio do Tsukuyomi Entalhado são impossíveis de dissipar, até mesmo para um Jinchuuriki perfeito como Naruto Uzumaki).|| 2x
+
+Preço: 1.000.000.000 
+
+--------------------------
+
+Yachihoko
+
+Rank: SSS
+
+Atk: Genjutsu
+
+Ck p/Uso: 800.000
+
+[ No uso normal, é necessário o ter o alvo em vista em até média distância. ]
+
+|| Yachihoko é um poderoso genjutsu de manipulação mental utilizado por Nanashi Uchiha. O usuário invade a mente do alvo, interferindo no fluxo de chakra e nas informações presentes em sua consciência. {Permite manipular pensamentos, memórias e fluxo de chakra do alvo conforme o ligamento argumentativo; +1kk de Ck p/interferir no fluxo de chakra do alvo, podendo dificultar, atrasar ou alterar o uso de técnicas; +10kk de Ck p/tentar realizar manipulações profundas, como alterar memórias importantes ou controlar ações específicas}🌙(Intercepta movimentos até o Rank 1, caso usado como defesa; É possível quebrar o Genjutsu, desde que o método seja usado por alguém não afetado).|| 3x
+
+Preço: 1.000.000.000
+
+
+Estilo Inferno: Kagutsuchi
+
+Rank: SSS
+
+Suplementar
+
+Ck p/Ativar: 125.000
+
+|| 炎遁・加具土命カグツチ (Enton: Kagutsuchi) • Liberação de Chamas: Kagutsuchi é uma técnica que aplica transformação de forma às chamas negras de Amaterasu , permitindo ao usuário manipulá-las à vontade. Nanashi pode moldar as chamas em diferentes formatos, tanto para ataque quanto para defesa.{Permite que Nanashi manipule as chamas do Amaterasu para formar constructos simples como espinhos; Pode ser usado para revestir o Susano'o, fazendo com que ataques que não sejam semi-globais sejam pulverizados antes de chegar ao Susano'o; A manipulação é considerada Rank 1 e tem alcance máximo de 5 metros; Quando usado junto do Susano'o, o alcance aumenta para 20 metros; Permite criação de ataques diretos, semelhante a Amaterasu - Com sentido e pré aprovação da ação; Dano máximo: Ilimitado}.|| 1x
+
+Preço: 250.000.000
+
+Estilo Fogo: Técnica da Grande Bola de Fogo
+
+Rank: C
+
+Atk: Ilimitado/Multi-Direcional
+
+Ck p/uso: 40.000
+
+|| Após realizar os selos necessários, o usuário concentra chakra dentro do corpo, converte-o em natureza de fogo e o expele pela boca na forma de uma gigantesca esfera flamejante ou fluxo contínuo de chamas. O alcance, tamanho e intensidade do ataque variam conforme a quantidade de chakra utilizada, permitindo devastar áreas amplas e incinerar tudo no caminho. É uma técnica ofensiva versátil, eficaz tanto contra grupos quanto em pressão direta contra um único alvo. 🌙 {Acerta até 8 alvos agrupados; pode ser usada como explosão direta ou lança-chamas contínuo, +120k de ck p/tornar a técnica Semi-Global — 2x} 🌙 (Teleporte e Teletransporte Rank 2 escapam).||5x
+
+Preço: 20.000.000
+
+Estilo Fogo: Técnica do Grande Dragão de Fogo
+
+Rank: C
+
+Atk: Semi-Global/Ilimitado
+
+Ck p/uso: 100.000
+
+|| O usuário cospe fogo ao longo de fios, cabos, armas ou qualquer objeto comprido que sirva como condutor, fazendo as chamas correrem em linha reta até o alvo. O ataque percorre rapidamente o caminho traçado e incinera a parte superior do inimigo como um projétil flamejante certeiro. 🌙 {+200k de Ck Torna a técnica Global.} 🌙 (Teleporte e Teletransporte Rank 2 escapam).||4x
+
+Preço: 150.000.000
+
+Transferência de Chakra
+
+Rank: A
+
+Suplementar
+
+Ck p/uso: Variável
+
+|| Essa técnica foi originalmente criada por Hagoromo Ōtsutsuki, a fim de "ligar" as energias espirituais de cada pessoa viva. Sua intenção era para que pudesse ser usada para construir e manter a paz através de sua religião de ninshū, mas esta técnica acabou se tornando mais uma ferramenta para a guerra, quando a humanidade armou o chakra. Essa técnica é utilizada por muitos shinobi, cada um deles mostrando uma maneira diferente de uso. {O Ck p/uso é equivalente a quantidade transferida}.||5x
+
+Preço: 30.000.000
+
+Estilo Vento: Repulsão
+
+Rank: S
+
+Atk/Def: Ilimitado/Repulsão
+
+Ck p/uso: 60.000
+
+|| Nanashi pode expulsar uma porção de chakra da palma de sua mão, que se transforma rapidamente em uma rajada repulsiva, sendo forte o suficiente para empurrar alvos a uma grande distância. {Pode ser usado para defesa repelindo ataques não globais até o rank 3; Ao custo de 140k de Ck, repele até atks semi-globais e inferiores. } 🌙 (Teleporte e Teletransporte Rank 3 Escapam).||3x
+
+Yachihoko: Chamas deslumbrantes da rebelião
+
+Rank: SS
+Atk: Ilimitado/Contínuo
+Ck p/Uso: 250.000
+Hp p/Uso: 300.000 
+
+|| Usando Yachihoko para potencializar suas habilidades, Hikari se move rapidamente, golpeando o oponente com sua kunai, chutando-o para o ar, lançando uma bola de fogo e aplicando Amaterasu , fazendo com que ele exploda em imponentes pilares de fogo flamejante e chamas negras. {Anula regeneração; Caso pego pelo pela Kunai, somente teletransportes do restante do combo; Explosão considerada semi-global} 🌙 (Teleportes e Teletransportes Rank 2 escapam).||4x
+
+Preço: 200.000.000
