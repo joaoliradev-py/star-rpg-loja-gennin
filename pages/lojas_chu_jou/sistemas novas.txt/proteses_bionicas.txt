@@ -1,0 +1,135 @@
+As ferramentas ninja científicas do Tipo Biônico (バイオニック型, Baionikku-gata ) são membros protéticos e órgãos artificiais baseados na engenharia de marionetes tradicionais e em pesquisas sobre as propriedades únicas das células de Hashirama Senju , que utilizam vias de chakra artificiais para se integrarem e interagirem com o corpo do receptor como se fossem uma parte natural dele. O grande número de ferimentos de combate sofridos pelos shinobi criou uma demanda generalizada por esses procedimentos e, nos anos que se seguiram à Quarta Guerra Mundial Shinobi, civis também puderam se beneficiar deles. 
+
+---
+
+Prótese Braquial Mecânica
+
+Rank: E
+Atk/Def: Ilimitado
+Ag p/Empunhar: 20.000
+
+|| 義手 (Gishu) • Uma prótese mecânica desenvolvida com uma estrutura interna de titânio e ligas de alumínio aeronáutico. Seu funcionamento utiliza atuadores eletromecânicos conectados a sensores mioelétricos, capazes de interpretar os impulsos elétricos produzidos pelos músculos restantes do usuário. {Ataca e defende de forma ilimitada; Permite uso de propulsores para aumenta a força do soco em 2x. – 300k de Ck, válido por 3x}🔅(Velocidade considerada a mesma do usuário).||2x 
+
+Preço: 200.000.000 
+
+---
+
+Prótese Femoral Mecânica
+
+Rank: E
+Atk/Def: Ilimitado 
+Ag p/Equipar: 20.000
+
+|| 義足 (Gisoku) • Uma prótese mecânica desenvolvida para substituir integralmente um membro inferior perdido. Sua estrutura é composta por ligas de titânio, articulações de rolamento e atuadores eletromecânicos que reproduzem os movimentos naturais do joelho e tornozelo. {Ataca e defende de forma ilimitada; Permite uso de propulsores para aumentar a velocidade de locomoção em 1 Rank. – 300k de Ck, válido por 3x}🔅(Velocidade considerada a mesma do usuário).||2x 
+
+Preço: 200.000.000 
+
+---
+
+Pulmões Artificiais
+
+Rank: C
+Suplementar 
+Ck p/Turno: 20.000
+
+|| 人工肺 (Jinkou Hai) • Um par de órgãos artificiais desenvolvido com membranas poliméricas semipermeáveis, microcanais de circulação e sensores de pressão. O sistema reproduz as funções dos alvéolos pulmonares naturais, permitindo que o oxigênio seja transferido para a corrente sanguínea enquanto o dióxido de carbono é removido. {Reduz o gasto de Ag em 90%; Técnicas que dependam de Ag ganham mais 5 usos; Imune a envenenamento por meio do ar; Permite prender a respiração por até 4 turnos. – 150k de Ag, válido por 2x}.||1x 
+
+Preço: 200.000.000
+
+---
+
+Micropigmentação de Carbono
+
+Rank: B
+Atk/Def: Ilimitado
+Ck p/Ativar: 50.000
+Ck p/Turno: 25.000
+
+|| 炭素皮膜 (Tanso Himaku) • Um procedimento de modificação dérmica que utiliza micropartículas de carbono biocompatível, distribuídas através de microinjeções na camada profunda da derme. As partículas formam uma rede microscópica de reforço, aumentando a coesão estrutural do tecido sem comprometer sua elasticidade natural. {Imune a qualquer tipo de dano que seja ilimitado ou inferior, com exceção de:. Amaterasu, Manipulação de Carbono, Raitons}🔅{O usuário pode sobrecarregar a pele com Chakra, aguentando até mesmo um atk 5x Ilimitado, porém, inutilizando a modificação pelo resto da batalha. – 700k de Ck e Ag, válido por 1x}.||1x 
+
+Preço: 200.000.000
+
+---
+
+Sistema Neurocibernético: K.O.K.O.R.O
+
+Rank: A
+Suplementar 
+Ck p/Ativar: 650.000
+Ck p/Turno: 500.000 
+Hp p/Turno: 500.000 
+
+|| 神経機構 (Shinkei Kikō) • Um sistema de aprimoramento neurocibernético desenvolvido para integrar componentes tecnológicos diretamente ao sistema nervoso e à estrutura vertebral humana. Sua arquitetura utiliza interfaces neurais, circuitos de transmissão elétrica, microprocessadores e ligas biomecânicas capazes de interpretar e transmitir impulsos nervosos. {Melhora absurdamente os impulsos neurais do usuário, sua velocidade mínima torna-se Rank 2; Permite avanços e recuos considerados Rank 1 ao custo de 700k de Ag e Ck por 5x}🔅{Capacidade de reação torna-se tão apurada a ponto de reagir a Atks Rank 2, independente da natureza}.||1x 
+
+Preço: 650.000.000
+
+--- 
+
+[Colab:. Naruto x Cyberpunk]
+
+Sandevistan
+
+Rank: S
+Suplementar 
+Ag p/Turno: 500.000
+Ck p/Turno: 750.000 
+
+|| サンデヴィスタン (Sandesutisan) • Um sistema de aceleração neurocibernética desenvolvido para otimizar temporariamente a transmissão de impulsos nervosos e a resposta motora do usuário. Instalado ao longo da coluna vertebral e conectado ao sistema nervoso central, o dispositivo utiliza microprocessadores de alta velocidade, atuadores eletromecânicos e circuitos de estimulação neural para reduzir o intervalo entre a percepção de um estímulo e a execução de um movimento.  {Permite acelerar absurdamente a percepção e velocidade por 1 turno, onde o usuário enxerga e percebe tudo em 2 Rank's mais lento. – 5kk de Ag, Ck e Hp p/Uso, válido por 3x, o terceiro uso leva o usuário a morte}🔅{A ativação do Sandevistan desabilita qualquer forma de regeneração do usuário}🔅(Resistência considerada 2xIlimitada).||1x 
+
+Preço: 1.000.000.000 
+
+--- 
+
+Olho Artificial: Mangekyō Sharingan
+Rank: S
+Dōjutsu
+Ck p/Ativar: 400.000
+Ck p/Turno: 400.000 
+
+|| 人工万華鏡写輪眼 (Jinkō Mangekyō Sharingan) • Um implante ocular desenvolvido a partir de engenharia biomédica avançada, utilizando uma estrutura óptica artificial integrada a um processador neural especializado. Sua aparência reproduz fielmente o padrão visual do Mangekyō Sharingan, incluindo sua íris característica e tomoe, através de microestruturas ópticas e pigmentação sintética. {O Olho Artificial: Mangekyō Sharingan dá um poder aprimorado para as habilidades genéricas do Sharingan, aumentando o nível de percepção do usuário o suficiente para reagir e acompanhar a trajetória visualmente de movimentos até o rank 1 sem nenhum problema e impedindo assim ocultação de genjutsus exceto Tsukuyomi, Kotoamatsukami e Izanami; Enquanto o usuário ataca não pode kawarimi; Previne atks surpresas e age como "sensorial visual"}.||2x
+
+[ Permite "copiar" Técnicas visuais de outros Mangekyōu's, as obtendo como permanente; Máximo de 3 Técnicas ] 
+
+Preço: 5.000.000.000 
+
+--- 
+
+Cauda Cibernética Articulada
+
+Rank: B
+Atk/Def: Variável
+Ag p/Equipar: 150.000
+
+|| 機械尾 (Kikai-bi) • Uma prótese biomecânica desenvolvida para funcionar como um membro adicional, instalada diretamente na região lombar e conectada à estrutura vertebral do usuário.  {Permite realizar movimentos independentes com a cauda, utilizando-a para agarrar, puxar, empurrar e manipular objetos de até 30kg; Golpes físicos causam dano equivalente a 50% do Atk do usuário}🔅{Movimentos com a cauda consomem 30k de Ag}🔅(Velocidade considerada a mesma do usuário).||1x 
+
+Preço: 250.000.000 
+
+--- 
+
+Núcleo
+
+Rank: S
+Passiva 
+Hp: Regeneração 
+
+|| O Núcleo (核, Koa) é um dispositivo interno em formato oval que funciona como fonte de energia, permitindo-o regenerar os danos físicos em seu corpo, podendo reconstruir desde a sua cabeça até o tronco e outros membros perdidos de forma instantânea, tal como neutralizar venenos em sua corrente sanguínea. Caso este núcleo seja destruído, o usuário perde o controle sobre as células de regeneração de seu corpo. No entanto, para impedir que isto ocorra ele usa selos de mão para mover o núcleo para áreas seguras em diferentes partes dentro de seu corpo. {Enquanto ativo, o usuário torna-se imune a veneno, toxinas e qualquer tipo de dano; Pode mover o núcleo pelo corpo a vontade. – 50k de Ck, válido enquanto o núcleo estiver intacto, considerado Rank 1}🔅{Permite mudar a forma do corpo dependendo da imaginação do usuário. – 150k de Ck, Considerado Rank 2}🔅(Retirar o núcleo do corpo resulta na perca do controle das células, Resultando no derretimento do corpo; Destrui-lo, causa morte instantânea ao usuário).||1x 
+
+[ Necessário assimilação Hashirama ou Hagoromo Completa ] 
+
+Preço: 10.000.000.000
+
+--- 
+
+Núcleo Hōgyoku
+
+Rank: S+
+Passiva
+Hp: Imortal 
+
+|| O Hōgyoku (崩玉, literalmente "Esfera de Repartição" ou "Esfera Esfarelada") • Um núcleo artificial de origem experimental, responsável por armazenar informações genéticas e preservar a existência de seu portador. Sua estrutura oval possui uma composição indestrutível e permite armazenar amostras de DNA, utilizando-as posteriormente para modificar e reconstruir o organismo. {Permite armazenar até 2 amostras de DNA e transferir suas características biológicas para o próprio corpo, obtendo suas respectivas vantagens} 🔅 {Receptores negros, Senjutsu, Esferas do Caminho da verdade, Chakra do Meteorito, e Raitons são capazes de paralisar as funcionalidades do Hogyoku instantâneamente caso acerte o núcleo} 🔅 (O núcleo é impossível de destruir. Seu portador só pode ser morto através do selamento simultâneo do núcleo e de seu corpo).|| 1x
+
+[ Necessário Assimilação: Obito Pós Rikkudo; Hagoromo Pós Rikkudo; Madara Pós Rikkudo ] 
+
+Preço: 10.000.000.000 
+
+---

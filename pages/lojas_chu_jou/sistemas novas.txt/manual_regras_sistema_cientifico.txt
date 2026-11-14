@@ -1,0 +1,371 @@
+🍥  NARUTO RPG — STAR  🍜
+
+SISTEMACIENTÍFICO
+
+Biotecnologia • Engenharia Ninja • Modificações • Ciência Proibida
+
+MANUAL OFICIAL DE REGRAS
+
+Edição organizada para consulta e edição
+
+SUMÁRIO
+
+Apresentação
+
+1. Ingresso E Limites
+
+2. Progressão Do Cientista
+
+3. Ranks E Capacidade
+
+4. Laboratório E Atualizações
+
+5. Custos De Projetos
+
+6. Fabricação E Prazos
+
+7. Materiais E Coleta
+
+8. Armas, Equipamentos E Modificações
+
+9. Limites Especiais
+
+10. Ciência Proibida
+
+11. Aprovação E Controle Administrativo
+
+12. Checklist De Um Projeto
+
+13. Disposições Finais14.
+
+APRESENTAÇÃO
+
+O Sistema Científico do Naruto RPG — STAR representa o desenvolvimento tecnológico e biológico do mundo shinobi. Por meio de pesquisa, engenharia e aplicação de chakra, seus participantes podem fabricar ferramentas ninja, aprimorar armas, desenvolver próteses e realizar modificações corporais autorizadas.
+
+A progressão foi organizada para ser objetiva: o cientista evolui por atividades narrativas e treinamento diário com emojis; cada projeto possui Rank, custo, materiais e prazo próprios; e toda criação deve respeitar os limites de produção e a aprovação administrativa.
+
+
+--- [TABELA] ---
+
+IMPORTANTE — O Rank do cientista determina o nível máximo de projeto que ele pode desenvolver, fabricar ou utilizar. Ter acesso a um projeto não dispensa o cumprimento de seus requisitos.
+
+--- [/TABELA] ---
+
+
+1. INGRESSO E LIMITES
+
+O caminho científico é uma especialização de acesso controlado. A entrada na modalidade convencional depende das regras da vila e da autorização do Kage.
+
+Regras gerais
+
+Apenas 3 cientistas convencionais podem estar ativos por vila.
+
+O treinamento científico pode ser iniciado a partir do posto de Chunnin, mediante autorização do Kage.
+
+O personagem deve cumprir a progressão de Rank e manter seu laboratório atualizado.
+
+Cada criação deve seguir a legenda oficial publicada na aba de Ferramentas e Modificações Científicas.
+
+Não é permitido inventar efeitos, ampliar capacidades ou alterar limitações de uma legenda sem aprovação administrativa.
+
+A ciência proibida possui regras de acesso próprias e não está sujeita ao limite de três cientistas convencionais por vila.
+
+2. PROGRESSÃO DO CIENTISTA
+
+A evolução ocorre em seis etapas: Rank E, D, C, B, A e S. Cada avanço exige um ciclo completo de três dias de treinamento. O primeiro ciclo concede o Rank E; cada novo ciclo concluído eleva o cientista ao Rank seguinte.
+
+Treinamento diário padrão
+
+Na vila: realizar 2 cenas por dia estudando ou praticando ciência ninja.
+
+Fora da vila: realizar 1 cena por dia estudando ou praticando ciência ninja.
+
+Em cada dia do ciclo: enviar 20 minutos de emojis, com 1 emoji por minuto (20 emojis).
+
+O ciclo deve ser realizado em 3 dias, respeitando a atividade narrativa e o envio diário.
+
+Progressão resumida
+
+
+--- [TABELA] ---
+
+Ciclo concluído | Resultado
+
+1º ciclo ( 3 dias) | Rank E
+
+2º ciclo (mais 2 dias) | Rank D
+
+3º ciclo (mais 2 dias) | Rank C
+
+4º ciclo | Rank B
+
+5º ciclo | Rank A
+
+6º ciclo | Rank S
+
+--- [/TABELA] ---
+
+
+A progressão completa, do início até o Rank S, corresponde a todos os ciclos completes. Apartir do 4º ciclo, é possivel fazer todos os cicloes restantes no mesmo dia (opcional).
+
+3. RANKS E CAPACIDADE
+
+O Rank científico estabelece o limite de complexidade das criações do personagem.
+
+
+--- [TABELA] ---
+
+Rank | Capacidade
+
+E | Projetos e equipamentos Rank E
+
+D | Projetos e equipamentos Rank D ou inferior
+
+C | Projetos e equipamentos Rank C ou inferior
+
+B | Projetos e equipamentos Rank B ou inferior
+
+A | Projetos e equipamentos Rank A ou inferior
+
+S | Projetos e equipamentos de todos os Ranks
+
+--- [/TABELA] ---
+
+
+O cientista só pode produzir, desenvolver ou utilizar equipamentos e modificações de seu Rank ou inferior. Um projeto de Rank superior não pode ser utilizado apenas por ter sido encontrado, comprado ou recebido de outro personagem.
+
+As armas e ferramentas existentes no universo de Naruto também podem receber aprimoramentos científicos, desde que o projeto correspondente esteja publicado e o cientista possua Rank suficiente.
+
+4. LABORATÓRIO E ATUALIZAÇÕES
+
+Todo cientista convencional precisa possuir um laboratório próprio ou autorizado para iniciar projetos. O laboratório é a estrutura de pesquisa, fabricação e armazenamento do personagem.
+
+
+--- [TABELA] ---
+
+Etapa | Custo
+
+Construção do laboratório | 2 bilhões de Ryōs
+
+Cada Rank científico alcançado | 1 bilhão de Ryōs por atualização
+
+--- [/TABELA] ---
+
+
+Ao alcançar um novo Rank, o cientista deverá pagar 1B de Ryōs para atualizar o laboratório e liberar a estrutura necessária à nova etapa. O pagamento da atualização é separado do custo de fabricação de cada projeto.
+
+Armazenamento
+
+Cada laboratório pode guardar até 30 itens no total.
+
+Materiais, componentes, peças, amostras e equipamentos armazenados contam para o limite.
+
+A capacidade é compartilhada: não são 30 espaços por categoria.
+
+A administração poderá solicitar a relação dos itens guardados para conferência.
+
+5. CUSTOS DE PROJETOS
+
+Além de construir e atualizar o laboratório, o cientista deve investir Ryōs para iniciar cada projeto. O custo é definido pelo Rank do projeto, não pelo Rank atual do personagem.
+
+
+--- [TABELA] ---
+
+Rank do projeto | Investimento para iniciar
+
+E | 500 milhões (500kk) de Ryōs
+
+D | 800 milhões (800kk) de Ryōs
+
+C | 1 bilhão de Ryōs
+
+B | 2,5 bilhões de Ryōs
+
+A | 5 bilhões de Ryōs
+
+S | 10 bilhões de Ryōs
+
+--- [/TABELA] ---
+
+
+O investimento de início não substitui a coleta de materiais. Caso a legenda do projeto indique componentes específicos, todos deverão ser reunidos antes do início da fabricação.
+
+6. FABRICAÇÃO E PRAZOS
+
+Toda arma, ferramenta, equipamento ou modificação corporal exige um processo de fabricação narrado. O projeto não é concluído instantaneamente após o pagamento ou a entrega dos materiais.
+
+Regras de fabricação
+
+Prazo mínimo padrão: 3 dias.
+
+Em cada dia de fabricação, o cientista deve enviar o treinamento de emojis correspondente, seguindo o padrão diário de 20 minutos (20 emojis, um por minuto).
+
+É possível reduzir a fabricação para 2 dias mediante treinamento duplicado: 30 minutos de emojis por dia (30 emojis, um por minuto).
+
+O cientista deve possuir Rank compatível, laboratório atualizado, investimento pago e todos os materiais exigidos.
+
+A fabricação só é considerada concluída após a conferência e aprovação administrativa, quando exigida.
+
+As cenas de progressão de Rank e os treinamentos de fabricação são atividades diferentes: concluir um projeto não concede automaticamente progresso de Rank, e evoluir de Rank não conclui projetos em andamento.
+
+7. MATERIAIS E COLETA
+
+Cada projeto terá sua própria lista de materiais necessários, posicionada logo abaixo de sua legenda na aba de Ferramentas e Modificações Científicas.
+
+Todos os materiais listados são obrigatórios para iniciar o projeto.
+
+A maioria dos componentes será obtida por meio de missões do Sistema de Missões.
+
+Outros materiais poderão ser disponibilizados por exploração, eventos ou atividades autorizadas pela administração.
+
+Materiais não podem ser substituídos por itens semelhantes sem autorização.
+
+Os materiais guardados no laboratório ocupam espaço dentro do limite de 30 itens.
+
+Exemplo de apresentação de um projeto: abaixo da legenda de uma arma de dardos, a aba indicará os componentes necessários para sua fabricação. A lista será específica para cada projeto.
+
+8. ARMAS, EQUIPAMENTOS E MODIFICAÇÕES
+
+O sistema permite criar ferramentas científicas e aprimorar armas já existentes no universo de Naruto. Os aprimoramentos podem envolver potência, velocidade, precisão, resistência ou outras propriedades expressamente previstas na legenda aprovada.
+
+Catálogo oficial
+
+As legendas de armas científicas, equipamentos e modificações corporais ficarão reunidas em uma aba específica do site.
+
+O jogador deverá consultar a legenda publicada e utilizar o texto oficial, sem alterar seus efeitos.
+
+Cada item ou modificação terá Rank, custo, materiais, prazo e eventuais restrições descritos em sua própria ficha.
+
+Equipamentos classificados como específicos terão limite de 1 unidade por vila.
+
+O limite de produção de cada item será controlado pela administração para impedir duplicações acima do permitido.
+
+O aprimoramento de uma arma não concede automaticamente habilidades que não estejam descritas no projeto correspondente.
+
+9. LIMITES ESPECIAIS
+
+Olhos artificiais
+
+Somente 2 pares de olhos artificiais poderão ser produzidos no sistema. Os modelos disponíveis e suas respectivas legendas estarão na aba de Ferramentas Científicas. A administração deverá registrar cada par produzido para controlar o limite global.
+
+Núcleos artificiais
+
+Cada vila poderá possuir somente 2 usuários de Núcleo Artificial: 1 usuário de núcleo básico e 1 usuário de núcleo avançado. Os modelos disponíveis para criação estarão na aba de Ferramentas Científicas. A ocupação das vagas depende de registro e controle administrativo.
+
+Equipamentos específicos
+
+Quando um projeto estiver marcado como equipamento específico, poderá existir apenas 1 unidade por vila, salvo regra expressa diferente na própria legenda.
+
+10. CIÊNCIA PROIBIDA
+
+A Ciência Proibida reúne técnicas, projetos e procedimentos clandestinos que ultrapassam os limites autorizados pela ciência convencional. Seu conteúdo ficará em uma aba própria do site: [INSERIR LINK DA ABA DE CIÊNCIA PROIBIDA].
+
+Formas de acesso
+
+Nukkenin: pode buscar projetos e técnicas proibidas por meio das missões específicas do Sistema de Missões.
+
+Ninja de vila: somente poderá desenvolver essa vertente em segredo, sem conhecimento do Kage ou da vila, mantendo um laboratório particular e escondido.
+
+Aprendizado de técnicas proibidas
+
+O treinamento para aprender uma técnica proibida segue o mesmo padrão de uma técnica Rank S do sistema de emojis. A técnica deve estar disponível na aba correspondente e o personagem precisa cumprir os requisitos descritos em sua legenda.
+
+Obtenção de projetos
+
+Projetos proibidos só podem ser obtidos por meio de missões específicas do Sistema de Missões. Não podem ser comprados, inventados ou liberados livremente pelo jogador.
+
+Descoberta e consequências
+
+Se um laboratório clandestino ou seus projetos proibidos forem descobertos pela vila, o personagem poderá ser preso. Caso recuse a prisão e fuja ou resista à autoridade da vila, será considerado um Nukkenin de extrema prioridade, sujeito à perseguição correspondente.
+
+
+--- [TABELA] ---
+
+A existência de um laboratório particular não torna a ciência proibida automaticamente permitida. O sigilo é uma condição narrativa de atuação clandestina, não uma autorização pública.
+
+--- [/TABELA] ---
+
+
+11. APROVAÇÃO E CONTROLE ADMINISTRATIVO
+
+A administração controla a quantidade de cientistas, equipamentos limitados, olhos artificiais e usuários de núcleos por vila.
+
+O jogador deve apresentar os materiais, custos, Rank e treinamentos exigidos quando solicitado.
+
+Projetos só podem produzir os efeitos descritos nas legendas oficiais.
+
+A administração pode reprovar ou interromper projetos que desrespeitem os limites, não apresentem os requisitos ou comprometam o equilíbrio do RPG.
+
+A aprovação de um projeto não libera automaticamente outros projetos da mesma categoria.
+
+O registro do laboratório e de seu inventário deve permanecer atualizado.
+
+12. CHECKLIST DE UM PROJETO
+
+Antes de iniciar qualquer fabricação, confira os seguintes pontos:
+
+O cientista possui Rank igual ou superior ao Rank do projeto.
+
+O laboratório está construído e atualizado para o Rank necessário.
+
+O custo de início do projeto foi pago.
+
+Todos os materiais descritos abaixo da legenda foram coletados.
+
+O projeto respeita os limites de unidades e vagas disponíveis.
+
+O treinamento diário de emojis foi realizado durante o prazo exigido.
+
+A criação foi registrada e submetida à aprovação administrativa, quando aplicável.
+
+Se qualquer requisito estiver pendente, a fabricação não poderá ser considerada concluída.
+
+13. DISPOSIÇÕES FINAIS
+
+O Sistema Científico foi desenvolvido para permitir evolução tecnológica e biológica de forma gradual, com custos, materiais, treinamento e limites claros. Nenhuma criação concede vantagens além das descritas em sua legenda oficial.
+
+Em caso de dúvida, conflito entre regras ou ausência de informação em uma legenda, prevalece a decisão da administração do Naruto RPG — STAR.
+
+14. 🧬 SISTEMA DE IMPLANTES CIENTÍFICOS
+
+Os cientistas podem desenvolver e instalar próteses e implantes especiais por meio de procedimentos cirúrgicos. Entretanto, quanto maior o Rank, a complexidade e o poder da modificação, maior será a dificuldade de assimilação pelo organismo do shinobi, aumentando as chances de rejeição.
+
+
+--- [TABELA] ---
+
+Situação | Custo | Recuperação
+
+Custo da cirurgia | 2b | 
+
+Cirurgia bem-sucedida | ― | Repouso por 2 dias
+
+Recuperação acelerada | + 2b | Reduz para 24 horas
+
+Cirurgia malsucedida | ― | Atributos zerados temporariamente + Repouso por 3 dias
+
+--- [/TABELA] ---
+
+
+CHANCE DE SUCESSO POR RANK DO IMPLANTE
+
+
+--- [TABELA] ---
+
+Rank do Implante | Chance de Sucesso
+
+Rank E até C | 40%
+
+Rank B até A | 25%
+
+--- [/TABELA] ---
+
+
+Rank S15%
+
+🧬 Regeneração Genética
+
+Caso o shinobi possua algum sangue assimilado que conceda capacidade regenerativa, receberá +10% de chance de sucesso por sangue, facilitando a adaptação do organismo ao implante.
+
+⚠ Falha na Implantação
+
+Caso a cirurgia resulte em rejeição, o implante será completamente inutilizado, não podendo ser reaproveitado ou instalado novamente. Será necessário obter ou fabricar outro implante e realizar uma nova cirurgia, pagando novamente os custos correspondentes.

@@ -137,7 +137,6 @@
                                 <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>
                                 <li><a href="pages/sistemas/roubo_sangue.html">Roubo de Sangue</a></li>
                                 <li><a href="pages/sistemas/seis_caminhos.html">Seis Caminhos de Pain</a></li>
-                                <li><a href="pages/sistemas/sistema_cientifico.html">Sistema Científico</a></li>
                                 <li><a href="pages/sistemas/aliancas_entre_vilas.html">Sistema de Alianças</a></li>
                                 <li><a href="pages/sistemas/armadilhas.html">Sistema de Armadilhas</a></li>
                                 <li><a href="pages/sistemas/casamento.html">Sistema de Casamento</a></li>
@@ -146,6 +145,15 @@
                                 <li><a href="pages/sistemas/tribunal_shinobi.html">Tribunal Shinobi</a></li>
                                 <li><a href="pages/sistemas/times_ninja.html">Times Ninja</a></li>
                                 <li><a href="pages/sistemas/troca_de_vilas.html">Troca de Vilas</a></li>
+                                <li>
+                                    <details>
+                                        <summary class="font-bold text-purple-500">Sistema Científico</summary>
+                                        <ul class="p-2 rounded-lg mt-1">
+                                            <li><a href="pages/sistemas/sistema_cientifico.html">Manual & Regras</a></li>
+                                            <li><a href="pages/sistemas/ferramentas_ninja.html">Ferramentas Ninja</a></li>
+                                        </ul>
+                                    </details>
+                                </li>
                                 <li>
                                     <details>
                                         <summary class="font-bold text-emerald-600">Subsistemas</summary>
@@ -301,7 +309,6 @@
                             <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>
                             <li><a href="pages/sistemas/roubo_sangue.html">Roubo de Sangue</a></li>
                             <li><a href="pages/sistemas/seis_caminhos.html">Seis Caminhos de Pain</a></li>
-                            <li><a href="pages/sistemas/sistema_cientifico.html">Sistema Científico</a></li>
                             <li><a href="pages/sistemas/aliancas_entre_vilas.html">Sistema de Alianças</a></li>
                             <li><a href="pages/sistemas/armadilhas.html">Sistema de Armadilhas</a></li>
                             <li><a href="pages/sistemas/casamento.html">Sistema de Casamento</a></li>
@@ -310,9 +317,18 @@
                             <li><a href="pages/sistemas/tribunal_shinobi.html">Tribunal Shinobi</a></li>
                             <li><a href="pages/sistemas/times_ninja.html">Times Ninja</a></li>
                             <li><a href="pages/sistemas/troca_de_vilas.html">Troca de Vilas</a></li>
-                                <li>
-                                    <details>
-                                        <summary class="font-bold text-emerald-600">Subsistemas</summary>
+                            <li>
+                                <details>
+                                    <summary class="font-bold text-purple-500">Sistema Científico</summary>
+                                    <ul class="p-2 rounded-lg mt-1">
+                                        <li><a href="pages/sistemas/sistema_cientifico.html">Manual & Regras</a></li>
+                                        <li><a href="pages/sistemas/ferramentas_ninja.html">Ferramentas Ninja</a></li>
+                                    </ul>
+                                </details>
+                            </li>
+                            <li>
+                                <details>
+                                    <summary class="font-bold text-emerald-600">Subsistemas</summary>
                                         <ul class="p-2 rounded-lg mt-1">
                                             <li><a href="pages/sistemas/subsistemas/lista_subsistemas.html">Lista de Subsistemas</a></li>
                                             <li><a href="pages/sistemas/subsistemas/konohagakure.html">Subsistema Konohagakure</a></li>
