@@ -91,7 +91,15 @@
                                     </details>
                                 </li>
                                 <li><a href="pages/habilidades_gerais/dojutsus_gennin.html">Dojutsu Gennin</a></li>
-                                <li><a href="pages/habilidades_gerais/dojutsus_chunnin.html">Dojutsu Chunnin</a></li>
+                                <li>
+                                    <details>
+                                        <summary class="font-bold text-cyan-500">Utilitários Chunnins</summary>
+                                        <ul class="p-2 rounded-lg mt-1">
+                                            <li><a href="pages/habilidades_gerais/dojutsus_chunnin.html">Dojutsu Chunnin</a></li>
+                                            <li><a href="pages/habilidades_gerais/caminhos_do_rinnegan.html">Caminhos do Rinnegan</a></li>
+                                        </ul>
+                                    </details>
+                                </li>
                                 <li><a href="pages/habilidades_gerais/monte_myobuko.html">Monte Myoboku</a></li>
                                 <li><a href="pages/habilidades_gerais/clones.html">Clones</a></li>
                                 <li><a href="pages/habilidades_gerais/invocações.html">Invocações</a></li>
@@ -262,7 +270,15 @@
                                 </details>
                             </li>
                             <li><a href="pages/habilidades_gerais/dojutsus_gennin.html">Dojutsu Gennin</a></li>
-                            <li><a href="pages/habilidades_gerais/dojutsus_chunnin.html">Dojutsu Chunnin</a></li>
+                            <li>
+                                <details>
+                                    <summary class="font-bold text-cyan-500">Utilitários Chunnins</summary>
+                                    <ul class="p-2 rounded-lg mt-1">
+                                        <li><a href="pages/habilidades_gerais/dojutsus_chunnin.html">Dojutsu Chunnin</a></li>
+                                        <li><a href="pages/habilidades_gerais/caminhos_do_rinnegan.html">Caminhos do Rinnegan</a></li>
+                                    </ul>
+                                </details>
+                            </li>
                             <li><a href="pages/habilidades_gerais/monte_myobuko.html">Monte Myoboku</a></li>
                             <li><a href="pages/habilidades_gerais/clones.html">Clones</a></li>
                             <li><a href="pages/habilidades_gerais/invocações.html">Invocações</a></li>

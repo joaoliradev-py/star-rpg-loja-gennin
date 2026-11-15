@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caminhos do Rinnegan - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+    <!-- fim NavBar -->
+
+    <main class="p-8 bg-[url(assets/images/arena_exame_chunnin.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-24 pb-16">
+        <div class="bg-base-100 rounded-xl p-6 mt-10 max-w-3xl mx-auto shadow-lg flex flex-col gap-7 text-base-content/90">
+            <!-- Título principal -->
+            <div class="text-center">
+                <h1 class="text-2xl font-bold text-purple-600 mb-1">Caminhos do Rinnegan</h1>
+                <h2 class="text-base font-semibold text-base-content/60 mb-3">Habilidades Gerais • Utilitários Chunnin</h2>
+
+                <!-- Botão Copiar Loja -->
+                <div class="text-center">
+                    <button id="btn-copiar-loja" onclick="copiarLoja()" class="btn btn-sm bg-purple-600 hover:bg-purple-500 text-white font-bold border-none shadow-md shadow-purple-500/30 hover:shadow-lg hover:shadow-purple-500/50 hover:scale-105 active:scale-95 transition-all duration-200">
+                        Copiar loja
+                    </button>
+                </div>
+            </div>
+
+            <div class="divider my-2"></div>
+
+            <!-- Início do Conteúdo -->
+            <div class="space-y-4 text-left">
+                <p>Ativação Caminho Exterior</p>
+                <p>Rank: SSS</p>
+                <p>Suplementar</p>
+                <p>Ck p/ativar: 75.000</p>
+                <p>|| O Caminho Exterior (外道, Gedou; Panini: "Estilo Profano") é o sétimo caminho, uma habilidade concedida ao portador do Rinnegan. Com o Caminho Exterior, o usuário é capaz de controlar a vida e a morte, fazendo reviver os mortos. O Caminho Exterior também concede ao usuário a habilidade de canalizar chakra nos Bastões de Chakra que se originam a partir de seu corpo, que podem ser usadas para manifestar correntes de chakra, bem como criar e controlar os Seis Caminhos de Pain. 🌙 {Requer esse caminho ativo p/ invocar Gedo Mazo, usar os Seis Caminhos e usufruir dos Receptores Negros bem como uso das habilidades derivadas}.|| 1x</p>
+                <p>Preço: 175.000.000</p>
+                <hr>
+                <p>Ativação Caminho Deva</p>
+                <p>Rank: SS</p>
+                <p>Suplementar</p>
+                <p>Ck p/uso: 80.000</p>
+                <p>Ck p/ativar: 130.000</p>
+                <p>|| O Caminho Deva (天道, Tendou; Panini: "Tendou" ou "Reino do Céu") concede ao usuário a capacidade de manipular forças atrativas e repulsivas, permitindo mover objetos e pessoas, bem como voar. Estas técnicas de manipulação da gravidade, no entanto, não podem ser realizadas numa sucessão rápida, a quantidade de tempo necessária para recarregar após a utilização varia de acordo com a escala da técnica utilizada, sendo cinco segundos a mínima de base. {Ao ativar permite usufruir das forças atrativas e repulsivas livremente; Alcance: 15m; +50k de ck p/5m adicional com alcance máximo de até 60m; Passar dos 20m incapacita de usar novamente por 1 turno; Não causa dano, mas tem a capacidade de derrubar uma invocação grande} 🌙 (Considerado rank 2).|| 1x</p>
+                <p>Preço: 20.000.000</p>
+                <hr>
+                <p>Ativação Caminho Preta</p>
+                <p>Rank: SSS</p>
+                <p>Suplementar</p>
+                <p>Ck p/ativar: 100.000</p>
+                <p>|| O Caminho Preta (餓鬼道, Gakidō) concede ao usuário a habilidade de absorver qualquer forma de chakra. É capaz de absorver as técnicas baseadas em Ninjutsu, anulando assim o seu efeito. {Ao custo de 50k de ck pode absorver ninjutsu baseados em Chakra que forem lançando contra o usuário contanto que ele consiga reagir ao ataque} 🌙 {Ao custo de 60k de ck o usuário por meio do Caminho Preta, consegue absorver 5kk de ck c/turno de seu alvo por meio do contato físico}.|| 1x</p>
+                <p>Preço: 20.000.000</p>
+                <hr>
+                <p>Ativação Caminho Animal</p>
+                <p>Rank: SSS</p>
+                <p>Suplementar</p>
+                <p>Ck p/ativar: 100.000</p>
+                <p>|| O Caminho Animal (畜生道, Chikushōdō) concede a um usuário do Rinnegan a habilidade de invocar vários animais e criaturas para ajudá-lo em batalha. As invocações apresentam ter vários receptores de chakra pelo seu corpo, Além disso, Elas possuem um par de Rinnegan, assim dando visão compartilhada a seu invocador. 🌙 {Pode fazer múltiplas invocações de forma instantânea; Cada invocação possui visão e sentidos compartilhados com o usuário; Pode invocar a mesma criatura mais de uma vez reposicionado ela em combate}.|| 1x</p>
+                <p>Preço: 20.000.000</p>
+                <hr>
+                <p>Ativação Caminho Asura</p>
+                <p>Rank: SSS</p>
+                <p>Suplementar</p>
+                <p>Ag p/ativar: 50.000</p>
+                <p>Ck p/ativar: 100.000</p>
+                <p>|| O Caminho Asura (修羅道, Shuradō) concede ao usuário a capacidade de produzir uma armadura mecanizada em seu corpo ignorando Ataques Letais, produzindo membros extras e vários armamentos mecânicos. {Ao custo de 40k de ag o utilizador é capaz de formar até quatro braços e duas faces adicionais assim tendo uma visão 360°, bem como uma faixa de lâmina serrilhada dobradiça em torno da cintura que age de forma suplementar causando dano ilimitado ativando e desativando ambos a qualquer momento; Criação considerada rank 2; Movimentos considerados rank 3} 🌙 {Ao custo de 130k de ck o usuário libera uma grande explosão de chakra proveniente de sua cabeça causando dano semi-global/ilimitado (Teleporte teletransportes rank 3 escapam)}.|| 1x</p>
+                <p>Preço: 20.000.000</p>
+                <hr>
+                <p>Ativação Caminho Humano</p>
+                <p>Rank: S</p>
+                <p>Suplementar</p>
+                <p>Ck p/ativar: 100.000</p>
+                <p>|| O Caminho Humano (人間道, Ningendō) concede ao usuário a capacidade de leitura da mente simplesmente colocando sua mão sobre a cabeça do alvo, podendo extrair qualquer informação ou segredo a ser escondido pela vítima. No entanto, usando a técnica, inevitavelmente, ele puxa a alma para fora do corpo do alvo, causando morte instantânea ignorando quaisquer regenerações da vítima. 🌙 {Ao extrair a alma pode extrair qualquer informação do alvo; Necessário 50k de ck p/extrair a alma do alvo ao toque}.|| 1x</p>
+                <p>Preço: 20.000.000</p>
+                <hr>
+                <p>Ativação Caminho Naraka</p>
+                <p>Rank: S</p>
+                <p>Suplementar</p>
+                <p>Ck p/ativar: 100.000</p>
+                <p>|| O Caminho Naraka (地獄道, Jigokudō) concede ao usuário duas habilidades principais: de interrogatório e de restauração, usando o Rei do Inferno uma estátua com chamas roxas que só pode ser vista pelo usuário. {Ao custo de 45k de ck, após imobilizar o oponente, pode-se fazer surgir a estatua do caminho naraka atrás de si com a intenção de interrogar o inimigo matando eles logo em seguida; Após interroga-los, o usuário consegue previnir quaisquer ataques de seu oponente na qual foi questionado desde que seja possível} 🌙 {Ao custo de 50k de ck pode utilizar da a habilidade de restauração do Rei do Inferno que após ingerir o corpo, é restaurado e cuspido totalmente rejuvenescido; É possível manter alguém dentro dele por até 2 turnos; Surge a rank 2}.|| 1x</p>
+                <p>Preço: 20.000.000</p>
+                <hr>
+                <div class="mt-6 p-4 rounded-xl bg-purple-950/20 border border-purple-500/30 space-y-2">
+                    <p class="font-bold text-purple-600 text-base uppercase tracking-wide">Usuários e Permissões</p>
+                    <p class="text-sm"><strong>Hagoromo Otsutsuki:</strong> Todos (Animal não invoca os animais do Nagato)</p>
+                    <p class="text-sm"><strong>Madara Uchiha:</strong> Exterior, Preta e Deva</p>
+                    <p class="text-sm"><strong>Obito Uchiha:</strong> Exterior e Preta</p>
+                    <p class="text-sm"><strong>Sasuke Uchiha:</strong> Deva e Preta</p>
+                    <p class="text-sm"><strong>Urashiki, Momoshiki e Kaguya Otsutsuki:</strong> Exterior, Deva e Preta</p>
+                    <div class="divider my-1"></div>
+                    <p class="text-xs text-base-content/70 italic">* Despertados e o restante dos Rinnegans devem presenciar outros usuários dos caminhos em luta rank e mandar print para seu regional para usar.</p>
+                </div>
+            </div>
+            <!-- fim conteúdo -->
+
+        </div>
+    </main>
+
+    <footer class="footer footer-center p-6 bg-base-300 text-base-content/60 text-xs border-t border-base-200">
+        <div>
+            <p>© Naruto RPG STAR — Caminhos do Rinnegan</p>
+        </div>
+    </footer>
+
+    <script>
+        function copiarLoja() {
+            const container = document.querySelector('.space-y-4');
+            const children = Array.from(container.children);
+            
+            let resultado = [];
+            let jutsuAtual = [];
+            
+            for (let el of children) {
+                if (el.tagName === 'HR') {
+                    if (jutsuAtual.length > 0) {
+                        resultado.push(jutsuAtual.join('\n'));
+                        jutsuAtual = [];
+                    }
+                    continue;
+                }
+                
+                if (el.tagName === 'P') {
+                    const texto = el.textContent.trim();
+                    if (
+                        texto.startsWith('||') || 
+                        /^preço:/i.test(texto) || 
+                        /^valor:/i.test(texto)
+                    ) {
+                        continue;
+                    }
+                    if (texto) {
+                        jutsuAtual.push(texto);
+                    }
+                }
+            }
+            
+            if (jutsuAtual.length > 0) {
+                resultado.push(jutsuAtual.join('\n'));
+            }
+            
+            const textoFinal = resultado.join('\n\n');
+            const btn = document.getElementById('btn-copiar-loja');
+            if (!textoFinal.trim()) return;
+            const textoOriginal = btn.innerHTML;
+            
+            const aposCopiar = () => {
+                btn.innerHTML = '✓ Copiado!';
+                btn.classList.remove('bg-purple-600', 'hover:bg-purple-500');
+                btn.classList.add('bg-emerald-600', 'hover:bg-emerald-500');
+                setTimeout(() => {
+                    btn.innerHTML = textoOriginal;
+                    btn.classList.remove('bg-emerald-600', 'hover:bg-emerald-500');
+                    btn.classList.add('bg-purple-600', 'hover:bg-purple-500');
+                }, 2000);
+            };
+
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(textoFinal).then(aposCopiar).catch(() => {
+                    fallbackCopiar(textoFinal);
+                    aposCopiar();
+                });
+            } else {
+                fallbackCopiar(textoFinal);
+                aposCopiar();
+            }
+        }
+
+        function fallbackCopiar(texto) {
+            const textarea = document.createElement('textarea');
+            textarea.value = texto;
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+        }
+    </script>
+</body>
+</html>
+
