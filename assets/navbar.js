@@ -159,6 +159,7 @@
                                         <ul class="p-2 rounded-lg mt-1">
                                             <li><a href="pages/sistemas/sistema_cientifico.html">Manual & Regras</a></li>
                                             <li><a href="pages/sistemas/ferramentas_ninja.html">Ferramentas Ninja</a></li>
+                                            <li><a href="pages/sistemas/implantes_bionicos.html">Implantes Biônicos</a></li>
                                         </ul>
                                     </details>
                                 </li>
@@ -339,6 +340,7 @@
                                     <ul class="p-2 rounded-lg mt-1">
                                         <li><a href="pages/sistemas/sistema_cientifico.html">Manual & Regras</a></li>
                                         <li><a href="pages/sistemas/ferramentas_ninja.html">Ferramentas Ninja</a></li>
+                                        <li><a href="pages/sistemas/implantes_bionicos.html">Implantes Biônicos</a></li>
                                     </ul>
                                 </details>
                             </li>
