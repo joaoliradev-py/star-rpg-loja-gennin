@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script>
+        const isGH = window.location.hostname.includes('github.io');
+        document.write(`<base href="${isGH ? '/star-rpg-loja-gennin/' : '/'}">`);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guilda - Naruto RPG STAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <!-- NavBar -->
+    <script src="assets/navbar.js"></script>
+
+    <main class="p-4 md:p-8 bg-[url(assets/images/ichiraku_lamen.webp)] bg-cover bg-no-repeat bg-fixed min-h-screen bg-center pt-20">
+        <div class="bg-base-100 rounded-xl p-8 mt-10 max-w-3xl mx-auto shadow-lg text-base-content/90">
+            <h1 class="text-3xl font-black text-center mb-2 uppercase tracking-tighter">GUILDA</h1>
+            <p class="text-center font-mono opacity-60 mb-6">```Quartel General Shinobi```</p>
+
+            <div class="space-y-4 text-center py-2">
+                <p class="text-base-content/80 text-base md:text-lg">
+                    Ao redor dos caminhos do RPG existem códigos espalhados nas descrições dos grupos. Já viu algum? Sabia que tais códigos são missões que você, caro jogador, pode realizar para reivindicar recompensas?
+                </p>
+            </div>
+
+            <!-- Formulário de Busca por Código -->
+            <div class="mt-8 flex flex-col items-center gap-3">
+                <div class="w-full max-w-sm">
+                    <label for="missionCode" class="block text-sm font-semibold text-gray-700 mb-1 text-center">
+                        Informe o código da missão:
+                    </label>
+                    <input 
+                        type="text" 
+                        id="missionCode" 
+                        placeholder="Ex: STAR000" 
+                        class="input input-bordered w-full text-center uppercase tracking-widest font-mono font-bold text-lg focus:input-warning"
+                        autocomplete="off"
+                    />
+                </div>
+                <button id="btnBuscar" class="btn btn-warning w-full max-w-sm font-bold text-base shadow-md gap-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
+                    Acessar Missão
+                </button>
+                <p id="msgErro" class="text-error text-sm font-semibold hidden mt-1"></p>
+            </div>
+
+            <!-- Aba/Card da Missão Encontrada (Estilo Pergaminho Ninja Afiado) -->
+            <div id="missionContainer" class="hidden mt-8 transition-all duration-300">
+                <div class="my-6 text-center opacity-40">✄╌╌╌╌╌╌╌╌╌╌╌╌╌╌</div>
+
+                <div class="border-2 border-amber-900/40 bg-[#fffdf7] rounded-none p-6 md:p-8 relative shadow-xl">
+                    <!-- Topo do Contrato -->
+                    <div class="flex flex-wrap items-center justify-between gap-3 mb-4 border-b-2 border-amber-900/20 pb-3">
+                        <div class="flex items-center gap-2">
+                            <!-- Badge de Rank com cantos afiados estilo carimbo oficial -->
+                            <span id="missionRank" class="rounded-none border-2 px-3 py-1 text-xs md:text-sm font-black tracking-widest font-mono uppercase shadow-sm"></span>
+                            <span id="missionBadgeCode" class="font-mono text-xs font-bold px-2.5 py-1 bg-stone-200 text-stone-800 rounded-none border border-stone-400"></span>
+                        </div>
+                        <button id="btnFecharMissao" class="btn btn-ghost btn-sm btn-square rounded-none text-stone-500 hover:bg-stone-200" title="Fechar">✕</button>
+                    </div>
+
+                    <!-- Nome e Tipo da Missão -->
+                    <h2 id="missionNome" class="text-2xl md:text-3xl font-black text-gray-900 mb-1 tracking-tight font-serif"></h2>
+                    <p class="text-xs md:text-sm font-mono font-bold text-amber-800 mb-4">
+                        Tipo: <span id="missionTipo" class="font-normal text-stone-700"></span>
+                    </p>
+
+                    <!-- Detalhes da Missão -->
+                    <div class="space-y-4 text-sm md:text-base text-gray-800 text-left">
+                        <div class="bg-amber-50/70 p-4 border-l-4 border-amber-700 rounded-none shadow-inner">
+                            <p id="missionDesc" class="text-gray-800 italic leading-relaxed"></p>
+                        </div>
+
+                        <div class="bg-stone-50 p-3 border border-stone-300 rounded-none">
+                            <span class="font-bold text-stone-800 text-xs uppercase tracking-wider block mb-1">📍 Orientações:</span>
+                            <p id="missionOrientacoes" class="text-stone-700 font-medium"></p>
+                        </div>
+
+                        <div class="bg-amber-100/90 p-4 border-2 border-amber-400 rounded-none shadow-sm">
+                            <span class="font-bold text-amber-950 uppercase text-xs tracking-wider block mb-1">🎁 Prêmios:</span>
+                            <p id="missionPremios" class="text-amber-950 font-black text-base md:text-lg"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // Banco de Missões com a anatomia oficial
+        const missoes = {
+            "STAR017": {
+                codigo: "STAR017",
+                nome: "Urso à Espreita",
+                rank: "Rank D",
+                rankClass: "bg-stone-800 text-white border-stone-950",
+                tipo: "Combate",
+                descricao: "Um urso espreita Konohagakure e ameaça a vida de cidadãos locais. Seria você forte o bastante para enfrentá-lo sozinho? Ou líder o bastante para coordenar sua equipe? Descubra caindo de cabeça nessa aventura.",
+                orientacoes: "Vá até a floresta próxima de Konohagakure e derrote o grande urso pardo.",
+                premios: "200kk de ryos"
+            },
+            "STAR043": {
+                codigo: "STAR043",
+                nome: "Uma Missão Perigosa, uma aventura no País das ondas",
+                rank: "Rank D",
+                rankClass: "bg-stone-800 text-white border-stone-950",
+                tipo: "Combate",
+                descricao: "Um velho construtor precisa de uma equipe de gennins dispostos à guia-lo em segurança até o país das ondas, onde ele irá construir uma ponte. No entanto... a missão se complica quando sua equipe é encurralada por Zabuza Momochi, o demônio da Névoa Oculta. Seriam vocês capazes de vencê-lo e levar o senhor até o local da construção da ponte?",
+                orientacoes: "Saia de Konohagakure e mergulhe nos caminhos. Se dirija até X caminho, próximo de Kirigakure. Lá, derrote Zabuza Momochi e siga para a ponte Naruto.",
+                premios: "300kk de ryos. 5 metais, 5 cobres."
+            },
+            "STAR001": {
+                codigo: "STAR001",
+                nome: "Resgate de Gato Perdido",
+                rank: "Rank D",
+                rankClass: "bg-stone-800 text-white border-stone-950",
+                tipo: "Sequência de Velocidade",
+                descricao: "Madame Shijimi novamente perdeu seu gato na vasta cidade de Konohagakure. Ela precisa que algum gennin corajoso a ajude a encontrar seu animal de estimação perdido... seria você este Gennin?",
+                orientacoes: "Deve ser realizado no grupo de cenas de Konohagakure",
+                premios: "200kk de ryos"
+            }
+        };
+
+        const inputCode = document.getElementById('missionCode');
+        const btnBuscar = document.getElementById('btnBuscar');
+        const msgErro = document.getElementById('msgErro');
+        const missionContainer = document.getElementById('missionContainer');
+        const btnFechar = document.getElementById('btnFecharMissao');
+
+        function buscarMissao() {
+            const raw = inputCode.value.trim().toUpperCase();
+            msgErro.classList.add('hidden');
+            msgErro.textContent = '';
+
+            if (!raw) {
+                msgErro.textContent = 'Por favor, digite um código de missão válido.';
+                msgErro.classList.remove('hidden');
+                missionContainer.classList.add('hidden');
+                return;
+            }
+
+            const missao = missoes[raw];
+
+            if (missao) {
+                document.getElementById('missionRank').textContent = missao.rank;
+                document.getElementById('missionRank').className = `rounded-none border-2 px-3 py-1 text-xs md:text-sm font-black tracking-widest font-mono uppercase shadow-sm ${missao.rankClass}`;
+                document.getElementById('missionBadgeCode').textContent = missao.codigo;
+                document.getElementById('missionNome').textContent = missao.nome;
+                document.getElementById('missionTipo').textContent = missao.tipo;
+                document.getElementById('missionDesc').textContent = `|| ${missao.descricao} ||`;
+                document.getElementById('missionOrientacoes').textContent = missao.orientacoes;
+                document.getElementById('missionPremios').textContent = missao.premios;
+
+                missionContainer.classList.remove('hidden');
+                missionContainer.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            } else {
+                missionContainer.classList.add('hidden');
+                msgErro.textContent = `Nenhum contrato encontrado para o código "${raw}". Verifique o código e tente novamente!`;
+                msgErro.classList.remove('hidden');
+            }
+        }
+
+        btnBuscar.addEventListener('click', buscarMissao);
+
+        inputCode.addEventListener('keyup', function(e) {
+            if (e.key === 'Enter') {
+                buscarMissao();
+            }
+        });
+
+        btnFechar.addEventListener('click', function() {
+            missionContainer.classList.add('hidden');
+        });
+    </script>
+</body>
+</html>

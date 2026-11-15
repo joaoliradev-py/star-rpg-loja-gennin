@@ -141,6 +141,7 @@
                                 <li><a href="pages/sistemas/jornal_shinobi.html">Jornal Shinobi Global</a></li>
                                 <li><a href="pages/sistemas/karma.html">Karma</a></li>
                                 <li><a href="pages/sistemas/locomocao_caminhos.html">Locomoção & Caminhos</a></li>
+                                <li><a href="pages/sistemas/missoes.html">Missões</a></li>
                                 <li><a href="pages/sistemas/on_off.html">On/Off</a></li>
                                 <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>
                                 <li><a href="pages/sistemas/roubo_sangue.html">Roubo de Sangue</a></li>
@@ -224,6 +225,7 @@
                         </details>
                     </li>
                     <li><a href="pages/lista_personagens.html">Personagens</a></li>
+                    <li><a href="pages/sistemas/guilda.html" class="font-bold text-amber-500 hover:text-amber-400">Guilda</a></li>
                 </ul>
             </div>
 
@@ -322,6 +324,7 @@
                             <li><a href="pages/sistemas/jornal_shinobi.html">Jornal Shinobi Global</a></li>
                             <li><a href="pages/sistemas/karma.html">Karma</a></li>
                             <li><a href="pages/sistemas/locomocao_caminhos.html">Locomoção & Caminhos</a></li>
+                            <li><a href="pages/sistemas/missoes.html">Missões</a></li>
                             <li><a href="pages/sistemas/on_off.html">On/Off</a></li>
                             <li><a href="pages/sistemas/roubo_dojutsu.html">Roubo de Dojutsu</a></li>
                             <li><a href="pages/sistemas/roubo_sangue.html">Roubo de Sangue</a></li>
@@ -405,6 +408,7 @@
                     </details>
                 </li>
                 <li><a href="pages/lista_personagens.html">Personagens</a></li>
+                <li><a href="pages/sistemas/guilda.html" class="font-bold text-amber-500 hover:text-amber-400">Guilda</a></li>
             </ul>
         </div>
         <div id="mobile-overlay"></div>
