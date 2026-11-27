@@ -1,220 +1,174 @@
-Sasori (サソリ, Sasori), também conhecido como Sasori da Areia Vermelha (赤砂のサソリ, Akasuna no Sasori) era um shinobi de Sunagakure e que se juntou a Akatsuki, onde foi parceiro de Orochimaru e Deidara, respectivamente.
+Chakra Yin
 
-Loja Chunnin
+Rank: SSS+
 
-Técnica de Marionetes: Lâmina Pesada do Armazém
-Rank: SS
-Atk: Semi-Global/Ilimitado
-Ck p/Uso: 500.000
-[Requer "Marionete Humana: Hiruko" em campo]
-|| Enquanto dentro de seu boneco Hiruko, Sasori invoca dois grandes recipientes em forma de torpedo. Quando aberto, os dois recipientes liberam milhares de kunai que perfuram o corpo do alvo. Em seguida, um outro conjunto de kunai são disparados. E novamente abre-se, lançando uma carga completa de kunai com vários papéis explosivos juntos em todo chão perto do oponente. A carga então detona-se, causando uma grande explosão e matando por fim seu oponente. (Teletransporte ou estar voando antes do ataque escapam).||3x
-Preço: 30.000.000
+Passiva
 
-Marionete Humana: Terceiro Kazekage
-Rank: SSS
-Atk: 3xLetal
-Def: Ilimitada
-|| O Terceiro Kazekage é a marionete criada por Sasori do corpo do 3° Kazekage de Sunagakure. Os esforços que Sasori teve que passar para adquirir a marionete fez dela a sua favorita. Depois de ser convertido em uma marionete humana, Sasori instalou várias armas em seu corpo, as quais foram embebidas de veneno mortal, a marca de Sasori. {Quando ataca não pode, kawarimi, assimilação, absorção ou trocas} 🦂 {A marionete possui uma série de lâminas que torna seus ataques físicos perfurantes; Inimigos acertados por quaisquer ataques realizados pela marionete sofrerão paralisia e morrerão após 3 turnos, por conta do veneno presente nela} 🦂 {Tem seus movimentos = rank 3}.||1x
-Preço: 70.000.000
+Atk: +5.000.000
+Def: +7.500.000
+Hp: +5.000.000
+Ag: +5.000.000
+Ck: +7.500.000
 
-Assalto da Areia de Ferro
+[ Necessário para ativar "Rinnegan" e usar derivados. ]
+
+|| O Poder Yin dos Seis Caminhos é um poder utilizado por Hamura e Hagoromo Ōtsutsuki, posteriormente concedido a Sasuke Uchiha. É representado por um selo escuro em forma de lua crescente (掌の印, Shō no In) presente na palma da mão esquerda de Sasuke. 🌙 { Enquanto ativo, jutsus usados em contato com a mão marcada adquirem Senjutsu dos Seis Caminhos, tendo seu dano de atk aumentado em 1.5x.}|| 1x
+
+Rinnegan Supremo {Sasuke Uchiha}
+
 Rank: S
+
 Suplementar
-Ck p/Ativar: 200.000
-[Requer "Marionete Humana: Terceiro Kazekage" em campo]
-|| Ao ser oferecido com areia de ferro, o usuário pode molda-lo à vontade e alterar seu formato durante a luta de acordo com as necessidades conferidas pelo terreno da batalha, principalmente tendo em mente as habilidades do adversário. Dessa forma, o usuário escolhe a forma de ataque mais adequada para cada situação. {Ao ativar pode-se fazer uso de todas as técnicas dependentes da areia de ferro; +25k de ck pode criar objetos, animais e afins feitos de areia de ferro que causam dano letal; +50k de ck pode aumentar o tamanho de seus construtos (a cada vez aumenta em 1 "nível" sendo Multi-Direcional, Semi-Global e Global); Pode-se também, ao custo de 75k de ck, aumentar a resistência da areia de ferro para que ela cause ou defenda danos até ilimitado; +30k de ck p/turno é possível levitar um construto de areia de ferro} 🦂 {Formação dos construtos = rank 3}.||1x
-Preço: 100.000.000
 
-Areia de Ferro: Asas de Ferro Negro
+Ck p/Turno: 70.000
+
+[ Necessário "Rinnegan" ativo.]
+
+|| Sasuke é capaz de mesclar os poderes oculares do Mangekyō Sharingan em seu Rinnegan, fazendo com que ele adquira seis tomoes, que são distribuídos entre suas duas primeiras ondulações. ♠️ {Dessa forma, ele é capaz de utilizar todos os poderes de seu Mangekyō Sharingan em conjunto com o Rinnegan, podendo criar chamas negras, aplicar genjutsus e utilizar seu Susano'o.}.|| 1x
+
+
+Ninjutsu Espaço - Tempo
+
+Rank: SSS
+
+Atk/Def: Suplementar 
+
+Ck p/Uso: 240.000
+
+|| Ao focar sua visão, Sasuke era capaz de abrir uma fenda dimensional na forma de um portal que podia ser adentrado para viajar para diferentes locais do espaço-tempo. Com isso, ele pôde vasculhar espaços desconhecidos em busca dos mundos de Kaguya, além de acessar mundos específicos ao adquirir suas respectivas coordenadas ou através da ressonância de seu portal com o de terceiros. ♠️ { Abertura do portal é considerada Rank 2; Só pode ser sentida através de sensoriamento negativo; Concede acesso as dimensões do amenominaka, além de conectar seu portal com outros tipos, permitido acessar dimensões desconhecidas, como o Kamui.} ♠️{ Permite aumentar o tamanho do portal, elevando 30k de Ck por 1m — Limita-se a 20m, iniciando em 2m; Em caso de desejo, permite deixar o portal totalmente visível a quem o visualiza (Como quando entra na Dimensão Desértica), ou deixar totalmente embaçada, com traços negros saindo da mesma — Apenas especificar a forma de uso, sem gasto.}.|| 7x
+
+
+Genjutsu: Rinnegan 
+
 Rank: S
+
+Atk: Genjutsu 
+
+Ck p/Uso: 80.000
+
+[ Requer "Rinnegan Supremo" em exito.]
+
+|| Usando seu Rinnegan, Sasuke foi capaz de lançar um poderoso genjutsu capaz de paralisar os movimentos das nove Bijuu simultaneamente, embora não tenha subjugado suas mentes. De acordo com Hagoromo Ootsutsuki, Sasuke pôde fazer isso com um simples olhar de relance. Do mesmo modo, ele também pôde lançar uma ilusão em que um espectro com sua aparência apunhalava a vítima no peito, resultando no seu colapso e perda de consciência. ♠️ { Por +250k de Ck, pode colocar 9 alvos de uma vez sobre o Genjutsu; Causa inconsciência instantaneamente sobre os alvos; Permite manipular temporariamente a mente do adversário, simulando a forma que causa a inconsciência. ( Como o uso contra Sakura.)}.|| 10x
+
+Espada Kusanagi 
+
+Rank: B
+
+Atk: Ilimitado 
+
+Ag p/Empunhar: 80.000
+
+|| Mais tarde, Sasuke passou a utilizar uma nova variante da Espada de Kusanagi, que ele transporta em uma bainha pendurada em suas costas. Trata-se de uma espada ninja (忍者刀, ninjatō) que foi forjada tendo seu Chidori como objetivo e, mesmo com uma única mão, sua destreza com ela não deteriorou. Essa variante possui uma longa lâmina reta de gume único com uma tsuba arredondada. ♠️ { Jutsus baseados no Chidori utilizados através da Kusanagi tem seu dano e alcance ampliados em 2x; Depende da criatividade do usuário; Resiste a 2xIlimitados e bloqueia atks de armas brancas ignorando a resistência.}.|| 1x
+
+
+Preço: 75.000.000
+
+As Nove bijūs
+
+Rank: SSS+
+
 Suplementar
-Ck p/Ativar: 100.000
-|| Esta técnica permite ao usuário a habilidade de voar, usando asas criadas a partir de Areia de Ferro. {Quando ativo, o usuário pode voar a Rank 2; ao custo de 40k ck pode disparar “penas” de aço para atacar o inimigo, causando Dano Letal por até 3x} 🦂 (Teleportes e teletransportes rank 2 escapam).||1x
-Preço: 14.000.000
 
-Assalto da Areia de Ferro: Pregos Longos
+Ck P/Uso: 5.000.000
+
+|| Ao utilizar esta "técnica", as 9 bijuus surgirão em campo de batalha para o usuário dar continuidade à suas ativações, seja para transformá-las na jūbi ou selar as mesmas em Chibaku Tensei's.||1x
+
+Preço: 50.000.000
+
+Usuários: Uchiha Madara e Uchiha Sasuke
+
+> Sasuke sela as bijus nos Chibaku tensei pra absorver o Chakra com caminho preta e ativar seu Susano'o de indra
+
+Genjutsu: Sharingan
+
 Rank: A
-Atk: ilimitado/Multi-Direcional
-Ck p/uso: 70.000
-|| Sasori manipula a marionete humana do Terceiro Kazekage para liberar areia de ferro e formá-la em múltiplas lanças longas para cercar e atacar o oponente, tornando a chance de escapar difícil. (Teleportes e teletransportes rank 3 escapam).||5x
-Preço: 12.000.000
 
-Assalto da Aglomeração de Areia de Ferro: Martelo
-Rank: A
-Atk: Ilimitado
-Ck p/uso: 50.000
-|| Sasori usa sua marionete humana do Terceiro Kazekage para manipular uma grande quantidade de areia de ferro em um grande bloco, o qual ele pode usar para esmagar seu oponente. (Teleportes e teletransportes rank 3 escapam).||7x
-Preço: 15.000.000
+Atk: Genjutsu
 
-Assalto da Aglomeração de Areia de Ferro: Martelo Gigante
-Rank: S
-Atk: ilimitado/Multi-Direcional
-Ck p/uso: 170.000
-|| Através da Marionete: Terceiro Kazekage, Sasori pode executar uma versão maior da técnica “Assalto da Areia de Ferro: Martelo” atirando dois blocos simultaneamente para formar um único bloco gigante que cai sobre o oponente. (Teleportes e teletransportes rank 3 escapam).||3x
-Preço: 8.000.000
+Ck p/Uso: 40.000
 
-Assalto da Aglomeração de Areia de Ferro: Queda
-Rank: S
-Atk: Ilimitado/Multi-Direcional
-Ck p/uso: 80.000
-|| Depois de formar a areia de ferro em um bloco gigante, o usuário eleva-o acima do oponente e deixa-o cair sobre ele. Devido a ser um objeto pesado, a gravidade propicia um puxão mais forte nele, fazendo com que o tempo que isso leva para chegar ao chão seja muito rápido e com uma grande força por trás dele, tornando-se difícil escapar. (Teleportes e teletransportes rank 2, com sensorial ativo antes, escapam).||3x
-Preço: 14.000.000
+|| Embora não seja uma técnica tão poderosa quanto o Tsukuyomi, é uma técnica bem versátil. Ao estabelecer contato visual com um alvo, o usuário do Sharingan prende-o dentro de um genjutsu para uma de várias finalidades. { Pode causar: Inconsciência instantânea, com duração de 2 turnos; Paralisia instantânea; Extração forçada de qualquer informação que o alvo possua; Transmitir memórias para o alvo; Remover genjutsu colocado no alvo por outros; Criar imagens intangíveis para ilustrar um acontecimento; Criar ilusão de falsas lutas; Torturar causando dano 2xLetal; Criar pequenas ilusões para transmitir estratégias de combate; Controlar as ações do alvo.}.|| 5x
 
-Lança de Areia de Ferro
-Rank: A
-Atk: Ilimitado
-Ck p/uso: 50.000
-|| O usuário usa sua areia de ferro para formar uma grande e longa lança para perfurar o inimigo. Seu poder é tão grande que poderia facilmente perfurar o solo e destruir uma área significativa da área também. (Teleportes e teletransportes rank 3 escapam).||5x
-Preço: 10.000.000
-
-Escudo de Areia de Ferro
-Rank: SS
-Def: Ilimitada
-Ck p/uso: 170.000
-|| Usando a Areia de Ferro, o usuário cria uma barricada espessa à sua frente, a fim de bloquear ataques frontais. Esta capacidade é forte o suficiente para proteger até mesmo contra um forte ataque do Terceiro Kazekage reanimado pelo Edo Tensei. A técnica também se mostrou forte o suficiente para suportar uma enorme explosão desencadeada por múltiplos explosivos simultâneos de Deidara.{+50k de ck é possível ampliar a areia de ferro do escudo, podendo tornar uma defesa 360°} 🦂 (Se for 360° apenas ataques globais ou superiores rompem).||5x
-Preço: 16.000.000
-
-Chuva de Areia de Ferro
-Rank: A
-Atk: 4xLetal/Multi-Direcional
-Ck p/uso: 200.000
-|| É um ataque de projétil que usa a areia de ferro endurecida em grãos minúsculos para atacar em toda uma vasta gama, Usando a força repelente de magnetismo, a velocidade das balas aumenta rapidamente após os disparos. Além disso, o usuário também pode usar um padrão de ataque, onde as balas de areia de ferro são moldadas em agulhas afiadas, aumentando sua capacidade de ferir ou matar o adversário. (Teleportes e teletransportes rank 3 escapam).||2x
-Preço: 15.000.000
-
-Método do Mundo de Areia de Ferro
-Rank: S
-Atk: 6xletal/Semi-Global
-Ck p/uso: 160.000
-|| Esta técnica utiliza areia de ferro para criar uma esfera gigantesca que ramifica nos pontos. Primeiro o usuário cria duas massas de areia de ferro de campos magnéticos opostos e mescla-os. Isto faz com que as forças magnéticas. A areia de ferro se espalha em picos que se ramificam de forma irregular, tornando quase impossível obter uma visão clara do que está acontecendo. Mesmo que o adversário consiga evitar de ser atingido, os picos da areia terão preenchido o ambiente inteiro, cortando as rotas de fuga. Os espinhos permanecem espalhados pela arena, assim obstruindo a visão do adversário sobre o usuário. (Teleportes e teletransportes rank 2 escapam).||3x
-Preço: 9.000.000
-
-Cordilheira da Areia de Ferro
-Rank: A
-Atk: Ilimitado/Multi-Direcional
-Ck p/uso: 170.000
-|| Sasori usa sua marionete humana Terceiro Kazekage para criar uma parede de Areia de Ferro em sua frente, e em seguida, faz com que vários picos de tamanho variáveis se projetem e atinjam seu oponente. (Teleportes e teletransportes rank 2 escapam).||3x
-Preço: 6.000.000
-
-Funeral de Areia de Ferro
-Rank: A
-Atk: Ilimitado
-Ck p/uso: 100.000
-|| O usuário envia sua Areia de Ferro até o inimigo para envolvê-lo e esmagá-lo em seguida, para sela-lo em Meio a areia de ferro e em seguida o esmagar, algo muito difícil de escapar. Como o as outras técnicas com Areia de Ferro utilizadas por Sasori, ele necessita utilizar a marionete criada a partir do Terceiro Kazekage. (Teletransportes com sensorial ativo antes escapa).||3x
-Preço: 6.000.000
-
-Corrente Mundial da Areia de Ferro
-Rank: A
-Atk: 6xLetal/Multi-Direcional
-Ck p/Uso: 70.000
-|| Sasori usa a marionete Terceiro Kazekage para liberar uma série de longos picos de areia de ferro em torno dele para apunhalar o oponente. (Teleportes e teletransportes rank 3 escapam).||4x
-Preço: 17.000.000
-
-Honra Militar das Mil Mãos
-Rank: SSS
-Atk/Def: Ilimitado
-Ck p/Ativar: 120.000
-[Requer "Marionete Humana: Terceiro Kazekage" em campo]
-|| A partir do braço esquerdo da marionete, abre-se um compartimento que libera outros por meio de um amuleto. Estes compartimentos são incorporados com inúmeros selos de invocação, suscitando um grande número de braços de marionetes longos que pode dobrar e acompanhar o adversário, em seguida, para esmaga-lo com sua força devastadora. Os braços são modificados com lanças. {Também pode ser usado para imobilizar vários inimigos de uma só vez ou prender um único inimigo no emaranhado de braços e cordas; Os braços podem ser usados para bloquear ataques Multi-Direcional e inferiores} 🦂 (Considerado rank 2).||1x
-Preço: 25.000.000
-
-Ataque da Super Arma
-Rank: SSS
-Atk: Venenoso/Multi-Direcional
-Ck p/uso: 200.000
-[Requer "Honra Militar das Mil Mãos" ativa]
-|| O usuário manipula sua marionete para liberar uma bomba com uma grande quantidade de seu Veneno Mortal. O veneno é poderoso o suficiente para matar um ser humano comum, e paralisa aqueles que sobrevivem. {+70k torna a técnica semi-global; O veneno permanece na arena por 2 turnos} 🦂 (Teleportes e teletransportes rank 2 escapam; Caso semi-global, apenas teletransportes escapam).||3x
 Preço: 20.000.000
 
-Loja Jounnin
+Susano'o: Ativação Progressiva 
 
-Marionete Humana: Sasori
 Rank: SSS
-Passiva
-Atk: +15.000.000
-Def: Ilimitada
-Hp: +15.000.000
-Ag: Ilimitado
-|| Essa é a Forma Final de Sasori. Sua cavidade do estômago continha um cabo grosso enrolado em torno de um pólio, como um fio de metal, permitindo ao marionetista usá-lo como um ferrão e retrai-lo se necessário. Com cinco lâminas grandes também embebidas com veneno que podiam girar como hélices, Ainda com a capacidade de controlar Livremente suas Marionetes. {Quanto ataca não pode kawarimi, evasão, absorção ou trocas} 🦂 {Quando atingido por ataques a marionete se desfaz, mas é reconstruída no próximo turno, assim Sasori só pode ser morto por ataques globais/ilimitados ou golpes perfurantes que atinjam diretamente seu núcleo; Nesta forma, os movimentos de Sasori serão no mínimo Rank 3} 🦂 {Ao custo de 40k de ck, Sasori dispara um jato de chamas de suas duas mãos, causando dano 4xLetal} 🦂 (Teleportes e teletransportes rank 3 escapam).||1x
-[Para Jounnins: Deve ser o primeiro card enviado por vcs no primeiro turno]
-Preço: 300.000.000
 
-Arremesso de Fio
-Rank: A
-Atk: 3xLetal/Imobilização
-Ag p/uso: 70.000
-[Requer "Marionete Humana: Sasori"]
-|| O usuário faz com que a marionete, com o cordão de ponta afiada instalado, desenrole ele de sua barriga para diversos fins. O cordão serve para perfurar o oponente causando dano, amarra-lo ou cortar fios de chakra. Também serve como condutor de eletricidade. {+30k ck é possível eletrocutar um alvo imobilizado, causando dano Ilimitado} 🦂 (Teleportes e teletransportes rank 3 escapam).||6x
-Preço: 50.000.000
+Suplementar 
 
-Asas Mecânicas
-Rank: A
-Suplementar
-Ck p/Ativar: 100.000
-Ck p/Turno: 30.000
-[Requer "Marionete Humana: Sasori"]
-|| Sasori utiliza os apêndices de sua forma em Marionete abrindo suas lâminas, que funcionam como um impulsionador de voo. Logo que está no ar, dilacerando tudo que encosta com suas lâminas. {Permite ao seu usuário voar a Rank 2; Alvos a curto alcance tomam dano Ilimitado por conta do giro das lâminas}.||1x
-Preço: 80.000.000
+Ck p/Uso: Variável 
 
-Técnica Vermelha Secreta: Mar de Chamas Exaladas
+|| O usuário ativa seu Susano'o passando por todas as formas progressivamente. {Deve pagar 50k de Chakra para cada forma que passar começando pelo Susano'o inicial} 🌙 {Considerado rank 1}.||1x
+
+Kenjutsu ao Estilo dos Uchiha
+
 Rank: SSS
-Atk: Fatal
-Ck p/uso: 100.000
-[Requer "Marionete Humana: Sasori"]
-|| Utilizando o Lança-Chamas presente na marionete Sasori, o usuário faz com que um fluxo de fogo seja lançado contra o oponente, podendo controlar sua intensidade. Esse fogo é quente o suficiente incinerar totalmente um corpo humano e uma kunai em questão de segundos, embora grandes pedaços maciços de pedras sofram apenas derretidos superficialmente. (Teleportes e teletransportes rank 2 escapam).||2x
-Preço: 100.000.000
 
-Hidro Bomba
-Rank: SS
-Atk: Ilimitado
-Ck p/Uso: 100.000
-[Requer "Marionete Humana: Sasori"]
-|| Sasori pode disparar fluxos pressurizados de água através dos canos em suas palmas, semelhante a um canhão de água, com alcance grande o bastante para ir até uma nuvem e parti-la. Torcendo os pulsos, como botões, Sasori pode condensar os fluxos em cortadores de jato de água que pode cortar através das rochas. Como munição, Sasori também leva quatro pergaminhos em suas costas. {Rompe barreiras até ilimitado; +100k de Ck p/turno é possível manter o fluxo de água por 2 turnos e guia-lo como uma lâmina} 🦂 (Teleportes e teletransportes rank 2 escapam).||4x
-Preço: 80.000.000
+Estilo de Esgrima
 
-Técnica Vermelha Secreta: Performance das Cem Marionetes
+Ag p/Assumir: 35.000
+
+|| O Kenjutsu ao Estilo dos Uchiha é um estilo de luta único com espadas que foi refinado por Sasuke, do clã Uchiha. Ele posteriormente o ensinou a seu discípulo, Boruto Uzumaki. Trata-se de um estilo de kenjutsu que emprega movimentos rápidos e precisos, similar à técnica da Decapitação de Iai, em que o espadachim desfere golpes mortais com o simples desembainhar de sua espada. O praticante é capaz de realizar cortes que podem cortar ao meio múltiplos alvos simultaneamente e executar golpes direcionados ao pescoço. Para garantir ainda mais agilidade ao golpe desferido, o usuário frequentemente recorre à Técnica do Deslocamento Instantâneo, surpreendendo seus alvos ao cortá-los antes que tenham qualquer chance de reação. { +100k de Ag: Desfere um golpe curto rápido capaz de cortar até 5 alvos ao meio; +120k de Ag: Desfere um único corte ao pescoço do alvo, finalizando-o; +150k de Ag: Se defende de quaisquer atks de armas brancas usando a arma atual e em seguida abre uma brecha p/ contra atk com dano dobrado, funciona desde que tenha reação p/ tal; Ao realizar qualquer movimento, pode combinar técnicas de movimentação fazendo com que o atk seja considerado surpresa e apenas rank igual evita.}🌙 ( Rank: 2; Dano equivalente a arma empunhada. ).|| 1x
+
+Preço: 60.000.000
+
+Kirin
+
 Rank: SSS
-Suplementar
-Ck p/Invocar: 2.000.000
-Ck p/Turno: 500.000
-[Requer "Marionete Humana: Sasori"]
-|| Inicialmente, Sasori remove um pergaminho de invocação de suas costas. Ele então abre seu compartimento no peito direito emitindo mais de uma centena de cordas chakra, que atingem o pergaminho Sasori alegou que ele havia derrubado um país inteiro com esta técnica. {Quando ataca, não pode kawarimi, evasão, assimilação ou trocas} 🦂 {Inimigos acertados por quaisquer ataques realizados por estas marionetes, serão paralisados e morrerão após 3 turnos; Enquanto ativo o usuário é completamente protegido sem receber quaisquer dano até todas as marionetes serem destruídas; Cada marionete causa dano letal; Globais/Ilimitados quebram todas as marionetes} 🦂 {As marionetes tem seus movimentos = rank 2}.||1x
-Preço: 300.000.000
 
-Arte da Matança Combinada
-Rank: SSS
-Atk: Semi-Global/Ilimitado
-Ck p/uso: 600.000
-[Requer dupla com "Deidara" e "Marionete Humana: Terceiro Kazekage" em campo]
-|| Usando sua argila, Deidara cria várias aranhas explosivas e as joga no ar, em seguida, Sasori usa sua marionete do Terceiro Kazekage para criar estilhaços de Areia de Ferro em forma de lâminas que transportam as aranhas até o oponente. O oponente é forçado contra o chão onde as aranhas detonam. A explosão é tão poderosa que Sasori usa sua marionete do Terceiro Kazekage para criar uma barreira de areia de ferro para defender-se. (Apenas outra dimensão escapa).||2x
-Preço: 80.000.000
+Atk: Semi-Global/Ilimitado 
 
-Chama Combinada
+Ck p/uso: 350.000
+
+|| Com o Kirin, o usuário cria um raio extremamente poderoso. Ele atrai um raio diretamente nas nuvens de trovão para complementar o poder de seu ataque e controla-lo com chakra. Devido a técnica utilizar relâmpago natural — como notado por Zetsu — atinge o solo em 1/1000th de um segundo, é uma das técnicas de relâmpago mais poderosas que existe. {Demora 1 turno para a preparação; Após ser preparado, Sasuke pode preservar o Kirin por mais 1 turno para aumentar sua potência, ao preservar o Kirin, quando pronto cai obrigatoriamente no outro turno; Alvos que sobreviverem, ficam paralisados por 2 turnos; Rompe barreiras; Necessário reação equivalente para escape}♠️(Considerado Rank 1; Caso preservado, apenas teletransportes e ativações rank 0 que não necessitem movimentos físicos para o uso escapam).|| 2x
+
+
+Preço: 500.000.000
+
+PT 2 - Sasuke
+
+
+Estilo Inferno: Kagutsuchi — Chama Voadora
+
 Rank: S
-Atk: Ilimitado/Multi-Direcional
-Ck p/uso: 70.000
-[Requer "Marionete Humana: Sasori"]
-|| O usuário dispara inúmeras bolas de fogo através de seu lança-chamas anexado nas mãos de sua marionete. {As chamas perseguem seu oponente até que o queime} 🦂 (Apenas teletransportes rank 3 escapam).||3x
-Preço: 80.000.000
 
-Colaboração: Arte Final
-Rank: SSS
-Atk: Global/Ilimitado
-Ck p/uso: 800.000
-[Requer dupla com "Deidara" e "Marionete Humana: Terceiro Kazekage" em campo]
-||Deidara começa criando aves de argila C1, que Sasori manipula com linhas de chakra para acertar o inimigo com maior precisão, depois Deidara cria seu dragão de argila de C2, que Sasori reveste em Areia de Ferro com a marionete do Terceiro Kazekage, também lhe desferindo um golpe com sua cauda espetada. O dragão ataca seu oponente, resultando em uma explosão com estilhaços de Areia de Ferro. (Apenas outra dimensão escapa).||2x
-Preço: 50.000.000
+Atk: Ilimitado
 
-Combinação de Arte
-Rank: SSS
-Atk: Multi-Direcional/Ilimitado
-Ck p/uso: 250.000
-[Requer dupla com "Deidara" e "Marionete: Terceiro Kazekage" em campo]
-|| Sasori, com a marionete do Terceiro Kazekage usa projéteis de areia de ferro enquanto Deidara acrescenta suas aranhas de argila nas agulhas que envenenam o oponente, e em seguida, explodindo-o. (Teleportes e teletransportes rank 2 escapam).||2x
-Preço: 50.000.000
+Ck p/Uso: 120.000
 
-Horror do “Amanhecer”
-Rank: SSS
-Atk: Global/Incalculável
-Ck p/uso: 900.000
-|| Todos os membros se reúnem e começam a correr em direção ao inimigo, desferindo poderosos golpes que se complementam contra o oponente. {Hidan desfere um corte usando sua Foice de Lâmina Tripla; Kakuzu então captura e ataca o inimigo contra o chão; Zetsu, em seguida, emerge do solo com uma mordida da sua planta e um ataque giratório; Deidara e Sasori logo preparam e combinam suas artes a fim de causar uma grande explosão; Orochimaru, então, acrescenta vento à explosão, formando um poderoso furacão; Itachi, em seguida, utiliza o Amaterasu para deixar o furacão ainda mais quente ao ponto de evaporar tudo; Kisame então logo surge com um corte da Samehada; Konan aproveita para desferir diversos ataques rápidos com várias lanças de papel; E, para finalizar, Nagato, através do Caminho Deva, utiliza um poderoso Shinra Tensei} 🦂 {Inimigos atingidos que não morrerem ficam paralisados por 2 turnos} 🦂 (Apenas outra dimensão rank 1 escapa).||1x
-Preço: 40.000.000
+|| Sasuke manipula suas chamas negras para criar uma espada que ele empunha em sua mão. Ao balançá-la, ele pode desencadear uma onda de espinhos que perfuram e incineram seu alvo. {Afeta todos na área, até médio alcance; Pode ser utilizado em seu Susano'o Perfeito, aumentando a escala para longo alcance e duplicando o dano}. ♠️ (Movimentos equivalentes ao usuário no momento do ataque).|| 3x
+
+
+Estilo Inferno: Kagutsuchi — Passo do Céu
+
+Rank: S
+
+Atk: Ilimitado
+
+Ck p/Uso: 80.000
+
+|| Sasuke ataca o oponente com uma espada infundida de chakra relâmpago, jogando-o para cima, e em seguida, Sasuke cria vários picos de Amaterasu que entram em erupção a partir do solo, atingindo-o no ar e queimando o oponente até a morte. {Caso esteja com Kusanagi empunhada: Aplica 1 turno de paralisia, caso sobreviva; Em caso de estar com Espada Kagutsuchi: Efeitos de Amaterasu são aplicados}. ♠️ (Teleportes e Teletransportes rank 2 escapam).|| 3x
+
+
+Raikiri { Sasuke Uchiha }
+
+Rank: A
+
+Atk: Variável
+
+Ck p/Uso: 100.000
+
+|| Uma vez que o Chidori é poderoso por si próprio, o Raikiri, sendo uma versão melhorada, requer uma concentração de chakra avançada, que é exemplificado em sua aparência. Também, o Raikiri têm uma cor mais intensa que do Chidori, provando a focalização elétrica. {Em caso de ataque em pontos vitais, causa dano fatal; Em outros locais, causa dano equivalente ao atributo "Atk" + Ilimitado}. ♠️ (Rank: Usuário — Em caso de uso em 2 turnos seguidos, seu corpo sente o desgaste completo: Reduz em 1 o movimento do usuário até o fim da luta).|| 2x
+
+
+Jutsu Sexy
+
+Rank: S
+
+Atk: Suplementar 
+
+Ck p/Uso: 20.000
+
+|| A Técnica Sexy é simplesmente uma Técnica de Transformação usada para transformar o usuário em uma mulher bonita, nua de uma forma muito sedutora com pose, com névoas de fumaça cobrindo suas partes íntimas, ou usando um traje de banho. {Paralisa por 2 turnos qualquer shinobi; Não afeta Ōtsutsuki's puros}. ♠️ (Considerado Rank 1).|| 3x
+
