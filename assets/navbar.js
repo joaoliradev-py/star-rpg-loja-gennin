@@ -208,7 +208,6 @@
                         <details>
                             <summary>Títulos</summary>
                             <ul class="bg-base-100 rounded-t-none p-2 w-64 shadow-lg">
-                                <li><a href="pages/titulo/sannin_lendario.html">Sannin Lendário</a></li>
                                 <li><a href="pages/titulo/escorpiao_vermelho.html">Escorpião Vermelho</a></li>
                                 <li><a href="pages/titulo/nukkennin.html">Nukkenin</a></li>
                                 <li><a href="pages/titulo/corpo_de_explosao.html">Corpo de Explosão</a></li>
@@ -218,6 +217,17 @@
                                         <ul class="p-2 rounded-lg mt-1">
                                             <li><a href="pages/titulo/espadachin_da_nevoa.html">Sistema Geral</a></li>
                                             <li><a href="pages/titulo/espadas_da_nevoa.html">Enciclopédia (Espadas)</a></li>
+                                        </ul>
+                                    </details>
+                                </li>
+                                <li class="border-t border-base-content/10 mt-2 pt-2">
+                                    <details>
+                                        <summary class="font-bold text-teal-600">Sannins Lendários</summary>
+                                        <ul class="p-2 rounded-lg mt-1">
+                                            <li><a href="pages/titulo/sannin_lendario.html">Sistema Geral</a></li>
+                                            <li><a href="pages/titulo/sannin_lendario/sannin_das_lesmas.html">Sannin das Lesmas</a></li>
+                                            <li><a href="pages/titulo/sannin_lendario/sannin_dos_sapos.html">Sannin dos Sapos</a></li>
+                                            <li><a href="pages/titulo/sannin_lendario/sannins_das_cobras.html">Sannin das Cobras</a></li>
                                         </ul>
                                     </details>
                                 </li>
@@ -391,7 +401,6 @@
                     <details>
                         <summary>Títulos</summary>
                         <ul>
-                            <li><a href="pages/titulo/sannin_lendario.html">Sannin Lendário</a></li>
                             <li><a href="pages/titulo/escorpiao_vermelho.html">Escorpião Vermelho</a></li>
                             <li><a href="pages/titulo/nukkennin.html">Nukkenin</a></li>
                             <li><a href="pages/titulo/corpo_de_explosao.html">Corpo de Explosão</a></li>
@@ -401,6 +410,17 @@
                                     <ul>
                                         <li><a href="pages/titulo/espadachin_da_nevoa.html">Sistema Geral</a></li>
                                         <li><a href="pages/titulo/espadas_da_nevoa.html">Enciclopédia (Espadas)</a></li>
+                                    </ul>
+                                </details>
+                            </li>
+                            <li>
+                                <details>
+                                    <summary class="font-bold text-teal-600">Sannins Lendários</summary>
+                                    <ul>
+                                        <li><a href="pages/titulo/sannin_lendario.html">Sistema Geral</a></li>
+                                        <li><a href="pages/titulo/sannin_lendario/sannin_das_lesmas.html">Sannin das Lesmas</a></li>
+                                        <li><a href="pages/titulo/sannin_lendario/sannin_dos_sapos.html">Sannin dos Sapos</a></li>
+                                        <li><a href="pages/titulo/sannin_lendario/sannins_das_cobras.html">Sannin das Cobras</a></li>
                                     </ul>
                                 </details>
                             </li>
